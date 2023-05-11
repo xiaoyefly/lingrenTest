@@ -1,0 +1,4 @@
+﻿道具ID	目标类型	行为类型	道具使用距离（米）	距离错误提示	没有目标错误提示	目标类型不对提示
+string	int	int	float	string	string	string
+Id	TargetType	BehaviorType	UseDistance	DistanceError	NotTargetError	TargetTypeError
+item100420000001	1	2	3.000000	Msg_MarriageItemDistanceError	Msg_MarriageItemNotTargetError	Msg_MarriageItemTargetTpyeError

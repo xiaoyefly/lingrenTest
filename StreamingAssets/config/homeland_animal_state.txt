@@ -1,0 +1,48 @@
+﻿流水	动物id	状态	动作集	点击以后显示的名字	点击以后显示的提示
+int	int	int	int	string	string
+Id	AnimalId	AnimalType	ActionSet	ClickName	ClickNotice
+1	3001	1	20	ClickName3001_1	ClickNotice3001_1
+2	3001	2	20	ClickName3001_2	
+3	3001	3	20	ClickName3001_3	ClickNotice3001_3
+4	3002	1	20	ClickName3001_1	ClickNotice3001_1
+5	3002	2	20	ClickName3001_2	
+6	3002	3	20	ClickName3001_3	ClickNotice3001_3
+7	3003	1	20	ClickName3001_1	ClickNotice3001_1
+8	3003	2	20	ClickName3001_2	
+9	3003	3	20	ClickName3001_3	ClickNotice3001_3
+10	3004	1	20	ClickName3001_1	ClickNotice3001_1
+11	3004	2	20	ClickName3001_2	
+12	3004	3	20	ClickName3001_3	ClickNotice3001_3
+13	3005	1	20	ClickName3001_1	ClickNotice3001_1
+14	3005	2	20	ClickName3001_2	
+15	3005	3	20	ClickName3001_3	ClickNotice3001_3
+16	3011	1	20	ClickName3011_1	ClickNotice3011_1
+17	3011	2	20	ClickName3011_2	
+18	3011	3	20	ClickName3011_3	ClickNotice3011_3
+19	3012	1	20	ClickName3011_1	ClickNotice3011_1
+20	3012	2	20	ClickName3011_2	
+21	3012	3	20	ClickName3011_3	ClickNotice3011_3
+22	3013	1	20	ClickName3011_1	ClickNotice3011_1
+23	3013	2	20	ClickName3011_2	
+24	3013	3	20	ClickName3011_3	ClickNotice3011_3
+25	3014	1	20	ClickName3011_1	ClickNotice3011_1
+26	3014	2	20	ClickName3011_2	
+27	3014	3	20	ClickName3011_3	ClickNotice3011_3
+28	3015	1	20	ClickName3011_1	ClickNotice3011_1
+29	3015	2	20	ClickName3011_2	
+30	3015	3	20	ClickName3011_3	ClickNotice3011_3
+31	3021	1	20	ClickName3021_1	ClickNotice3021_1
+32	3021	2	20	ClickName3021_2	
+33	3021	3	20	ClickName3021_3	ClickNotice3021_3
+34	3022	1	20	ClickName3021_1	ClickNotice3021_1
+35	3022	2	20	ClickName3021_2	
+36	3022	3	20	ClickName3021_3	ClickNotice3021_3
+37	3023	1	20	ClickName3021_1	ClickNotice3021_1
+38	3023	2	20	ClickName3021_2	
+39	3023	3	20	ClickName3021_3	ClickNotice3021_3
+40	3024	1	20	ClickName3021_1	ClickNotice3021_1
+41	3024	2	20	ClickName3021_2	
+42	3024	3	20	ClickName3021_3	ClickNotice3021_3
+43	3025	1	20	ClickName3021_1	ClickNotice3021_1
+44	3025	2	20	ClickName3021_2	
+45	3025	3	20	ClickName3021_3	ClickNotice3021_3

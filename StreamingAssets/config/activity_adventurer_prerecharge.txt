@@ -1,0 +1,4 @@
+﻿流水id	预购的充值id	预购的天数	原价
+int	int	int	int
+Id	PreviousRechargeId	PreviousDay	PrePrice
+1	5003	7	11

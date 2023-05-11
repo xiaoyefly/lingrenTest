@@ -1,0 +1,4 @@
+﻿流水	道具id	提供经验	使用每个道具消耗银币
+int	string	int	int
+Id	Item	GiveExp	SilverCost
+1	item171000101061	5	1000

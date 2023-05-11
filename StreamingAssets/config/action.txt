@@ -1,0 +1,1381 @@
+﻿流水ID	动作集ID	动作编号	动作名字	是否循环动作	无法融合切换	立刻切换
+int	int	int	string	bool	bool	bool
+Id	ActionSet	ActionId	ActionName	IsLoop	CantCrossFade	ChangeAtOnce
+1	1	1	idle01			
+2	1	2	fidle01			
+3	1	3	victoryidle01			
+4	1	4	loseidle01			
+5	1	5	show01			
+6	1	6	victory01			
+7	1	7	lose01			
+8	1	8	frun01			
+9	1	9	fwalk01			
+10	1	10	injury01			
+11	1	11	die01			
+12	1	12	birth01			
+13	1	13	showidle01			
+14	1	14	jump01			
+15	1	15	jump0102	1		
+16	1	16	jump0103			
+17	1	17	jump02	1		
+18	1	18	idle_build01			
+19	1	19	idle_build02			
+20	1	20	blackout01	1		
+21	1	21	translate01			
+22	1	22	translate02			
+23	1	23	jump01			
+24	1	24	jump0202	1		
+25	1	25	jump0203			
+26	1	26	dig01	1		
+27	1	27	convey01			
+28	1	28	conveymove01			
+29	1	29	climb01	1		
+30	1	30	weaponpose01	1	1	
+31	1	31	casual01			
+32	1	32	reloadshow01			
+33	1	33	reloadshow02			
+34	1	34	jump0302	1		
+35	1	35	jump0303			
+36	1	36	pray01	1		
+37	1	50	transport01			
+38	1	81	skill01			
+39	1	82	skill02			
+40	1	83	skill03			
+41	1	84	skill04			
+42	1	85	skill0101			
+43	1	86	skill0102			
+44	1	87	skill05			
+45	1	88	skill06			
+46	1	89	skill08			
+47	1	90	skill07			
+48	1	91	skill09			
+49	1	92	skill0201			
+50	1	93	skill0202			
+51	1	94	skill0203			
+52	1	95	skill0601			
+53	1	96	skill0602			
+54	1	97	skill0603			
+55	1	98	skill0801			
+56	1	99	skill0802			
+57	1	900	skill0803			
+58	1	901	skill0901			
+59	1	902	skill0902			
+60	1	903	skill0903			
+61	1	904	skill0401			
+62	1	905	skill0402			
+63	1	906	skill0403			
+64	1	907	skill1001			
+65	1	908	skill1002			
+66	1	909	skill1003			
+67	1	910	skill1101			
+68	1	911	skill1102			
+69	1	912	skill1103			
+70	1	913	skill1201			
+71	1	914	skill1202			
+72	1	915	skill1203			
+73	1	916	skill0701			
+74	1	917	skill0702			
+75	1	918	skill0703			
+76	1	919	skill11			
+77	1	920	skill12			
+78	1	921	skill13			
+79	1	922	skill14			
+80	1	923	skill10			
+81	1	924	skill15			
+82	1	925	skill16			
+83	1	926	skill17			
+84	1	927	skill18			
+85	1	928	skill19			
+86	1	929	skill20			
+87	1	930	skill21			
+88	1	800	comskill02			
+89	1	801	comskill01			
+90	1	802	comskill01			
+91	1	803	jump0203		1	
+92	1	804	transport01			
+93	1	811	skill0101			
+94	1	812	skill0102			
+95	1	813	skill0103			
+96	1	814	skill0101			
+97	1	815	skill0102			
+98	1	816	skill0103			
+99	1	100	atk01			
+100	1	101	atk02			
+101	1	102	atk03			
+102	1	103	atk04			
+103	1	200	exp_angry01			
+104	1	201	exp_blink01			
+105	1	202	exp_blink02			
+106	1	203	exp_leftsee01			
+107	1	204	exp_mouth01			
+108	1	205	exp_mouth02			
+109	1	206	exp_rightsee01			
+110	1	207	exp_sadness01			
+111	1	208	exp_smile01			
+112	1	209	exp_smile02			
+113	1	210	exp_nothing01			
+114	1	211	exp_eat01			
+115	1	212	exp_close01			
+116	1	301	collect0101		1	
+117	1	302	collect0102	1		
+118	1	303	opchest01		1	
+119	1	304	iathrow01		1	
+120	1	305	iathrow01		1	
+121	1	306	fishingpose01	1		
+122	1	307	fishingswing01		1	
+123	1	308	fishingpose02	1		
+124	1	309	fishingdraw01			
+125	1	310	fishingpose03	1		
+126	1	311	showpose01	1		
+127	1	312	showpose02	1		
+128	1	313	showpose03	1		
+129	1	314	showtalk0101			
+130	1	315	showtalk0102	1		
+131	1	316	showtalk0201			
+132	1	317	showtalk0202	1		
+133	1	318	showtalk0301			
+134	1	319	showtalk0302	1		
+135	1	320	showtrans01			
+136	1	321	showtrans02			
+137	1	600	sjactor_tiaowu01	1	1	
+138	1	601	sjactor_huishou01		1	
+139	1	602	sjactor_shengqi01		1	
+140	1	603	sjactor_shiai01		1	
+141	1	604	sjactor_songhua01		1	
+142	1	605	sjactor_tiaowu02		1	
+143	1	606	sjactor_zs0201		1	
+144	1	607	sjactor_zs0202		1	
+145	1	608	dig01		1	
+146	1	609	sjactor_sit01		1	
+147	1	610	iasweep01		1	
+148	1	611	iathrow01			
+149	1	612	iaplace01			
+150	1	613	iathrow0101			
+151	1	614	iathrow0102	1		
+152	1	615	iathrow0103		1	
+153	1	616	futari_lovearms0102	1		
+154	1	617	futari_lovearms0202	1		
+155	1	618	princehug01	1		
+156	1	619	princehug02	1		
+157	1	620	iasalute01	1		
+158	1	621	iathrow0101			
+159	1	622	iathrow0102	1		
+160	1	623	iathrow0103		1	
+161	1	624	iaaction01		1	
+162	1	700	iasweep01	1		
+163	2	1	idle01			
+164	2	2	idle01			
+165	2	3	idle02			
+166	2	4	function01			
+167	2	5	atk01			
+168	2	8	walk01			
+169	2	9	walk01			
+170	2	10	injury01			
+171	2	11	die01			
+172	2	12	birth01			
+173	2	13	idle01			
+174	2	14	jump01			
+175	2	15	jump02			
+176	2	16	spec01			
+177	2	17	fury01			
+178	2	18	spec0201			
+179	2	19	spec0202			
+180	2	20	spec02			
+181	2	21	petshow01			
+182	2	42	plot04			
+183	2	43	plot05			
+184	2	44	idle03			
+185	2	51	trans01			
+186	2	52	trans02			
+187	2	72	plot01			
+188	2	81	skill01			
+189	2	82	skill02			
+190	2	83	skill03			
+191	2	84	skill04			
+192	2	85	skill05			
+193	2	86	skill06			
+194	2	87	skill07			
+195	2	88	skill0301			
+196	2	89	skill0302			
+197	2	90	skill0303			
+198	2	91	skill0101			
+199	2	92	skill0102			
+200	2	93	skill0103			
+201	2	94	skill0201			
+202	2	95	skill0202			
+203	2	96	skill0203			
+204	2	97	skill0401			
+205	2	98	skill0402			
+206	2	99	skill0403			
+207	2	100	atk01			
+208	2	101	atk02			
+209	2	102	atk03			
+210	2	103	atk04			
+211	2	104	atk05			
+212	2	105	atk06			
+213	2	106	atk07			
+214	2	107	atk08			
+215	2	108	atk09			
+216	2	109	atk10			
+217	2	140	skill0501			
+218	2	141	skill0502			
+219	2	142	skill0503			
+220	2	143	skill0601			
+221	2	144	skill0602			
+222	2	145	skill0603			
+223	2	146	skill0701			
+224	2	147	skill0702			
+225	2	148	skill0703			
+226	2	149	skill0801			
+227	2	150	skill0802			
+228	2	151	skill0803			
+229	2	152	skill0901			
+230	2	153	skill0902			
+231	2	154	skill0903			
+232	2	155	skill1001			
+233	2	156	skill1002			
+234	2	157	skill1003			
+235	2	158	skill08			
+236	2	159	skill09			
+237	2	160	skill10			
+238	2	161	skill11			
+239	2	162	skill12			
+240	2	163	skill13			
+241	2	164	skill14			
+242	2	165	skill15			
+243	2	166	skill16			
+244	2	167	skill17			
+245	2	168	skill18			
+246	2	169	skill19			
+247	2	201	plot01			
+248	2	202	plot02			
+249	2	203	plot03			
+250	2	204	plot04			
+251	2	205	plot05			
+252	2	206	plot06			
+253	2	207	plot07			
+254	2	208	plot08			
+255	2	209	plot09			
+256	2	210	plot010			
+257	2	211	plot011			
+258	2	212	plot012			
+259	2	213	plot013			
+260	2	214	plot014			
+261	2	215	plot015			
+262	2	216	plot016			
+263	2	217	plot017			
+264	2	218	plot018			
+265	2	219	plot019			
+266	2	220	plot020			
+267	102	1	idle01			
+268	102	2	idle01			
+269	102	3	showidle01			
+270	102	4	function01			
+271	102	5	atk01			
+272	102	8	frun01			
+273	102	9	walk01			
+274	102	10	injury01			
+275	102	11	die01			
+276	102	12	birth01			
+277	102	13	showidle01			
+278	102	14	jump01			
+279	102	15	jump02			
+280	102	16	spec01			
+281	102	17	fury01			
+282	102	18	spec0201			
+283	102	19	spec0202			
+284	102	20	spec02			
+285	102	21	petshow01			
+286	102	42	plot04			
+287	102	43	plot05			
+288	102	44	idle03			
+289	102	51	trans01			
+290	102	52	trans02			
+291	102	72	plot01			
+292	102	81	skill01			
+293	102	82	skill02			
+294	102	83	skill03			
+295	102	84	skill04			
+296	102	85	skill05			
+297	102	86	skill06			
+298	102	87	skill07			
+299	102	88	skill0301			
+300	102	89	skill0302			
+301	102	90	skill0303			
+302	102	91	skill0101			
+303	102	92	skill0102			
+304	102	93	skill0103			
+305	102	94	skill0201			
+306	102	95	skill0202			
+307	102	96	skill0203			
+308	102	97	skill0401			
+309	102	98	skill0402			
+310	102	99	skill0403			
+311	102	100	atk01			
+312	102	101	atk02			
+313	102	102	atk03			
+314	102	103	atk04			
+315	102	104	atk05			
+316	102	105	atk06			
+317	102	106	atk07			
+318	102	107	atk08			
+319	102	108	atk09			
+320	102	109	atk10			
+321	102	140	skill0501			
+322	102	141	skill0502			
+323	102	142	skill0503			
+324	102	143	skill0601			
+325	102	144	skill0602			
+326	102	145	skill0603			
+327	102	146	skill0701			
+328	102	147	skill0702			
+329	102	148	skill0703			
+330	102	149	skill0801			
+331	102	150	skill0802			
+332	102	151	skill0803			
+333	102	152	skill0901			
+334	102	153	skill0902			
+335	102	154	skill0903			
+336	102	155	skill1001			
+337	102	156	skill1002			
+338	102	157	skill1003			
+339	102	158	skill08			
+340	102	159	skill09			
+341	102	160	skill10			
+342	102	161	skill11			
+343	102	162	skill12			
+344	102	163	skill13			
+345	102	164	skill14			
+346	102	165	skill15			
+347	102	166	skill16			
+348	102	167	skill17			
+349	102	168	skill18			
+350	102	169	skill19			
+351	102	201	plot01			
+352	102	202	plot02			
+353	102	203	plot03			
+354	102	204	plot04			
+355	102	205	plot05			
+356	102	206	plot06			
+357	102	207	plot07			
+358	102	208	plot08			
+359	102	209	plot09			
+360	102	210	plot010			
+361	102	211	plot011			
+362	102	212	plot012			
+363	102	213	plot013			
+364	102	214	plot014			
+365	102	215	plot015			
+366	102	216	plot016			
+367	102	217	plot017			
+368	102	218	plot018			
+369	102	219	plot019			
+370	102	220	plot020			
+371	112	1	idle01			
+372	112	2	idle01			
+373	112	3	showidle01			
+374	112	4	function01			
+375	112	5	show01			
+376	112	8	frun01			
+377	112	9	walk01			
+378	112	10	injury01			
+379	112	11	die01			
+380	112	12	birth01			
+381	112	13	showidle01			
+382	112	14	jump01			
+383	112	15	jump02			
+384	112	16	spec01			
+385	112	17	fury01			
+386	112	18	spec0201			
+387	112	19	spec0202			
+388	112	20	spec02			
+389	112	21	petshow01			
+390	112	42	plot04			
+391	112	43	plot05			
+392	112	44	idle03			
+393	112	51	trans01			
+394	112	52	trans02			
+395	112	72	plot01			
+396	112	81	skill01			
+397	112	82	skill02			
+398	112	83	skill03			
+399	112	84	skill04			
+400	112	85	skill05			
+401	112	86	skill06			
+402	112	87	skill07			
+403	112	88	skill0301			
+404	112	89	skill0302			
+405	112	90	skill0303			
+406	112	91	skill0101			
+407	112	92	skill0102			
+408	112	93	skill0103			
+409	112	94	skill0201			
+410	112	95	skill0202			
+411	112	96	skill0203			
+412	112	97	skill0401			
+413	112	98	skill0402			
+414	112	99	skill0403			
+415	112	100	atk01			
+416	112	101	atk02			
+417	112	102	atk03			
+418	112	103	atk04			
+419	112	104	atk05			
+420	112	105	atk06			
+421	112	106	atk07			
+422	112	107	atk08			
+423	112	108	atk09			
+424	112	109	atk10			
+425	112	110	atk01			
+426	112	140	skill0501			
+427	112	141	skill0502			
+428	112	142	skill0503			
+429	112	143	skill0601			
+430	112	144	skill0602			
+431	112	145	skill0603			
+432	112	146	skill0701			
+433	112	147	skill0702			
+434	112	148	skill0703			
+435	112	149	skill0801			
+436	112	150	skill0802			
+437	112	151	skill0803			
+438	112	152	skill0901			
+439	112	153	skill0902			
+440	112	154	skill0903			
+441	112	155	skill1001			
+442	112	156	skill1002			
+443	112	157	skill1003			
+444	112	158	skill08			
+445	112	159	skill09			
+446	112	160	skill10			
+447	112	161	skill11			
+448	112	162	skill12			
+449	112	163	skill13			
+450	112	164	skill14			
+451	112	165	skill15			
+452	112	166	skill16			
+453	112	167	skill17			
+454	112	168	skill18			
+455	112	169	skill19			
+456	112	201	plot01			
+457	112	202	plot02			
+458	112	203	plot03			
+459	112	204	plot04			
+460	112	205	plot05			
+461	112	206	plot06			
+462	112	207	plot07			
+463	112	208	plot08			
+464	112	209	plot09			
+465	112	210	plot010			
+466	112	211	plot011			
+467	112	212	plot012			
+468	112	213	plot013			
+469	112	214	plot014			
+470	112	215	plot015			
+471	112	216	plot016			
+472	112	217	plot017			
+473	112	218	plot018			
+474	112	219	plot019			
+475	112	220	plot020			
+476	11	1	idle01			
+477	11	2	idle01			
+478	11	5	showidle01			
+479	11	8	walk01			
+480	11	9	walk01			
+481	11	10	injury01			
+482	11	11	die01			
+483	11	12	birth01			
+484	11	13	idle01			
+485	11	14	jump01			
+486	11	15	jump02			
+487	11	16	spec01			
+488	11	17	fury01			
+489	11	18	spec0201			
+490	11	19	spec0202			
+491	11	20	spec02			
+492	11	21	petshow01			
+493	11	42	plot04			
+494	11	43	plot05			
+495	11	44	idle03			
+496	11	72	plot01			
+497	11	81	skill01			
+498	11	82	skill02			
+499	11	83	skill03			
+500	11	84	skill04			
+501	11	85	skill05			
+502	11	86	skill06			
+503	11	87	skill07			
+504	11	88	skill0301			
+505	11	89	skill0302			
+506	11	90	skill0303			
+507	11	91	skill0101			
+508	11	92	skill0102			
+509	11	93	skill0103			
+510	11	94	skill0201			
+511	11	95	skill0202			
+512	11	96	skill0203			
+513	11	97	skill0401			
+514	11	98	skill0402			
+515	11	99	skill0403			
+516	11	100	atk01			
+517	11	101	atk02			
+518	11	102	atk03			
+519	11	103	atk04			
+520	11	104	atk05			
+521	11	105	atk06			
+522	11	106	atk07			
+523	11	107	atk08			
+524	11	108	atk09			
+525	11	109	atk10			
+526	11	140	skill0501			
+527	11	141	skill0502			
+528	11	142	skill0503			
+529	11	143	skill0601			
+530	11	144	skill0602			
+531	11	145	skill0603			
+532	11	146	skill0701			
+533	11	147	skill0702			
+534	11	148	skill0703			
+535	11	149	skill0801			
+536	11	150	skill0802			
+537	11	151	skill0803			
+538	11	152	skill0901			
+539	11	153	skill0902			
+540	11	154	skill0903			
+541	11	155	skill1001			
+542	11	156	skill1002			
+543	11	157	skill1003			
+544	11	158	skill08			
+545	11	159	skill09			
+546	11	160	skill10			
+547	11	161	skill11			
+548	11	162	skill12			
+549	11	163	skill13			
+550	11	164	skill14			
+551	11	165	skill15			
+552	11	166	skill16			
+553	11	167	skill17			
+554	11	168	skill18			
+555	11	169	skill19			
+556	11	201	plot01			
+557	11	202	plot02			
+558	11	203	plot03			
+559	11	204	plot04			
+560	11	205	plot05			
+561	11	206	plot06			
+562	11	207	plot07			
+563	11	208	plot08			
+564	11	209	plot09			
+565	11	210	plot010			
+566	11	211	plot011			
+567	11	212	plot012			
+568	11	213	plot013			
+569	11	214	plot014			
+570	11	215	plot015			
+571	11	216	plot016			
+572	11	217	plot017			
+573	11	218	plot018			
+574	11	219	plot019			
+575	11	220	plot020			
+576	12	1	idle02			
+577	12	2	idle02			
+578	12	5	atk01			
+579	12	8	walk02			
+580	12	9	walk02			
+581	12	10	injury01			
+582	12	11	die01			
+583	12	12	birth01			
+584	12	13	idle02			
+585	12	14	jump01			
+586	12	15	jump02			
+587	12	16	spec01			
+588	12	17	fury01			
+589	12	18	spec0201			
+590	12	19	spec0202			
+591	12	20	spec02			
+592	12	42	plot04			
+593	12	43	plot05			
+594	12	44	idle03			
+595	12	72	plot01			
+596	12	100	atk01			
+597	12	101	atk02			
+598	12	81	skill01			
+599	12	82	skill02			
+600	12	83	skill03			
+601	12	84	skill04			
+602	12	91	skill0101			
+603	12	92	skill0102			
+604	12	93	skill0103			
+605	12	94	skill0201			
+606	12	95	skill0202			
+607	12	96	skill0203			
+608	12	88	skill0301			
+609	12	89	skill0302			
+610	12	90	skill0303			
+611	24	1	idle04			
+612	24	2	idle04			
+613	24	5	atk01			
+614	24	8	walk03			
+615	24	9	walk03			
+616	24	10	injury01			
+617	24	11	die01			
+618	24	12	birth01			
+619	24	13	idle04			
+620	24	14	jump01			
+621	24	15	jump02			
+622	24	16	spec01			
+623	24	17	fury01			
+624	24	42	plot04			
+625	24	43	plot05			
+626	24	72	plot01			
+627	24	100	atk01			
+628	24	101	atk02			
+629	24	81	skill01			
+630	24	82	skill02			
+631	24	83	skill03			
+632	24	84	skill04			
+633	24	91	skill0101			
+634	24	92	skill0102			
+635	24	93	skill0103			
+636	24	94	skill0201			
+637	24	95	skill0202			
+638	24	96	skill0203			
+639	24	88	skill0301			
+640	24	89	skill0302			
+641	24	90	skill0303			
+642	42	1	idle01			
+643	42	2	idle01			
+644	42	5	show01			
+645	42	8	walk01			
+646	42	9	walk01			
+647	42	10	injury01			
+648	42	12	birth01			
+649	42	13	idle01			
+650	42	14	jump01			
+651	42	15	jump02			
+652	42	16	spec01			
+653	42	17	fury01			
+654	42	100	atk01			
+655	42	81	skill01			
+656	42	82	skill02			
+657	42	83	skill03			
+658	42	91	skill0101			
+659	42	92	skill0102			
+660	42	93	skill0103			
+661	42	94	skill0201			
+662	42	95	skill0202			
+663	42	96	skill0203			
+664	42	88	skill0301			
+665	42	89	skill0302			
+666	42	90	skill0303			
+667	3	1	idle01			
+668	3	2	idle02			
+669	3	3	idle03			
+670	3	4	idle04			
+671	3	8	walk01			
+672	3	12	plot01			
+673	3	60	show01			
+674	3	61	show02			
+675	3	62	show03			
+676	3	70	function01			
+677	3	71	function02			
+678	3	72	function03			
+679	3	73	function04			
+680	3	74	showidle01			
+681	3	75	showidle02			
+682	3	76	showtrans01			
+683	3	77	showtrans02			
+684	3	78	showtalk01			
+685	3	79	showtalk02			
+686	3	80	showtalk03			
+687	3	81	showpose01			
+688	3	82	showpose02			
+689	3	83	showpose03			
+690	3	400	plot10			
+691	3	401	plot11			
+692	3	402	plot010			
+693	3	403	plot01			
+694	3	404	plot02			
+695	3	405	plot03			
+696	3	406	plot04			
+697	3	407	plot05			
+698	3	408	plot06			
+699	3	409	plot07			
+700	3	600	sjactor_tiaowu01	1	1	
+701	3	601	sjactor_huishou01			
+702	3	602	sjactor_shengqi01			
+703	3	603	sjactor_shiai01			
+704	3	604	sjactor_songhua01			
+705	3	605	sjactor_tiaowu02		1	
+706	3	606	sjactor_zs0201		1	
+707	3	607	sjactor_zs0202		1	
+708	3	608	dig01		1	
+709	3	609	sjactor_sit01			
+710	3	610	iasweep01			
+711	3	611	iathrow01			
+712	3	612	iaplace01			
+713	3	613	iathrow0101			
+714	3	614	iathrow0102	1		
+715	3	615	iathrow0103			
+716	3	616	sjactor_yes01			
+717	3	617	sjactor_no01			
+718	103	1	idle02			
+719	103	2	idle02			
+720	103	3	idle04			
+721	103	4	idle06			
+722	103	12	hat_plot0202			
+723	103	8	walk02			
+724	103	60	show01			
+725	103	61	show02			
+726	103	62	show03			
+727	103	70	function01			
+728	103	71	function02			
+729	103	72	function03			
+730	103	73	function04			
+731	203	1	idle01			
+732	203	2	idle01			
+733	203	60	show01			
+734	203	61	show02			
+735	203	62	show03			
+736	203	70	function01			
+737	203	71	function01			
+738	303	1	idle03			
+739	303	2	idle03			
+740	303	8	walk01			
+741	303	60	show01			
+742	303	61	show02			
+743	303	62	show03			
+744	303	70	function01			
+745	303	71	function02			
+746	403	1	idle01			
+747	403	2	idle02			
+748	403	60	show01			
+749	403	70	function01			
+750	403	71	function02			
+751	403	72	function03			
+752	403	400	plot01			
+753	503	1	idle02			
+754	503	2	idle03			
+755	503	8	walk03			
+756	603	1	idle01			
+757	603	11	disappear01			
+758	603	12	appear01			
+759	703	1	idle04			
+760	803	1	ridle07			
+761	803	2	ridle07			
+762	803	5	ridle07			
+763	803	8	ridle07			
+764	803	9	ridle07			
+765	803	11	ridle07			
+766	903	1	idle02			
+767	903	2	idle02			
+768	903	3	idle04			
+769	903	4	idle06			
+770	903	12	hat_plot0202			
+771	903	8	walk01			
+772	903	60	show01			
+773	903	61	show02			
+774	903	62	show03			
+775	903	70	function01			
+776	903	71	function02			
+777	903	72	function03			
+778	903	73	function04			
+779	4	1	idle01			
+780	4	2	idle01			
+781	4	3	show02			
+782	4	4	idle01			
+783	4	5	show01			
+784	4	6	show02			
+785	4	7	idle01			
+786	4	8	walk01			
+787	4	9	walk01			
+788	4	10	injury01			
+789	4	11	die01			
+790	4	12	birth01			
+791	4	13	show01			
+792	4	14	fury01			
+793	4	15	injury0201			
+794	4	16	injury0202	1		
+795	4	17	injury0203			
+796	4	20	blackout01	1		
+797	4	21	birth02	1		
+798	4	41	disableshow01			
+799	4	42	petshow01			
+800	4	43	petfun01			
+801	4	81	skill01			
+802	4	82	skill02			
+803	4	83	skill03			
+804	4	84	skill04			
+805	4	85	skill05			
+806	4	86	skill06			
+807	4	87	skill07			
+808	4	88	skill0301			
+809	4	89	skill0302			
+810	4	90	skill0303			
+811	4	91	skill0101			
+812	4	92	skill0102			
+813	4	93	skill0103			
+814	4	94	skill0201			
+815	4	95	skill0202			
+816	4	96	skill0203			
+817	4	97	skill0401			
+818	4	98	skill0402			
+819	4	99	skill0403			
+820	4	100	atk01			
+821	4	101	atk02			
+822	4	102	atk03			
+823	4	403	skill03			
+824	4	801	skill0701			
+825	4	802	skill0702			
+826	4	803	skill0703			
+827	4	900	skill0501			
+828	4	901	skill0502			
+829	4	902	skill0503			
+830	4	903	skill0504			
+831	4	904	skill0601			
+832	4	905	skill0602			
+833	4	906	skill0603			
+834	4	907	skill08			
+835	4	908	skill09			
+836	4	909	skill10			
+837	4	910	skill11			
+838	4	911	skill12			
+839	4	912	skill1301			
+840	4	913	skill1302			
+841	4	914	skill1303			
+842	14	1	idle02			
+843	14	2	idle02			
+844	14	3	show02			
+845	14	4	idle02			
+846	14	5	show01			
+847	14	6	show02			
+848	14	7	idle02			
+849	14	8	walk02			
+850	14	9	walk02			
+851	14	10	injury01			
+852	14	11	die01			
+853	14	12	birth01			
+854	14	13	show01			
+855	14	14	fury01			
+856	14	15	injury0201			
+857	14	16	injury0202	1		
+858	14	17	injury0203			
+859	14	20	blackout01	1		
+860	14	41	disableshow01			
+861	14	81	skill01			
+862	14	82	skill02			
+863	14	83	skill03			
+864	14	84	skill04			
+865	14	85	skill05			
+866	14	86	skill06			
+867	14	87	skill07			
+868	14	88	skill0301			
+869	14	89	skill0302			
+870	14	90	skill0303			
+871	14	91	skill0101			
+872	14	92	skill0102			
+873	14	93	skill0103			
+874	14	94	skill0201			
+875	14	95	skill0202			
+876	14	96	skill0203			
+877	14	100	atk01			
+878	14	101	atk02			
+879	14	102	atk03			
+880	14	900	skill0501			
+881	14	901	skill0502			
+882	14	902	skill0503			
+883	14	903	skill0504			
+884	14	904	skill0601			
+885	14	905	skill0602			
+886	14	906	skill0603			
+887	14	907	skill08			
+888	14	908	skill09			
+889	14	909	skill10			
+890	14	910	skill11			
+891	14	911	skill12			
+892	14	912	skill1301			
+893	14	913	skill1302			
+894	14	914	skill1303			
+895	5	1	idle01			
+896	5	2	idle01			
+897	5	12	birth01			
+898	5	60	show01			
+899	5	100	function01			
+900	5	101	function01			
+901	6	1	idle01			
+902	6	2	idle01			
+903	6	3	spec_idle01			
+904	6	4	idle01			
+905	6	5	spec_idle01			
+906	6	6	spec_idle01			
+907	6	7	idle01			
+908	6	8	walk01			
+909	6	9	walk01			
+910	6	10	idle01			
+911	6	11	idle01			
+912	6	12	birth01			
+913	6	13	idle01			
+914	6	20	spec_walk01	1		
+915	7	1	fidle01			
+916	7	2	fidle01			
+917	7	5	fidle01			
+918	7	8	fidle01			
+919	7	9	fidle01			
+920	7	10	fidle01			
+921	7	11	fidle01			
+922	7	13	fidle01			
+923	7	20	blackout01	1		
+924	7	100	atk01			
+925	7	81	skill01			
+926	7	82	skill02			
+927	7	91	skill0101			
+928	7	92	skill0102			
+929	7	93	skill0103			
+930	20	1	idle01		1	
+931	20	2	idle01		1	
+932	20	5	petshow01		1	
+933	20	8	walk01		1	
+934	20	9	walk01		1	
+935	20	10	injury01		1	
+936	20	11	die01		1	
+937	20	32	die01		1	
+938	20	100	atk01		1	
+939	20	120	petfeed01		1	
+940	20	121	petfeed01		1	
+941	20	122	petfun01		1	
+942	21	1	idle02		1	
+943	21	2	idle02		1	
+944	21	4	function01		1	
+945	21	5	petshow01		1	
+946	21	8	walk02		1	
+947	21	9	walk02		1	
+948	21	10	injury01		1	
+949	21	11	die01		1	
+950	21	32	die01		1	
+951	21	100	atk01		1	
+952	21	120	petfeed01		1	
+953	21	121	petfeed01		1	
+954	21	122	petfun01		1	
+955	22	1	idle01			
+956	22	2	idle01			
+957	22	5	petshow01			
+958	22	8	walk01			
+959	22	9	walk01			
+960	22	10	injury01			
+961	22	11	die01			
+962	22	100	atk01			
+963	22	120	petfeed01			
+964	22	121	petfeed01			
+965	22	122	petfun01			
+966	23	1	idle02			
+967	23	2	idle02			
+968	23	5	petshow01			
+969	23	8	walk02			
+970	23	9	walk02			
+971	23	10	injury01			
+972	23	11	die01			
+973	23	100	atk01			
+974	23	120	petfeed01			
+975	23	121	petfeed01			
+976	23	122	petfun01			
+977	8	1	idle01			
+978	25	1	idle01			
+979	25	2	idle01			
+980	25	8	idle01			
+981	25	9	idle01			
+982	25	11	null			
+983	26	1	conveyidle01		1	
+984	26	2	conveyidle01		1	
+985	26	8	conveyrun01		1	
+986	26	9	conveyrun01		1	
+987	26	11	null		1	
+988	27	1	ridle01		1	
+989	27	2	ridle01		1	
+990	27	5	ridle01		1	
+991	27	8	ridle01		1	
+992	27	9	ridle01		1	
+993	27	11	ridle01		1	
+994	28	1	ridle02		1	
+995	28	2	ridle02		1	
+996	28	5	ridle02		1	
+997	28	8	ridle02		1	
+998	28	9	ridle02		1	
+999	28	11	ridle02		1	
+1000	30	1	ridle04		1	
+1001	30	2	ridle04		1	
+1002	30	5	ridle04		1	
+1003	30	8	ridle04		1	
+1004	30	9	ridle04		1	
+1005	30	11	ridle04		1	
+1006	31	1	ridle05		1	
+1007	31	2	ridle05		1	
+1008	31	5	ridle05		1	
+1009	31	8	ridle05		1	
+1010	31	9	ridle05		1	
+1011	31	11	ridle05		1	
+1012	32	1	ridle06		1	
+1013	32	2	ridle06		1	
+1014	32	5	ridle06		1	
+1015	32	8	ridle06		1	
+1016	32	9	ridle06		1	
+1017	32	11	ridle06		1	
+1018	33	1	ridle07		1	
+1019	33	2	ridle07		1	
+1020	33	5	ridle07		1	
+1021	33	8	ridle07		1	
+1022	33	9	ridle07		1	
+1023	33	11	ridle07		1	
+1024	34	1	ridle08		1	
+1025	34	2	ridle08		1	
+1026	34	5	ridle08		1	
+1027	34	8	ridle08		1	
+1028	34	9	ridle08		1	
+1029	34	11	ridle08		1	
+1030	35	800	idle01		1	
+1031	35	801	idle02		1	
+1032	35	802	idle03		1	
+1033	35	803	walk01		1	
+1034	35	804	function01		1	
+1035	36	1	futari_idle01		1	
+1036	36	2	futari_idle01		1	
+1037	36	8	futari_run01		1	
+1038	36	9	futari_run01		1	
+1039	37	1	ridle09		1	
+1040	37	2	ridle09		1	
+1041	37	5	ridle09		1	
+1042	37	9	ridle09		1	
+1043	37	9	ridle09		1	
+1044	37	11	ridle09		1	
+1045	38	1	ridle03		1	
+1046	38	2	ridle03		1	
+1047	38	5	ridle03		1	
+1048	38	9	ridle03		1	
+1049	38	9	ridle03		1	
+1050	38	11	ridle03		1	
+1051	13	100	atk02		1	
+1052	13	5	atk01		1	
+1053	13	122	skill01		1	
+1054	13	10	skill02		1	
+1055	13	32	die01		1	
+1056	13	1	idle01		1	
+1057	13	2	idle01		1	
+1058	13	8	walk01		1	
+1059	13	9	walk01		1	
+1060	13	11	die01		1	
+1061	13	120	petfeed01		1	
+1062	13	121	petfeed01		1	
+1063	16	100	atk01		1	
+1064	16	5	petshow01		1	
+1065	16	122	petfun01		1	
+1066	16	10	injury01		1	
+1067	16	32	die01		1	
+1068	16	1	idle01		1	
+1069	16	2	idle01		1	
+1070	16	8	walk01		1	
+1071	16	9	walk01		1	
+1072	16	11	die01		1	
+1073	16	120	petfeed01		1	
+1074	16	121	petfeed01		1	
+1075	10	100	idle01		1	
+1076	10	5	atk01		1	
+1077	10	122	frun01		1	
+1078	10	10	skill02		1	
+1079	10	32	die01		1	
+1080	10	6	victory01		1	
+1081	10	7	lose01		1	
+1082	10	8	frun01		1	
+1083	10	9	fwalk01		1	
+1084	10	1	idle01		1	
+1085	10	11	die01		1	
+1086	10	12	birth01		1	
+1087	10	13	showidle01		1	
+1088	10	14	show01		1	
+1089	10	15	jump0102		1	
+1090	10	16	jump0103		1	
+1091	10	17	jump02		1	
+1092	10	18	idle_build01		1	
+1093	10	19	idle_build02		1	
+1094	10	20	blackout01		1	
+1095	10	21	translate01		1	
+1096	10	22	translate02		1	
+1097	10	23	jump01		1	
+1098	10	24	jump0202		1	
+1099	10	25	jump0203		1	
+1100	10	26	dig01		1	
+1101	10	27	convey01		1	
+1102	10	28	conveymove01		1	
+1103	10	29	climb01		1	
+1104	10	30	weaponpose01		1	
+1105	10	31	casual01		1	
+1106	10	4	loseidle01		1	
+1107	10	33	reloadshow02		1	
+1108	10	34	jump0302		1	
+1109	10	35	jump0303		1	
+1110	10	2	fidle01		1	
+1111	10	3	victoryidle01		1	
+1112	10	81	skill01		1	
+1113	10	82	skill02		1	
+1114	15	100	atk01		1	
+1115	15	5	atk02		1	
+1116	15	122	idle01		1	
+1117	15	10	walk01		1	
+1118	15	32	die01		1	
+1119	15	8	walk01		1	
+1120	15	9	walk01		1	
+1121	15	4	function01		1	
+1122	15	11	die01		1	
+1123	15	12	birth01		1	
+1124	15	13	idle01		1	
+1125	15	14	jump01		1	
+1126	15	15	jump02		1	
+1127	15	16	spec01		1	
+1128	15	17	fury01		1	
+1129	15	18	spec0201		1	
+1130	15	19	spec0202		1	
+1131	15	20	spec02		1	
+1132	15	21	petshow01		1	
+1133	15	42	plot04		1	
+1134	15	43	plot05		1	
+1135	15	44	idle03		1	
+1136	15	1	idle01		1	
+1137	15	52	trans02		1	
+1138	15	72	plot01		1	
+1139	15	81	skill01		1	
+1140	15	82	skill02		1	
+1141	15	83	skill03		1	
+1142	15	84	skill04		1	
+1143	15	85	skill05		1	
+1144	15	86	skill06		1	
+1145	15	87	skill07		1	
+1146	15	88	skill0301		1	
+1147	15	89	skill0302		1	
+1148	15	90	skill0303		1	
+1149	15	91	skill0101		1	
+1150	15	92	skill0102		1	
+1151	15	93	skill0103		1	
+1152	15	94	skill0201		1	
+1153	15	95	skill0202		1	
+1154	15	96	skill0203		1	
+1155	15	97	skill0401		1	
+1156	15	98	skill0402		1	
+1157	15	2	idle01		1	
+1158	15	3	idle02		1	
+1159	15	101	atk02		1	
+1160	9	100	atk01			
+1161	9	5	show01			
+1162	9	122	skill01			
+1163	9	10	skill02			
+1164	9	32	die01			
+1165	9	8	frun01			
+1166	9	9	walk01			
+1167	9	11	die01			
+1168	9	12	birth01			
+1169	9	13	showidle01			
+1170	9	14	jump01			
+1171	9	15	jump02			
+1172	9	16	spec01			
+1173	9	17	fury01			
+1174	9	18	spec0201			
+1175	9	19	spec0202			
+1176	9	20	spec02			
+1177	9	21	petshow01			
+1178	9	42	plot04			
+1179	9	43	plot05			
+1180	9	44	idle03			
+1181	9	51	trans01			
+1182	9	52	trans02			
+1183	9	72	plot01			
+1184	9	81	skill01			
+1185	9	82	skill02			
+1186	9	83	skill03			
+1187	9	84	skill04			
+1188	9	85	skill05			
+1189	9	86	skill06			
+1190	9	87	skill07			
+1191	9	88	skill0301			
+1192	9	89	skill0302			
+1193	9	90	skill0303			
+1194	9	91	skill0101			
+1195	9	92	skill0102			
+1196	9	93	skill0103			
+1197	9	94	skill0201			
+1198	9	95	skill0202			
+1199	9	96	skill0203			
+1200	9	97	skill0401			
+1201	9	98	skill0402			
+1202	9	99	skill0403			
+1203	9	101	atk02			
+1204	9	102	atk03			
+1205	9	103	atk04			
+1206	9	104	atk05			
+1207	9	105	atk06			
+1208	9	106	atk07			
+1209	9	107	atk08			
+1210	9	108	atk09			
+1211	9	109	atk10			
+1212	9	110	atk01			
+1213	9	140	skill0501			
+1214	9	141	skill0502			
+1215	9	142	skill0503			
+1216	9	143	skill0601			
+1217	9	144	skill0602			
+1218	9	145	skill0603			
+1219	9	146	skill0701			
+1220	9	147	skill0702			
+1221	9	148	skill0703			
+1222	9	149	skill0801			
+1223	9	150	skill0802			
+1224	9	151	skill0803			
+1225	9	152	skill0901			
+1226	9	153	skill0902			
+1227	9	154	skill0903			
+1228	9	155	skill1001			
+1229	9	156	skill1002			
+1230	9	157	skill1003			
+1231	9	158	skill08			
+1232	9	159	skill09			
+1233	9	160	skill10			
+1234	9	161	skill11			
+1235	9	162	skill12			
+1236	9	163	skill13			
+1237	9	164	skill14			
+1238	9	165	skill15			
+1239	9	166	skill16			
+1240	9	167	skill17			
+1241	9	168	skill18			
+1242	9	169	skill19			
+1243	9	201	plot01			
+1244	9	202	plot02			
+1245	9	203	plot03			
+1246	9	204	plot04			
+1247	9	205	plot05			
+1248	9	206	plot06			
+1249	9	207	plot07			
+1250	9	208	plot08			
+1251	9	209	plot09			
+1252	9	210	plot010			
+1253	9	211	plot011			
+1254	9	212	plot012			
+1255	9	213	plot013			
+1256	9	214	plot014			
+1257	9	215	plot015			
+1258	9	216	plot016			
+1259	9	217	plot017			
+1260	9	218	plot018			
+1261	9	219	plot019			
+1262	9	220	plot020			
+1263	9	1	idle01			
+1264	9	2	idle01			
+1265	9	3	showidle01			
+1266	9	4	function01			
+1267	9	22	injury01			
+1268	39	1	ridle10		1	
+1269	39	2	ridle10		1	
+1270	39	5	ridle10		1	
+1271	39	9	ridle10		1	
+1272	39	9	ridle10		1	
+1273	39	11	ridle10		1	
+1274	40	1	ridle11		1	
+1275	40	2	ridle11		1	
+1276	40	5	ridle11		1	
+1277	40	9	ridle11		1	
+1278	40	9	ridle11		1	
+1279	40	11	ridle11		1	
+1280	41	1	ridle12		1	
+1281	41	2	ridle12		1	
+1282	41	5	ridle12		1	
+1283	41	9	ridle12		1	
+1284	41	9	ridle12		1	
+1285	41	11	ridle12		1	
+1286	1	110	roll01			
+1287	43	1	idle01			
+1288	43	2	idle01			
+1289	43	5	show01			
+1290	43	8	run01			1
+1291	43	9	run01			1
+1292	43	100	skill01		1	
+1293	43	120	collect01			
+1294	43	121	interaction01			
+1295	43	122	idle01			
+1296	44	2	bind001			
+1297	45	1	idle02			
+1298	45	2	idle02			
+1299	45	3	show02			
+1300	45	4	idle02			
+1301	45	5	show01			
+1302	45	6	show02			
+1303	45	7	idle02			
+1304	45	8	walk01			
+1305	45	9	walk01			
+1306	45	10	injury01			
+1307	45	11	die02			
+1308	45	12	birth01			
+1309	45	13	show01			
+1310	45	14	fury01			
+1311	45	15	injury0201			
+1312	45	16	injury0202	1		
+1313	45	17	injury0203			
+1314	45	20	blackout01	1		
+1315	45	21	birth02	1		
+1316	45	41	disableshow01			
+1317	45	42	petshow01			
+1318	45	43	petfun01			
+1319	45	81	skill01			
+1320	45	82	skill02			
+1321	45	83	skill03			
+1322	45	84	skill04			
+1323	45	85	skill05			
+1324	45	86	skill06			
+1325	45	87	skill07			
+1326	45	88	skill0301			
+1327	45	89	skill0302			
+1328	45	90	skill0303			
+1329	45	91	skill0101			
+1330	45	92	skill0102			
+1331	45	93	skill0103			
+1332	45	94	skill0201			
+1333	45	95	skill0202			
+1334	45	96	skill0203			
+1335	45	97	skill0401			
+1336	45	98	skill0402			
+1337	45	99	skill0403			
+1338	45	100	atk01			
+1339	45	101	atk02			
+1340	45	102	atk03			
+1341	45	403	skill03			
+1342	45	801	skill0701			
+1343	45	802	skill0702			
+1344	45	803	skill0703			
+1345	45	900	skill0501			
+1346	45	901	skill0502			
+1347	45	902	skill0503			
+1348	45	903	skill0504			
+1349	45	904	skill0601			
+1350	45	905	skill0602			
+1351	45	906	skill0603			
+1352	45	907	skill08			
+1353	45	908	skill09			
+1354	45	909	skill10			
+1355	45	910	skill11			
+1356	45	911	skill12			
+1357	45	912	skill1301			
+1358	45	913	skill1302			
+1359	45	914	skill1303			
+1360	46	1	idle01		1	
+1361	46	2	idle01		1	
+1362	46	100	show01		1	
+1363	46	5	show02		1	
+1364	46	122	show04		1	
+1365	46	10	show03		1	
+1366	46	8	walk01		1	
+1367	46	9	walk01		1	
+1368	46	32	skill01		1	
+1369	47	100	atk01		1	
+1370	47	81	skill01		1	
+1371	47	82	skill02		1	
+1372	47	5	show01			
+1373	47	9	walk01			
+1374	47	11	die01			
+1375	47	12	birth01			
+1376	47	10	injury01			
+1377	47	1	idle01			
+1378	47	2	idle01			

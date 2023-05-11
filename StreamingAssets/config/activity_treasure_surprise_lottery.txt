@@ -1,0 +1,9 @@
+﻿流水	活动id	页签id	秘宝类型	层数区间小	层数区间大	秘宝稀有奖励库	奖励随机组	可使用道具组
+int	int	int	int	int	int	int	int	int
+Id	ActiveId	Tabel	TreasureType	FloorMin	FloorMax	RareRewardDrop	RewardGetZoneId	UseItemZone
+1	13006	1	1	1	1	1010	1	1
+2	13006	1	1	2	9999	1010	1	1
+3	13006	1	2	1	1	2005	2	2
+4	13006	1	2	2	9999	2005	2	2
+5	13006	1	3	1	1	3014	3	3
+6	13006	1	3	2	9999	3014	3	3

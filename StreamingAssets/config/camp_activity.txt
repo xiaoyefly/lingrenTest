@@ -1,0 +1,8 @@
+﻿活动ID	排序	阵营活动名字	功能ID	活动图标	活动时间描述	活动描述	活动开启按钮文本	活动未开启按钮文本
+int	int	string	int	string	string	string	string	string
+ActivityId	Sort	ActivityName	FuncId	ActivityIcon	ActivityTimeDes	ActivityDes	ActivityOpenButtonName	ActivityCloseButtonName
+1	1	UI_FuncName_460	460	bg_gonghuirenwu	CampActivityTimeDes1	CampActivityDes1	CampActivityOpenBtn1	CampActivityCloseBtn1
+2	4	UI_FuncName_456	456	icon_leader_scramble	CampActivityTimeDes2	CampActivityDes2	CampActivityOpenBtn2	CampActivityCloseBtn2
+3	5	UI_FuncName_457	457	icon_leader_vote	CampActivityTimeDes3	CampActivityDes3	CampActivityOpenBtn3	CampActivityCloseBtn3
+4	2	UI_FuncName_453	462	icon_key_point	CampActivityTimeDes4	CampActivityDes4	CampActivityOpenBtn4	CampActivityCloseBtn4
+5	3	UI_FuncName_458	458	icon_stardoor_title	CampActivityTimeDes5	CampActivityDes5	CampActivityOpenBtn5	CampActivityCloseBtn5

@@ -1,0 +1,6 @@
+﻿NPC编号	对象类型	NPC类型	头像显示	描边参数	头像	名字	功能名称	名称位置	小地图标志	场景头上icon	附近显示npc	模型编号	模型缩放	挂件模型	特殊icon	动作集	随机动作列表	是否转向	圆柱高度	圆柱半径	对话显示修正	对话显示缩放	对话摄像机位置修正	对话摄像机角度修正	特殊对话摄像机位置修正	特殊对话摄像机角度修正	送礼(聚焦)摄像机位置修正	送礼(聚焦)摄像机角度修正	是否不能被其他npc选择	常驻美术特效	模型效果	阻挡信息	品质ID
+string	string	int	bool	int	string	string	string	string	string	string	bool	string	float	string	string	int	string	byte	float	float	vector3	float	vector3	vector3	vector3	vector3	vector3	vector3	int	string	int	string	int
+Id	script	FuncNpcType	PortraitOn	OutlinePara	Icon	Name	FunctionName	NamePos	FuncIcon	SenceIcon	DisplayNpc	Avatar	AvatarZoom	Pendant	SpecialIcon	ActionSet	RandomAction	Rotation	CollideHeight	CollideRadius	TalkShowOffset	TalkShowScale	TalkCamPos	TalkCamAng	SpecialTalkCamPos	SpecialTalkCamAng	FocusCamPos	FocusCamAng	CannotBeOthersTarget	PermanentEffect	CharEffectId	CollideInfo	QualityId
+keypoint_npc_001	KeyPointNpc	12	0	1									0.000000			0		0	0.000000	0.000000		0.000000							1		0		0
+keypoint_npc_002	KeyPointNpc	12	0	1									0.000000			0		0	0.000000	0.000000		0.000000							1		0		1
+keypoint_npc_003	KeyPointNpc	12	0	1									0.000000			0		0	0.000000	0.000000		0.000000							1		0		0

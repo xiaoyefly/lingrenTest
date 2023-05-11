@@ -1,0 +1,24 @@
+﻿流水	活动id	任务分组id	分组名字	分组开启条件	分组任务名	分组任务说明	分组奖励	分组高级奖励
+int	int	int	string	string	string	string	string	string
+Id	ActiveId	Group	GroupName	Limit	GroupTaskName	GroupTaskDesc	GroupReward	GroupHighReward
+1	6902	1	BattlePassName690101	1,1				
+2	6902	2	BattlePassName690102	1,2				
+3	6902	3	BattlePassName690103	1,3				
+4	6902	4	BattlePassName690104	1,4				
+5	6902	5	BattlePassName690105	1,5				
+6	6902	6	BattlePassName690106	1,6				
+7	6902	7	BattlePassName690107	1,7				
+8	6902	8	BattlePassName690108	1,8				
+9	6902	9	BattlePassName690109	1,9				
+10	6902	10	BattlePassName690110	1,10				
+11	6902	11	BattlePassName690111	1,11				
+12	6902	12	BattlePassName690112	1,12				
+13	6902	13	BattlePassName690113	1,13				
+14	6902	14	BattlePassName690114	1,14				
+15	6901	1	BattlePassName690101	1,1;2,0	explan_name_690101	explan_Desc_690101	item105000000030,20	item8103010121003,50;item141000000209,1
+16	6901	2	BattlePassName690102	1,2;2,10	explan_name_690102	explan_Desc_690102	item105000000072,1	item105000000029,10;item102000020218,1
+17	6901	3	BattlePassName690103	1,3;2,20	explan_name_690103	explan_Desc_690103	item8103010111017,10	item8103010111018,10;item130000040305,1
+18	6901	4	BattlePassName690104	1,4;2,30	explan_name_690104	explan_Desc_690104	item103010111102,30	item100000000060,3;item103010131003,3
+19	6901	5	BattlePassName690105	1,5;2,35	explan_name_690105	explan_Desc_690105	item8170000120010,50	item161000000002,2;item170000120020,20
+20	6901	6	BattlePassName690106	1,6;2,40	explan_name_690106	explan_Desc_690106	item161000000002,1	item8103010111018,15;item8200000800002,5
+21	6901	7	BattlePassName690107	1,7;2,45	explan_name_690107	explan_Desc_690107	item101020507217,1	item8119100000002,1;item8101020504900,2

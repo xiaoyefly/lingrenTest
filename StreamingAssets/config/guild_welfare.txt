@@ -1,0 +1,9 @@
+﻿流水	公会福利名字	功能ID	福利ID	福利图标	福利描述
+int	string	int	int	string	string
+Id	WelfareName	FuncId	WelfareId	ActivityIcon	WelfareDes
+1	WelfareName1	52	1	guildsign	WelfareDes1
+2	WelfareName2	53	2	redcardicon3	WelfareDes2
+3	WelfareName3	54	3	guildshop	WelfareDes3
+4	WelfareName4	66	4	guild_train	WelfareDes4
+5	WelfareName5	75	5	guildbaoku	WelfareDes5
+6	WelfareName6	177	6	guildbadgehouse	WelfareDes6

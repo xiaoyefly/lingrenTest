@@ -1,0 +1,6 @@
+﻿轮次	下注额度	下注倍率
+int	int	int
+Rounds	Quota	Rate
+1	200000	2
+2	300000	2
+3	500000	2

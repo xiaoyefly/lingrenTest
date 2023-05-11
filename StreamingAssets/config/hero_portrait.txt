@@ -1,0 +1,126 @@
+﻿流水	头像类型	头像id	头像资源	描述	名字	时间类型	展示生效起始时间	使用时间（S）/结束时间	对应item	是否直接解锁	地区渠道号
+int	int	int	string	string	string	int	string	string	string	int	string
+Id	PortraitType	PortraitId	PortraitResource	PortraitDes	PortraitName	TimeType	ShowTime	LifeTime	Item	DirectUse	SDKAreaTypes
+1	1	101	job1102	PortraitDes101	PortraitName101	0	-1	-1	item140000001001	0	
+2	1	102	job1103	PortraitDes102	PortraitName102	0	-1	-1	item140000001002	0	
+3	1	103	job1104	PortraitDes103	PortraitName103	0	-1	-1	item140000001003	0	
+4	1	104	job1502	PortraitDes104	PortraitName104	0	-1	-1	item140000001004	0	
+5	1	105	job1503	PortraitDes105	PortraitName105	0	-1	-1	item140000001005	0	
+6	1	106	job1504	PortraitDes106	PortraitName106	0	-1	-1	item140000001006	0	
+7	1	107	job1505	PortraitDes107	PortraitName107	0	-1	-1	item140000001007	0	
+8	1	108	job1506	PortraitDes108	PortraitName108	0	-1	-1	item140000001008	0	
+9	1	109	job1507	PortraitDes109	PortraitName109	0	-1	-1	item140000001009	0	
+10	1	110	job1508	PortraitDes110	PortraitName110	0	-1	-1	item140000001010	0	
+11	2	201	job1202	PortraitDes201	PortraitName201	0	-1	-1	item140000002001	0	
+12	2	202	job1203	PortraitDes202	PortraitName202	0	-1	-1	item140000002002	0	
+13	2	203	job1204	PortraitDes203	PortraitName203	0	-1	-1	item140000002003	0	
+14	2	204	job1205	PortraitDes204	PortraitName204	0	-1	-1	item140000002004	0	
+15	2	205	job1302	PortraitDes205	PortraitName205	0	-1	-1	item140000002005	0	
+16	2	206	job1303	PortraitDes206	PortraitName206	0	-1	-1	item140000002006	0	
+17	2	207	job1304	PortraitDes207	PortraitName207	0	-1	-1	item140000002007	0	
+18	2	208	job1305	PortraitDes208	PortraitName208	0	-1	-1	item140000002008	0	
+19	2	209	job1402	PortraitDes209	PortraitName209	0	-1	-1	item140000002009	0	
+20	2	210	job1403	PortraitDes210	PortraitName210	0	-1	-1	item140000002010	0	
+21	2	211	job1404	PortraitDes211	PortraitName211	0	-1	-1	item140000002011	0	
+22	3	301	job1001	PortraitDes301	PortraitName301	0	-1	-1	item140000003001	0	
+23	3	302	job1002	PortraitDes302	PortraitName302	0	-1	-1	item140000003002	0	
+24	3	303	job1003	PortraitDes303	PortraitName303	0	-1	-1	item140000003003	0	
+25	3	304	job1004	PortraitDes304	PortraitName304	0	-1	-1	item140000003004	0	
+26	3	305	job1005	PortraitDes305	PortraitName305	0	-1	-1	item140000003005	0	
+27	3	306	job1006	PortraitDes306	PortraitName306	0	-1	-1	item140000003006	0	
+28	3	307	job1007	PortraitDes307	PortraitName307	0	-1	-1	item140000003007	0	
+29	3	308	job1008	PortraitDes308	PortraitName308	0	-1	-1	item140000003008	0	
+30	3	309	job2001	PortraitDes309	PortraitName309	0	-1	-1	item140000003009	0	
+31	3	310	job2002	PortraitDes310	PortraitName310	0	-1	-1	item140000003010	0	
+32	3	311	job2003	PortraitDes311	PortraitName311	0	-1	-1	item140000003011	0	
+33	3	312	job2004	PortraitDes312	PortraitName312	0	-1	-1	item140000003012	0	
+34	3	313	job2005	PortraitDes313	PortraitName313	0	-1	-1	item140000003013	0	
+35	3	314	job2006	PortraitDes314	PortraitName314	0	-1	-1	item140000003014	0	
+36	3	315	job2007	PortraitDes315	PortraitName315	0	-1	-1	item140000003015	0	
+37	3	316	job2008	PortraitDes316	PortraitName316	0	-1	-1	item140000003016	0	
+38	3	317	job2009	PortraitDes317	PortraitName317	0	-1	-1	item140000003017	0	
+39	3	318	job2010	PortraitDes318	PortraitName318	0	-1	-1	item140000003018	0	
+40	3	319	job2011	PortraitDes319	PortraitName319	0	-1	-1	item140000003019	0	
+41	3	320	job2012	PortraitDes320	PortraitName320	0	-1	-1	item140000003020	0	
+42	3	321	job2013	PortraitDes321	PortraitName321	0	-1	-1	item140000003021	0	
+43	3	322	job2014	PortraitDes322	PortraitName322	0	-1	-1	item140000003022	0	
+44	3	323	job2015	PortraitDes323	PortraitName323	0	-1	-1	item140000003023	0	
+45	3	324	job2016	PortraitDes324	PortraitName324	0	-1	-1	item140000003024	0	
+46	3	325	job2017	PortraitDes325	PortraitName325	0	-1	-1	item140000003025	0	
+47	3	326	job2018	PortraitDes326	PortraitName326	0	-1	-1	item140000003026	0	
+48	3	327	job2019	PortraitDes327	PortraitName327	0	-1	-1	item140000003027	0	
+49	3	328	job2020	PortraitDes328	PortraitName328	0	-1	-1	item140000003028	0	
+50	3	329	job2021	PortraitDes329	PortraitName329	0	-1	-1	item140000003029	0	
+51	3	330	job2022	PortraitDes330	PortraitName330	0	-1	-1	item140000003030	0	
+52	3	331	job2023	PortraitDes331	PortraitName331	0	-1	-1	item140000003031	0	
+53	3	332	job2024	PortraitDes332	PortraitName332	0	-1	-1	item140000003032	0	
+54	3	333	job2026	PortraitDes333	PortraitName333	0	-1	-1	item140000003033	0	
+55	3	334	job2027	PortraitDes334	PortraitName334	0	-1	-1	item140000003034	0	1;2;4
+56	3	335	job2029	PortraitDes335	PortraitName335	0	-1	-1	item140000003035	0	5
+57	3	336	job2025	PortraitDes336	PortraitName336	0	-1	-1	item140000003036	0	4
+58	3	337	job2028	PortraitDes337	PortraitName337	0	-1	-1	item140000003037	0	4
+59	3	338	job2030	PortraitDes338	PortraitName338	0	-1	-1	item140000003038	0	3;5
+60	3	339	job2031	PortraitDes339	PortraitName339	0	-1	-1	item140000003039	0	1;2;3;4;5
+61	3	340	job2032	PortraitDes340	PortraitName340	0	-1	-1	item140000003040	0	1;2;3;4;5
+62	3	342	job2035	PortraitDes342	PortraitName342	0	-1	-1	item140000003041	0	1;2;4;5
+63	3	343	job2036	PortraitDes343	PortraitName343	0	-1	-1	item140000003042	0	1;2;3;4;5
+64	3	344	job2039	PortraitDes344	PortraitName344	0	-1	-1	item140000003044	0	1;2;4
+65	3	345	job2037	PortraitDes345	PortraitName345	0	-1	-1	item140000003045	0	1;2;4;6
+66	3	346	job2038	PortraitDes346	PortraitName346	0	-1	-1	item140000003046	0	1;2;4;6
+67	3	347	job2041	PortraitDes347	PortraitName347	0	-1	-1	item140000003047	0	1;2;3;4;5
+68	3	348	job1008	PortraitDes308	PortraitName308	0	-1	604800	item140000003048	0	1
+69	3	401	job7001	PortraitDes401	PortraitName401	0	-1	-1	item140000004001	0	1
+70	3	402	job7002	PortraitDes402	PortraitName402	0	-1	-1	item140000004002	0	1
+71	3	403	job7003	PortraitDes403	PortraitName403	0	-1	-1	item140000004003	0	4
+72	3	404	job7004	PortraitDes404	PortraitName404	0	-1	-1	item140000004004	0	4
+73	3	405	job7005	PortraitDes405	PortraitName405	0	-1	-1	item140000004005	0	4
+74	3	406	job7006	PortraitDes406	PortraitName406	0	-1	-1	item140000004006	0	4
+75	3	407	job7007	PortraitDes407	PortraitName407	0	-1	-1	item140000004007	0	4
+76	3	408	job7008	PortraitDes408	PortraitName408	0	-1	-1	item140000004008	0	4
+77	3	409	job7009	PortraitDes409	PortraitName409	0	-1	-1	item140000004009	0	4
+81	3	413	job2042	PortraitDes413	PortraitName413	0	-1	-1	item140000003049	0	
+82	3	414	job7023	PortraitDes414	PortraitName414	0	-1	-1	item140000004013	0	1
+83	3	415	job7024	PortraitDes415	PortraitName415	0	-1	-1	item140000004014	0	1
+84	3	416	job7021	PortraitDes416	PortraitName416	0	-1	-1	item140000004015	0	1
+85	3	417	job7022	PortraitDes417	PortraitName417	0	-1	-1	item140000004016	0	1
+86	3	418	job2043	PortraitDes418	PortraitName418	0	-1	-1	item140000004017	0	1
+87	3	419	job2044	PortraitDes419	PortraitName419	0	-1	-1	item140000004018	0	1
+88	3	420	job2045	PortraitDes420	PortraitName420	0	-1	-1	item140000004019	0	5
+89	3	421	job2046	PortraitDes421	PortraitName421	0	-1	-1	item140000004020	0	1
+90	3	422	soldier_player_icon_10033	PortraitDes410	PortraitName410	1	2021-07-15-00:00:00	2021-07-28-23:59:59	item140000004010	0	1
+91	3	423	soldier_player_icon_10034	PortraitDes411	PortraitName411	1	2021-07-15-00:00:00	2021-07-28-23:59:59	item140000004011	0	1
+92	3	424	soldier_player_icon_10035	PortraitDes412	PortraitName412	1	2021-07-15-00:00:00	2021-07-28-23:59:59	item140000004012	0	1
+93	3	425	job7025	PortraitDes422	PortraitName422	0	-1	-1	item140000004021	0	1
+94	3	426	job7026	PortraitDes423	PortraitName423	0	-1	-1	item140000004022	0	1
+95	3	427	job7027	PortraitDes424	PortraitName424	0	-1	-1	item140000004023	0	1
+96	3	428	job7028	PortraitDes425	PortraitName425	0	-1	-1	item140000004024	0	1
+97	3	429	job7029	PortraitDes426	PortraitName426	0	-1	-1	item140000004025	0	1
+98	3	430	job2047	PortraitDes427	PortraitName427	0	-1	-1	item140000004026	0	
+99	3	431	job2048	PortraitDes428	PortraitName428	0	-1	-1	item140000004027	0	
+100	3	432	job7030	PortraitDes432	PortraitName432	0	-1	-1	item140000004028	0	4
+101	3	433	job7031	PortraitDes433	PortraitName433	0	-1	-1	item140000004029	0	4
+102	3	434	job7032	PortraitDes434	PortraitName434	0	-1	-1	item140000004030	0	4
+103	3	435	job7033	PortraitDes435	PortraitName435	0	-1	-1	item140000004031	0	4
+104	3	436	job7034	PortraitDes436	PortraitName436	0	-1	-1	item140000004032	0	4
+105	3	437	job7035	PortraitDes437	PortraitName437	0	-1	-1	item140000004033	0	4
+106	3	438	job7036	PortraitDes438	PortraitName438	0	-1	-1	item140000004034	0	4
+107	3	439	job7037	PortraitDes439	PortraitName439	0	-1	-1	item140000004035	0	1
+108	3	440	job7038	PortraitDes440	PortraitName440	0	-1	-1	item140000004036	0	1
+109	3	441	job7039	PortraitDes441	PortraitName441	0	-1	-1	item140000004037	0	1
+110	3	442	job7040	PortraitDes442	PortraitName442	0	-1	-1	item140000004038	0	1
+111	3	443	job7041	PortraitDes443	PortraitName443	0	-1	-1	item140000004039	0	1
+112	3	444	job2049	PortraitDes444	PortraitName444	0	-1	-1	item140000004040	0	5
+113	3	445	job2050	PortraitDes445	PortraitName445	0	-1	-1	item140000004041	0	
+114	3	446	job2051	PortraitDes446	PortraitName446	0	-1	-1	item140000004042	0	
+115	3	447	job2052	PortraitDes447	PortraitName447	0	-1	-1	item140000004043	0	
+116	3	448	job2053	PortraitDes448	PortraitName448	0	-1	-1	item140000004044	0	
+117	3	449	job2054	PortraitDes449	PortraitName449	0	-1	-1	item140000004045	0	
+118	3	450	job7042	PortraitDes450	PortraitName450	0	-1	-1	item140000004046	0	
+119	3	451	job7043	PortraitDes451	PortraitName451	0	-1	-1	item140000004047	0	
+120	3	452	job7044	PortraitDes452	PortraitName452	0	-1	-1	item140000004048	0	
+121	3	453	job7045	PortraitDes453	PortraitName453	0	-1	-1	item140000004049	0	
+122	3	454	job2055	PortraitDes454	PortraitName454	0	-1	-1	item140000004050	0	
+123	3	455	job2056	PortraitDes455	PortraitName455	0	-1	-1	item140000004051	0	
+124	3	456	job2057	PortraitDes456	PortraitName456	0	-1	-1	item140000004052	0	
+125	3	457	job2058	PortraitDes457	PortraitName457	0	-1	-1	item140000004053	0	
+126	3	458	job2059	PortraitDes458	PortraitName458	0	-1	-1	item140000004054	0	

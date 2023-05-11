@@ -1,0 +1,9 @@
+﻿流水ID	星点图ID	星点图	星座图	星座名称	星座介绍	点亮奖励	星盘背景特效	星座名称标题特效	背景UI星星飞出特效
+int	int	string	string	string	string	string	string	string	string
+ID	StarID	PointPic	BackPic	StarName	StarIntroduce	StarReward	StarBackEffect	StartTitleEffect	BackEffect
+1	1001	icon_orion_lg	icon_orion_pf	Praystar_Constellation_Name_01	Praystar_Constellation_Des_01	item2002,20000;item1000,20000	40000259	40000258	40000263
+2	1002	icon_andromeda_lg	icon_andromeda_pf	Praystar_Constellation_Name_02	Praystar_Constellation_Des_02	item2002,20000;item1000,20000	40000259	40000258	40000263
+3	1003	icon_lyra_lg	icon_lyra_pf	Praystar_Constellation_Name_03	Praystar_Constellation_Des_03	item2002,30000;item1000,30000;item171002010002,5	40000259	40000258	40000263
+4	1004	icon_cetus_lg	icon_cetus_pf	Praystar_Constellation_Name_04	Praystar_Constellation_Des_04	item2002,30000;item1000,30000	40000259	40000258	40000263
+5	1005	icon_pegasus_lg	icon_pegasus_pf	Praystar_Constellation_Name_05	Praystar_Constellation_Des_05	item2002,30000;item1000,40000	40000259	40000258	40000263
+6	1006	icon_phoenix_lg	icon_phoenix_pf	Praystar_Constellation_Name_06	Praystar_Constellation_Des_06	item2002,30000;item1000,40000	40000259	40000258	40000263

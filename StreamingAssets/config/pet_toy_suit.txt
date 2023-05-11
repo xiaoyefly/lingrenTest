@@ -1,0 +1,13 @@
+﻿套装编号	套装名称	套装总数
+int	string	int
+Id	SuitName	SuitEquipSum
+2201	Pet_Toy_Suit_Name_2201	3
+2202	Pet_Toy_Suit_Name_2202	3
+2203	Pet_Toy_Suit_Name_2203	3
+2301	Pet_Toy_Suit_Name_2301	4
+2302	Pet_Toy_Suit_Name_2302	4
+2303	Pet_Toy_Suit_Name_2303	4
+2401	Pet_Toy_Suit_Name_2401	5
+2402	Pet_Toy_Suit_Name_2402	5
+2403	Pet_Toy_Suit_Name_2403	5
+2404	Pet_Toy_Suit_Name_2404	5

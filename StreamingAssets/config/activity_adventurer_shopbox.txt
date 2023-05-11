@@ -1,0 +1,8 @@
+﻿流水id	宝箱进度	宝箱item
+int	int	string
+Id	BoxProcess	Item
+1	200	item102000020223
+2	200	item102000020223
+3	200	item102000020223
+4	200	item102000020223
+5	200	item102000020223

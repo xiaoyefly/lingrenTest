@@ -1,0 +1,6 @@
+﻿婚礼类型	花费	类型名字	类型简介	展示图片	准入人数
+int	string	string	string	string	int
+Type	Cost	TypeName	TypeDes	ShowPic	EnterMaxNum
+1	2,20000	WeddingTypeName01	WeddingTypeDes01	invitation_preorder_bg01	50
+2	3,500	WeddingTypeName02	WeddingTypeDes02	invitation_preorder_bg02	80
+3	3,2000	WeddingTypeName03	WeddingTypeDes03	invitation_preorder_bg03	120

@@ -1,0 +1,8 @@
+﻿编号	语言包
+int	string
+Id	Key
+1	HL_log_001
+2	HL_log_002
+3	HL_log_003
+4	HL_log_004
+5	HL_log_005

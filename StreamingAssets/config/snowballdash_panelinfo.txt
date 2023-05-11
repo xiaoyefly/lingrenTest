@@ -1,0 +1,7 @@
+﻿流水id	按钮icon	按钮名字
+int	string	string
+Id	FuncButtonIcon	ButtonName
+1	model_snowballfight_snowman	SnowButtonName01
+2	model_snowballfight_apply	SnowButtonName0201;SnowButtonName0202;SnowButtonName0203
+3	model_snowballfight_shop	SnowButtonName03
+4	model_snowballfight_rule	SnowButtonName04

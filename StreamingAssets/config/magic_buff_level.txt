@@ -1,0 +1,168 @@
+﻿流水	魔法属性编号	属性等级	BuffID	BUFF描述	Buff等级	潜力值	评分计算类型	评分计算参数
+int	int	int	string	string	int	int	int	int
+Id	MagicId	Level	BuffId	BUFFstr	BuffLevel	PotentialValue	CPType	CPValue
+1	100040	1	equipmagic_shoes::equipmagic_shoes_001		1	40	2	1000
+2	100040	2	equipmagic_shoes::equipmagic_shoes_001		2	60	2	1250
+3	100040	3	equipmagic_shoes::equipmagic_shoes_001		3	80	2	2250
+4	100041	1	equipmagic_pauldrons::equipmagic_pauldrons_001		1	40	2	750
+5	100041	2	equipmagic_pauldrons::equipmagic_pauldrons_001		2	60	2	1000
+6	100041	3	equipmagic_pauldrons::equipmagic_pauldrons_001		3	80	2	1750
+7	100042	1	equipmagic_headdress::Buff_Aura_RES		1	40	2	1000
+8	100042	2	equipmagic_headdress::Buff_Aura_RES		2	60	2	1250
+9	100042	3	equipmagic_headdress::Buff_Aura_RES		3	80	2	2250
+10	100043	1	equipmagic_pants::equipmagic_pants_001		1	40	2	500
+11	100043	2	equipmagic_pants::equipmagic_pants_001		2	60	2	750
+12	100043	3	equipmagic_pants::equipmagic_pants_001		3	80	2	1250
+13	100044	1	equipmagic_armor::equipmagic_armor_001		1	40	2	750
+14	100044	2	equipmagic_armor::equipmagic_armor_001		2	60	2	1000
+15	100044	3	equipmagic_armor::equipmagic_armor_001		3	80	2	1750
+16	100045	1	equipmagic_equip::equipmagic_equip_001		1	40	2	500
+17	100045	2	equipmagic_equip::equipmagic_equip_001		2	60	2	750
+18	100045	3	equipmagic_equip::equipmagic_equip_001		3	80	2	1250
+19	100046	1	equipmagic_equip::equipmagic_equip_002		1	40	2	500
+20	100046	2	equipmagic_equip::equipmagic_equip_002		2	60	2	750
+21	100046	3	equipmagic_equip::equipmagic_equip_002		3	80	2	1250
+22	100047	1	equipmagic_equip::equipmagic_equip_002		1	40	2	500
+23	100047	2	equipmagic_equip::equipmagic_equip_002		2	60	2	750
+24	100047	3	equipmagic_equip::equipmagic_equip_002		3	80	2	1250
+25	100048	1	equipmagic_equip::equipmagic_equip_002		1	40	2	500
+26	100048	2	equipmagic_equip::equipmagic_equip_002		2	60	2	750
+27	100048	3	equipmagic_equip::equipmagic_equip_002		3	80	2	1250
+28	100049	1	equipmagic_equip::equipmagic_equip_002		1	40	2	500
+29	100049	2	equipmagic_equip::equipmagic_equip_002		2	60	2	750
+30	100049	3	equipmagic_equip::equipmagic_equip_002		3	80	2	1250
+31	100050	1	equipmagic_equip::equipmagic_equip_002		1	40	2	500
+32	100050	2	equipmagic_equip::equipmagic_equip_002		2	60	2	750
+33	100050	3	equipmagic_equip::equipmagic_equip_002		3	80	2	1250
+34	100051	1	equipmagic_job00::equipmagic_job00_001		1	40	2	1000
+35	100051	2	equipmagic_job00::equipmagic_job00_001		2	60	2	1250
+36	100051	3	equipmagic_job00::equipmagic_job00_001		3	80	2	2250
+37	100052	1	equipmagic_job00::equipmagic_job00_002		1	40	2	1000
+38	100052	2	equipmagic_job00::equipmagic_job00_002		2	60	2	1250
+39	100052	3	equipmagic_job00::equipmagic_job00_002		3	80	2	2250
+40	100053	1	equipmagic_job00::equipmagic_job00_003		1	40	2	500
+41	100053	2	equipmagic_job00::equipmagic_job00_003		2	60	2	750
+42	100053	3	equipmagic_job00::equipmagic_job00_003		3	80	2	1250
+43	100054	1	equipmagic_job00::equipmagic_job00_004		1	40	2	750
+44	100054	2	equipmagic_job00::equipmagic_job00_004		2	60	2	1000
+45	100054	3	equipmagic_job00::equipmagic_job00_004		3	80	2	1750
+46	100055	1	equipmagic_necklace::equipmagic_necklace_001		1	40	2	750
+47	100055	2	equipmagic_necklace::equipmagic_necklace_001		2	60	2	1000
+48	100055	3	equipmagic_necklace::equipmagic_necklace_001		3	80	2	1750
+49	100056	1	equipmagic_necklace::equipmagic_necklace_002		1	40	2	500
+50	100056	2	equipmagic_necklace::equipmagic_necklace_002		2	60	2	750
+51	100056	3	equipmagic_necklace::equipmagic_necklace_002		3	80	2	1250
+52	100057	1	equipmagic_earring::equipmagic_earring_001		1	40	2	500
+53	100057	2	equipmagic_earring::equipmagic_earring_001		2	60	2	750
+54	100057	3	equipmagic_earring::equipmagic_earring_001		3	80	2	1250
+55	100058	1	equipmagic_earring::equipmagic_earring_002		1	40	2	1000
+56	100058	2	equipmagic_earring::equipmagic_earring_002		2	60	2	1250
+57	100058	3	equipmagic_earring::equipmagic_earring_002		3	80	2	2250
+58	100059	1	equipmagic_bracelet::equipmagic_bracelet_001		1	40	2	750
+59	100059	2	equipmagic_bracelet::equipmagic_bracelet_001		2	60	2	1000
+60	100059	3	equipmagic_bracelet::equipmagic_bracelet_001		3	80	2	1750
+61	100060	1	equipmagic_bracelet::equipmagic_bracelet_002		1	40	2	500
+62	100060	2	equipmagic_bracelet::equipmagic_bracelet_002		2	60	2	750
+63	100060	3	equipmagic_bracelet::equipmagic_bracelet_002		3	80	2	1250
+64	100061	1	equipmagic_rings::equipmagic_rings_001		1	40	2	500
+65	100061	2	equipmagic_rings::equipmagic_rings_001		2	60	2	750
+66	100061	3	equipmagic_rings::equipmagic_rings_001		3	80	2	1250
+67	100062	1	equipmagic_rings::equipmagic_rings_002		1	40	2	500
+68	100062	2	equipmagic_rings::equipmagic_rings_002		2	60	2	750
+69	100062	3	equipmagic_rings::equipmagic_rings_002		3	80	2	1250
+70	100063	1	equipmagic_rings::equipmagic_rings_003		1	40	2	750
+71	100063	2	equipmagic_rings::equipmagic_rings_003		2	60	2	1000
+72	100063	3	equipmagic_rings::equipmagic_rings_003		3	80	2	1750
+73	100065	1	equipmagic_shoes_002::equipmagic_shoes_002		1	40	2	750
+74	100065	2	equipmagic_shoes_002::equipmagic_shoes_002		2	60	2	1000
+75	100065	3	equipmagic_shoes_002::equipmagic_shoes_002		3	80	2	1750
+76	100066	1	equipmagic_shoes_003::equipmagic_shoes_003		1	40	2	750
+77	100066	2	equipmagic_shoes_003::equipmagic_shoes_003		2	60	2	1000
+78	100066	3	equipmagic_shoes_003::equipmagic_shoes_003		3	80	2	1750
+79	100067	1	equipmagic_shoes_004::equipmagic_shoes_004		1	40	2	500
+80	100067	2	equipmagic_shoes_004::equipmagic_shoes_004		2	60	2	750
+81	100067	3	equipmagic_shoes_004::equipmagic_shoes_004		3	80	2	1250
+82	100070	1	equipmagic_job00_005::equipmagic_job00_005		1	40	2	500
+83	100070	2	equipmagic_job00_005::equipmagic_job00_005		2	60	2	750
+84	100070	3	equipmagic_job00_005::equipmagic_job00_005		3	80	2	1250
+85	100071	1	equipmagic_bracelet_003::equipmagic_bracelet_003		1	40	2	750
+86	100071	2	equipmagic_bracelet_003::equipmagic_bracelet_003		2	60	2	1000
+87	100071	3	equipmagic_bracelet_003::equipmagic_bracelet_003		3	80	2	1750
+88	100072	1	equipmagic_necklace_003::equipmagic_necklace_003		1	50	2	750
+89	100072	2	equipmagic_necklace_003::equipmagic_necklace_003		2	60	2	1000
+90	100072	3	equipmagic_necklace_003::equipmagic_necklace_003		3	80	2	1750
+91	100073	1	equipmagic_pants::equipmagic_pants_002		1	50	2	750
+92	100073	2	equipmagic_pants::equipmagic_pants_002		2	60	2	1000
+93	100073	3	equipmagic_pants::equipmagic_pants_002		3	80	2	1750
+94	100074	1	equipmagic_headdress::equipmagic_headdress_002		1	50	2	750
+95	100074	2	equipmagic_headdress::equipmagic_headdress_002		2	60	2	1000
+96	100074	3	equipmagic_headdress::equipmagic_headdress_002		3	80	2	1750
+97	100075	1	equipmagic_armor::equipmagic_armor_002		1	50	2	750
+98	100075	2	equipmagic_armor::equipmagic_armor_002		2	60	2	1000
+99	100075	3	equipmagic_armor::equipmagic_armor_002		3	80	2	1750
+100	100064	1	equipmagic_rings::equipmagic_rings_004		1	50	2	1000
+101	100064	2	equipmagic_rings::equipmagic_rings_004		2	60	2	1250
+102	100064	3	equipmagic_rings::equipmagic_rings_004		3	80	2	2250
+103	100076	1	equipmagic_necklace_003::equipmagic_necklace_004		1	50	2	1000
+104	100076	2	equipmagic_necklace_003::equipmagic_necklace_004		2	60	2	1250
+105	100076	3	equipmagic_necklace_003::equipmagic_necklace_004		3	80	2	2250
+106	100077	1	equipmagic_bracelet::equipmagic_bracelet_004	MagicDes_100078_1	1	50	2	1000
+107	100077	2	equipmagic_bracelet::equipmagic_bracelet_004	MagicDes_100078_2	2	60	2	1250
+108	100077	3	equipmagic_bracelet::equipmagic_bracelet_004	MagicDes_100078_3	3	80	2	2250
+109	100078	1	equipmagic_armor::equipmagic_armor_003		1	50	2	750
+110	100078	2	equipmagic_armor::equipmagic_armor_003		2	60	2	1000
+111	100078	3	equipmagic_armor::equipmagic_armor_003		3	80	2	1750
+112	100079	1	equipmagic_pauldrons::equipmagic_pauldrons_002		1	50	2	750
+113	100079	2	equipmagic_pauldrons::equipmagic_pauldrons_002		2	60	2	1000
+114	100079	3	equipmagic_pauldrons::equipmagic_pauldrons_002		3	80	2	1750
+115	100080	1	equipmagic_pants::equipmagic_pants_003	MagicDes_100083_1	1	50	2	750
+116	100080	2	equipmagic_pants::equipmagic_pants_003	MagicDes_100083_2	2	60	2	1000
+117	100080	3	equipmagic_pants::equipmagic_pants_003	MagicDes_100083_3	3	80	2	1750
+118	100081	1	equipmagic_armor::equipmagic_armor_004		1	50	2	1000
+119	100081	2	equipmagic_armor::equipmagic_armor_004		2	60	2	1250
+120	100081	3	equipmagic_armor::equipmagic_armor_004		3	80	2	2250
+121	100082	1	equipmagic_necklace::buff_05	MagicDes_100082_1	1	50	2	1000
+122	100082	2	equipmagic_necklace::buff_05	MagicDes_100082_2	2	60	2	1250
+123	100082	3	equipmagic_necklace::buff_05	MagicDes_100082_3	3	80	2	2250
+124	100083	1	equipmagic_headdress::buff_03		1	50	2	1000
+125	100083	2	equipmagic_headdress::buff_03		2	60	2	1250
+126	100083	3	equipmagic_headdress::buff_03		3	80	2	2250
+127	100084	1	equipmagic_bracelet::buff_05		1	50	2	1000
+128	100084	2	equipmagic_bracelet::buff_05		2	60	2	1250
+129	100084	3	equipmagic_bracelet::buff_05		3	80	2	2250
+130	100085	1	equipmagic_pauldrons::buff_003	MagicDes_100085_1	1	50	2	1000
+131	100085	2	equipmagic_pauldrons::buff_003	MagicDes_100085_2	2	60	2	1250
+132	100085	3	equipmagic_pauldrons::buff_003	MagicDes_100085_3	3	80	2	2250
+133	100086	1	equipmagic_shoes::buff_5	MagicDes_100086_1	1	50	2	1000
+134	100086	2	equipmagic_shoes::buff_5	MagicDes_100086_2	2	60	2	1250
+135	100086	3	equipmagic_shoes::buff_5	MagicDes_100086_3	3	80	2	2250
+136	100087	1	equipmagic_earring::buff_3	MagicDes_100087_1	1	50	2	1000
+137	100087	2	equipmagic_earring::buff_3	MagicDes_100087_2	2	60	2	1250
+138	100087	3	equipmagic_earring::buff_3	MagicDes_100087_3	3	80	2	2250
+139	100088	1	equipmagic_pauldrons::equipmagic_pauldrons_003	MagicDes_100088_1	1	50	2	1000
+140	100088	2	equipmagic_pauldrons::equipmagic_pauldrons_003	MagicDes_100088_2	2	60	2	1250
+141	100088	3	equipmagic_pauldrons::equipmagic_pauldrons_003	MagicDes_100088_3	3	80	2	2250
+142	100089	1	equipmagic_rings::equipmagic_rings_005	MagicDes_100089_1	1	50	2	1000
+143	100089	2	equipmagic_rings::equipmagic_rings_005	MagicDes_100089_2	2	60	2	1250
+144	100089	3	equipmagic_rings::equipmagic_rings_005	MagicDes_100089_3	3	80	2	2250
+145	100090	1	equipmagic_armor::equipmagic_armor_005	MagicDes_100090_1	1	50	2	1000
+146	100090	2	equipmagic_armor::equipmagic_armor_005	MagicDes_100090_2	2	60	2	1250
+147	100090	3	equipmagic_armor::equipmagic_armor_005	MagicDes_100090_3	3	80	2	2250
+148	100091	1	equipmagic_headdress::buff_04	MagicDes_100091_1	1	50	2	1000
+149	100091	2	equipmagic_headdress::buff_04	MagicDes_100091_2	2	60	2	1250
+150	100091	3	equipmagic_headdress::buff_04	MagicDes_100091_3	3	80	2	2250
+151	100092	1	equipmagic_bracelet::equipmagic_bracelet_006	MagicDes_100092_1	1	50	2	1000
+152	100092	2	equipmagic_bracelet::equipmagic_bracelet_006	MagicDes_100092_2	2	60	2	1250
+153	100092	3	equipmagic_bracelet::equipmagic_bracelet_006	MagicDes_100092_3	3	80	2	2250
+154	100093	1	equipmagic_shoes_006::equipmagic_shoes_006	MagicDes_100093_1	1	50	2	1000
+155	100093	2	equipmagic_shoes_006::equipmagic_shoes_006	MagicDes_100093_2	2	60	2	1250
+156	100093	3	equipmagic_shoes_006::equipmagic_shoes_006	MagicDes_100093_3	3	80	2	2250
+157	100094	1	equipmagic_pauldrons::equipmagic_pauldrons_004	MagicDes_100094_1	1	50	2	1000
+158	100094	2	equipmagic_pauldrons::equipmagic_pauldrons_004	MagicDes_100094_2	2	60	2	1250
+159	100094	3	equipmagic_pauldrons::equipmagic_pauldrons_004	MagicDes_100094_3	3	80	2	2250
+160	100095	1	equipmagic_pants::equipmagic_pants_004	MagicDes_100095_1	1	50	2	1000
+161	100095	2	equipmagic_pants::equipmagic_pants_004	MagicDes_100095_2	2	60	2	1250
+162	100095	3	equipmagic_pants::equipmagic_pants_004	MagicDes_100095_3	3	80	2	2250
+163	100096	1	equipmagic_armor::equipmagic_armor_006	MagicDes_100096_1	1	50	2	1000
+164	100096	2	equipmagic_armor::equipmagic_armor_006	MagicDes_100096_2	2	60	2	1250
+165	100096	3	equipmagic_armor::equipmagic_armor_006	MagicDes_100096_3	3	80	2	2250

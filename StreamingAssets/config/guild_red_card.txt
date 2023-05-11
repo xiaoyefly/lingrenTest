@@ -1,0 +1,7 @@
+﻿流水	花费钻石	金币金额	初始成员等级限制	最大成员等级	初始历史贡献限制	最大历史贡献	初始红包个数（等于最小个数）	最大红包个数	生命时长（秒）	是否使用道具发放
+int	int	int	int	int	int	int	int	int	int	int
+Id	DiamondCost	GoldNum	InitialLevel	MaxLevel	InitialContribution	MaxContribution	InitialCardNum	MaxCardNum	LifeTime	UseItem
+1	100	10000	10	100	0	1000	20	40	43200	0
+2	300	30000	15	100	0	1000	30	50	43200	0
+3	1000	100000	20	100	0	1000	40	60	43200	0
+4	99999	6000	10	100	0	1000	20	20	43200	1

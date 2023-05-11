@@ -1,0 +1,18 @@
+﻿排行ID	分类名字	归属大标签	对应Boss	排行榜开放时间点	展示道具
+int	string	int	string	string	string
+Id	RankName	Label	BossId	OpenTime	ShowItem
+1	Abyss_rank_1	5	Monster1	2022-09-29-00:00:00	
+2	Abyss_rank_2	5	Monster2	2022-09-29-00:00:00	
+3	Abyss_rank_3	5	Monster3	2022-09-29-00:00:00	
+4	Abyss_rank_4	5	Monster4	2022-09-29-00:00:00	
+5	Abyss_rank_5	5	Monster5	2022-09-29-00:00:00	
+6	Abyss_rank_6	5	Monster6	2022-09-29-00:00:00	
+7	Abyss_rank_7	5	Monster7	2022-09-29-00:00:00	
+101	Abyss_rank_101	4		2022-09-29-00:00:00	
+201	Abyss_rank_201	4	Monster8	2022-09-29-00:00:00	
+202	Abyss_rank_202	4	Monster9	2022-09-29-00:00:00	
+203	Abyss_rank_203	4	Monster10	2022-09-29-00:00:00	
+204	Abyss_rank_204	4	Monster11	2022-09-29-00:00:00	
+205	Abyss_rank_205	4	Monster12	2022-09-29-00:00:00	
+206	Abyss_rank_206	4	Monster13	2022-09-29-00:00:00	
+207	Abyss_rank_207	4	Monster14	2022-09-29-00:00:00	

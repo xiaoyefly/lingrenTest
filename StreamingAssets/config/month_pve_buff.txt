@@ -1,0 +1,8 @@
+﻿流水id	佣兵品阶	佣兵携带BUFF
+int	int	string
+ID	Quality	BuffId
+1	1	buff6_startrace02::buff020
+2	2	buff6_startrace02::buff021
+3	3	buff6_startrace02::buff022
+4	4	buff6_startrace02::buff023
+5	5	buff6_startrace02::buff024

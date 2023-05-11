@@ -1,0 +1,4 @@
+﻿玩法id	怪物id	刷新坐标	刷新范围	刷新数量	刷新概率	怪物上限	玩家离岛时间范围	是否加入升级提示	升级提示图标	升级提示描述	是否生产暂停	每个怪物舒适度降低比例	刷新邮件id
+int	string	string	int	int	int	int	string	int	string	string	int	float	string
+GameId	MonsterId	RefreshPos	RefreshRange	RefreshNum	RefreshChance	MaxMonsterNum	LeaveHomeTimeRange	IsLevelUpTips	LevelUpTipsIcon	LevelUpTipsDes	IsFarmStop	DecorateDegreeDown	CallMailId
+201	home_theif01	48.5,0.2,-28.8	10	1	100	3	1800,28800	1			1	0.050000	mail_homeland_monsterattack

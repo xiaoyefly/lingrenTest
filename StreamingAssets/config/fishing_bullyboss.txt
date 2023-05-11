@@ -1,0 +1,11 @@
+﻿赛季ID	怪物ID	场景ID	刷新坐标	每日有效开始时间	每日有效结束时间	钓鱼增长点数	每秒增长点数	Boss刷新点数
+int	string	int	string	string	string	int	int	int
+SeasonID	MonsterID	SenceID	Position	BeginTime	EndTime	IncreaseFishing	IncreaseTime	ProcessMax
+1	monster35000001	1	20.9,-5.1,-53.2	10:00	24:00	1	2	90000
+2	monster35000001	3	-24.4,0.2,-10.2	10:00	24:00	1	2	90000
+3	monster35000001	4	20.7,6.9,29.2	10:00	24:00	1	2	90000
+4	monster35000001	3	-24.4,0.2,-10.2	10:00	24:00	1	2	90000
+5	monster35000001	1	20.9,-5.1,-53.2	10:00	24:00	1	2	90000
+6	monster35000001	1	20.9,-5.1,-53.2	10:00	24:00	1	2	90000
+7	monster35000001	1	20.9,-5.1,-53.2	10:00	24:00	1	2	90000
+8	monster35000001	1	20.9,-5.1,-53.2	10:00	24:00	1	2	90000

@@ -1,0 +1,12 @@
+﻿排行ID	分类名字	归属大标签	对应Boss	排行榜开放时间点	展示道具
+int	string	int	string	string	string
+Id	RankName	Label	BossId	OpenTime	ShowItem
+1	SailingSeason_rank1	2	Monster1	2022-01-10-00:00:00	
+2	SailingSeason_rank2	2	Monster2	2022-01-12-00:00:00	
+3	SailingSeason_rank3	2	Monster3	2022-01-14-00:00:00	
+4	SailingSeason_rank4	2	Monster4	2022-01-16-00:00:00	
+5	SailingSeason_rank5	2	Monster5	2022-01-19-00:00:00	
+6	SailingSeason_rank6	2	Monster6	2022-01-22-00:00:00	
+7	SailingSeason_rank7	2	Monster7	2022-01-25-00:00:00	
+8	SailingSeason_rank8	2	Monster8	2022-01-28-00:00:00	
+101	SailingSeason_ranktotal	2		2022-01-10-00:00:00	

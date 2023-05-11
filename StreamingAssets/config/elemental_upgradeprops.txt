@@ -1,0 +1,6 @@
+﻿流水id	道具ID	经验/属性增加值	消耗货币
+int	string	int	string
+Id	Item	Exp	CurrencyCost
+1	item128000032001	1000	item1000,10000
+2	item128000032002	2000	item1000,20000
+3	item128000032003	10000	item1000,100000

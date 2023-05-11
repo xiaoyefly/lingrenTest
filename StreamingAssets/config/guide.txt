@@ -1,0 +1,477 @@
+﻿流水ID	编号	步骤	内容类型	提示内容	提示内容位置	提示内容弹出方式	提示内容字体大小	文字居中	方向	引导框大小	引导框位置偏移	引导出现延迟	目标是否旋转	旋转速度和半径	关键步	是否依赖上一个引导	开启条件类型	开启条件内容	是否反复触发	相对层级	是否强制	是否遮罩	是否全屏触发	重新引导版本	步骤名字	前置对象路径	不添加触发对象	触发对象路径	触发NPC	移动位置	移动提示特效半径	人声语音	适用渠道
+int	int	int	int	string	string	int	int	bool	int	string	string	float	int	string	bool	bool	int	string	bool	int	bool	bool	bool	int	string	string	bool	string	int	int	int	int	string
+Id	GuideId	Step	ContentType	Text	TextPos	TextWay	TextFontSize	TextMiddle	TextPoint	FrameSize	FramePos	Delay	RotateType	RotateParams	KeyStep	NeedLast	ConditionType	ConditionValue	IsRepeat	SortIndex	IsForce	IsBlack	IsFullTouch	ReGuideVersion	StepName	FrontItem	IsNoTriggerItem	TriggerItem	TriggerNpc	MovePos	radius	Audio	SdkTypes
+1	33	0	0	GuideText330	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				2	10000030		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/NoSpreadRoot/FuncBtn_7	0	0	0	0	
+2	33	1	0	GuideText331	-40;0	0	20	1	3	0.7;0.7		0.000000	0				0			0				0				BagPanel/MyRoot/BagItemListPageCanvas/ItemListRoot/BagItemListPage(Clone)/Scroll View/Viewport/Content/item107000020102/ItemIconRoot/ItemIcon(Clone)	0	0	0	100002	
+3	33	2	0	GuideText332	-20;0	0	20	1	3	1;1		0.000000	0				0			0				0				ItemTipsPanel/Root/ButtonArea/Common/RightButtonGreen	0	0	0	100003	
+4	33	3	0	GuideText333	0;0	1	20	1	1	1.2;1		0.000000	0		1		0			0				0				BagPanel/MyRoot/SoulStonePageRoot/StrengthenSoulStonePage(Clone)/FunctionPageRoot/SoulStoneInlayPageRoot/StrengthenSoulStoneInlayPage(Clone)/MyRoot/GemOperateRoot/Confirm	0	0	0	100004	
+5	33	4	0	GuideText334	50;-9	0	20	1	1	0.5;0.5	-4;-5	0.000000	0			1	0			0				0		NavigationPanel/Root/CloseButton		NavigationPanel/Root/CloseButton	0	0	0	0	
+6	33	5	0	GuideText335	10;0	0	20	1	3	0.89;0.64	-6;0	0.000000	0			1	0			0				0				MainPanel/LeftSafeArea/TaskTeamPage(Clone)/Root/ContainerPageRoot/ContainerPage(Clone)/Viewport/Content/10000040	0	0	0	100007	
+7	34	0	0	GuideText340	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				1	100		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/NoSpreadRoot/FuncBtn_7	0	0	0	100001	
+8	34	1	0	GuideText341	-40;0	1	20	1	3	0.7;0.7		0.300000	0		1		0			0				0				BagPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (1)	0	0	0	100008	
+9	34	2	0	GuideText343	0;0	1	20	1	1	1.2;1		0.000000	0				0			0				0				BagPanel/MyRoot/SoulStonePageRoot/StrengthenSoulStonePage(Clone)/FunctionPageRoot/SoulStoneInlayPageRoot/StrengthenSoulStoneInlayPage(Clone)/MyRoot/GemOperateRoot/Confirm	0	0	0	100004	
+10	34	3	0	GuideText344	50;-9	0	20	1	1	0.5;0.5	-4;-5	0.000000	0			1	0			0				0		NavigationPanel/Root/CloseButton		NavigationPanel/Root/CloseButton	0	0	0	0	
+11	35	0	0	GuideText350	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				2	11100120		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/NoSpreadRoot/FuncBtn_7	0	0	0	100001	
+12	35	1	0	GuideText351	-40;0	1	20	1	3	0.7;0.7		0.300000	0		1		0			0				0				BagPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (1)	0	0	0	100008	
+13	35	2	0	GuideText353	0;0	1	20	1	1	1.2;1		0.000000	0				0			0				0				BagPanel/MyRoot/SoulStonePageRoot/StrengthenSoulStonePage(Clone)/FunctionPageRoot/SoulStoneInlayPageRoot/StrengthenSoulStoneInlayPage(Clone)/MyRoot/GemOperateRoot/Confirm	0	0	0	100004	
+14	35	3	0	GuideText354	40;0	1	20	1	1	1;1		0.000000	0				0			0				0				BagPanel/MyRoot/SoulStonePageRoot/StrengthenSoulStonePage(Clone)/FunctionPageRoot/SoulStoneInfoPageRoot/StrengthenSoulStoneInfoPage(Clone)/MyRoot/SoulStoneAreaRoot/LevelUpBtn	0	0	0	100010	
+15	35	4	0	GuideText355	0;0	0	20	1	2	1;1		0.000000	0				0			0				0				StrengthenSoulStoneLevelUpPanel/Window/MyRoot/OperateRoot/AutoSelectBtn	0	0	0	100011	
+16	35	5	0	GuideText356	0;0	0	20	1	2	1;1		0.000000	0			1	0			0				0				StrengthenSoulStoneLevelUpPanel/Window/MyRoot/OperateRoot/LevelUpBtn	0	0	0	100012	
+17	35	6	0	GuideText357	40;0	1	20	1	1	0.8;0.8		0.000000	0			1	0			0				0				StrengthenSoulStoneLevelUpPanel/Window/System/ExitBtn	0	0	0	0	
+18	35	7	0	GuideText358	50;-9	0	20	1	1	0.5;0.5	-4;-5	0.000000	0			1	0			0				0		NavigationPanel/Root/CloseButton		NavigationPanel/Root/CloseButton	0	0	0	0	
+19	2002	0	0	GuideText20020	40;-10	1	20	1	1	1;0.9	0;-10	0.000000	0				3	EggTimeUp		0				0				MainPanel/MainPage/Root/ShowPetEggBtnRoot/ShowPetEggBtnPage(Clone)/Root/SelfBtn	0	0	0	100013	
+20	2005	0	0	GuideText20050	10;0	0	20	1	3	0;0	-10000;0	0.000000	0		1		4	11100010,1,3		0				0				MainPanel/LeftSafeArea/TaskTeamPage(Clone)/Root/ContainerPageRoot/ContainerPage(Clone)/Viewport/Content/11100010	0	0	0	0	
+21	2003	0	0	GuideText20030	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				4	11100060,1,3		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	0	
+22	2003	1	0	GuideText20031	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_5	0	0	0	100016	
+23	2003	2	0	GuideText20032	-40;0	0	20	1	3	0.8;0.8		0.000000	0				0			0				0				SkillPanel/MyRoot/SkillPageRoot/SkillPage(Clone)/PanelSkillInfo/ScrollRect/Viewport/Content/FightSkill/SkillRoot/0	0	0	0	100017	
+24	2003	3	0	GuideText20033	10;0	1	20	1	1	1.2;1		0.000000	0				0			0				0				SkillTipsPanel/PanelRoot/ButtonArea/ButtonUpgrade	0	0	0	100018	
+25	2003	4	0	GuideText20034	50;-9	0	20	1	1	0.5;0.5	-4;-5	0.000000	0			1	0			0				0				NavigationPanel/Root/CloseButton	0	0	0	0	
+26	2009	0	0	GuideText20090	0;20	1	24	1	2	0.6;0.6		0.000000	0		1		4	11100190,0,3		0				0				MainPanel/MainPage/PotionButton/IconRoot/ItemIcon(Clone)	0	0	0	0	
+27	2009	1	0	GuideText20091	-60;0	1	20	1	1	0.9;0.9		0.000000	0			1	0			0				0				MainPanel/MainPage/PotionSelectPageRoot/PotionSelectPage(Clone)/Root/FixedScrollView/Viewport/Content/0	0	0	0	100020	
+28	2011	0	0	GuideText20111	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				5	90		0	1	1		0		MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn		MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	0	
+29	2011	1	0	GuideText20112	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0	1	1		0		MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_37		MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_37	0	0	0	100022	
+30	2011	2	0	GuideText20113	-40;0	1	20	1	3	0.7;0.7		0.300000	0				0			0	1	1		0		PetPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (1)		PetPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (1)	0	0	0	100023	
+31	2011	3	0	GuideText20114	0;0	1	20	1	1	1;1		0.000000	0			1	0			0	1	1		0		PetPanel/MyRoot/PetPageRoot/PetInfoPage(Clone)/PetInfomationPage(Clone)/PlayedBtn		PetPanel/MyRoot/PetPageRoot/PetInfoPage(Clone)/PetInfomationPage(Clone)/PlayedBtn	0	0	0	100024	
+32	2011	4	0	GuideText20115	50;-9	0	20	1	1	0.5;0.5	-4;-5	0.000000	0			1	0			0	1	1		0		NavigationPanel/Root/CloseButton		NavigationPanel/Root/CloseButton	0	0	0	0	
+33	2001	0	0	GuideText20010	70;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0		1		4	10100180,1,3		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaRoot/FuncBtn_112	0	0	0	0	
+34	2001	1	0	GuideText20012	0;0	0	20	1	1	1;1		0.000000	0			1	0			0				0				HeroRoadPanel/Window/MyRoot/TargetPage/TargetInfoPage/RewardTitleBg/GetBtn	0	0	0	100027	
+35	2001	2	0	GuideText20013	20;0	1	20	1	3	1;1		0.000000	0			1	0			0				0				HeroRoadPanel/Window/MyRoot/Left/MenuScrollView/Viewport/Content/0/ParentCell	0	0	0	100028	
+36	2001	3	0	GuideText20014	0;0	0	20	1	2	1;1		0.000000	0			1	0			0				0				HeroRoadPanel/Window/MyRoot/LevelPage/ButtomRoot/ProgressBarBg/ProgressBar/UpgradeBtn	0	0	0	100029	
+37	2001	4	0	GuideText20015	0;20	0	20	1	2	0.8;0.8		0.000000	0			1	0			0				0				HeroRoadPanel/Window/MyRoot/LevelPage/ButtomRoot/BoxRoot/BoxButton	0	0	0	0	
+38	2001	5	0	GuideText20016	50;-5	0	20	1	1	0.5;0.5		0.000000	0			1	0			0				0				HeroRoadPanel/System/ExitBtn	0	0	0	0	
+39	2004	0	0	GuideText20040	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				2	10200030		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	0	
+40	2004	1	0	GuideText20041	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_12	0	0	0	100036	
+41	2004	2	0	GuideText20042	0;0	0	20	1	1	1.1;1		0.000000	0				0			0				0				StrengthenPanel/MyRoot/BlessPageRoot/StrengthenBlessPage(Clone)/OperateRegion/AutoAddBtn	0	0	0	100037	
+42	2007	0	0	GuideText20070	-50;0	0	20	1	3	0.8;0.8		0.000000	0				4	10200088,1,3		0				0				FairyBallBtnPanel/Root/ItemRoot/ItemButton	0	0	0	100038	
+43	2008	0	0	GuideText20080	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				2	10200088		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+44	2008	1	0	GuideText20081	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_37	0	0	0	100022	
+45	2008	2	0	GuideText20082	-40;0	1	20	1	3	0.7;0.7		0.300000	0				0			0				0				PetPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (3)	0	0	0	100039	
+46	2008	3	0	GuideText20083	-40;0	0	20	1	3	1;1		0.000000	0				0			0				0				PetPanel/MyRoot/EggPageRoot/PetEggPage(Clone)/ShowRoot1/AddBtn	0	0	0	100040	
+47	2008	4	0	GuideText20084	0;-30	0	20	1	0	0.7;0.7		0.000000	0				0			0				0				PetPanel/MyRoot/EggPageRoot/PetEggPage(Clone)/EggList/ListRoot/ItemIconScrollView/Viewport/Content/0/ItemIconRoot/ItemIcon	0	0	0	100041	
+48	2008	5	0	GuideText20085	50;-9	0	20	1	1	0.5;0.5	-4;-5	0.000000	0			1	0			0				0				NavigationPanel/Root/CloseButton	0	0	0	0	
+49	2012	0	0	GuideText20120	10;0	0	20	1	3	0.89;0.64	-6;0	0.000000	0		1		4	11100160,3,3		0				0				MainPanel/LeftSafeArea/TaskTeamPage(Clone)/Root/ContainerPageRoot/ContainerPage(Clone)/Viewport/Content/11100160	0	0	0	100042	
+50	2012	1	0	GuideText20121	40;0	0	20	1	1	0.9;0.8	0;-1	0.000000	0				0			0				0				PhotoDisplayPanel/GameObject/BackButton	0	0	0	100043	
+51	1006	0	0	GuideText10063	70;0	1	20	1	1	0.8;0.8		0.000000	0				3	10200037,0,3	1	0				0			1	WorldMapPanel/PanelTab/CascadeTabs/TabPage3/Map/SceneImage/RayCastArea/icon_world0	0	0	0	100047	
+52	1006	1	0	GuideText10064	70;0	1	20	1	1	0.8;0.8		0.000000	0				0			0				0			1	WorldMapPanel/PanelTab/CascadeTabs/TabPage3/Map/SceneImage/RayCastArea/icon_world	0	0	0	100047	
+53	1006	2	0	GuideText10065	70;0	1	20	1	1	0.8;0.8		0.000000	0				0			0				0			1	WorldMapPanel/PanelTab/CascadeTabs/TabPage3/Map/SceneImage/RayCastArea/icon_world2	0	0	0	100047	
+54	1006	3	0	GuideText10066	70;0	1	20	1	1	0.8;0.8		0.000000	0				0			0				0			1	WorldMapPanel/PanelTab/CascadeTabs/TabPage3/Map/SceneImage/RayCastArea/icon_world3	0	0	0	100047	
+55	1006	4	0	GuideText10067	0;0	1	20	1	1	1;1		0.000000	0		1		0			0				0				TaskTipsPanel/Root/GoBtn	0	0	0	0	
+56	1004	0	0	GuideText10040	0;-2	0	20	1	0	0.7;0.7	0;-2	0.000000	0		1		3	510020,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaRoot/FuncBtn_6	0	0	0	100044	
+57	1004	1	0	GuideText10041	0;0	0	20	1	0	1;0.8		0.000000	0				0			0				0				AdventurePanel/Window/MyRoot/RightPanel/ActivityPanelRoot/AdventureActivityPage(Clone)/Panel/FixedScrollView/Viewport/Content/UI_FuncName_25/OpenState	0	0	0	100049	
+58	1004	2	0	GuideText10042	0;0	0	20	1	2	1;0.9		0.000000	0				0			0				0				DungeonInfoPanel/Window/MyRoot/RightPanel/DungeonNormalInfoPageRoot/TeamDungeonEnterPanel(Clone)/Window/Dungeon_NormalRoot/RightRoot/GoRoot/GoBtn	0	0	0	100048	
+59	1004	3	1	GuideText10043	0.9;0.34	1	0		0			0.000000	0			1	0			0				0					0	0	0	100050	
+60	1004	4	1	GuideText10044	0.9;0.34	0	0		0			0.000000	0		1	1	0			0				0				TeamEasyGroupPanel/Window/MyRoot/CreateBtn	0	0	0	100051	
+61	1004	5	1	GuideText10045	0.85;0.34	2	0		0			0.000000	0			1	0			0				0				TeamEasyGroupPanel/Window/MyRoot/AutoBtn	0	0	0	100052	
+62	1012	0	0	GuideText10120	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510150,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+63	1012	1	0	GuideText10121	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_5	0	0	0	100016	
+64	1012	2	0	GuideText10122	-40;0	1	20	1	3	0.7;0.7		0.300000	0				0			0				0				SkillPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (2)	0	0	0	100053	
+65	1012	3	1	GuideText10123	0.6;0.3	0	0		3			0.000000	0			1	0			0				0					0	0	0	100054	
+66	1012	4	1	GuideText10124	0.5;0.3	1	0		1			0.000000	0			1	0			0				0				SkillPanel/MyRoot/LifeSkillPageRoot/LifeSkillPage(Clone)/InfoPageRoot(Clone)/LifeSkillInfoPage(Clone)/DetailInfoPage/StudySkillBtn	0	0	0	100055	
+67	1010	0	0	GuideText10100	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510170,1,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+68	1010	1	0	GuideText10101	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_1	0	0	0	100056	
+69	1010	2	0	GuideText10102	-20;0	0	20	1	1	1;1		0.000000	0				0			0				0				ConversationPanel/Root/FuncBg/BtnRoot/MenuOpt_forge_equip	0	0	0	100057	
+70	1010	3	0	GuideText10103	80;0	2	20	1	3	1;1		0.000000	0				0			0				0				ForgingPanel/Left/RecipeRoot/ListViewRoot/L_View/Viewport/Content/2	0	0	0	100058	
+71	1010	4	0	GuideText10104	0;0	0	20	1	2	1;0.9		0.000000	0			1	0			0				0				ForgingPanel/Right/CommonRoot/Buttom/ConfirmBtn	0	0	0	100059	
+72	1010	5	0	GuideText10105	20;0	0	20	1	3	1.1;1.1		0.000000	0				0			0				0				ForgingPanel/SelectPageRoot/ForgingDisplayPage(Clone)/ItemPage1/DisplayItem0/Image/EquipIcon(Clone)	0	0	0	100060	
+73	1010	6	0	GuideText10106	10;-10	0	20	1	0	0.6;0.5	10;-4	0.000000	0			1	0			0				0				ForgingPanel/Right/CloseBtnRight	0	0	0	0	
+74	2010	0	0	GuideText20100	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	10200210,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	0	
+75	2010	1	0	GuideText20101	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_5	0	0	0	100016	
+76	2010	2	0	GuideText20102	-40;0	1	20	1	3	0.7;0.7		0.300000	0				0			0				0				SkillPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (1)	0	0	0	100061	
+77	2010	3	0	GuideText20103	-20;0	0	20	1	3	1.1;0.7		0.000000	0			1	0			0				0				SkillPanel/MyRoot/TalentPageRoot/TalentTotalPage(Clone)/TalentGroupArea/SelectTalentGroupSlotPos/TGBtnTemplate(Clone)/UsingBtn	0	0	0	100062	
+78	2010	4	0	GuideText20104	-40;0	0	20	1	3	0.7;0.7		1.500000	0				0			0				0				SkillPanel/MyRoot/TalentPageRoot/TalentTotalPage(Clone)/SlotRoot/1_1/SlotRoot/RuneAndTalentSlotItem(Clone)	0	0	0	100063	
+79	2010	5	0	GuideText20105	0.5;0	1	20	1	1	0.95;0.7		0.000000	0				0			0				0				TalentTipsPanel/PanelRoot/TalentItemTips/ButtonArea/UpgradeBtn	0	0	0	100012	
+80	2010	6	0	GuideText20106	50;-9	0	20	1	1	0.5;0.5	-4;-5	0.000000	0			1	0			0				0				NavigationPanel/Root/CloseButton	0	0	0	0	
+81	1003	0	0	GuideText10030	0;-2	0	20	1	0	0.7;0.7	0;-2	0.000000	0		1		3	510010,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaRoot/FuncBtn_6	0	0	0	100044	
+82	1003	1	0	GuideText10031	0;0	0	20	1	0	1;0.8		0.000000	0				0			0				0				AdventurePanel/Window/MyRoot/RightPanel/ActivityPanelRoot/AdventureActivityPage(Clone)/Panel/FixedScrollView/Viewport/Content/UI_FuncName_30/OpenState	0	0	0	100065	
+83	1011	0	0	GuideText10110	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510180,1,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+84	1011	1	0	GuideText10111	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_1	0	0	0	100056	
+85	1011	2	0	GuideText10112	-20;0	0	20	1	1	1;1		0.000000	0				0			0				0				ConversationPanel/Root/FuncBg/BtnRoot/MenuOpt_forge_jewelry	0	0	0	0	
+86	1011	3	0	GuideText10113	80;0	2	20	1	3	1;1		0.000000	0				0			0				0				ForgingPanel/Left/RecipeRoot/ListViewRoot/L_View/Viewport/Content/0	0	0	0	0	
+87	1011	4	0	GuideText10114	0;0	0	20	1	2	1;0.9		0.000000	0			1	0			0				0				ForgingPanel/Right/CommonRoot/Buttom/ConfirmBtn	0	0	0	100059	
+88	1011	5	0	GuideText10115	20;0	0	20	1	3	1.1;1.1		0.000000	0				0			0				0				ForgingPanel/SelectPageRoot/ForgingDisplayPage(Clone)/ItemPage1/DisplayItem0/Image/EquipIcon(Clone)	0	0	0	100060	
+89	1011	6	0	GuideText10116	10;-10	0	20	1	0	0.6;0.5	10;-4	0.000000	0			1	0			0				0				ForgingPanel/Right/CloseBtnRight	0	0	0	0	
+90	1005	0	0	GuideText10050	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510100,1,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+91	1005	1	0	GuideText10051	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_12	0	0	0	100036	
+92	1005	2	0	GuideText10052	-40;0	1	20	1	3	0.7;0.7		0.300000	0				0			0				0				StrengthenPanel/MyRoot/PanelTabPageRoot/PanelTabScrollViewPage(Clone)/ToggleGroup/FixedScrollView/Viewport/Content/39	0	0	0	100066	
+93	1005	3	0	GuideText10053	-20;0	0	20	1	3	1;1		0.000000	0			1	0			0				0				StrengthenPanel/MyRoot/RefinePageRoot/StrengthenRefinePage(Clone)/OperateRegion/RefineQuickSelectBtn	0	0	0	100067	
+94	1005	4	0	GuideText10054	0;0	0	20	1	2	1.1;1		0.000000	0			1	0			0				0				StrengthenPanel/MyRoot/RefinePageRoot/StrengthenRefinePage(Clone)/OperateRegion/RefineBtn	0	0	0	100068	
+95	1005	5	0	GuideText10055	50;-9	0	20	1	1	0.5;0.5	-4;-5	0.000000	0			1	0			0				0				NavigationPanel/Root/CloseButton	0	0	0	0	
+96	1008	0	0	GuideText10080	0;-2	0	20	1	0	0.7;0.7	0;-2	0.000000	0		1		3	510060,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaRoot/FuncBtn_6	0	0	0	100044	
+97	1008	1	0	GuideText10081	0;0	0	20	1	0	1;0.8		0.000000	0				0			0				0				AdventurePanel/Window/MyRoot/MenuPanel/TreeMenuPage(Clone)/ListView/Content/ParentMenuCell1	0	0	0	0	
+98	1008	2	0	GuideText10082	0;0	0	20	1	0	1;0.8		0.000000	0				0			0				0				AdventurePanel/Window/MyRoot/RightPanel/ActivityPanelRoot/AdventureActivityPage(Clone)/Panel/FixedScrollView/Viewport/Content/UI_FuncName_13/OpenState	0	0	0	100069	
+99	1008	3	0	GuideText10083	-20;0	0	18	1	3	1;1		0.000000	0				0			0				0				ArenaPanel/Window/MyRoot/RightRoot/MemberRoot/Cell (1)/NormalRankAndScore/PlayBtn	0	0	0	100070	
+100	1021	0	0	GuideText10210	-20;0	0	20	1	1	1;1		0.000000	0		1		3	510200,0,3	1	0				0				ConversationPanel/Root/FuncBg/BtnRoot/1	0	0	0	0	
+101	1021	1	0	GuideText10211	0;0	0	20	1	2	1;1		0.000000	0				0			0				0				SecretPanel/Right/MyRoot/Normal/ButtonRoot/GoBtn	0	0	0	0	
+102	1022	0	0	GuideText10220	0;-2	0	20	1	0	0.7;0.7	0;-2	0.000000	0		1		3	510210,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaRoot/FuncBtn_6	0	0	0	100044	
+103	1022	1	0	GuideText10222	0;0	0	20	1	0	1;0.8		0.000000	0				0			0				0				AdventurePanel/Window/MyRoot/MenuPanel/TreeMenuPage(Clone)/ListView/Content/ParentMenuCell2	0	0	0	0	
+104	1022	2	0	GuideText10221	0;0	0	20	1	0	1;0.8		0.000000	0				0			0				0				AdventurePanel/Window/MyRoot/RightPanel/ActivityPanelRoot/AdventureActivityPage(Clone)/Panel/FixedScrollView/Viewport/Content/UI_FuncName_33/OpenState	0	0	0	100071	
+105	1023	0	0	GuideText10230	0;-2	0	20	1	0	0.7;0.7	0;-2	0.000000	0		1		3	510220,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaRoot/FuncBtn_6	0	0	0	100044	
+106	1023	1	0	GuideText10232	0;0	0	20	1	0	1;0.8		0.000000	0				0			0				0				AdventurePanel/Window/MyRoot/MenuPanel/TreeMenuPage(Clone)/ListView/Content/ParentMenuCell2	0	0	0	0	
+107	1023	2	0	GuideText10231	0;0	0	20	1	0	1;0.8		0.000000	0				0			0				0				AdventurePanel/Window/MyRoot/RightPanel/ActivityPanelRoot/AdventureActivityPage(Clone)/Panel/FixedScrollView/Viewport/Content/UI_FuncName_34/OpenState	0	0	0	0	
+108	1025	0	0	GuideText10250	-70;0	0	24	1	3	40;40		0.000000	0		1		3	510240,0,3		0				0				WorldMapPanel/PanelTab/CascadeTabs/TabPage3/MapExploreEnter/HelpBtn	0	0	0	100072	
+109	1026	0	0	GuideText10260	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510280,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+110	1026	1	0	GuideText10261	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_50	0	0	0	100073	
+111	1026	2	1	GuideText10262	0.4;0.3	1	0		0			0.000000	0			1	0			0				0					0	0	0	100074	
+112	1026	3	1	GuideText10263	0.9;0.55	0	0		0			0.000000	0			1	0			0				0					0	0	0	100075	
+113	1027	0	0	GuideText10270	0;-2	0	20	1	0	0.7;0.7	0;-2	0.000000	0		1		3	510285,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaRoot/FuncBtn_6	0	0	0	100044	
+114	1027	1	0	GuideText10271	0;0	0	20	1	0	1;0.8		0.000000	0				0			0				0				AdventurePanel/Window/MyRoot/RightPanel/ActivityPanelRoot/AdventureActivityPage(Clone)/Panel/FixedScrollView/Viewport/Content/UI_FuncName_51/OpenState	0	0	0	100076	
+115	1027	2	0	GuideText10272	0;0	0	20	1	2	1;1		0.000000	0				0			0				0				ConversationPanel/Root/FuncBg/BtnRoot/1	0	0	0	100077	
+116	1031	0	0	GuideText10310	-20;0	0	20	1	1	1;1		0.000000	0		1		3	510185,1,3	1	0				0				ConversationPanel/Root/FuncBg/BtnRoot/MenuOpt_magic_transform	0	0	0	0	
+117	1031	1	1	GuideText10311	0.5;0.5	1	0		0			0.000000	0			1	0			0				0					0	0	0	100079	
+118	1031	2	1	GuideText10312	0.5;0.2	2	0		0			0.000000	0			1	0			0				0					0	0	0	100080	
+119	1035	0	0	GuideText10350	20;0	1	20	1	1	1;1		0.000000	0				3	400012,2,3	1	0				0				MainPanel/SceneInteractionPage/Root/Button (1)/NormalBtn	0	0	0	100081	
+120	1033	0	0	GuideText10330	20;0	1	20	1	1	1;1		0.000000	0				3	161160,2,3	1	0				0				MainPanel/SceneInteractionPage/Root/Button (2)/NormalBtn	0	0	0	100082	
+121	1034	0	0	GuideText10340	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0		1		3	510320,1,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/NoSpreadRoot/FuncBtn_7	0	0	0	0	
+122	1034	1	0	GuideText10341	50;0	1	20	1	1	1;1		0.000000	0				0			0				0				BagPanel/MyRoot/BagItemListPageCanvas/ItemListRoot/BagItemListPage(Clone)/Scroll View/Viewport/Content/unidfequip510320999/ItemIconRoot/ItemIcon(Clone)	0	0	0	100083	
+123	1034	2	0	GuideText10342	-20;0	0	20	1	3	1;1		0.000000	0			1	0			0				0				ItemTipsPanel/Root/ButtonArea/Common/RightButtonGreen	0	0	0	100084	
+124	1040	0	0	GuideText10400	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				5	37		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+125	1040	1	0	GuideText10401	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_37	0	0	0	100022	
+126	1040	2	0	GuideText10402	20;0	1	20	1	1	1;1		0.000000	0				0			0				0				PetPanel/MyRoot/PetPageRoot/PetInfoPage(Clone)/PetInfomationPage(Clone)/FollowBtn	0	0	0	100085	
+127	1040	3	0	GuideText10403	20;0	1	20	1	1	1;1		0.000000	0			1	0			0				0				PetPanel/MyRoot/PetPageRoot/PetInfoPage(Clone)/PetInfomationPage(Clone)/PlayedBtn	0	0	0	100086	
+128	1040	4	0	GuideText10404	-50;0	0	20	1	3	1;1		0.000000	0				0			0				0				PetFightEquipPanel/Window/MyRoot/Left/PetSkillRoot/PetSkill1/AddBtn	0	0	0	100087	
+129	1040	5	0	GuideText10405	-85;-20	0	20	1	0	0.55;1	-85;0	0.000000	0				0			0				0				PetFightListPanel/Root/FixedScrollView/Viewport/Content/0/RaycastArea	0	0	0	100088	
+130	1040	6	0	GuideText10406	60;0	0	20	1	1	0.8;0.8		0.000000	0			1	0			0				0				PetFightEquipPanel/Window/System/ExitBtn	0	0	0	0	
+131	1040	7	0	GuideText10407	50;-9	0	20	1	1	0.5;0.5	-4;-5	0.000000	0			1	0			0				0				NavigationPanel/Root/CloseButton	0	0	0	0	
+132	1041	0	0	GuideText10410	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510440,2,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+133	1041	1	0	GuideText10411	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_5	0	0	0	100016	
+134	1041	2	0	GuideText10412	-40;0	1	20	1	3	0.7;0.7		0.300000	0				0			0				0				SkillPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (1)	0	0	0	100061	
+135	1041	3	1	GuideText10413	0.65;0.65	1	20	1	3	1.1;0.7		0.000000	0				0			0				0				SkillPanel/MyRoot/TalentPageRoot/TalentTotalPage(Clone)/SlotRoot/6_0/SlotRoot/RuneAndTalentSlotItem(Clone)	0	0	0	100089	
+136	1042	0	0	GuideText10420	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510450,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+137	1042	1	0	GuideText10421	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_37	0	0	0	100022	
+138	1042	2	0	GuideText10422	40;0	1	20	1	1	1;1		0.000000	0				0			0				0				PetPanel/MyRoot/PetPageRoot/PetInfoPage(Clone)/ToggleGroupHorizontal/Toggle1	0	0	0	100090	
+139	1042	3	0	GuideText10423	-40;0	1	20	1	1	1;1		0.000000	0			1	0			0				0				PetPanel/MyRoot/PetPageRoot/PetInfoPage(Clone)/Level/PlayedBtn	0	0	0	100064	
+140	1043	0	0	GuideText10430	40;0	1	20	1	1	1;1		0.000000	0				3	510460,0,3	1	0				0				PetPanel/MyRoot/PetPageRoot/PetInfoPage(Clone)/ToggleGroupHorizontal/Toggle2	0	0	0	0	
+141	1043	1	0	GuideText10431	-40;0	1	20	1	1	1;1		0.000000	0		1	1	0			0				0				PetPanel/MyRoot/PetPageRoot/PetInfoPage(Clone)/Break/LevelBtn	0	0	0	0	
+142	1043	2	0	GuideText10432	0;0	0	20	1	3	1;1		0.000000	0				0			0				0				MsgBoxPanel/Window/MyRoot/OKBtn	0	0	0	0	
+143	1043	3	1	GuideText10433	0.55;0.55	1	20	1	3	1.1;0.7		0.000000	0				0			0				0				ConversationPanel/Root/FuncBg/BtnRoot/1	0	0	0	0	
+144	1043	4	1	GuideText10434	0.55;0.45	1	20	1	3	1.1;0.7		0.000000	0			1	0			0				0				ConversationPanel/Root/FuncBg/BtnRoot/2	0	0	0	0	
+145	1045	0	0	GuideText10450	10;0	1	20	1	3	1;0.9		0.000000	0				3	11100210,0,3	1	0				0				WorldMapPanel/PanelTab/CascadeTabs/TabPage3/NearInfoPanel/ScrollView/Viewport/Content/11100230/Item	0	0	0	0	
+146	1045	1	0	GuideText10451	10;0	1	20	1	3	1;0.9		0.000000	0				0			0				0				WorldMapPanel/PanelTab/CascadeTabs/TabPage3/NearInfoPanel/ScrollView/Viewport/Content/11100220/Item	0	0	0	0	
+147	1045	2	0	GuideText10452	10;0	1	20	1	3	1;0.9		0.000000	0				0			0				0				WorldMapPanel/PanelTab/CascadeTabs/TabPage3/NearInfoPanel/ScrollView/Viewport/Content/11100050/Item	0	0	0	0	
+148	1046	0	0	GuideText10460	50;0	1	20	1	1	1;1		0.000000	0				3	510430,1,3	1	0				0				BagPanel/MyRoot/BagItemListPageCanvas/ItemListRoot/BagItemListPage(Clone)/Scroll View/Viewport/Content/item161000000001/ItemIconRoot/ItemIcon(Clone)	0	0	0	100095	
+149	1046	1	0	GuideText10461	-20;0	0	20	1	3	1;1		0.000000	0				0			0				0				ItemTipsPanel/Root/ButtonArea/Common/RightButtonGreen	0	0	0	100096	
+150	1047	0	0	GuideText10470	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510650,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100097	
+151	1047	1	0	GuideText10471	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_50	0	0	0	100098	
+152	1047	2	0	GuideText10472	0;0	1	20	1	1	1.2;1		0.000000	0				0			0				0				GuildPanel/Window/TabsRoot/EquipToggle4	0	0	0	0	
+153	1047	3	0	GuideText10473	0;0	1	20	1	1	1.2;1		0.000000	0			1	0			0				0				GuildPanel/Window/MyRoot/WelfarePageRoot/GuildWelfarePage(Clone)/FixedScrollView/Viewport/Content/3/Button	0	0	0	100100	
+154	1047	4	0	GuideText10474	-15;0	1	20	1	1	1;1		0.000000	0				0			0				0				GuildTrainPanel/Window/MyRoot/Right/UpgradeOnceBtn	0	0	0	100101	
+155	1048	0	0	GuideText10480	-20;0	0	20	1	1	1;1		0.000000	0		1		3	510630,1,3	1	0				0				ConversationPanel/Root/FuncBg/BtnRoot/MenuOpt_magic_baptize	0	0	0	0	
+156	1048	1	1	GuideText10481	0.5;0.5	1	0		0			0.000000	0			1	0			0				0					0	0	0	100103	
+157	1048	2	1	GuideText10482	0.5;0.2	2	0		0			0.000000	0			1	0			0				0					0	0	0	100104	
+158	1049	0	0	GuideText10490	-20;0	0	20	1	1	1;1		0.000000	0		1		3	510640,0,3	1	0				0				ConversationPanel/Root/FuncBg/BtnRoot/MenuOpt_magic_smelt	0	0	0	0	
+159	1049	1	1	GuideText10491	0.5;0.5	1	0		0			0.000000	0			1	0			0				0					0	0	0	0	
+160	1050	0	0	GuideText10500	20;0	1	20	1	1	1;1		0.000000	0				4	11100200,1,3		0				0				QuickUsePanel/Root/MyRoot/UseBtn	0	0	0	0	
+161	1050	1	0	GuideText10501	-50;0	1	20	1	3	1;1		0.000000	0		1	1	0			0				0				MainPanel/LeftSafeArea/HeadInfoPage/MainPlayerCell/HeadBgRoot/Icon/HeadIconBtn	0	0	0	100106	
+162	1050	2	0	GuideText10502	50;0	1	20	1	1	1;1		0.000000	0				0			0				0				RoleInformationPanel/Window/MyRoot/RoleInfo/Right/GameObject/Title/Button	0	0	0	100107	
+163	1050	3	0	GuideText10503	-60;0	1	20	1	1	1.1;1		0.000000	0				0			0				0				TitlePanel/Window/MyRoot/RightList/EquipInfo/FixedScrollView/Viewport/Content/0	0	0	0	100108	
+164	1050	4	0	GuideText10504	0;-20	1	20	1	0	1;1		0.000000	0			1	0			0				0				TitlePanel/Window/MyRoot/TitleSelect/FixedScrollView/Viewport/Content/0	0	0	0	100109	
+165	1050	5	0	GuideText10505	0;0	1	20	1	1	1;1		0.000000	0			1	0			0				0				TitlePanel/Window/MyRoot/RightList/EquipInfo/AttrInfo/AddButton	0	0	0	100110	
+166	1050	6	0	GuideText10506	0;-20	1	20	1	0	1;1		0.000000	0			1	0			0				0				TitlePanel/Window/MyRoot/TitleSelect/FixedScrollView/Viewport/Content/0	0	0	0	0	
+167	1050	7	0	GuideText10507	50;-9	0	20	1	1	0.5;0.5	-4;-5	0.000000	0			1	0			0				0				TitlePanel/System/ExitBtn	0	0	0	0	
+168	1050	8	0	GuideText10508	50;-9	0	20	1	1	0.5;0.5	-4;-5	0.000000	0			1	0			0				0				RoleInformationPanel/System/ExitBtn	0	0	0	0	
+169	1051	0	0	GuideText10410	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510710,2,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+170	1051	1	0	GuideText10411	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_5	0	0	0	100016	
+171	1051	2	0	GuideText10412	-40;0	1	20	1	3	0.7;0.7		0.300000	0				0			0				0				SkillPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (1)	0	0	0	100061	
+172	1051	3	1	GuideText10413	0.65;0.65	1	20	1	3	1.1;0.7		0.000000	0				0			0				0				SkillPanel/MyRoot/TalentPageRoot/TalentTotalPage(Clone)/SlotRoot/6_0/SlotRoot/RuneAndTalentSlotItem(Clone)	0	0	0	100089	
+173	1052	0	0	GuideText10410	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510720,2,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+174	1052	1	0	GuideText10411	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_5	0	0	0	100016	
+175	1052	2	0	GuideText10412	-40;0	1	20	1	3	0.7;0.7		0.300000	0				0			0				0				SkillPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (1)	0	0	0	100061	
+176	1052	3	1	GuideText10413	0.65;0.65	1	20	1	3	1.1;0.7		0.000000	0				0			0				0				SkillPanel/MyRoot/TalentPageRoot/TalentTotalPage(Clone)/SlotRoot/6_0/SlotRoot/RuneAndTalentSlotItem(Clone)	0	0	0	100089	
+177	1053	0	0	GuideText10410	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510730,2,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+178	1053	1	0	GuideText10411	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_5	0	0	0	100016	
+179	1053	2	0	GuideText10412	-40;0	1	20	1	3	0.7;0.7		0.300000	0				0			0				0				SkillPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (1)	0	0	0	100061	
+180	1053	3	1	GuideText10413	0.65;0.65	1	20	1	3	1.1;0.7		0.000000	0				0			0				0				SkillPanel/MyRoot/TalentPageRoot/TalentTotalPage(Clone)/SlotRoot/6_0/SlotRoot/RuneAndTalentSlotItem(Clone)	0	0	0	100089	
+181	1054	0	0	GuideText10410	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510740,2,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+182	1054	1	0	GuideText10411	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_5	0	0	0	100016	
+183	1054	2	0	GuideText10412	-40;0	1	20	1	3	0.7;0.7		0.300000	0				0			0				0				SkillPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (1)	0	0	0	100061	
+184	1054	3	1	GuideText10413	0.65;0.65	1	20	1	3	1.1;0.7		0.000000	0				0			0				0				SkillPanel/MyRoot/TalentPageRoot/TalentTotalPage(Clone)/SlotRoot/6_0/SlotRoot/RuneAndTalentSlotItem(Clone)	0	0	0	100089	
+185	1055	0	0	GuideText10410	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510750,2,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+186	1055	1	0	GuideText10411	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_5	0	0	0	100016	
+187	1055	2	0	GuideText10412	-40;0	1	20	1	3	0.7;0.7		0.300000	0				0			0				0				SkillPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (1)	0	0	0	100061	
+188	1055	3	1	GuideText10413	0.65;0.65	1	20	1	3	1.1;0.7		0.000000	0				0			0				0				SkillPanel/MyRoot/TalentPageRoot/TalentTotalPage(Clone)/SlotRoot/6_0/SlotRoot/RuneAndTalentSlotItem(Clone)	0	0	0	100089	
+189	1056	0	0	GuideText10410	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510760,2,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+190	1056	1	0	GuideText10411	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_5	0	0	0	100016	
+191	1056	2	0	GuideText10412	-40;0	1	20	1	3	0.7;0.7		0.300000	0				0			0				0				SkillPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (1)	0	0	0	100061	
+192	1056	3	1	GuideText10413	0.65;0.65	1	20	1	3	1.1;0.7		0.000000	0				0			0				0				SkillPanel/MyRoot/TalentPageRoot/TalentTotalPage(Clone)/SlotRoot/6_0/SlotRoot/RuneAndTalentSlotItem(Clone)	0	0	0	100089	
+193	1057	0	0	GuideText10570	0;-2	0	20	1	0	0.7;0.7	0;-2	0.000000	0		1		1	10		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaRoot/FuncBtn_201	0	0	0	100099	
+194	1057	1	0	GuideText10571	10;0	1	20	1	3	1;0.8		0.000000	0				0			0				0				WelfareActivityPanel/Window/MyRoot/MenuScrollView/Viewport/Content/Guide_BA_3	0	0	0	100112	
+195	1057	2	0	GuideText10572	0;-10	0	20	1	0	1;1		0.000000	0				0			0				0				WelfareActivityPanel/Window/MyRoot/PageRoot/Page_205_3/LevelRewardPage(Clone)/Right/FixedScrollView/Viewport/Content/0/Button	0	0	0	100113	
+196	1058	0	0	GuideText10580	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				2	10100170		0				0		MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/NoSpreadRoot/FuncBtn_7		MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/NoSpreadRoot/FuncBtn_7	0	0	0	0	
+197	1058	1	0	GuideText10581	-25;0	0	20	1	3	0.9;0.9	0;-2	0.000000	0		1		0			0				0		BagPanel/MyRoot/EquipBagPageRoot/EquipBagPage(Clone)/CheckupButton		BagPanel/MyRoot/EquipBagPageRoot/EquipBagPage(Clone)/CheckupButton	0	0	0	100115	
+198	1058	2	1	GuideText10582	0.4;0.3	2	0		0			0.000000	0			1	0			0				0					0	0	0	0	
+199	1058	3	0	GuideText10583	10;-5	1	20	1	3	1;0.8		0.000000	0			1	0			0				0		AstrolabePanel/Root/StageBtn		AstrolabePanel/Root/StageBtn	0	0	0	100117	
+200	1058	4	0	GuideText10584	-5;0	0	20	1	1	1;1		0.000000	0				0			0				0				AstrolabeStagePanel/Root/InfoRoot/RewardButton	0	0	0	100118	
+201	1058	5	0	GuideText10585	-20;0	0	20	1	3	1;1		0.000000	0			1	0			0				0				AstrolabeStagePanel/Root/FixedScrollView/Viewport/Content/0/Root/GotoBtn	0	0	0	0	
+202	1058	6	0	GuideText10586	20;0	0	20	1	1	1;1	0;10	0.000000	0			1	0			0				0		AstrolabePanel/Root/StarRoot/StarCell_Self/StarAreaUIBtn		AstrolabePanel/Root/StarRoot/StarCell_Self/StarAreaUIBtn	0	0	0	100120	
+203	1058	7	0	GuideText10587	20;0	0	20	1	1	0.7;0.7		0.000000	0			1	0			0				0		AstrolabeSinglePanel/Root/UseBtn		AstrolabeSinglePanel/Root/UseBtn	0	0	0	100121	
+204	1058	8	0	GuideText10588	-10;0	0	20	1	1	1;1		0.000000	0				0			0				0		AstrolabeSinglePanel/Root/UseItemList/FixedScrollView/Viewport/Content/0		AstrolabeSinglePanel/Root/UseItemList/FixedScrollView/Viewport/Content/0	0	0	0	0	
+205	1058	9	0	GuideText10589	50;-9	0	20	1	1	0.5;0.5	-4;-5	0.000000	0			1	0			0				0		AstrolabeSinglePanel/Root/CloseButton		AstrolabeSinglePanel/Root/CloseButton	0	0	0	100123	
+206	1058	10	0	GuideText10590	50;-9	0	20	1	1	0.5;0.5	-4;-5	0.000000	0			1	0			0				0		AstrolabePanel/Root/CloseButton		AstrolabePanel/Root/CloseButton	0	0	0	0	
+207	1060	0	0	GuideText10600	20;0	1	20	1	1	1;1		0.000000	0				3	510480,3,3	1	0				0				MainPanel/SceneInteractionPage/Root/Button (2)/NormalBtn	0	0	0	100082	
+208	1060	1	0	GuideText10601	-40;0	0	20	1	3	0.7;0.7		0.000000	0				0			0				0				NpcInteractionPanel/Right/MyRoot/ItemIconScrollView/Viewport/Content/0/ItemIconRoot/ItemIcon(Clone)	0	0	0	100124	
+209	1060	2	0	GuideText10602	-20;0	0	20	1	3	1;1		0.000000	0				0			0				0				NpcInteractionGiftPanel/Window/MyRoot/GiftButton	0	0	0	100125	
+210	1061	0	0	GuideText10610	10;0	0	20	1	3	1;1		0.000000	0				3	510800,0,3	1	0				0				SoulStarCubePanel/MyRoot/EnterObj/SoloObj/TopSoloBtn	0	0	0	100126	
+211	1062	0	0	GuideText10620	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510840,1,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100097	
+212	1062	1	0	GuideText10621	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_43	0	0	0	100127	
+213	1062	2	0	GuideText10622	-35;-2	0	20	1	3	0.9;0.9	0;-2	0.000000	0				0			0				0				FashionPanel/MyRoot/Top/StarStrollBtn	0	0	0	100128	
+214	1062	3	0	GuideText10623	-20;0	0	20	1	3	1;1		0.000000	0				0			0				0				StrollEffectPanel/Window/MyRoot/Left/GameObject/UpgradeButton	0	0	0	100129	
+215	1063	0	0			0	0		0			0.000000	3	272;-138;1			5	138		0				0				HomelandUIPanel/HomelandUIPage/OperateArea/OperateArea2/ObjectIcon1	0	0	0	0	
+216	1064	0	0			0	0		0			0.000000	3	272;-138;1			5	138		0				0				HomelandUIPanel/HomelandUIPage/OperateArea/OperateArea1/ObjectIcon1	0	0	0	0	
+217	1065	0	0			0	0		0			0.000000	3	272;-138;1			5	138		0				0				HomelandUIPanel/HomelandUIPage/OperateArea/OperateArea2/ObjectIcon1	0	0	0	0	
+218	1066	0	0			0	0		0			0.000000	3	272;-138;1			5	138		0				0				HomelandUIPanel/HomelandUIPage/OperateArea/OperateArea2/ObjectIcon2	0	0	0	0	
+219	1067	0	0	GuideText10670	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510830,0,3		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100097	
+220	1067	1	0	GuideText10671	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_138	0	0	0	100130	
+221	1068	0	0	GuideText10680	70;-2	0	20	1	1	0.7;0.7	0;-2	0.000000	0				3	510830,6,3		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaSecRoot/FuncBtn_157	0	0	0	100131	
+222	1069	0	0	GuideText10450	10;0	1	20	1	3	1;0.9		0.000000	0				4	10000010,0,3	1	0				0				WorldMapPanel/PanelTab/CascadeTabs/TabPage3/NearInfoPanel/ScrollView/Viewport/Content/10300340/Item	0	0	0	100094	
+223	1069	1	0	GuideText10451	10;0	1	20	1	3	1;0.9		0.000000	0				0			0				0				WorldMapPanel/PanelTab/CascadeTabs/TabPage3/NearInfoPanel/ScrollView/Viewport/Content/10300330/Item	0	0	0	100094	
+224	1069	2	0	GuideText10452	10;0	1	20	1	3	1;0.9		0.000000	0				0			0				0				WorldMapPanel/PanelTab/CascadeTabs/TabPage3/NearInfoPanel/ScrollView/Viewport/Content/10300325/Item	0	0	0	100094	
+225	1070	0	0	GuideText10700	-40;0	1	20	1	3	0.7;0.7		0.000000	0				3	510240,1,3	1	0				0				WorldMapPanel/PanelTab/CascadeTabs/TabPage3/MapExploreEnter/RewardCanvas/RewardButton	0	0	0	100113	
+226	1071	0	0	GuideText10710	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510850,1,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100097	
+227	1071	1	0	GuideText10713	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_161	0	0	0	100134	
+228	1071	2	0	GuideText10714	10;0	1	20	1	3	1;0.9		0.000000	0				0			0				0				PeakednessCardPanel/MyRoot/RightRoot/LookButton	0	0	0	100135	
+229	1071	3	1	GuideText10715	0.4;0.3	2	0		0			0.000000	0		1	1	0			0				0					0	0	0	100136	
+230	1071	4	0	GuideText10716	60;0	0	20	1	1	0.8;0.8		0.000000	0			1	0			0				0				PeakednessCardCollectPanel/Window/ExitBtn	0	0	0	100137	
+231	1071	5	0	GuideText10717	10;0	1	20	1	3	1;0.9		0.000000	0		1	1	0			0				0				PeakednessCardPanel/MyRoot/RightRoot/ChangeButton	0	0	0	100138	
+232	1071	6	1	GuideText10718	0.4;0.3	2	0		0			0.000000	0			1	0			0				0					0	0	0	100139	
+233	1071	7	0	GuideText10719	50;-5	0	20	1	1	0.5;0.5	-5;0	0.000000	0			1	0			0				0				TradingPanel/System/ExitBtn	0	0	0	100137	
+234	1071	8	0	GuideText107101	20;0	1	20	1	1	1;1		0.000000	0		1	1	0			0				0				PeakednessCardPanel/MyRoot/RightRoot/FixedScrollView/Viewport/Content/0/Complete	0	0	0	100140	
+235	1072	0	0	GuideText10720	60;-2	1	20	1	1	0.8;0.8	0;-2	0.000000	0				4	10100230,1,3		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100097	
+236	1072	1	0	GuideText10721	60;-2	1	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_169	0	0	0	100141	
+237	1072	2	0	GuideText10722	-40;0	0	20	1	3	0.7;0.7		0.000000	0				0			0				0				MercenaryPanel/MyRoot/PanelTabPageRoot/PanelTabPage/ToggleGroup/TabsRoot/EquipToggle (2)	0	0	0	100142	
+238	1072	3	0	GuideText10723	0;0	0	20	1	3	1.1;0.7		0.000000	0				0			0				0				MercenaryPanel/MyRoot/MercenaryListPageRoot/MercenaryLotteryPage(Clone)/WinRoot/RareRoot/OneButton	0	0	0	100143	
+239	1093	0	0	GuideText10720	60;-2	1	20	1	1	0.8;0.8	0;-2	0.000000	0				4	10100240,0,3		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100097	
+240	1093	1	0	GuideText10721	60;-2	1	20	1	1	0.9;0.9	0;-2	0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_169	0	0	0	100141	
+241	1093	2	0	GuideText10724	-40;0	0	20	1	3	0.7;0.7		0.500000	0				0			0				0				MercenaryPanel/MyRoot/PanelTabPageRoot/PanelTabPage/ToggleGroup/TabsRoot/EquipToggle	0	0	0	0	
+242	1093	3	0	GuideText10725	10;0	0	20	1	3	1;1	0;-2	0.000000	0			1	0			0				0				MercenaryPanel/MyRoot/MercenaryListPageRoot/MercenaryListPage(Clone)/ListRoot/FixedScrollView/Viewport/Content/1	0	0	0	0	
+243	1093	4	0	GuideText10726	60;-2	1	20	1	1	0.8;0.8	0;-2	0.000000	0			1	0			0				0				MercenaryPanel/MyRoot/MercenaryListPageRoot/MercenaryListPage(Clone)/MercenaryInfoPage/MercenaryInfoPage(Clone)/Root/Info/SkillTitle/FixedScrollView/Viewport/Content/0	0	0	0	0	
+244	1093	5	0	GuideText10727	-40;0	0	20	1	3	0.8;0.8	0;-2	0.000000	0				0			0				0				MercenaryFriendTipsPanel/FixedScrollView/Viewport/Content/0/CommonRoot/ButtonRoot/ActiveBtn	0	0	0	0	
+245	1080	0	0	GuideText10800	60;-2	1	20	1	1	0.8;0.8	0;-2	0.000000	0				4	10100240,1,3		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100097	
+246	1080	1	0	GuideText10801	60;-2	1	20	1	1	0.9;0.9	0;-2	0.000000	0			1	0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_169	0	0	0	100141	
+247	1080	2	0	GuideText10802	-40;0	0	20	1	3	0.7;0.7		0.000000	0		1		0			0				0				MercenaryPanel/MyRoot/PanelTabPageRoot/PanelTabPage/ToggleGroup/TabsRoot/EquipToggle (3)	0	0	0	100153	
+248	1080	3	0	GuideText10803	-30;0	0	20	1	3	1;1		0.000000	0				0			0				0				MercenaryPanel/MyRoot/MercenaryListPageRoot/MercenarySoulPage(Clone)/ShowRoot/Cell1/AddBtn	0	0	0	100154	
+249	1080	4	0	GuideText10804	0;-20	1	20	1	0	1;1		0.000000	0				0			0				0				MercenarySoulPlayedPage/Root/FixedScrollView/Viewport/Content/0	0	0	0	0	
+250	1080	5	0	GuideText10805	-40;0	0	20	1	3	1;1		0.000000	0			1	0			0				0				MercenaryPanel/MyRoot/PanelTabPageRoot/PanelTabPage/ToggleGroup/TabsRoot/EquipToggle	0	0	0	0	
+251	1080	6	0	GuideText10806	60;-2	0	20	1	3	1;1	0;-2	0.000000	0			1	0			0				0				MercenaryPanel/MyRoot/MercenaryListPageRoot/MercenaryListPage(Clone)/ListRoot/FixedScrollView/Viewport/Content/1	0	0	0	0	
+252	1080	7	0	GuideText10807	60;-2	1	20	1	1	0.8;0.8	0;-2	0.000000	0			1	0			0				0				MercenaryPanel/MyRoot/MercenaryListPageRoot/MercenaryListPage(Clone)/MercenaryInfoPage/MercenaryInfoPage(Clone)/Root/Tabs/Toggle1	0	0	0	0	
+253	1080	8	0	GuideText10808	0;-2	1	20	1	1	1;1	0;-2	0.000000	0			1	0			0				0				MercenaryPanel/MyRoot/MercenaryListPageRoot/MercenaryListPage(Clone)/MercenaryInfoPage/MercenaryInfoPage(Clone)/Root/Advance/LevelUpBtn	0	0	0	0	
+254	1081	0	0	GuideText10811	0;0	0	20	1	0	1;0.8		0.000000	0				0			0				0				AdventurePanel/Window/MyRoot/RightPanel/ActivityPanelRoot/AdventureActivityPage(Clone)/Panel/FixedScrollView/Viewport/Content/UI_FuncName_183/OpenState	0	0	0	100156	
+255	1081	1	0	GuideText10812	5;0	0	20	1	1	1;1		0.000000	0				0			0				0				StarTracePanel/MyRoot/RightRoot/GoBtn	0	0	0	100157	
+256	1092	0	0	GuideText10811	0;0	0	20	1	0	1;0.8		0.000000	0				3	10200220,0,3		0				0				AdventurePanel/Window/MyRoot/RightPanel/ActivityPanelRoot/AdventureActivityPage(Clone)/Panel/FixedScrollView/Viewport/Content/UI_FuncName_183/OpenState	0	0	0	100156	
+257	1092	1	0	GuideText10812	5;0	0	20	1	1	1;1		0.000000	0				0			0				0				StarTracePanel/MyRoot/RightRoot/GoBtn	0	0	0	100157	
+258	1073	0	0	GuideText10730	40;0	1	20	1	1	1;1		0.000000	0				3	510860,1,3	1	0				0				MercenaryPanel/MyRoot/MercenaryListPageRoot/MercenaryListPage(Clone)/MercenaryInfoPage/MercenaryInfoPage(Clone)/Root/Tabs/Toggle1	0	0	0	100144	
+259	1073	1	0	GuideText10731	-40;0	1	20	1	1	1;1		0.000000	0		1	1	0			0				0				MercenaryPanel/MyRoot/MercenaryListPageRoot/MercenaryListPage(Clone)/MercenaryInfoPage/MercenaryInfoPage(Clone)/Root/Advance/LevelUpBtn	0	0	0	100145	
+260	1074	0	0	GuideText10740	40;0	1	20	1	1	1;1		0.000000	0				3	510870,1,3	1	0				0				MercenaryPanel/MyRoot/MercenaryListPageRoot/MercenaryListPage(Clone)/MercenaryInfoPage/MercenaryInfoPage(Clone)/Root/Tabs/Toggle2	0	0	0	100146	
+261	1074	1	1	GuideText10741	0.4;0.3	2	0		0			0.000000	0			1	0			0				0					0	0	0	100147	
+262	1075	0	0	GuideText10750	40;0	1	20	1	1	1;1		0.000000	0				3	510880,1,3	1	0				0				MercenaryPanel/MyRoot/MercenaryListPageRoot/MercenaryListPage(Clone)/MercenaryInfoPage/MercenaryInfoPage(Clone)/Root/Tabs/Toggle3	0	0	0	0	
+263	1075	1	0	GuideText10751	-20;0	1	20	1	1	1;1		0.000000	0			1	0			0				0				MercenaryPanel/MyRoot/MercenaryListPageRoot/MercenaryListPage(Clone)/MercenaryInfoPage/MercenaryInfoPage(Clone)/Root/Soul/SkillInfo/Down/SkillIcon1/SkillIcon	0	0	0	100149	
+264	1075	2	0	GuideText10752	-20;0	1	20	1	1	1;1		0.000000	0		1	1	0			0				0				MercenarySkillTipsPanel/PanelRoot/Button	0	0	0	100012	
+265	1076	0	0	GuideText10760	40;0	1	20	1	1	1;1		0.000000	0				3	510890,1,3	1	0				0				MercenaryPanel/MyRoot/MercenaryListPageRoot/MercenaryListPage(Clone)/MercenaryInfoPage/MercenaryInfoPage(Clone)/Root/Tabs/Toggle3	0	0	0	0	
+266	1076	1	0	GuideText10761	-40;0	1	20	1	1	1;1		0.000000	0		1	1	0			0				0				MercenaryPanel/MyRoot/MercenaryListPageRoot/MercenaryListPage(Clone)/MercenaryInfoPage/MercenaryInfoPage(Clone)/Root/Soul/LevelUpBtn	0	0	0	100150	
+267	1076	2	1	GuideText10762	0.4;0.3	2	0		0			0.000000	0			1	0			0				0					0	0	0	100151	
+268	1077	0	0	GuideText10770	-40;0	1	20	1	3	0.7;0.7		0.000000	0				3	510900,1,3	1	0				0				MercenaryPanel/MyRoot/PanelTabPageRoot/PanelTabPage/ToggleGroup/TabsRoot/EquipToggle (3)	0	0	0	0	
+269	1077	1	1	GuideText10771	0.4;0.3	2	0		0			0.000000	0			1	0			0				0					0	0	0	0	
+270	1078	0	1	GuideText10780	0.65;0.65	1	20	1	3	1.1;0.7		0.000000	0				3	510930,0,3	1	0				0				StrengthenPanel/MyRoot/ShineWeaponLvUpRoot/ShineWeaponPage(Clone)/AvatarRoot/PropRoot/LevelUpBtn	0	0	0	0	
+271	1079	0	0	GuideText10790	40;0	1	20	1	1	1;1		0.000000	0				3	510950,0,3	1	0				0				PetPanel/MyRoot/PetPageRoot/PetInfoPage(Clone)/ToggleGroupHorizontal/Toggle3	0	0	0	100152	
+272	1082	0	0	GuideText10820	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				3	510970,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100097	
+273	1082	1	0	GuideText10821	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0				0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_194	0	0	0	100165	
+274	1082	2	0	GuideText10822	-40;0	1	20	1	3	0.7;0.7	0;70	0.000000	0				0			0				0				StarChildPanel/MyRoot/PanelTabPageRoot/PanelTabPage/ToggleGroup/TabsRoot/EquipToggle (2)	0	0	0	100166	
+275	1082	3	1	GuideText10823	0.5;0.5	1	20	1	3	1.1;0.7		0.000000	0				0			0				0				StarChildPanel/MyRoot/PageRoot/GameObject (1)/StarChildLevelPage(Clone)/RightRoot/LevelTitle/Button	0	0	0	100167	
+276	1083	0	0	GuideText10830	60;1	0	20	1	1	0.5;0.5	0;-2	0.000000	0				3	510970,6,3	1	0				0				MainPanel/JoystickPageRoot/JoystickSkillPage(Clone)/SkillPanel/StarChildBtn/SkillIconRoot/SkillIcon(Clone)	0	0	0	100168	
+277	1084	0	0	GuideText10840	0.5;1	1	20	1	0	1;1		0.000000	0				1	25		0			1	0				SailPortPanel/Root/TopRoot/SailCurrencyPageRoot/SailCurrencyPage(Clone)/Root/Currency1	0	0	0	0	
+278	1084	1	0	GuideText10841	0.5;1	1	20	1	0	1;1		0.000000	0			1	1	25		0			1	0				SailPortPanel/Root/TopRoot/SailCurrencyPageRoot/SailCurrencyPage(Clone)/Root/Currency2	0	0	0	0	
+279	1084	2	0	GuideText10842	0.5;1	1	20	1	0	1;1		0.000000	0			1	1	25		0			1	0				SailPortPanel/Root/TopRoot/SailCurrencyPageRoot/SailCurrencyPage(Clone)/Root/Currency3	0	0	0	0	
+280	1084	3	0	GuideText10843	1;1	0	20	1	3	1;1		0.000000	0			1	1	25		0			1	0				SailPortPanel/Root/LeftRoot/PortEventArea	0	0	0	0	
+281	1084	4	0	GuideText10844	0;0	1	20	1	1	1;1		0.000000	0			1	1	25		0			1	0				SailPortPanel/Root/ShopBtn	0	0	0	0	
+282	1084	5	0	GuideText10845	0;0	1	20	1	1	1;1		0.000000	0			1	1	25		0			1	0				SailPortPanel/Root/BottomRoot/SetSailBtn	0	0	0	0	
+283	1084	6	0	GuideText10846	0;0	1	20	1	1	1;1		0.000000	0		1	1	1	25		0	1	1		0		SailPortPanel/Root/ShopBtn		SailPortPanel/Root/ShopBtn	0	0	0	0	
+284	1085	0	0	GuideText10847	0;0	1	20	1	1	1;1		0.000000	0				1	25		0			1	0				SailShopPanel/Window/MyRoot/FixedScrollView	0	0	0	0	
+285	1085	1	0	GuideText10848	0;0	1	20	1	1	1;1		0.000000	0			1	1	25		0			1	0				SailShopPanel/Window/MyRoot/MineScrollView	0	0	0	0	
+286	1085	2	0	GuideText10849	1;1	0	20	1	3	1;1		0.000000	0			1	1	25		0			1	0				SailShopPanel/Window/MyRoot/DeliverBtn	0	0	0	0	
+287	1086	0	0	GuideText10860	0;0	0	20	1	3	1;1		0.000000	0		1		1	1		0				0				OpenServerActivityPanel/Window/MyRoot/PageRoot/Page_9603_71/CookiesActivityPage(Clone)/Root/ItemRoot/Cell_12/SelectBigRewardBtn	0	0	0	0	
+288	2006	0	0	GuideText20060	60;-2	0	20	1	1	0.8;0.8	0;-2	0.000000	0				4	10100180,3,3		0	1	1		0		MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn		MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	100015	
+289	2006	1	0	GuideText20061	60;-2	0	20	1	1	0.9;0.9	0;-2	0.000000	0				0			0	1	1		0		MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_18		MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_18	0	0	0	100030	
+290	2006	2	0	GuideText20062	10;0	1	20	1	3	1;1		0.000000	0		1		0			0	1	1		0		SettingPanel/Window/MyRoot/TabsRoot/Tab4		SettingPanel/Window/MyRoot/TabsRoot/Tab4	0	0	0	100031	
+291	2006	3	0	GuideText20063	0;20	0	20	1	2	0.8;0.8		0.000000	0				0			0	1	1		0		SettingPanel/Window/MyRoot/BattleSettingPage/BattleSettingPage(Clone)/FoodSetArea/PanelRecoverHP/IconRoot		SettingPanel/Window/MyRoot/BattleSettingPage/BattleSettingPage(Clone)/FoodSetArea/PanelRecoverHP/IconRoot/ButtonChangeItem	0	0	0	100032	
+292	2006	4	0	GuideText20064	50;0	0	20	1	3	1;1		0.000000	0			1	0			0	1	1		0		SettingPanel/Window/MyRoot/BattleSettingPage/BattleSettingPage(Clone)/FoodSetArea/PanelMid/FixedScrollView/Viewport/Content/0/Button		SettingPanel/Window/MyRoot/BattleSettingPage/BattleSettingPage(Clone)/FoodSetArea/PanelMid/FixedScrollView/Viewport/Content/0/Button	0	0	0	100033	
+293	2006	5	0	GuideText20065	0;20	0	20	1	2	0.8;0.8		0.000000	0			1	0			0	1	1		0		SettingPanel/Window/MyRoot/BattleSettingPage/BattleSettingPage(Clone)/FoodSetArea/PanelRecoverMP/IconRoot		SettingPanel/Window/MyRoot/BattleSettingPage/BattleSettingPage(Clone)/FoodSetArea/PanelRecoverMP/IconRoot/ButtonChangeItem	0	0	0	100034	
+294	2006	6	0	GuideText20066	50;0	0	20	1	3	1;1		0.000000	0			1	0			0	1	1		0		SettingPanel/Window/MyRoot/BattleSettingPage/BattleSettingPage(Clone)/FoodSetArea/PanelMid/FixedScrollView/Viewport/Content/0/Button		SettingPanel/Window/MyRoot/BattleSettingPage/BattleSettingPage(Clone)/FoodSetArea/PanelMid/FixedScrollView/Viewport/Content/0/Button	0	0	0	100035	
+295	2006	7	0	GuideText20067	50;-9	0	20	1	1	0.5;0.5	-4;-5	0.000000	0			1	0			0	1	1		0		SettingPanel/System/ExitBtn		SettingPanel/System/ExitBtn	0	0	0	0	
+296	10001	0	0	GuideText100010	70;15	0	20	1	3	0.35;0.6	90;15	0.000000	0				4	9999		0				0				MainPanel/JoystickTouch/JoystickTouchPageRoot/JoystickTouchPage(Clone)/TouchAreaPanel	0	0	0	0	
+297	10002	0	0	GuideText100020	0;0	0	20	1	1	1;1		0.000000	0				4	10000020,2,3		0				0				MainPanel/JoystickPageRoot/JoystickSkillPage(Clone)/SkillPanel/NormalAtkButton	0	0	0	0	
+298	10003	0	0	GuideText100030	0;14	0	20	1	2	0.85;0.85		0.000000	0		1		4	10000030,0,3	1	0				0				MainPanel/JoystickPageRoot/JoystickSkillPage(Clone)/SkillPanel/Skill0AtkButton	0	0	0	0	
+299	10005	0	0	GuideText100050	0;0	0	20	1	1	1;1		0.000000	2				4	10000070,0,3		0				0				MainPanel/JoystickPageRoot/JoystickSkillPage(Clone)/SkillPanel/Skill1AtkButton	0	0	0	100162	
+300	10006	0	0	GuideText100060	0;0	0	20	1	0	1;1		0.000000	0				4	10000025,0,3		0				0				QuickUsePanel/Root/MyRoot/UseBtn	0	0	0	100163	
+301	10007	0	0	GuideText100070	10;0	0	20	1	3	0.89;0.64	-6;0	0.000000	0				0			0				0				MainPanel/LeftSafeArea/TaskTeamPage(Clone)/Root/ContainerPageRoot/ContainerPage(Clone)/Viewport/Content/10000010	0	0	0	0	
+302	10008	0	0	GuideText100080	0;0	0	20	1	0	1;1		0.000000	0				4	10000050,1,3		0				0				QuickUsePanel/Root/MyRoot/UseBtn	0	0	0	0	
+303	10009	0	0			0	0		0			0.000000	0				1	9999		0				0					0	0	0	0	
+304	10010	0	0			0	0		0			0.000000	0				1	9999		0				0					0	0	0	0	
+305	10011	0	0			0	0		0			0.000000	0				1	9999		0				0					0	0	0	0	
+306	1087	0	0	GuideText10870	0	1	20	1	0	0.9;0.9		0.000000	0				3	640070,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaSecRoot/FuncBtn_139	0	0	0	0	
+307	1087	1	0	GuideText10871	0	1	20	1	1	1;1		0.000000	0				0			0	1			0		TradingPanel/Window/MyRoot/PagesRoot/ShopPage/ShopPage(Clone)/MyRoot/ContentRoot/BuyPage/Root/ItemInfo/BuyBtn		TradingPanel/Window/MyRoot/PagesRoot/ShopPage/ShopPage(Clone)/MyRoot/ContentRoot/BuyPage/Root/ItemInfo/BuyBtn	0	0	0	0	
+308	1088	0	0	GuideText10880	0	1	20	1	0	1;1		0.000000	0		1		3	640050,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaSecRoot/FuncBtn_154	0	0	0	0	
+309	1088	1	0	GuideText10881	0;50	1	20	1	2	1;0.8		0.000000	0				0			0				0				HomelandEditViewPanel/Root/SelectViewRoot/ObjectListPage/SingleScrollView/Viewport/Content/item144300007010	0	0	0	0	
+310	1088	2	0	GuideText10882	0	1	20	1	1	1;1		0.000000	0			1	0			0				0				HomelandEditViewPanel/Root/CameraBtn	0	0	0	0	
+311	1088	3	0	GuideText10883	0	1	20	1	1	1;1		0.000000	0			1	0			0				0				HomelandEditMovePanel/PlaceUIPage/ArrangeArea/ConfirmButton	0	0	0	0	
+312	1088	4	0	GuideText10884	0	1	20	1	1	1;1		0.000000	0			1	0			0				0				HomelandEditViewPanel/Root/RightBtnRoot/SaveBtn	0	0	0	0	
+313	1089	0	0	GuideText10890	0	1	20	1	0	1;1		0.000000	0				4	640195,0,3		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaSecRoot/FuncBtn_299	0	0	0	0	
+314	1089	1	0	GuideText10891	0	0	20	1	3	1;1		0.000000	0			1	0			0			1	0				HomelandCannonPanel/FriendList/MenuCell/Toggle1	0	0	0	0	
+315	1089	2	0	GuideText10892	0	0	20	1	3	1;1		0.000000	0			1	0			0			1	0				HomelandCannonPanel/FriendList/MenuCell/Toggle2	0	0	0	0	
+316	1089	3	0	GuideText10893	0	1	20	1	1	1;1		0.000000	0		1	1	0			0			1	0				HomelandCannonPanel/TransferBtn	0	0	0	0	
+317	1090	0	0	GuideText10900	0	1	20	1	0	1;1		0.000000	0				0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaSecRoot/FuncBtn_300	0	0	0	0	
+318	1090	1	0	GuideText10901	0	0	20	1	3	1;1		0.000000	0			1	0			0			1	0				HomelandGuestBookPanel/Window/MyRoot/MenuCell/Toggle1	0	0	0	0	
+319	1090	2	0	GuideText10902	0	0	20	1	3	1;1		0.000000	0			1	0			0			1	0				HomelandGuestBookPanel/Window/MyRoot/MenuCell/Toggle2	0	0	0	0	
+320	1090	3	0	GuideText10903	0	1	20	1	2	1;1		0.000000	0		1	1	0			0				0				HomelandGuestBookPanel/Window/MyRoot/JournalPage/MessageBtn	0	0	0	0	
+321	1091	0	0	GuideText10910	0	1	20	1	0	1;1		0.000000	0				3	650010,1,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaSecRoot/FuncBtn_154	0	0	0	0	
+322	1091	1	0	GuideText10911	0	0	20	1	3	1;1		0.000000	0				0			0				0				HomelandEditViewPanel/Root/SelectViewRoot/LeftMenuPage/SingleScrollView/Viewport/Content/Menu_Decorate_14	0	0	0	0	
+323	1091	2	0	GuideText10912	0;50	1	20	1	2	1;0.8		0.000000	0		1		0			0				0				HomelandEditViewPanel/Root/SelectViewRoot/ObjectListPage/SingleScrollView/Viewport/Content/item144300015001	0	0	0	0	
+324	1091	3	0	GuideText10913	0	1	20	1	1	1;1		0.000000	0		1	1	0			0				0				HomelandEditMovePanel/PlaceUIPage/ArrangeArea/ConfirmButton	0	0	0	0	
+325	1091	4	0	GuideText10914	0	1	20	1	1	1;1		0.000000	0		1	1	0			0				0				HomelandEditViewPanel/Root/RightBtnRoot/SaveBtn	0	0	0	0	
+326	1094	0	0	GuideText10940	-60;0	0	20	1	3	1;1		0.000000	0				3	650050,5,3	1	0				0				CookingPanel/Left/CookingMainPage/ExploreRecipeBtn	0	0	0	0	
+327	1094	1	0	GuideText10941	0	0	20	1	3	1;1		0.000000	0			1	0			0				0				CookingPanel/Left/ExploreMainPage/Viewport/ListPage/GranaryPage/ItemRoot/item144000000001/ItemIcon(Clone)	0	0	0	0	
+328	1094	2	0	GuideText10942	0	0	20	1	0	1;1		0.000000	0			1	0			0				0				CookingPanel/Left/ExploreMainPage/Viewport/ListPage/GranaryPage/ItemRoot/item144100000002/ItemIcon(Clone)	0	0	0	0	
+329	1094	3	0	GuideText10943	0	0	20	1	0	1;1		0.000000	0			1	0			0				0				CookingPanel/Left/ExploreMainPage/Viewport/ListPage/GranaryPage/ItemRoot/item144400000004/ItemIcon(Clone)	0	0	0	0	
+330	1094	4	0	GuideText10944	-60;0	1	20	1	1	1;1		0.000000	0		1	1	0			0				0				CookingPanel/Right/ExplorePage/Buttom/CookBtn	0	0	0	0	
+331	1095	0	0	GuideText10950	60;-2	1	20	1	1	1;1		0.000000	0				5	432		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_432	0	0	0	0	
+332	1096	0	0	GuideText10310	-20;0	0	20	1	1	1;1		0.000000	0		1		3	511113,1,3	1	0				0				ConversationPanel/Root/FuncBg/BtnRoot/MenuOpt_magic_transform	0	0	0	0	
+333	1096	1	1	GuideText10961	0.5;0.5	1	20	1	0	1;1		0.000000	0			1	0			0				0					0	0	0	100079	
+334	1096	2	1	GuideText10962	0.5;0.2	2	20	1	0	1;1		0.000000	0			1	0			0				0					0	0	0	100080	
+335	1097	0	0	GuideText10971	0.5;0.2	2	20	1	1	1;1		0.000000	0		1		3	511115,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/NoSpreadRoot/FuncBtn_7	0	0	0	100080	
+336	1097	1	0	GuideText10972	0.5;0.2	2	20	1	0	1;1		0.000000	0				0			0				0				BagPanel/MyRoot/EquipBagPageRoot/EquipBagPage(Clone)/PartRoot/Part1/EquipIcon/ItemIcon(Clone)	0	0	0	100080	
+337	1097	2	1	GuideText10975	0.5;0.5	1	20	1	0	1;1		0.000000	0			1	0			0				0					0	0	0	100079	
+338	1097	3	0	GuideText10973	0.5;0.2	2	20	1	0	1;1		0.000000	0			1	0			0				0				EquipItemTipsPanel/Right/ItemTipsPanel(Clone)/Root/Scroll View/Viewport/Content/MagicArea/Button	0	0	0	100080	
+339	1097	4	0	GuideText10974	0.5;0.2	2	20	1	0	1;1		0.000000	0			1	0			0				0				EquipOtherMagicTipsPanel/Root/TopArea/ActiveBtn	0	0	0	100080	
+340	1098	0	0	GuideText10981	-20;0	2	20	1	1	1;1		0.000000	0		1		3	511116,0,3	1	0				0				ConversationPanel/Root/FuncBg/BtnRoot/MenuOpt_magic_baptize	0	0	0	100080	
+341	1098	1	1	GuideText10982	0.5;0.5	1	20	1	0	1;1		0.000000	0			1	0			0				0					0	0	0	100079	
+342	1098	2	0	GuideText10983	0.5;0.2	2	20	1	0	1;1		0.000000	0				0			0				0				MagicPropBaptizePanel/Right/MyRoot/ImageBg/SwitchBtn	0	0	0	100080	
+343	1098	3	0	GuideText10984	0.5;0.2	2	20	1	0	1;1		0.000000	0			1	0			0				0				MagicPropBaptizePanel/Right/MyRoot/EquipBaptize/BaptizeBtn	0	0	0	100080	
+344	1098	4	0	GuideText10985	8;0	2	20	1	0	0.6;0.6	8;0	0.000000	0			1	0			0				0				MagicPropBaptizePanel/Right/CloseBtn	0	0	0	100080	
+345	1099	0	0	GuideText10991	-20;0	2	20	1	1	1;1		0.000000	0		1		3	511117,0,3	1	0				0				ConversationPanel/Root/FuncBg/BtnRoot/MenuOpt_magic_smelt	0	0	0	100080	
+346	1099	1	1	GuideText10992	0.5;0.5	1	20	1	0	1;1		0.000000	0			1	0			0				0					0	0	0	100079	
+347	1099	2	0	GuideText10993	0.5;0.2	2	20	1	0	1;1		0.000000	0				0			0				0				MagicPropSmeltPanel/Right/MyRoot/SmeltRoot/SelectSmeltPropRoot/Title/SwitchBtn	0	0	0	100080	
+348	1099	3	0	GuideText10994	0.5;0.2	2	20	1	0	1;1		0.000000	0			1	0			0				0				MagicPropSmeltPanel/Right/MyRoot/SmeltRoot/SmeltBtn	0	0	0	100080	
+349	1099	4	0	GuideText10995	0.5;0.2	2	20	1	0	0.6;0.6	8;0	0.000000	0			1	0			0				0				MagicPropSmeltPanel/Right/CloseBtn	0	0	0	100080	
+350	1100	0	0	GuideText10971	0.5;0.2	2	20	1	0	1;1		0.000000	0		1		5	445		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/NoSpreadRoot/FuncBtn_7	0	0	0	100080	
+351	1100	1	0	GuideText10976	0.5;0.2	2	20	1	0	1;1		0.000000	0				0			0				0				BagPanel/MyRoot/EquipBagPageRoot/EquipBagPage(Clone)/PartRoot/Part1/EquipIcon/ItemIcon(Clone)	0	0	0	100080	
+352	1100	2	0	GuideText10973	0.5;0.2	2	20	1	0	1;1		0.000000	0			1	0			0				0				EquipItemTipsPanel/Right/ItemTipsPanel(Clone)/Root/Scroll View/Viewport/Content/MagicArea/Button	0	0	0	100080	
+353	1100	3	0	GuideText10974	0.5;0.2	2	20	1	0	1;1		0.000000	0			1	0			0				0				EquipOtherMagicTipsPanel/Root/TopArea/ActiveBtn	0	0	0	100080	
+354	1101	0	0	GuideText20000	0.5;0.2	2	20	1	0	1;1		0.000000	0		1		5	325		0				0				PanelRoot/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/NoSpreadRoot/FuncBtn_7	0	0	0	0	
+355	1101	1	0	GuideText20001	0.5;0.2	2	20	1	0	1;1		0.000000	0				0			0				0				BagPanel/MyRoot/PanelTabPageRoot/PanelTabPage(Clone)/ToggleGroup/TabsRoot/EquipToggle (3)	0	0	0	0	
+356	1101	2	0	GuideText20002	0.5;0.2	2	20	1	0	1;1		0.000000	0			1	0			0				0				BagPanel/MyRoot/SoulEquipPageRoot/SoulEquipPage(Clone)/BagListRoot/Scroll View/Viewport/Content/PrefabCell(Clone)/ItemIconRoot	0	0	0	0	
+357	1101	3	0	GuideText20003	0.5;0.2	2	20	1	0	1;1		0.000000	0			1	0			0				0				ItemTipsPanel/Root/ButtonArea/Common/RightButtonGreen	0	0	0	0	
+358	1102	0	0	GuideText20004	0.5;0.2	2	20	1	0	1;1		0.000000	0		1		5	452		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	0	
+359	1102	1	0	GuideText20005	0;20	2	20	1	2	1;1		0.000000	0			1	0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_452	0	0	0	0	
+360	1102	2	0	GuideText20006	0;20	2	20	1	2	1;1		0.000000	0				0			0				0				CrossServerCampJoinPanel/MyRoot/JoinBtn	0	0	0	0	
+361	1103	0	0	GuideText20007	0.5;0.2	2	20	1	0	1;1		0.000000	0		1		4	820030,0,3		0				0				MainPanel/MiniMapPage/ButtonLeave	0	0	0	0	
+362	1104	0	0	GuideText21008	0.5;1	1	20	1	0	1;1		0.000000	0		1		1	25		0			1	0				SeaContendBigMapPanel/MapRoot/Viewport/Map/PortRoot/NodeRoot/10101	0	0	0	0	
+363	1104	1	1	GuideText21009	0.5;0.5	1	20	1	0	1;1		0.000000	0			1	1	25		0				0					0	0	0	100079	
+364	1104	2	0	GuideText21011	-50;1	0	20	1	3	1;1		0.000000	0			1	1	25		0			1	0				SeaContendBigMapPanel/MapRoot/Viewport/Map/PortRoot/BossRoot/Monster1	0	0	0	0	
+365	1104	3	0	GuideText21012	-50;1	1	20	1	3	1;1		0.000000	0			1	1	25		0			1	0				SeaContendBigMapPanel/BottomRoot/BtnArea/BtnRoot/DayRewardBtn	0	0	0	0	
+366	1104	4	0	GuideText21010	-50;1	1	20	1	3	1;1		0.000000	0			1	1	25		0				0				SeaContendBigMapPanel/BottomRoot/BtnArea/BtnRoot/MapBtn	0	0	0	0	
+367	1105	0	0	GuideText21013	-50;1	0	20	1	3	1;1		0.000000	0		1		1	25		0			1	0				SeaContendMiniMapPanel/Root/GridRoot/ScrollRect/Viewport/Content/StartPos	0	0	0	0	
+368	1105	1	0	GuideText21015	0.5;1	0	20	1	0	1;1		0.000000	0			1	1	25		0			1	0				SeaContendMiniMapPanel/Root/TopRoot/SailCurrencyPageRoot/SeaCurrencyPage(Clone)/Root/Currency1	0	0	0	0	
+369	1105	2	0	GuideText21016	0.5;1	0	20	1	0	1;1		0.000000	0			1	1	25		0			1	0				SeaContendMiniMapPanel/Root/TopRoot/SailCurrencyPageRoot/SeaCurrencyPage(Clone)/Root/Currency2	0	0	0	0	
+370	1105	3	0	GuideText21017	0.5;1	0	20	1	0	1;1		0.000000	0			1	1	25		0			1	0				SeaContendMiniMapPanel/Root/TopRoot/SailCurrencyPageRoot/SeaCurrencyPage(Clone)/Root/Currency3	0	0	0	0	
+371	1105	4	0	GuideText21014	-50;1	0	20	1	3	1;1		0.000000	0			1	1	25		0			1	0				SeaContendMiniMapPanel/Root/GridRoot/ScrollRect/Viewport/Content/Grid	0	0	0	0	
+372	1106	0	0	GuideText21019	0;0	1	20	1	1	1;1		0.000000	0				1	25		0			1	0				SeaContendGridTipsPanel/Window/MyRoot/Title	0	0	0	0	
+373	1106	1	0	GuideText21020	0;0	1	20	1	1	1;1		0.000000	0			1	1	25		0				0				SeaContendGridTipsPanel/Window/MyRoot/TopSoloBtn	0	0	0	0	
+374	1107	0	0	GuideText21021	-50;1	1	20	1	3	1;1		0.000000	0		1		1	25		0			1	0				SeaContendIslandChartPanel/Root/IslanNodeRoot/绿叶之岛	0	0	0	0	
+375	1107	1	0	GuideText21022	0;0	1	20	1	1	0.6;0.6		0.000000	0			1	1	25		0				0				SeaContendIslandChartPanel/Root/BottomRoot/CollectBtn	0	0	0	0	
+376	1107	2	0	GuideText21023	-50;1	0	20	1	2	1;1		0.000000	0			1	1	25		0				0				SeaContendIslandChartPanel/Root/BottomRoot/IslandManageBtn	0	0	0	0	
+377	1108	0	0	GuideText21024	-50;1	0	20	1	3	1;1		0.000000	0		1		1	25		0			1	0				SeaCurrencyIslandDetailsPanel/Window/Frame/BaseReward	0	0	0	0	
+378	1108	1	0	GuideText21025	-50;1	1	20	1	3	1;1		0.000000	0			1	1	25		0			1	0				SeaCurrencyIslandDetailsPanel/Window/Frame/LuckyItem/LuckyItemView/Viewport/Content/PrefabCell(Clone)	0	0	0	0	
+379	1108	2	0	GuideText21026	-50;1	1	20	1	3	1;1		0.000000	0			1	1	25		0				0				SeaContendLuckyItemSelectPanel/ItemIconScrollView/Viewport/Content/Lucky(Clone)	0	0	0	0	
+380	1108	3	0	GuideText21027	-50;1	1	20	1	3	1;1		0.000000	0			1	1	25		0				0				SeaContendLuckyItemSelectPanel/ConfirmBtn	0	0	0	0	
+381	1108	4	0	GuideText21028	0;0	1	20	1	1	1;1		0.000000	0			1	1	25		0				0				SeaCurrencyIslandDetailsPanel/CloseButton	0	0	0	0	
+382	1109	0	0	GuideText21029	1;1	0	20	1	1	1;1		0.000000	0		1		1	25		0			1	0				SeaContendBossChallengePanel/Root/SeaContendBossChallengeDetailPage/BonusLuck/LuckyItemRoot/LuckyItem	0	0	0	0	
+383	1109	1	0	GuideText21030	-50;1	0	20	1	3	1;1		0.000000	0			1	1	25		0			1	0				SeaContendBossChallengePanel/Root/Left/BtnArea/TeamBtn	0	0	0	0	
+384	1109	2	0	GuideText21031	1;1	0	20	1	1	1;1		0.000000	0			1	1	25		0				0				SeaContendBossChallengePanel/Root/SeaContendBossChallengeDetailPage/EnterBtn	0	0	0	0	
+385	1110	0	0	GuideText21032	0.5;1	1	20	1	0	1;1		0.000000	0		1		1	25		0			1	0				SeaContendTalentPanel/Root/SkillPointsRoot/Gold	0	0	0	0	
+386	1110	1	0	GuideText21033	0.5;1	1	20	1	0	1;1		0.000000	0			1	1	25		0			1	0				SeaContendTalentPanel/Root/SkillRoot/TabsRoot/Tab1/ShowAdd/AddImage	0	0	0	0	
+387	1110	2	0	GuideText21034	0.5;0.5	1	20	1	0	1;1		0.000000	0				1	25		0			1	0				SeaContendTalentPanel/Root/SkillRoot/TabsRoot/Tab1/NextSkillRoot/SkillPrefab(Clone)/SkillRoot	0	0	0	100079	
+388	1110	3	0	GuideText21035	1;1	0	20	1	2	1;1		0.000000	0				1	25		0				0				SeaContendTalentTipsPanel/PanelRoot/RuneInfoPage/Root/BottomArea/BtnArea/RightBtn	0	0	0	0	
+389	1110	4	0	GuideText21036	1;1	0	20	1	1	1;1		0.000000	0			1	1	25		0			1	0				SeaContendTalentPanel/Root/SkillPointsRoot/ResetTalentPointBtn	0	0	0	0	
+390	1110	5	0	GuideText21037	-50;1	1	20	1	3	1;1		0.000000	0			1	1	25		0			1	0				SeaContendTalentPanel/Root/ButtenRoot/Tab2	0	0	0	0	
+391	1111	0	0	GuideText22002	1;180	0	20	1	2	1;1.5	0;60	0.000000	0		1		1	40		0			1	0				AbyssWarMainPanel/Root/BottomRoot/BtnArea/IntroductionBtn/ImageRoot	0	0	0	0	
+392	1111	1	0	GuideText22003	-20;130	1	20	1	2	1;1.2	-25;20	0.000000	0			1	1	40		0			1	0				AbyssWarMainPanel/Root/BottomRoot/BtnArea/SkillBtn/ImageRoot	0	0	0	0	
+393	1111	2	0	GuideText22004	1;40	0	20	1	2	1;1	0;-20	0.000000	0			1	1	40		0			1	0				AbyssWarMainPanel/Root/BottomRoot/BtnArea/MainStageBtn/ImageRoot	0	0	0	0	
+394	1112	0	0	GuideText22005	-30;1	0	20	1	3	1;0.8		0.000000	0		1		1	40		0			1	0				AbyssWarStageSelectPanel/MapRoot/Viewport/Map/PortRoot/NodeRoot/NodePos1/101/Bg	0	0	0	0	
+395	1113	0	0	GuideText22006	-30;1	0	20	1	3	1;1		0.000000	0		1		1	40		0			1	0				AbyssWarMiniMapPanel/Root/GridRoot/TileScrollRect/Viewport/Content/PlayerLayer/PlayerRoot/MaipPlayer	0	0	0	0	
+396	1113	1	0	GuideText22007	1;50	0	20	1	2	1;1		0.000000	0			1	1	40		0			1	0				AbyssWarMiniMapPanel/Root/GridRoot/TileScrollRect/Viewport/Content/ShowLayer/126/Root/IconRoot/IconImg	0	0	0	0	
+397	1113	2	0	GuideText22026	1;50	0	20	1	2	1;0.8		0.000000	0			1	1	40		0			1	0				AbyssWarMiniMapPanel/Root/GridRoot/TileScrollRect/Viewport/Content/ShowLayer/155/Root/IconRoot/IconImg	0	0	0	0	
+398	1113	3	0	GuideText22027	1;50	0	20	1	2	1;0.8		0.000000	0			1	1	40		0			1	0				AbyssWarMiniMapPanel/Root/GridRoot/TileScrollRect/Viewport/Content/ShowLayer/158/Root/IconRoot/IconImg	0	0	0	0	
+399	1114	0	0	GuideText22008	1;1	0	20	1	2	1;1	-40;0	0.000000	0		1		1	40		0			1	0				AbyssWarGridTipsPanel/Window/MyRoot/TitleBG/TitleLabel	0	0	0	0	
+400	1114	1	0	GuideText22009	1;20	1	20	1	2	1;1		0.000000	0			1	1	40		0			1	0				AbyssWarGridTipsPanel/Window/MyRoot/RewardRoot/ItemIcon(Clone)/Graphic	0	0	0	0	
+401	1114	2	0	GuideText22010	1;1	0	20	1	2	1;1		0.000000	0			1	1	40		0			1	0				AbyssWarGridTipsPanel/Window/MyRoot/Cost/Count	0	0	0	0	
+402	1114	3	0	GuideText22011	1;20	0	20	1	2	1;1		0.000000	0			1	1	40		0			1	0				AbyssWarGridTipsPanel/Window/MyRoot/TopSoloBtn	0	0	0	0	
+403	1115	0	0	GuideText22015	1;1	0	20	1	2	1;1		0.000000	0		1		1	40		0			1	0				AbyssWarTalentPanel/Root/LeftRoot/GrroveRoot/skillIconRoot/SkillIcon1/Image	0	0	0	0	
+404	1115	1	0	GuideText22016	1;20	0	20	1	2	1;1		0.000000	0			1	1	40		0			1	0				AbyssWarTalentPanel/Root/RightRoot/LowerRoot/SkillIcon (8)/SkillRoot/SkillImage	0	0	0	0	
+405	1115	2	0	GuideText22017	1;1	0	20	1	2	1;1		0.000000	0			1	1	40		0			1	0				AbyssWarTalentPanel/Root/RightRoot/LowerRoot/Title/SkillIcon1/Image	0	0	0	0	
+406	1116	0	0	GuideText22019	1;1	0	20	1	2	1;1		0.000000	0		1		1	40		0			1	0				AbyssWarSkillTipsPanel/PanelRoot/CenterButton/Graphic	0	0	0	0	
+407	1116	1	0	GuideText22020	1;30	0	20	1	2	1;1		0.000000	0			1	1	40		0			1	0				AbyssWarTalentPanel/Root/LeftRoot/GrroveRoot/skillIconRoot/SkillIcon1/Image	0	0	0	0	
+408	1116	2	0	GuideText22021	1;40	0	20	1	2	1;1		0.000000	0			1	1	40		0			1	0				AbyssWarTalentPanel/Root/LeftRoot/SkillImage/SkillIconRoot/SkillIcon1/SkillRoot	0	0	0	0	
+409	1117	0	0	GuideText22022	1;60	0	20	1	2	1;1		0.000000	0		1		1	40		0			1	0				AbyssWarActLinkAllPanel/MyRoot/PageRoot/SubPlotPage/AbyssWarPlotPage(Clone)/Window/PlotRootPage/AwardRootView/RwdArea/Viewport/Content/PrefabCell	0	0	0	0	
+410	1117	1	0	GuideText22023	1;1	0	20	1	3	1;1		0.000000	0			1	1	40		0			1	0				AbyssWarActLinkAllPanel/MyRoot/PanelTabPageRoot/ToggleGroup/TreeMenuPage/ListView/Content/ParentMenuCell1	0	0	0	0	
+411	1118	0	0	GuideText22024	-40;1	0	20	1	0	0.7;1	-60;0	0.000000	0		1		1	40		0			1	0				AbyssWarActLinkAllPanel/MyRoot/PageRoot/SubTaskPage/AbyssWarTaskPage(Clone)/Window/FixedScrollView1/Viewport/Content/PrefabCell(Clone)/TitleBg/DescText	0	0	0	0	
+412	10012	0	0	GuideText100010	0;0	0	20	1	3	1;1		0.000000	4				4	10000020,0,3		0				0				MainPanel/JoystickTouch/JoystickTouchPageRoot/JoystickTouchPage(Clone)/TouchPanel/CircleImage	0	0	0	0	
+413	10013	0	0	GuideText10040	0;-2	0	20	1	0	0.7;0.7	0;-2	0.000000	0		1		3	10300320,0,3	1	0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/TopRectMask/TopAreaRoot/FuncBtn_6	0	0	0	100044	
+414	10013	1	0	GuideText10041	0;0	0	20	1	0	1;0.8		0.000000	0				0			0				0				AdventurePanel/Window/MyRoot/RightPanel/ActivityPanelRoot/AdventureActivityPage(Clone)/Panel/FixedScrollView/Viewport/Content/UI_FuncName_25/OpenState	0	0	0	100049	
+415	10013	2	0	GuideText10042	0;0	0	20	1	2	1;0.9		0.000000	0				0			0				0				DungeonInfoPanel/Window/MyRoot/RightPanel/DungeonNormalInfoPageRoot/TeamDungeonEnterPanel(Clone)/Window/Dungeon_NormalRoot/RightRoot/GoRoot/GoBtn	0	0	0	100048	
+416	10014	0	0	GuideText20120	10;0	0	20	1	3	0;0	-10000;0	0.000000	0		1		4	10200060,0,3		0				0				MainPanel/LeftSafeArea/TaskTeamPage(Clone)/Root/ContainerPageRoot/ContainerPage(Clone)/Viewport/Content/10200060	0	0	0	0	
+417	10015	0	0	GuideText20120	10;0	0	20	1	3	0;0	-10000;0	0.000000	0		1		4	10200060,2,3		0				0				MainPanel/LeftSafeArea/TaskTeamPage(Clone)/Root/ContainerPageRoot/ContainerPage(Clone)/Viewport/Content/10200060	0	0	0	0	
+418	10016	0	0	GuideText100020	0;0	0	20	1	1	1;1		0.000000	0				4	11100020,2,3		0				0				MainPanel/JoystickPageRoot/JoystickSkillPage(Clone)/SkillPanel/NormalAtkButton	0	0	0	0	
+419	10017	0	0	GuideText10092	0;0	0	20	1	2	1;1		0.000000	0		1		4	11100150,3,3		0				0				MainPanel/ChatMiniRoot/ChatMiniPage(Clone)/CenterRoot/Root/Top/AutoButton	0	0	0	0	
+420	10018	0	0	GuideText10031	0;0	0	20	1	0	1;0.8		0.000000	0		1		3	10800500,0,3		0				0				AdventurePanel/Window/MyRoot/RightPanel/ActivityPanelRoot/AdventureActivityPage(Clone)/Panel/FixedScrollView/Viewport/Content/UI_FuncName_30/OpenState	0	0	0	100065	
+421	10018	1	1	GuideText10044	0.9;0.34	0	20	1	0	1;1		0.000000	0			1	1	30		0				0				TeamEasyGroupPanel/Window/MyRoot/CreateBtn	0	0	0	100051	
+422	10018	2	1	GuideText10045	0.85;0.34	2	20	1	0	1;1		0.000000	0			1	1	30		0				0				TeamEasyGroupPanel/Window/MyRoot/AutoBtn	0	0	0	100052	
+423	1119	0	0	GuideText22050	0;0	1	20	1	2	5;1.3	0;-35	0.000000	0		1		1	30		0			1	0				TraranEnterPanel/Root/TaskBtn	0	0	0	0	
+424	1119	1	0	GuideText22051	15;-10	1	20	1	1	2.1;2.1	5;-15	0.000000	0			1	1	30		0			1	0				TraranEnterPanel/Root/ShopBtn	0	0	0	0	
+425	1119	2	0	GuideText22052	-15;0	1	20	1	3	0.9;1	-20;-3	0.000000	0			1	1	30		0			1	0				TraranEnterPanel/Root/GameRoot/Today_Affix/Affix	0	0	0	0	
+426	1119	3	0	GuideText22053	100;0	1	20	1	3	2;0.65	80;-3	0.000000	0			1	1	30		0			1	0				TraranEnterPanel/Root/GameRoot/Lost_Treasure/Chest	0	0	0	0	
+427	1119	4	0	GuideText22054	-90;0	1	20	1	3	1;1		0.000000	0			1	1	30		0			1	0				TraranEnterPanel/Root/GameRoot/Explore_Progress/AccessButton	0	0	0	0	
+428	1119	5	0	GuideText22055	0;-130	1	20	1	0	5;5		0.000000	0			1	1	30		0				0				TraranEnterPanel/Root/Right/ButtonWorld	0	0	0	0	
+429	1120	0	0	GuideText22056	-40;0	0	20	1	3	1;1		0.000000	0		1		1	30		0				0				TraranPreparePanel/Window/MyRoot/Left/Prefab/SlotAllRoot/0	0	0	0	0	
+430	1120	1	0	GuideText22057	50;50	1	20	1	3	1.1;1.1		0.000000	0			1	1	30		0				0				TraranPreparePanel/Window/MyRoot/Right/FixedScrollView/Viewport	0	0	0	0	
+431	1120	2	0	GuideText22058	-20;0	1	20	1	3	1;1		0.000000	0				1	30		0				0				TraranPreparePanel/Window/MyRoot/Left/UseProjectBtn	0	0	0	0	
+432	1121	0	0	GuideText22059	0;0	0	20	1	0	1;1		0.000000	0		1		1	30		0			1	0				TraranMapPanel/CurrencyPageRoot/CommonCurrencyPage(Clone)/Root/SingleCurrencyPage(Clone)	0	0	0	0	
+433	1121	1	0	GuideText22060	-90;0	1	20	1	1	1.1;1.1		0.000000	0			1	1	30		0			1	0				TraranMapPanel/SoldierListPageRoot/TraranSoldierTeamListPage(Clone)/Image	0	0	0	0	
+434	1121	2	0	GuideText22061	-70;0	1	20	1	3	1;1		0.000000	0			1	1	30		0			1	0				TraranMapPanel/Root/BottomRoot/BtnArea/SpoilsBtn	0	0	0	0	
+435	1121	3	0	GuideText22062	-70;0	1	20	1	3	1;1		0.000000	0			1	1	30		0			1	0				TraranMapPanel/Root/ScrollRect/Viewport/Content/PathRoot/1_2	0	0	0	0	
+436	1123	0	0	GuideText22063	0;-10	0	20	1	0	1;0.8	0;10	0.000000	0				1	30		0			1	0				TraranSoldierTeamPanel/Window/MyRoot/RightRoot/InfoTitle2/ButtonRoot	0	0	0	0	
+437	1124	0	0	GuideText22064	0;-30	0	20	1	0	1.05;1.05		0.000000	0				1	30		0			1	0				TraranSoldierTeamPanel/Window/MyRoot/RelicRoot/IconRoot	0	0	0	0	
+438	1125	0	0	GuideText22065	0;0	0	20	1	1	1;1		0.000000	0				4	10000080,1,3		0				0				MainPanel/JoystickPageRoot/JoystickSkillPage(Clone)/SkillPanel/SkillRollBtn	0	0	0	0	
+439	1126	0	0	GuideText22066	0;0	1	20	1	3	1;1		0.000000	0		1		1	30		0			1	0				ElvesCastleMainPanel/Root/BtnRoot/TalentBtn/Graphic/Image	0	0	0	0	
+440	1126	1	0	GuideText22067	0;0	1	20	1	3	1;1		0.000000	0			1	1	30		0			1	0				ElvesCastleMainPanel/Root/BtnRoot/TaskBtn/Graphic/Image	0	0	0	0	
+441	1126	2	0	GuideText22068	0;0	1	20	1	3	1;1		0.000000	0			1	1	30		0			1	0				ElvesCastleMainPanel/Root/BtnRoot/ShopBtn/Graphic/Image	0	0	0	0	
+442	1126	3	0	GuideText22069	0;0	1	20	1	3	1;1		0.000000	0			1	1	30		0			1	0				ElvesCastleMainPanel/Root/BtnRoot/BlessBtn/Graphic/Image	0	0	0	0	
+443	1126	4	0	GuideText22070	0;0	1	20	1	3	1;1		0.000000	0			1	1	30		0			1	0				ElvesCastleMainPanel/Root/BtnRoot/PropBtn/Graphic/Image	0	0	0	0	
+444	1126	5	0	GuideText22071	-2;0	1	20	1	1	1;1	-2;0	0.000000	0			1	1	30		0			1	0				ElvesCastleMainPanel/Root/Root/ToggleGroup/TabsRoot/EquipToggle	0	0	0	0	
+445	1126	6	0	GuideText22072	0;0	1	20	1	1	1;1		0.000000	0			1	1	30		0			1	0				ElvesCastleMainPanel/Root/Root/EyeButton/RaycastArea	0	0	0	0	
+446	1126	7	0	GuideText22073	0;0	1	20	1	1	1;1		0.000000	0			1	1	30		0			1	0				ElvesCastleMainPanel/Root/Root/FightProgress/FlushButton	0	0	0	0	
+447	1126	8	0	GuideText22074	15;-50	1	20	1	2	0.8;0.3	15;-50	0.000000	0			1	1	30		0			1	0				ElvesCastleMainPanel/Root/ChallengeBtn/Image	0	0	0	0	
+448	1127	0	0	GuideText22075	0;0	1	20	1	3	1;1		0.000000	0		1		1	30		0			1	0				ElvesCastleMapPanel/Root/BottomRoot/BtnArea/MonsterBuffBtn	0	0	0	0	
+449	1127	1	0	GuideText22076	0;0	1	20	1	3	1;1		0.000000	0			1	1	30		0			1	0				ElvesCastleMapPanel/Root/BottomRoot/BtnArea/AdditionBtn	0	0	0	0	
+450	1127	2	0	GuideText22077	0;0	1	20	1	3	1;1		0.000000	0			1	1	30		0			1	0				ElvesCastleMapPanel/Root/BottomRoot/BtnArea/EventDescBtn	0	0	0	0	
+451	1127	3	0	GuideText22078	0;0	1	20	1	0	1;1		0.000000	0			1	1	30		0			1	0				ElvesCastleMapPanel/Player	0	0	0	0	
+452	1127	4	0	GuideText22079	10;-10	1	20	1	0	0.9;0.8	10;-10	0.000000	0			1	1	30		0			1	0				ElvesCastleMapPanel/Root/Buff	0	0	0	0	
+453	1128	0	0	GuideText22080	0;0	1	20	1	1	1;1		0.000000	0				5	499		0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/MoreBtn	0	0	0	0	
+454	1128	1	0	GuideText22081	20;0	1	20	1	1	1;1		0.000000	0		1		0			0				0				MainPanel/FuncMenuRoot/FuncMenuPage(Clone)/Root/MenuAreaRoot/SpreadRoot/FuncBtn_499	0	0	0	0	
+455	1128	2	0	GuideText22082	0;0	0	20	1	3	1;1		0.000000	0			1	0			0				0				ApprenticeMainPanel/MyRoot/FixedScrollView/Viewport/Content/PrefabCell(Clone)/RaycastArea	0	0	0	0	
+456	1128	3	0	GuideText22083	30;0	0	20	1	3	1;1		0.000000	0			1	0			0				0				AccessTipsPanel/MyRoot/FixedScrollView/Viewport/Content/PrefabCell(Clone)	0	0	0	0	
+457	1129	0	0	GuideText22091	0;0	0	20	1	3	1;1		0.000000	0		1		0			0			1	0				GuardTempleMainPanel/Root/BottomRoot/BtnArea/ResearchBtn	0	0	0	0	
+458	1129	1	0	GuideText22092	0;0	0	20	1	1	1;1		0.000000	0			1	0			0			1	0				GuardTempleMainPanel/Root/BottomRoot/BtnArea/AttackBtn	0	0	0	0	
+459	1129	2	0	GuideText22093	0;0	0	20	1	3	1;1		0.000000	0			1	0			0			1	0				GuardTempleMainPanel/Root/BottomRoot/BtnArea/MilitaryBtn	0	0	0	0	
+460	1129	3	0	GuideText22095	0;0	0	20	1	3	1;1		0.000000	0			1	0			0			1	0				GuardTempleMainPanel/ChallengeBtn	0	0	0	0	
+461	1129	4	0	GuideText22096	0;0	0	20	1	1	1;1		0.000000	0			1	0			0				0				GuardTempleMainPanel/Root/BottomRoot/BtnArea/DefenceBtn	0	0	0	0	
+462	1130	0	0	GuideText22090	0;0	0	20	1	3	1;1		0.000000	0		1		0			0				0				GuardTempleMiniMapPanel/Root/Map/GridRoot/GridCell09/Click	0	0	0	0	
+463	1130	1	0	GuideText22094	0;0	0	20	1	3	1;1		0.000000	0				0			0				0				GuardTempleBattleEventPanel/Window/MyRoot/TopSoloBtn/RaycastArea	0	0	0	0	
+464	1131	0	0	GuideText22100	0;0	1	20	1	2	1;1		0.000000	0		1		0			0				0				MainPanel/ChatMiniRoot/ChatMiniPage(Clone)/CenterRoot/Root/Top/FaceButton	0	0	0	0	
+465	1131	1	0	GuideText22101	20;0	1	20	1	2	1;1		0.000000	0			1	0			0				0				MainPanel/ChatMiniRoot/ChatMiniPage(Clone)/CenterRoot/Root/SocialActionPage(Clone)/ActionRoot/TabRoot/Tab0	0	0	0	0	
+466	1131	2	0	GuideText22102	0;0	0	20	1	3	1;1		0.000000	0			1	0			0				0				MainPanel/ChatMiniRoot/ChatMiniPage(Clone)/CenterRoot/Root/SocialActionPage(Clone)/ActionRoot/ActionListPage/Viewport/Content/ChangeBody	0	0	0	0	
+467	1132	0	0	GuideText22103	0;0	0	20	1	1	1;1		0.000000	0		1		0			0			1	0				ElementalSpiritActiveMainPanel/Root/BottomRoot/BtnArea/ElementalTrailBtn	0	0	0	0	
+468	1132	1	0	GuideText22104	0;0	0	20	1	1	1;1		0.000000	0			1	0			0			1	0				ElementalSpiritActiveMainPanel/Root/BottomRoot/BtnArea/TrailTaskBtn	0	0	0	0	
+469	1132	2	0	GuideText22105	0;0	0	20	1	3	1;1		0.000000	0			1	0			0			1	0				ElementalSpiritActiveMainPanel/Root/BottomRoot/BtnArea/TrailShopBtn	0	0	0	0	
+470	1132	3	0	GuideText22106	0;0	0	20	1	3	1;1		0.000000	0			1	0			0				0				ElementalSpiritActiveMainPanel/Root/BottomRoot/BtnArea/ElementalTrailBtn	0	0	0	0	
+471	1132	4	1	GuideText22107	0;0	0	0		0			0.000000	0			1	0			0			1	0					0	0	0	0	
+472	1132	5	0	GuideText22108	0;0	0	20	1	1	1;1		0.000000	0			1	0			0			1	0				ElementalSpiritActiveTrailPanel/MyRoot/InfoList/elementQueue/dm_ArrayMenu (1)	0	0	0	0	
+473	1132	6	0	GuideText22109	0;0	0	20	1	1	1;1		0.000000	0			1	0			0				0				ElementalSpiritActiveTrailPanel/MyRoot/BtnRoot/assistBtn	0	0	0	0	
+474	1132	7	1	GuideText22110	0;0	2	0		0			0.000000	0			1	0			0			1	0					0	0	0	0	

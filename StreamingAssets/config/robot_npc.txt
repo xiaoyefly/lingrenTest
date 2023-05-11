@@ -1,0 +1,11 @@
+﻿NPC编号	头像	英雄ID	模型缩放	常驻美术特效	种族编号
+string	string	string	float	string	int
+Id	Icon	HeroId	AvatarZoom	PermanentEffect	TribeId
+robot_npc_001		hero101	1.000000		1
+robot_npc_002		hero102	1.000000		1
+robot_npc_003		hero103	1.000000		1
+robot_npc_004		hero104	1.000000		1
+robot_npc_005		hero105	1.000000		1
+robot_npc_006		hero106	1.000000		1
+robot_npc_007		hero107	1.000000		1
+robot_npc_008		hero108	1.000000		1

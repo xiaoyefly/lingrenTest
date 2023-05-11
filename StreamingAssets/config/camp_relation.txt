@@ -1,0 +1,12 @@
+﻿阵营ID	敌对阵营	中立阵营	友好阵营
+int	string	string	string
+Id	RivalCamp	NeutralCamp	FriendCamp
+0	1;2;3;4	0;7	8
+1	2;0	3;7	4;8
+2	1;0	7	3;4;8
+3	0	1;7	2;4;8
+4	0	7	1;2;3;8
+5	6;1	8	5
+6	5;1	8	6
+7		0;1;2;3;4;8	
+8		7	0;1;2;3;4

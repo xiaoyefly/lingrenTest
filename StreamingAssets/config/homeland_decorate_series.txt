@@ -1,0 +1,16 @@
+﻿主题ID	类型	主题名	显示场景	排序	图标	主题星级
+int	int	string	int	int	string	int
+SeriesId	SeriesType	SeriesName	ShowType	Sort	SeriesIcon	SeriesStars
+1004	2	Homeland_SingleSet_04	2	3	item_144300007010	0
+1005	2	Homeland_SingleSet_05	0	4	item_144300007045	0
+1006	2	Homeland_SingleSet_06	1	5	item_144300007041	0
+1007	2	Homeland_SingleSet_07	1	6	item_144300007015	0
+1008	2	Homeland_SingleSet_08	2	7	item_144300007023	0
+1010	2	Homeland_SingleSet_10	2	9	item_144300000022	0
+2001	1	Homeland_Series_01	0	1	homeland_decoration_series01	1
+2002	1	Homeland_Series_02	0	2	homeland_decoration_series02	2
+2003	1	Homeland_Series_03	0	3	homeland_decoration_series03	3
+2004	1	Homeland_Series_04	1	4	homeland_decoration_series04	4
+2005	1	Homeland_Series_05	1	5	homeland_decoration_series05	5
+2006	1	Homeland_Series_06	0	6	homeland_decoration_series06	5
+2007	1	Homeland_Series_07	1	7	homeland_decoration_series07	5

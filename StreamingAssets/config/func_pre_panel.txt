@@ -1,0 +1,3 @@
+﻿功能ID	特效ID	特效显示总时长(秒)	打开功能时间点(秒)	是否从按钮位置打开(0否，1是)	从按钮位置移动到中间用时(秒)
+int	int	float	float	bool	float
+FuncID	EffectID	TotalTime	OpenFuncTime	IsBtnPosOpen	MoveUseTime

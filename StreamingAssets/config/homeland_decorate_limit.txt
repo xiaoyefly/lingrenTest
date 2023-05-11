@@ -1,0 +1,17 @@
+﻿布置类型id	布置类型对应的icon：选中和非选中	布置类型语言包	排序	限制摆放数量	解锁家园等级	解锁任务	显示场景	选中显示网格	布置类型	替换视角中心	替换视角相机角度	替换视角相机最小距离	替换视角相机最大距离	替换视角相机默认距离
+int	string	string	int	string	int	string	int	int	int	vector3	vector3	float	float	float
+DecorateId	DecorateIcon	DecorateTypeTxt	Sort	LimitNum	ShowHlLevel	ShowTask	ShowType	GridShow	DecorateType	ViewCenter	ViewRotation	MinViewDistance	MaxViewDistance	DefaultViewDistance
+1	homeland_house;homeland_house	Homeland_DecorateType_01	1	0,1	0	640230,1	2	0	1	-8.5,0.7,-17,9	35,0,0	15.000000	30.000000	20.000000
+2	homeland_layout;homeland_layout	Homeland_DecorateType_02	2	0,1	0	640230,1	1	1	3	-0.2,0.1,-1	65,0,0	5.000000	15.000000	10.000000
+3	homeland_yard;homeland_yard	Homeland_DecorateType_03	3	0,1	0		2	0	2	-13.9,0.7,-33.9	15,0,0	10.000000	25.000000	15.000000
+4	homeland_floor;homeland_floor	Homeland_DecorateType_04	4	0,1	0	640230,1	1	1	4	-0.2,0.1,-1	35,0,0	5.000000	15.000000	10.000000
+5	homeland_wall;homeland_wall	Homeland_DecorateType_05	5	0,1	0	640230,1	1	2	5	-0.2,0.1,-1	35,0,0	5.000000	15.000000	10.000000
+6	homeland_skyfx;homeland_skyfx	Homeland_DecorateType_06	6	0,1	0	640230,1	2	0	6			0.000000	0.000000	0.000000
+7	homeland_furniture;homeland_furniture	Homeland_DecorateType_07	1	0,8;5,12;10,15;20,18;30,25	0		0	1	0			0.000000	0.000000	0.000000
+8	homeland_objects;homeland_objects	Homeland_DecorateType_08	2	0,8;5,12;10,16;15,20;20,24;25,28;30,32	0		0	1	0			0.000000	0.000000	0.000000
+9	homeland_hangings;homeland_hangings	Homeland_DecorateType_09	3	0,5;10,8;20,12;30,15;40,18;50,25	0	640090,0	1	2	0			0.000000	0.000000	0.000000
+10	homeland_carpet;homeland_carpet	Homeland_DecorateType_10	4	0,9;10,12;20,15;30,18;40,24;50,36	0		1	1	0			0.000000	0.000000	0.000000
+11	homeland_plants;homeland_plants	Homeland_DecorateType_11	5	0,8;10,15;20,25;30,35	0		2	1	0			0.000000	0.000000	0.000000
+12	homeland_household;homeland_household	Homeland_DecorateType_12	6	0,5;10,6;20,7;30,8;40,9;50,10	0		1	1	0			0.000000	0.000000	0.000000
+13	homeland_scenery;homeland_scenery	Homeland_DecorateType_13	7	0,3;10,5;20,8;30,12;40,15;50,20	0		2	1	0			0.000000	0.000000	0.000000
+14	homeland_household;homeland_household	Homeland_DecorateType_14	8	0,1	0		2	1	0			0.000000	0.000000	0.000000

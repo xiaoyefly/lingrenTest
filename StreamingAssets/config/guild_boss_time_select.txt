@@ -1,0 +1,10 @@
+﻿星期几	日期描述	可以设定的时间
+int	string	string
+WeekDay	Desc	Time
+1	GuildWeekDay1	19:15;19:40;21:40
+2	GuildWeekDay2	19:15;19:40;21:40
+3	GuildWeekDay3	19:15;19:40;21:40
+4	GuildWeekDay4	19:15;19:40;21:40
+5	GuildWeekDay5	19:15;19:40;21:40
+6	GuildWeekDay6	19:15;19:40;21:40
+7	GuildWeekDay7	19:15;19:40;21:40

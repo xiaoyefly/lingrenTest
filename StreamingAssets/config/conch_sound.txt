@@ -1,0 +1,5 @@
+﻿海螺id	显示排序	显示类型	购买所需货币	购买价格	停留时长(s)	框体效果	聊天框图
+string	int	int	int	int	int	int	string
+Id	Order	ShowType	BuyCurrenyType	BuyCurrenyNum	Time	EffectID	BgName
+item90000000108	1	0	3	80	10	40000145	bg_hailuo_0000
+item100430000008	2	1	3	0	10	40000145	bg_hailuo_0000

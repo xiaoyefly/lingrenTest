@@ -1,0 +1,7 @@
+﻿功能ID	功能名	功能图片	链接命令	链接参数	不显示的平台渠道id	按钮显示逻辑事件
+int	string	string	string	string	string	string
+Id	FuncName	Picture	Link	LinkParm	NotShowPlatform	OnShowEvent
+1	UI_AfficheTitle	btn_gonggao	LinkUI	AffichePanel		
+2	UI_LoginPanel_Scan	pc_qrcode_icon	LinkUI	QRCodeScanPanel		IsShowQRCodeScanBtn
+3	UI_LoginPanel_Scan	koreaservice	EnterCustomerService			
+4	UI_FuncName_414	koreaforum	OpenURL	https://cafe.naver.com/cepheusm		

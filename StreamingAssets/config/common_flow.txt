@@ -1,0 +1,118 @@
+﻿流程	描述	读条颜色	图标类型	固定图标	是否显示读条	流音效
+string	string	string	int	string	bool	int
+Id	Desc	Color	IconType	FixedIcon	LoadingShow	SoundId
+use_item_flow	Main_Flow_ItemUsing	238,196,57	1		1	0
+identify_item_flow	Main_Flow_ItemIdentifing	238,196,57	1		1	0
+npc_select_flow	Main_Flow_Gathering	238,196,57	2		1	238
+switch_line_flow	Main_Flow_Transfer	89,200,245	0	icon_tansfer	1	220
+use_treasure_map_flow	Main_Flow_ItemUsing	238,196,57	1		1	0
+client_custom_skill_flow		238,196,57	3		1	0
+life_skill_collect_flow	Main_Flow_Collect	238,196,57	2		1	238
+life_skill_mine_flow	Main_Flow_Mine	238,196,57	2		1	239
+life_skill_make_flow	Main_Flow_Make	238,196,57	1		1	0
+push_fire_flow	Main_Flow_Pushing	238,196,57	0	icon_caiji	1	0
+use_shiwu1003_flow	Spec_Flow_Item1003Using	238,196,57	1		1	0
+use_baotu_flow	Spec_Flow_BaotuUsing	238,196,57	1		1	238
+use_tanmofen_flow	Spec_Flow_TanmofenUsing	238,196,57	1		1	0
+use_nianye_flow	Spec_Flow_NianyeUsing	238,196,57	1		1	0
+use_huolishui_flow	Spec_Flow_HuolishuiUsing	238,196,57	1		1	0
+use_shuiping_flow	Spec_Flow_ShuipingUsing	238,196,57	1		1	0
+use_bianshen_flow	Spec_Flow_BianshenUsing	238,196,57	1		1	0
+use_beike_flow	Spec_Flow_BeikeUsing	238,196,57	1		1	0
+use_fangzhi_flow	Spec_Flow_FangzhiUsing	238,196,57	1		1	0
+use_weishi_flow	Spec_Flow_WeishiUsing	238,196,57	1		1	0
+diaocha_flow	Task_Flow_diaocha	238,196,57	0	icon_caiji	1	0
+use_task_flow	Task_Flow_shiyong	238,196,57	0	icon_caiji	1	0
+repair_flow	Task_Flow_repair	238,196,57	0	icon_caiji	1	0
+use_koushao_flow	Spec_Flow_KoushaoUsing	238,196,57	1		1	0
+signal_flow	Task_Flow_signal	238,196,57	0	icon_caiji	1	0
+off_flow	Task_Flow_off	238,196,57	0	icon_caiji	1	0
+make_flow	Task_Flow_make	238,196,57	0	icon_caiji	1	0
+use_fengyin_flow	Spec_Flow_FengyinUsing	238,196,57	1		1	0
+lock_catch_flow	Spec_Flow_CatchLock	238,196,57	0	icon_buzhuo	1	0
+treasure_flow	Open_Box	238,196,57	0	icon_baozang	1	0
+guild_read_flow	Spec_guild_read_flow	238,196,57	0	icon_read	1	144
+guild_water_flow	Spec_guild_water_flow	238,196,57	0	icon_water	1	0
+guild_clean_flow	Spec_guild_clean_flow	238,196,57	0	icon_clean	1	141
+guild_arrange_flow	Spec_guild_arrange_flow	238,196,57	0	icon_arrange	1	145
+get_flow	Task_Flow_get	238,196,57	0	icon_caiji	1	0
+dug_flow	Task_Flow_dug	238,196,57	0	icon_caikuang	1	239
+task_play_flow	Task_Flow_play	238,196,57	0	icon_wanshua	1	0
+task_clean_flow	Task_Flow_clean	238,196,57	0	icon_clean	1	0
+task_face_flow	Task_Flow_face	238,196,57	0	icon_shenlian	1	0
+task_coin_flow	Task_Flow_coin	238,196,57	0	icon_toubi	1	0
+task_listen_flow	Task_Flow_listen	238,196,57	0	icon_qinting	1	0
+task_look_flow	Task_Flow_look	238,196,57	0	icon_yuantiao	1	0
+task_pick_flow	Task_Flow_release	238,196,57	0	icon_jianqi	1	0
+task_fire_flow	Task_Flow_fire	238,196,57	0	icon_dianran	1	0
+task_probe_flow	Task_Flow_probe	238,196,57	0	icon_shitan	1	0
+task_wakeup_flow	Task_Flow_wakeup	238,196,57	0	icon_caiji	1	0
+getup_grail	Task_Flow_pick	238,196,57	0	icon_caiji	1	0
+getoff_grail	Spec_Flow_FangzhiUsing	238,196,57	0	icon_caiji	1	0
+task_dance_flow	Task_Flow_dance	238,196,57	0	icon_tiaolou	1	0
+follow_transfer_flow	Main_Flow_Transfer	89,200,245	0	icon_tansfer	1	0
+task_songhua_flow	Task_Flow_songhua	238,196,57	0	icon_caiji	1	0
+task_huishou_flow	Task_Flow_huishou	238,196,57	0	icon_caiji	1	0
+task_weizhuang_flow	Task_Flow_weizhuang	238,196,57	0	icon_caiji	1	0
+task_wakuang_flow	Task_Flow_wakuang	238,196,57	0	icon_caiji	1	0
+task_jiejiu_flow		238,196,57	0	icon_caiji	1	0
+task_diaocha_flow	Task_Flow_diaocha	238,196,57	0	icon_yuantiao	1	238
+change_flow			0		0	0
+social_action_flow			0		0	0
+catch_flow			0		0	0
+link_catch_flow			0		0	0
+ball_catch_flow			0		0	0
+task_pray_flow	Task_Flow_pray	238,196,57	0	icon_caiji	1	0
+task_find_flow	Task_Flow_find	238,196,57	0	icon_jianqi	1	0
+task_think_flow	Task_Flow_think	238,196,57	0	icon_jianqi	1	0
+climb_flow			0		0	0
+bbq_flow	Main_Flow_Pushing	238,196,57	0	icon_caiji	0	0
+treasure_big_flow	Open_Box	238,196,57	0	icon_baozang	0	0
+task_ride_flow	Task_Flow_Ride	238,196,57	0	icon_caiji	1	0
+task_translator_flow	Task_Flow_Translator	238,196,57	0	icon_caiji	1	0
+task_drink	Task_Flow_Drink	238,196,57	0	icon_caiji	1	0
+task_spy_flow	Task_Flow_Spy	238,196,57	0	icon_caiji	1	0
+task_jinghua_flow		238,196,57	0	icon_caiji	1	0
+task_sightseeing		238,196,57	0	icon_caiji	1	0
+task_pickup_flow	Task_Flow_Pickup	238,196,57	0	icon_jianqi	1	238
+throw_bottle_flow			0		0	0
+starting_gear_flow	Starting_Flow_Gear	238,196,57	0	icon_caiji	1	0
+life_skill_medic_flow	Main_Flow_Collect_Medic	238,196,57	2		1	238
+life_skill_leach_flow	Main_Flow_Mine_Leach	238,196,57	2		1	239
+throw_soulreaping_flow	Task_Flow_ThrowSoulreaping	238,196,57	0	icon_caiji	1	0
+digtreasure_flow	Task_Flow_Digtreasure	238,196,57	0	item_20100000	1	0
+fairy_flow	Task_Fairy_Find	238,196,57	0	item_20100000	1	0
+guildwar_nextfloor_flow	GuildWar_Opening	238,196,57	0	icon_tansfer	1	0
+guildwar_chest_flow	Open_Box	238,196,57	0	icon_baozang	1	0
+use_item_fireworks	Main_Flow_Itemfireworks	238,196,57	1		1	0
+switch_homeland_flow	Main_Flow_Transfer	89,200,245	0	icon_tansfer	1	0
+guildleague_energystone_flow	Main_Flow_Collect	238,196,57	0	icon_caiji	1	0
+guildleague_disturbdevice_flow	Starting_Disturb_Device	238,196,57	0	icon_caiji	1	0
+guildleague_topfightflag_flow	Flow_Occupy_Flag	238,196,57	0	icon_caiji	1	0
+guildleague_smallcannon_flow	Flow_Reload_Cannon	238,196,57	0	icon_caiji	1	0
+guildleague_bigcannon_flow	Starting_Disturb_Device	238,196,57	0	icon_caiji	1	0
+guildhallow_chargepower	Guild_Flow_Charge	238,196,57	0	icon_caiji	1	0
+guildleague_topfightswitch_flow	Main_Flow_Transfer	89,200,245	0	icon_tansfer	1	0
+wedding_stone_flow	Wedding_Flow_Stone	238,196,57	0	icon_caiji	1	0
+wedding_melon_flow	Wedding_Flow_Melon	238,196,57	0	icon_caiji	1	0
+task_plough_flow	Task_Flow_Plough	238,196,57	0	icon_caiji	1	0
+task_jinggu_flow	Task_JingGu_Flow	238,196,57	0	icon_caiji	1	0
+task_getwater_flow	Task_Getwater_Flow	238,196,57	0	icon_caiji	1	0
+task_save_flow	Task_Save_Flow	238,196,57	0	icon_jianqi	1	0
+task_collect_flow	Main_Flow_Collect	238,196,57	0	icon_caiji	1	0
+task_useitem1_flow	Main_Flow_ItemUsing	238,196,57	0	icon_caiji	1	0
+task_wajue_flow	Task_Wajue_flow	238,196,57	0	icon_caiji	1	239
+task_fengyin_flow	Task_Fengyin_flow	238,196,57	0	icon_caiji	1	0
+task_baoqi_flow	Task_Baoqi_flow	238,196,57	0	icon_caiji	1	0
+task_jiancha_flow	Task_Jiancha_flow	238,196,57	0	icon_caiji	1	0
+task_anfang_flow	Task_Anfang_flow	238,196,57	0	icon_caiji	1	0
+hl_chucao_flow	hl_chucao_flow	238,196,57	0	icon_caiji	1	0
+HuntPvP_flow	Main_Flow_Transfer	89,200,245	0	icon_tansfer	1	220
+MazePvE_flow	Main_Flow_Transfer	89,200,245	0	icon_tansfer	1	220
+cooking_eatmeal	Task_Flow_Drink	238,196,57	0	icon_caiji	1	0
+holybattle_treasure_flow1	Open_Box	238,196,57	0	icon_baozang	1	0
+holybattle_treasure_flow2	Open_Box	238,196,57	0	icon_baozang	1	0
+holybattle_treasure_flow3	Open_Box	238,196,57	0	icon_baozang	1	0
+keypoint_crystal_flow	Task_Flow_dug	238,196,57	0	icon_caiji	1	0
+wishtree_flow	Wishtree_dug	238,196,57	0	icon_wishstar	1	0
+task_treasurehunt_flow	treasurehuntTask	238,196,57	0	icon_caiji	1	0

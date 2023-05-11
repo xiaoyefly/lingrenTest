@@ -1,0 +1,11 @@
+﻿副本ID	名称	图标	背景图	未解锁提示	难度区分特效	副本类型	副本难度	等级限制
+int	string	string	string	string	int	int	int	int
+ID	Name	Icon	Picture	UnlockDes	EffectId	Type	Difficulty	EnterLevel
+1550	contract_dungeon_name_1550	contract_icon_mengyan	contract01_illustration03	contract_dungeon_unlockdes_1851	0	288	1	50
+1551	contract_dungeon_name_1551	contract_icon_mengyan	contract01_illustration03	contract_dungeon_unlockdes_1851	10350	288	2	76
+1552	contract_dungeon_name_1552	contract_icon_mengyan	contract01_illustration03	contract_dungeon_unlockdes_1851	10349	288	3	90
+1553	contract_dungeon_name_1553	contract_icon_haishou	contract01_illustration04	contract_dungeon_unlockdes_1852	0	289	1	50
+1554	contract_dungeon_name_1554	contract_icon_haishou	contract01_illustration04	contract_dungeon_unlockdes_1852	10355	289	2	76
+1555	contract_dungeon_name_1555	contract_icon_haishou	contract01_illustration04	contract_dungeon_unlockdes_1852	10354	289	3	90
+1556	contract_dungeon_name_1556	contract_icon_haishou	contract01_illustration04	contract_dungeon_unlockdes_1852	10353	289	4	100
+1557	contract_dungeon_name_1557	contract_icon_haishou	contract01_illustration04	contract_dungeon_unlockdes_1852	10352	289	5	110

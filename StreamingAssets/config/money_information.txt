@@ -1,0 +1,25 @@
+﻿流水	类型	链接面板	展示icon	道具	是否屏蔽商店列表中	绑定活动id
+int	int	int	string	string	int	string
+Id	CurrencyType	ShopId	Icon	ItemId	IsShieldShopList	ActiveId
+1	14	902	item_1013	item1013	0	
+2	4	301	money_guild	item1003	0	
+3	9	901	item_1009	item1009	0	
+4	7	201	money_secret	item1006	0	
+5	8	401	item_1007	item1007	0	
+6	12	701	item_1011	item1011	0	
+7	16	904	item_1015	item1015	0	
+8	17	905	money_home	item1016	0	
+9	18	907	money_grandceremony	item1017	0	2703
+10	19	908	money_szellpeak	item1019	0	
+11	28	916	money_disaster	item1028	0	
+12	30	916	money_hallowpoint	item1030	0	
+13	29	915	money_snowman	item1029	0	
+14	31	917	money_killstar	item1031	0	
+15	34	922	money_sailexchange	item1034	0	
+16	35	924	money_fishcompetition	item1035	1	
+17	37	926	money_wing	item1037	0	
+18	42	933	money_scroll	item1044	0	
+19	48	1101	money_duel	item1048	0	
+20	53	1008	money_apprenticeskill	item1053	0	
+21	59	935	item_9304020121003	item97000000002	0	
+22	60	936	item_127000065131	item127000065131	1	

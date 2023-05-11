@@ -1,0 +1,33 @@
+﻿事件ID	事件类型	特拉然掉落库ID	事件参数	事件icon	是否可跳过
+int	int	int	string	string	int
+EventId	EventType	DropBox	EventParam	BaseIcon	IsSkip
+110	1	26107		traran_event1	1
+120	1	26130		traran_event1	1
+130	1	26131		traran_event1	1
+210	2	0	4000;6000	traran_event2	1
+310	3	26081		traran_event3	0
+410	4	3501		traran_event4	0
+420	4	3502		traran_event4	0
+430	4	3503		traran_event4	0
+510	5	1001		traran_event5	0
+520	5	1002		traran_event5	0
+530	5	1003		traran_event5	0
+610	6	26101	1521	traran_event6	0
+611	6	26101	1522	traran_event6	0
+612	6	26101	1523	traran_event6	0
+613	6	26101	1524	traran_event6	0
+614	6	26101	1525	traran_event6	0
+615	6	26101	1526	traran_event6	0
+710	7	26102	1527	traran_event7	0
+711	7	26102	1528	traran_event7	0
+712	7	26102	1529	traran_event7	0
+713	7	26102	1530	traran_event7	0
+714	7	26102	1531	traran_event7	0
+715	7	26102	1532	traran_event7	0
+716	7	26128	1529	traran_event7	0
+717	7	26128	1530	traran_event7	0
+718	7	26133	1531	traran_event7	0
+719	7	26133	1532	traran_event7	0
+810	8	26132	1520	traran_event8	0
+910	9	0		traran_event9	1
+1000	10	0		traran_event10	1

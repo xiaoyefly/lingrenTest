@@ -1,0 +1,45 @@
+﻿流水id	任务id	是否自动接取	触发条件	条件参数	值	未解锁icon	解锁icon	未解锁名字	触发概率类型	触发概率权重(配置概率一定要跟旭召确认)	任务说明	任务时间	模型类型	模型编号	UI界面模型位置	UI界面模型倍数
+int	int	bool	string	string	string	string	string	string	int	string	string	int	int	string	string	float
+Id	TaskId	IsAutomaticAccept	ConditionType	ConditionParameter	ConditionValue	LockPicture	UnlockPicture	Name	ProbabilityType	Probability	TaskInfo	TaskTime	AvatarType	AvatarId	AvatarLocation	AvatarZoom
+1	161170	1	6	npc_10007	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	10000	TaskInfo161170	0	1	npc_10007		0.700000
+2	161010	0	1	npc_10201	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	5000	TaskInfo161010	0	1	npc_10201		0.600000
+3	510300	1	6	npc_10011	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	500	TaskInfo510300	0	1	npc_10011		0.700000
+4	161160	1	6	npc_10020	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	500	TaskInfo161160	0	1	npc_10020		0.500000
+5	500040	0	6	npc_10020	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	200	TaskInfo500040	0	1	npc_10020		0.500000
+6	500050	0	2;6	npc_10019;npc_10019	2;1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	500	TaskInfo500050	0	1	npc_10019		0.700000
+7	510080	1	4;6	item119000000000;npc_10003	1;1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	500	TaskInfo510080	0	1	npc_10003		0.700000
+8	500060	0	8	500060	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	10000	TaskInfo500060	0	1	npc_10029		0.500000
+9	500090	0	1	npc_10025	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	1000	TaskInfo500090	0	1	npc_10025		0.500000
+10	500140	0	6	npc_10054	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	200	TaskInfo500140	0	1	npc_10054		0.500000
+11	500200	0	6	npc_10063	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	200	TaskInfo500200	0	1	npc_10063		0.700000
+12	500220	0	1	npc_10069	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	500	TaskInfo500220	0	1	npc_10069		0.700000
+13	500240	0	6	npc_10069	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	500	TaskInfo500240	0	1	npc_10069		0.700000
+14	161130	0	1	npc_10202	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	10000	TaskInfo161130	0	1	npc_10202		0.700000
+15	500250	1	6	npc_101621	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	10000	TaskInfo500250	0	1	npc_10162		0.700000
+16	500260	1	6	npc_101622	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	2000	TaskInfo500260	0	1	npc_10162		0.700000
+17	500270	1	6	npc_101623	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	1000	TaskInfo500270	0	1	npc_10162		0.700000
+18	500280	1	6	npc_101624	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	1000	TaskInfo500280	0	1	npc_10162		0.700000
+19	500290	1	6	npc_101625	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	1000	TaskInfo500290	0	1	npc_10162		0.700000
+20	500300	1	6	npc_101626	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	0	1000	TaskInfo500300	0	1	npc_10162		0.700000
+21	162210	1	9	mine_npc003	150	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162210	0	1	npc_forging_001		0.700000
+22	162220	1	9	mine_npc005	200	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162220	0	1	npc_forging_001		0.700000
+23	162230	1	9	mine_npc007	300	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162230	0	1	npc_forging_001		0.700000
+24	162240	1	9	mine_npc009	400	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162240	0	1	npc_forging_001		0.700000
+25	162250	1	9	mine_npc011	500	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162250	0	1	npc_forging_001		0.700000
+26	162260	1	9	mine_npc011	700	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162260	0	1	npc_forging_001		0.700000
+27	162270	1	9	mine_npc004	150	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162270	0	1	npc_forging_002		0.700000
+28	162280	1	9	mine_npc006	200	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162280	0	1	npc_forging_002		0.700000
+29	162290	1	9	mine_npc008	300	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162290	0	1	npc_forging_002		0.700000
+30	162300	1	9	mine_npc010	400	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162300	0	1	npc_forging_002		0.700000
+31	162310	1	9	mine_npc012	500	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162310	0	1	npc_forging_002		0.700000
+32	162320	1	9	mine_npc012	700	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162320	0	1	npc_forging_002		0.700000
+33	162330	1	9	collect_npc004	150	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162330	0	1	npc_10078		0.700000
+34	162340	1	9	collect_npc006	200	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162340	0	1	npc_10078		0.700000
+35	162350	1	9	collect_npc008	300	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162350	0	1	npc_10078		0.700000
+36	162360	1	9	collect_npc010	400	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162360	0	1	npc_10078		0.700000
+37	162370	1	9	collect_npc012	500	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162370	0	1	npc_10078		0.700000
+38	162380	1	9	collect_npc012	700	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	1000	TaskInfo162380	0	1	npc_10078		0.700000
+39	162390	1	6	npc_10190	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	10000	TaskInfo162390	0	1	npc_10190		0.700000
+40	162400	1	6	npc_19000	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	10000	TaskInfo162400	0	1	npc_19000		0.700000
+41	162420	1	6	npc_10075	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	10000	TaskInfo162420	0	1	npc_10075		0.700000
+42	162430	1	6	npc_10503	1	qiyubiaozhi3	qiyubiaozhi3	LockAdventureTaskName161010	1	10000	TaskInfo162430	0	1	npc_10503		0.700000

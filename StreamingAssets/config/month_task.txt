@@ -1,0 +1,24 @@
+﻿流水ID	刷新类型	刷新时间	奖励	任务类型	任务参数	次数累计方式	模式	任务描述
+int	int	string	string	int	string	int	int	string
+TaskId	RefreshType	RefreshDaily	Rewards	Type	Param	AccumType	Mode	AcceptTaskName
+1	1	0,1,2,3,4,5,6,7,8,9,10,11,12,13	item178100000001,60	1	1,1	0	0	MonthAcceptTaskName1
+2	1	0,1,2,3,4,5,6,7,8,9,10,11,12,13	item178100000001,80	1	2,1	0	0	MonthAcceptTaskName2
+3	1	0,1,2,3,4,5,6,7,8,9,10,11,12,13	item178100000001,100	1	3,1	0	0	MonthAcceptTaskName3
+4	1	0,1,2,3,4,5,6,7,8,9,10,11,12,13	item178100000001,120	1	4,1	0	0	MonthAcceptTaskName4
+5	1	0,1,2,3,4,5,6,7,8,9,10,11,12,13	item178100000001,140	1	5,1	0	0	MonthAcceptTaskName5
+6	1	0,1,2,3,4,5,6,7,8,9,10,11,12,13	item178100000001,160;item178100000002,1	1	6,1	0	0	MonthAcceptTaskName6
+7	2		item178100000001,300;item178100000002,1	1	1,10	1	0	MonthAcceptTaskName7
+8	2		item178100000001,350;item178100000002,1	1	2,10	1	0	MonthAcceptTaskName8
+9	2		item178100000001,400;item178100000002,1	1	3,10	1	0	MonthAcceptTaskName9
+10	2		item178100000001,450;item178100000002,1	1	4,10	1	0	MonthAcceptTaskName10
+11	2		item178100000001,500;item178100000002,1	1	5,10	1	0	MonthAcceptTaskName11
+12	2		item178100000001,600;item178100000002,1	1	6,10	1	0	MonthAcceptTaskName12
+14	2		item178100000001,500;item178100000002,1	5	m006|body|m006_body_t1,5	0	0	MonthAcceptTaskName13
+15	2		item178100000001,500;item178100000002,1	5	m021|body|m021_body_t1,5	0	0	MonthAcceptTaskName14
+16	2		item178100000001,500;item178100000002,1	3	6,1	1	0	MonthAcceptTaskName15
+17	2		item178100000001,500;item178100000002,1	4	6,1	1	0	MonthAcceptTaskName16
+18	2		item178100000001,500;item178100000002,1	2	6,600,1	0	0	MonthAcceptTaskName17
+19	2		item178100000001,500;item178100000002,1	1	6,1	1	2	MonthAcceptTaskName18
+20	2		item178100000001,600;item178100000002,1	1	6,2	1	2	MonthAcceptTaskName19
+21	2		item178100000001,700;item178100000002,1	1	6,3	1	2	MonthAcceptTaskName20
+22	2		item178100000001,800;item178100000002,1	1	6,5	1	2	MonthAcceptTaskName21

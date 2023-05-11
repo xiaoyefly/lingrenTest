@@ -1,0 +1,8 @@
+﻿玩法id	事件类型	解锁家园等级	解锁任务	刷新场景
+int	int	int	string	int
+Id	GameType	UnlockLv	UnlockTask	SceneId
+101	1	1	640020,3	41
+201	2	5	640130,3	41
+1000	1	1		41
+1001	1	1		41
+1002	1	1		41

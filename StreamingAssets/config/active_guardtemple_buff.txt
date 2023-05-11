@@ -1,0 +1,74 @@
+﻿BUff索引	目标对象	BUFFid	效果参数	BUFF名	BUFF描述	icon
+int	int	int	string	string	string	string
+BuffID	SkillType	Buff	EffectParam	BuffName	BuffDes	BuffIcon
+1001	1	31042	guardtemple_specialevent01::buff_01	buffname_guardtemple_specialevent01_buff_01	guardtemple_buffdes_1	bigbuff_9080
+1002	1	31043	guardtemple_specialevent01::buff_02	buffname_guardtemple_specialevent01_buff_02	guardtemple_buffdes_2	bigbuff_9023
+1003	1	31044	guardtemple_specialevent01::buff_03	buffname_guardtemple_specialevent01_buff_03	guardtemple_buffdes_3	bigbuff_9010
+1004	1	31045	guardtemple_specialevent01::buff_04	buffname_guardtemple_specialevent01_buff_04	guardtemple_buffdes_4	bigbuff_9055
+1005	4	31046	guardtemple_specialevent01::buff_08	buffname_guardtemple_specialevent01_buff_08	guardtemple_buffdes_5	bigbuff_9040
+1006	1	31047	guardtemple_specialevent01::buff_09	buffname_guardtemple_specialevent01_buff_09	guardtemple_buffdes_6	bigbuff_9066
+1007	1	31048	guardtemple_specialevent01::buff_10	buffname_guardtemple_specialevent01_buff_10	guardtemple_buffdes_7	bigbuff_9045
+1008	1	31049	guardtemple_specialevent01::buff_11	buffname_guardtemple_specialevent01_buff_11	guardtemple_buffdes_8	bigbuff_9084
+1009	2	1235	skill21145::buff_attack	guardtemple_buffname_9	guardtemple_buffdes_9	guardtemple_bufficon_9
+1010	3	1236	skill21154::buff_DEF	guardtemple_buffname_10	guardtemple_buffdes_10	guardtemple_bufficon_10
+1011	3	1235	skill21145::buff_attack	guardtemple_buffname_11	guardtemple_buffdes_11	guardtemple_bufficon_11
+1012	3	1236	skill21154::buff_DEF	guardtemple_buffname_12	guardtemple_buffdes_12	guardtemple_bufficon_12
+1013	3	1235	skill21145::buff_attack	guardtemple_buffname_13	guardtemple_buffdes_13	guardtemple_bufficon_13
+1014	3	1236	skill21154::buff_DEF	guardtemple_buffname_14	guardtemple_buffdes_14	guardtemple_bufficon_14
+1015	2	1235	skill21145::buff_attack	guardtemple_buffname_201	guardtemple_buffdes_201	guardtemple_bufficon_201
+1016	2	1236	skill21154::buff_DEF	guardtemple_buffname_202	guardtemple_buffdes_202	guardtemple_bufficon_202
+1017	2	1236	skill21154::buff_DEF	guardtemple_buffname_203	guardtemple_buffdes_203	guardtemple_bufficon_203
+1018	1	31004	skill40501::buff_01	grandtemple_talentname_01	buffdes_skill40501_buff_01	
+1019	1	31005	skill40501::buff_02	grandtemple_talentname_02	buffdes_skill40501_buff_02	
+1020	1	31006	skill40501::buff_03	grandtemple_talentname_03	buffdes_skill40501_buff_03	
+1021	1	31007	skill40501::buff_04	grandtemple_talentname_04	buffdes_skill40501_buff_04	
+1022	1	31008	skill40501::buff_05	grandtemple_talentname_05	buffdes_skill40501_buff_05	
+1023	1	31009	skill40501::buff_06	grandtemple_talentname_06	buffdes_skill40501_buff_06	
+1024	1	31010	skill40501::buff_07	grandtemple_talentname_07	buffdes_skill40501_buff_07	
+1025	1	31011	skill40501::buff_08	grandtemple_talentname_08	buffdes_skill40501_buff_08	
+1026	1	31012	skill40501::buff_09	grandtemple_talentname_09	buffdes_skill40501_buff_09	
+1027	1	31013	skill40501::buff_10	grandtemple_talentname_10	buffdes_skill40501_buff_10	
+1028	1	31015	skill40501::buff_11	grandtemple_talentname_11	buffdes_skill40501_buff_11	
+1029	1	31016	skill40501::buff_12	grandtemple_talentname_12	buffdes_skill40501_buff_12	
+1030	1	31017	skill40501::buff_13	grandtemple_talentname_13	buffdes_skill40501_buff_13	
+1031	1	31018	skill40501::buff_14	grandtemple_talentname_14	buffdes_skill40501_buff_14	
+1032	1	31020	skill40501::buff_15	grandtemple_talentname_15	buffdes_skill40501_buff_15	
+1033	1	31021	skill40501::buff_16	grandtemple_talentname_16	buffdes_skill40501_buff_16	
+1034	1	31022	skill40501::buff_17	grandtemple_talentname_17	buffdes_skill40501_buff_17	
+1035	1	31023	skill40501::buff_18	grandtemple_talentname_18	buffdes_skill40501_buff_18	
+1036	2	31026	skill40501::buff_19	grandtemple_talentname_19	buffdes_skill40501_buff_19	
+1037	1	31027	skill40501::buff_20	grandtemple_talentname_20	buffdes_skill40501_buff_20	
+1038	1	31029	skill40501::buff_21	grandtemple_talentname_21	buffdes_skill40501_buff_21	
+1039	8	31031	skill40501::buff_22	grandtemple_talentname_22	buffdes_skill40501_buff_22	
+1040	2	31032	skill40501::buff_23	grandtemple_talentname_23	buffdes_skill40501_buff_23	
+1041	1	31034	skill40501::buff_24	grandtemple_talentname_24	buffdes_skill40501_buff_24	
+1042	1	31036	skill40501::buff_25	grandtemple_talentname_25	buffdes_skill40501_buff_25	
+1043	8	31038	skill40501::buff_26	grandtemple_talentname_26	buffdes_skill40501_buff_26	
+1044	1	31039	skill40501::buff_27	grandtemple_talentname_27	buffdes_skill40501_buff_27	
+1045	8	31050		buffname_guardtemple_monsterbuff01_buff_01	buffdes_guardtemple_monsterbuff01_buff_01	bigbuff_9031
+1046	8	31051		buffname_guardtemple_monsterbuff01_buff_02	buffdes_guardtemple_monsterbuff01_buff_02	bigbuff_9002
+1047	8	31052		buffname_guardtemple_monsterbuff01_buff_03	buffdes_guardtemple_monsterbuff01_buff_03	bigbuff_9008
+1048	8	31053		buffname_guardtemple_monsterbuff01_buff_04	buffdes_guardtemple_monsterbuff01_buff_04	bigbuff_9005
+1049	8	31054		buffname_guardtemple_monsterbuff01_buff_05	buffdes_guardtemple_monsterbuff01_buff_05	bigbuff_9003
+1050	8	31055		buffname_guardtemple_monsterbuff01_buff_06	buffdes_guardtemple_monsterbuff01_buff_06	bigbuff_9004
+1051	8	31056		buffname_guardtemple_monsterbuff01_buff_07	buffdes_guardtemple_monsterbuff01_buff_07	bigbuff_9024
+1052	8	31057		buffname_guardtemple_monsterbuff01_buff_08	buffdes_guardtemple_monsterbuff01_buff_08	bigbuff_9007
+1053	8	31058		buffname_guardtemple_monsterbuff01_buff_09	buffdes_guardtemple_monsterbuff01_buff_09	bigbuff_9009
+1054	8	31059		buffname_guardtemple_monsterbuff01_buff_10	buffdes_guardtemple_monsterbuff01_buff_10	bigbuff_9041
+1055	8	31060		buffname_guardtemple_monsterbuff01_buff_11	buffdes_guardtemple_monsterbuff01_buff_11	bigbuff_9025
+1056	8	31061		buffname_guardtemple_monsterbuff01_buff_12	buffdes_guardtemple_monsterbuff01_buff_12	bigbuff_9021
+1057	8	31062		buffname_guardtemple_monsterbuff01_buff_13	buffdes_guardtemple_monsterbuff01_buff_13	bigbuff_9027
+1058	8	31064		buffname_guardtemple_monsterbuff01_buff_14	buffdes_guardtemple_monsterbuff01_buff_14	bigbuff_9013
+1059	1	31068	guardtemple_specialevent01::buff_12	buffname_guardtemple_specialevent01_buff_12	buffdes_guardtemple_specialevent01_buff_12	bigbuff_9086
+1060	8	0				
+1061	8	0				
+1062	8	0				
+1063	8	0				
+1064	8	0				
+1065	8	0				
+1066	8	0				
+1067	8	0				
+1068	8	0				
+1069	8	0				
+1070	8	0				
+1071	8	0				

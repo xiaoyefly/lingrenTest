@@ -1,0 +1,10 @@
+﻿渠道ID	渠道名	渠道图标
+int	string	string
+Id	Name	Icon
+1	UI_Photograph_Microblog	icon_share_weibo
+10	UI_Photograph_Fb	icon_share_facebook
+11	UI_Photograph_Twitter	icon_share_twitter
+15	UI_Photograph_Instagram	icon_share_Instagram
+22	UI_Photograph_WeChat	icon_share_wx
+23	UI_Photograph_Circle	icon_share_wxpyq
+24	UI_Photograph_QQ	icon_share_qq

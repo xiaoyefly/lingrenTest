@@ -1,0 +1,13 @@
+﻿排行榜ID	分类名字	排行榜开放时间点	排行榜展示时间点	开启类别
+int	string	string	string	int
+rankid	RankName	OpenTime	ShowTime	opentype
+1	ElementTrial_rank_1	2023-04-23-00:00:00	2023-05-06-23:59:59	1
+2	ElementTrial_rank_2	2023-04-23-00:00:00	2023-05-06-23:59:59	1
+3	ElementTrial_rank_3	2023-04-23-00:00:00	2023-05-06-23:59:59	1
+4	ElementTrial_rank_4	2023-04-23-00:00:00	2023-05-06-23:59:59	1
+5	ElementTrial_rank_5	2023-04-23-00:00:00	2023-05-06-23:59:59	1
+6	ElementTrial_rank_1	2023-04-23-00:00:00	2023-05-06-23:59:59	2
+7	ElementTrial_rank_2	2023-04-23-00:00:00	2023-05-06-23:59:59	2
+8	ElementTrial_rank_3	2023-04-23-00:00:00	2023-05-06-23:59:59	2
+9	ElementTrial_rank_4	2023-04-23-00:00:00	2023-05-06-23:59:59	2
+10	ElementTrial_rank_5	2023-04-23-00:00:00	2023-05-06-23:59:59	2

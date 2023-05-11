@@ -1,0 +1,25 @@
+﻿奖励id	页面名称	礼包类型	类型	前端类型	领取条件	奖励	页签文本	页签内容文本	显示文本
+int	string	int	string	int	int	string	string	string	string
+Id	Page_Name	Package_Type	Type	Client_Type	Condition	Reward	Tip_Title	Tip_Text	Display_Text
+1	QQGamePrivilegeShowPage	0		0	0		lanzuan_tip_title_privilege	lanzuan_tip_text_privilege	
+2	QQGameGiftPage	1	1,2,3,4,5,6,7	0	0	item1000,100000;item107200031001,10;item133007040312,1	lanzuan_tip_title_new	lanzuan_tip_text_new	lanzuan_new_001
+3	QQGameGetRwdPage	2	1,2,3,4,5,6,7	0	1	item1000,10000;item107200041001,1	lanzuan_tip_title_every	lanzuan_tip_text_every	lanzuan_every_001
+4	QQGameGetRwdPage	2	1,2,3,4,5,6,7	0	2	item1000,20000;item107200041001,1	lanzuan_tip_title_every	lanzuan_tip_text_every	lanzuan_every_002
+5	QQGameGetRwdPage	2	1,2,3,4,5,6,7	0	3	item1000,30000;item107200041001,2;item103010111000,10	lanzuan_tip_title_every	lanzuan_tip_text_every	lanzuan_every_003
+6	QQGameGetRwdPage	2	1,2,3,4,5,6,7	0	4	item1000,40000;item107200041001,2;item103010111000,20	lanzuan_tip_title_every	lanzuan_tip_text_every	lanzuan_every_004
+7	QQGameGetRwdPage	2	1,2,3,4,5,6,7	0	5	item1000,50000;item107200041001,3;item103010211001,20	lanzuan_tip_title_every	lanzuan_tip_text_every	lanzuan_every_005
+8	QQGameGetRwdPage	2	1,2,3,4,5,6,7	0	6	item1000,60000;item107200041001,4;item103010211001,20	lanzuan_tip_title_every	lanzuan_tip_text_every	lanzuan_every_006
+9	QQGameGetRwdPage	2	1,2,3,4,5,6,7	0	7	item1000,70000;item107200042001,1;item103010311001,20	lanzuan_tip_title_every	lanzuan_tip_text_every	lanzuan_every_007
+10	QQGameGetRwdPage	2	4,5,6,7	5	-1	item1000,30000;item107200041001,2	lanzuan_tip_title_every	lanzuan_tip_text_every	lanzuan_vip_001
+11	QQGameGetRwdPage	2	2,3,6,7	6	-1	item1000,50000;item107999900001,2	lanzuan_tip_title_every	lanzuan_tip_text_every	lanzuan_year_001
+12	QQGameGetRwdPage	3	1,2,3,4,5,6,7	0	5	item1000,10000;item105000000030,2	lanzuan_tip_title_levelup	lanzuan_tip_text_levelup	lanzuan_levelup_001
+13	QQGameGetRwdPage	3	1,2,3,4,5,6,7	0	8	item1000,12000;item105000000030,3	lanzuan_tip_title_levelup	lanzuan_tip_text_levelup	lanzuan_levelup_002
+14	QQGameGetRwdPage	3	1,2,3,4,5,6,7	0	10	item1000,15000;item105000000030,5	lanzuan_tip_title_levelup	lanzuan_tip_text_levelup	lanzuan_levelup_003
+15	QQGameGetRwdPage	3	1,2,3,4,5,6,7	0	15	item1000,18000;item107999900001,10	lanzuan_tip_title_levelup	lanzuan_tip_text_levelup	lanzuan_levelup_004
+16	QQGameGetRwdPage	3	1,2,3,4,5,6,7	0	20	item1000,20000;item107999900001,15	lanzuan_tip_title_levelup	lanzuan_tip_text_levelup	lanzuan_levelup_005
+17	QQGameGetRwdPage	3	1,2,3,4,5,6,7	0	25	item1000,25000;item107999900001,20	lanzuan_tip_title_levelup	lanzuan_tip_text_levelup	lanzuan_levelup_006
+18	QQGameGetRwdPage	3	1,2,3,4,5,6,7	0	30	item1000,30000;item101020506999,1;item91000001148,1	lanzuan_tip_title_levelup	lanzuan_tip_text_levelup	lanzuan_levelup_007
+19	QQGameGetRwdPage	3	1,2,3,4,5,6,7	0	40	item1000,40000;item8106210200001,2;item107200041001,30	lanzuan_tip_title_levelup	lanzuan_tip_text_levelup	lanzuan_levelup_008
+20	QQGameGetRwdPage	3	1,2,3,4,5,6,7	0	50	item1000,50000;item8119100000000,2;item107200041001,30	lanzuan_tip_title_levelup	lanzuan_tip_text_levelup	lanzuan_levelup_009
+21	QQGameGetRwdPage	3	1,2,3,4,5,6,7	0	60	item1000,100000;item8119100000000,5;item170000120010,25	lanzuan_tip_title_levelup	lanzuan_tip_text_levelup	lanzuan_levelup_010
+22	QQGameGetRwdPage	3	1,2,3,4,5,6,7	0	70	item1000,200000;item1014,50;item170000120010,30	lanzuan_tip_title_levelup	lanzuan_tip_text_levelup	lanzuan_levelup_011

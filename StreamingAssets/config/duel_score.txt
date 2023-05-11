@@ -1,0 +1,13 @@
+﻿流水	段位	1号位胜利积分	1号位失败积分	2号位胜利积分	2号位失败积分	3号位胜利积分	3号位失败积分	4号位胜利积分	4号位失败积分
+int	int	int	int	int	int	int	int	int	int
+Id	Zone	ScoreVictoryOne	ScoreFailureOne	ScoreVictoryTwo	ScoreFailureTwo	ScoreVictoryThree	ScoreFailureThree	ScoreVictoryFour	ScoreFailureFour
+1	1	100	30	80	30	60	30	40	30
+2	2	100	30	80	30	60	30	40	30
+3	3	100	30	80	30	60	30	40	30
+4	4	100	30	80	30	60	30	40	30
+5	5	100	30	80	30	60	30	40	30
+6	6	100	30	80	30	60	30	40	30
+7	7	100	30	80	30	60	30	40	30
+8	8	100	30	80	30	60	30	40	30
+9	9	100	30	80	30	60	30	40	30
+10	10	100	30	80	30	60	30	40	30

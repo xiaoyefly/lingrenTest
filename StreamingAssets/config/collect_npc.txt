@@ -1,0 +1,39 @@
+﻿NPC编号	对象类型	类型	头像	名称	模型编号	特殊icon	动作集	圆柱高度	圆柱半径	采集道具id	探索ID	触发范围	世界地图标志	小地图标志	场景头上icon	附近显示npc
+string	string	int	string	string	string	string	int	float	float	string	int	float	string	string	string	bool
+Id	Script	CollectType	Icon	Name	Avatar	SpecialIcon	ActionSet	CollideHeight	CollideRadius	CollectItemId	ExploreId	SpringRange	MapIcon	FuncIcon	SenceIcon	DisplayNpc
+collect_npc001	CollectNpc	3		CollectNpcName_001	g101|body|g101_body_t1	item_108100101101	5	1.400000	0.500000	item108100101101	81	6.000000	collect_func	collect_func		1
+collect_npc002	CollectNpc	1		CollectNpcName_002	g111|body|g111_body_t1	item_108100101201	5	1.400000	0.500000	item108100101201	82	6.000000	collect_func	collect_func		1
+collect_npc003	CollectNpc	3		CollectNpcName_003	g102|body|g102_body_t1	item_108100101102	5	1.400000	0.500000	item108100101102	181	6.000000	collect_func	collect_func		1
+collect_npc004	CollectNpc	1		CollectNpcName_004	g112|body|g112_body_t1	item_108100101202	5	1.400000	0.500000	item108100101202	182	6.000000	collect_func	collect_func		1
+collect_npc005	CollectNpc	3		CollectNpcName_005	g103|body|g103_body_t1	item_108100101103	5	1.400000	0.500000	item108100101103	281	6.000000	collect_func	collect_func		1
+collect_npc006	CollectNpc	1		CollectNpcName_006	g113|body|g113_body_t1	item_108100101203	5	1.400000	0.500000	item108100101203	282	6.000000	collect_func	collect_func		1
+collect_npc007	CollectNpc	3		CollectNpcName_007	g104|body|g104_body_t1	item_108100101104	5	1.400000	0.500000	item108100101104	381	6.000000	collect_func	collect_func		1
+collect_npc008	CollectNpc	1		CollectNpcName_008	g114|body|g114_body_t1	item_108100101204	5	1.400000	0.500000	item108100101204	382	6.000000	collect_func	collect_func		1
+collect_npc009	CollectNpc	3		CollectNpcName_009	g105|body|g105_body_t1	item_108100101105	5	1.400000	0.500000	item108100101105	481	6.000000	collect_func	collect_func		1
+collect_npc010	CollectNpc	1		CollectNpcName_010	g115|body|g115_body_t1	item_108100101205	5	1.400000	0.500000	item108100101205	482	6.000000	collect_func	collect_func		1
+collect_npc011	CollectNpc	3		CollectNpcName_011	g101|body|g101_body_t1	item_108100101106	5	1.400000	0.500000	item108100101106	581	6.000000	collect_func	collect_func		1
+collect_npc012	CollectNpc	1		CollectNpcName_012	g111|body|g111_body_t1	item_108100101206	5	1.400000	0.500000	item108100101206	582	6.000000	collect_func	collect_func		1
+collect_npc013	CollectNpc	3		CollectNpcName_013	g108|body|g108_body_t1	item_108100101107	5	1.400000	0.500000	item108100101107	681	6.000000	collect_func	collect_func		1
+collect_npc014	CollectNpc	1		CollectNpcName_014	g107|body|g107_body_t1	item_108100101207	5	1.400000	0.500000	item108100101207	682	6.000000	collect_func	collect_func		1
+collect_npc015	CollectNpc	3		CollectNpcName_015	g108|body|g108_body_t1	item_108100101108	5	1.400000	0.500000	item108100101108	789	6.000000	collect_func	collect_func		1
+collect_npc016	CollectNpc	1		CollectNpcName_016	g107|body|g107_body_t1	item_108100101208	5	1.400000	0.500000	item108100101208	790	6.000000	collect_func	collect_func		1
+collect_npc017	CollectNpc	3		CollectNpcName_017	g073|body|g073_body_t1	item_108100101109	5	1.400000	0.500000	item108100101109	824	6.000000	collect_func	collect_func		1
+collect_npc018	CollectNpc	1		CollectNpcName_018	g072|body|g072_body_t1	item_108100101209	5	1.400000	0.500000	item108100101209	825	6.000000	collect_func	collect_func		1
+mine_npc001	CollectNpc	2		MineNpcName_001	g121|body|g121_body_t1	item_108100102101	5	1.400000	0.500000	item108100102101	91	6.000000	mining_func	mining_func		1
+mine_npc002	CollectNpc	4		MineNpcName_002	g131|body|g131_body_t1	item_108100102201	5	1.400000	0.500000	item108100102201	92	6.000000	mining_func	mining_func		1
+mine_npc003	CollectNpc	2		MineNpcName_003	g122|body|g122_body_t1	item_108100102102	5	1.400000	0.500000	item108100102102	191	6.000000	mining_func	mining_func		1
+mine_npc004	CollectNpc	4		MineNpcName_004	g132|body|g132_body_t1	item_108100102202	5	1.400000	0.500000	item108100102202	192	6.000000	mining_func	mining_func		1
+mine_npc005	CollectNpc	2		MineNpcName_005	g123|body|g123_body_t1	item_108100102103	5	1.400000	0.500000	item108100102103	291	6.000000	mining_func	mining_func		1
+mine_npc006	CollectNpc	4		MineNpcName_006	g133|body|g133_body_t1	item_108100102203	5	1.400000	0.500000	item108100102203	292	6.000000	mining_func	mining_func		1
+mine_npc007	CollectNpc	2		MineNpcName_007	g124|body|g124_body_t1	item_108100102104	5	1.400000	0.500000	item108100102104	391	6.000000	mining_func	mining_func		1
+mine_npc008	CollectNpc	4		MineNpcName_008	g134|body|g134_body_t1	item_108100102204	5	1.400000	0.500000	item108100102204	392	6.000000	mining_func	mining_func		1
+mine_npc009	CollectNpc	2		MineNpcName_009	g125|body|g125_body_t1	item_108100102105	5	1.400000	0.500000	item108100102105	491	6.000000	mining_func	mining_func		1
+mine_npc010	CollectNpc	4		MineNpcName_010	g135|body|g135_body_t1	item_108100102205	5	1.600000	0.500000	item108100102205	492	6.000000	mining_func	mining_func		1
+mine_npc011	CollectNpc	2		MineNpcName_011	g121|body|g121_body_t1	item_108100102106	5	1.400000	0.500000	item108100102106	591	6.000000	mining_func	mining_func		1
+mine_npc012	CollectNpc	4		MineNpcName_012	g131|body|g131_body_t1	item_108100102206	5	1.400000	0.500000	item108100102206	592	6.000000	mining_func	mining_func		1
+mine_npc013	CollectNpc	2		MineNpcName_013	g128|body|g128_body_t1	item_108100102107	5	1.400000	0.500000	item108100102107	691	6.000000	mining_func	mining_func		1
+mine_npc014	CollectNpc	4		MineNpcName_014	g127|body|g127_body_t1	item_108100102207	5	1.400000	0.500000	item108100102207	692	6.000000	mining_func	mining_func		1
+mine_npc015	CollectNpc	2		MineNpcName_015	g135|body|g135_body_t1	item_108100102108	5	1.400000	0.500000	item108100102108	791	6.000000	mining_func	mining_func		1
+mine_npc016	CollectNpc	4		MineNpcName_016	g134|body|g134_body_t1	item_108100102208	5	1.400000	0.500000	item108100102208	792	6.000000	mining_func	mining_func		1
+mine_npc017	CollectNpc	2		MineNpcName_017	g074|body|g074_body_t1	item_108100102109	5	1.400000	0.500000	item108100102109	826	6.000000	mining_func	mining_func		1
+mine_npc018	CollectNpc	4		MineNpcName_018	g075|body|g075_body_t1	item_108100102209	5	1.400000	0.500000	item108100102209	827	6.000000	mining_func	mining_func		1

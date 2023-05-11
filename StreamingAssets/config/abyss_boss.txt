@@ -1,0 +1,17 @@
+﻿BossID	Boss类型	榜单ID	Boss取用	模型大小	Boss名字	Boss名字	Boss位置	Bossicon	Boss动效	Boss场景	开放时间	结束时间	解锁公告	幸运物	幸运物Buff	挑战次数	挑战时间
+string	int	int	string	string	string	string	vector2	string	string	string	string	string	int	string	string	int	int
+BossId	BossType	RankId	BossGet	BossSize	BossName	BossDes	BossPosition	BossIcon	BossEffect	BossScene	OpenTime	EndTime	UnlockMessage	LuckyItem	LuckyItemBuff	BeatTimes	Time
+Monster1	1	1	monster37000110	4	AbyssBossName_Monster1	AbyssBossDes_Monster1	-797,166	icon_monster_baoshashou		2031	2022-09-29-00:00:00	2022-10-20-23:59:59	0	1,23,26,50	dg_bf445_1_sail::buff_0	10	90
+Monster2	1	2	monster37000112	4	AbyssBossName_Monster2	AbyssBossDes_Monster2	-553,-318	icon_monster_zhizhu		2032	2022-09-29-00:00:00	2022-10-20-23:59:59	0	6,55,34,54	dg_bf445_1_sail::buff_0	10	90
+Monster3	1	3	monster37000114	1.8	AbyssBossName_Monster3	AbyssBossDes_Monster3	-80,-500	icon_monster_gusa		2033	2022-09-29-00:00:00	2022-10-20-23:59:59	0	2,19,35,43	dg_bf445_1_sail::buff_0	10	90
+Monster4	1	4	monster37000116	4	AbyssBossName_Monster4	AbyssBossDes_Monster4	434,-239	icon_monster_zhangyu		2034	2022-09-29-00:00:00	2022-10-20-23:59:59	0	3,17,36,44	dg_bf445_1_sail::buff_0	10	90
+Monster5	1	5	monster37000118	2	AbyssBossName_Monster5	AbyssBossDes_Monster5	773,-105	icon_monster_shenyuan		2037	2022-09-29-00:00:00	2022-10-20-23:59:59	0	4,21,37,45	dg_bf445_1_sail::buff_0	10	90
+Monster6	1	6	monster37000120	4	AbyssBossName_Monster6	AbyssBossDes_Monster6	772,200	icon_monster_hedelu		2035	2022-09-29-00:00:00	2022-10-20-23:59:59	0	5,22,46,51	dg_bf445_1_sail::buff_0	10	90
+Monster7	1	7	monster37000122	1.6	AbyssBossName_Monster7	AbyssBossDes_Monster7	359,495	icon_monster_shengti		2036	2022-09-29-00:00:00	2022-10-20-23:59:59	0	9,24,47,52	dg_bf445_1_sail::buff_0	10	90
+Monster8	2	201	monster37000109	2.3	AbyssBossName_Monster8	AbyssBossDes_Monster8	-313,151	icon_monster_dandi		2038	-1	-1	0	7,13,33,53	dg_bf445_1_sail::buff_0	10	90
+Monster9	2	202	monster37000111	1.7	AbyssBossName_Monster9	AbyssBossDes_Monster9	-313,151	icon_monster_dandi		2039	-1	-1	0	7,13,33,53	dg_bf445_1_sail::buff_0	10	90
+Monster10	2	203	monster37000113	1.8	AbyssBossName_Monster10	AbyssBossDes_Monster10	-313,151	icon_monster_dandi		2040	-1	-1	0	7,13,33,53	dg_bf445_1_sail::buff_0	10	90
+Monster11	2	204	monster37000115	3.3	AbyssBossName_Monster11	AbyssBossDes_Monster11	-313,151	icon_monster_dandi		2041	-1	-1	0	7,13,33,53	dg_bf445_1_sail::buff_0	10	90
+Monster12	2	205	monster37000117	3.5	AbyssBossName_Monster12	AbyssBossDes_Monster12	-313,151	icon_monster_dandi		2044	-1	-1	0	7,13,33,53	dg_bf445_1_sail::buff_0	10	90
+Monster13	2	206	monster37000119	6	AbyssBossName_Monster13	AbyssBossDes_Monster13	-313,151	icon_monster_dandi		2042	-1	-1	0	3,17,36,44	dg_bf445_1_sail::buff_0	10	90
+Monster14	2	207	monster37000121	2.3	AbyssBossName_Monster14	AbyssBossDes_Monster14	-313,151	icon_monster_dandi		2043	-1	-1	0	4,21,37,45	dg_bf445_1_sail::buff_0	10	90

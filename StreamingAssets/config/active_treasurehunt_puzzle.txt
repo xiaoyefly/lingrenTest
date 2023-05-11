@@ -1,0 +1,7 @@
+﻿拼图ID	拼图样式	拼图资源名字
+int	int	string
+Id	Puzzle	BackGround
+1	1	bj_picture001
+2	2	bj_picture002
+3	2	bj_picture002
+4	3	bj_picture003

@@ -1,0 +1,5 @@
+﻿类型	类型名字	每日大类限送
+int	string	int
+Type	TypeName	DailyTypeLimit
+1	Friend_Gift_TypeName01	0
+2	Friend_Gift_TypeName02	0

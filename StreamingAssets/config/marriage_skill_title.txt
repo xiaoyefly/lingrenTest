@@ -1,0 +1,10 @@
+﻿流水	好友度	解锁技能	解锁交互动作	面板显示	称号id	面板红点逻辑
+int	int	string	int	bool	string	string
+Id	FriendPoint	UnlockSkill	UnlockSocialAction	PanelShow	TitleId	UnlockSkillRedPoint
+0	2000		0	0	600	
+1	10000	skill990105;skill990111	11	1		0;1
+2	30000	skill990102	0	1		
+3	50000	skill990103	0	1		
+4	70000	skill990104;skill990106	13	1	601	
+5	90000	skill990100	0	1	602	
+6	110000	skill990101	0	1	603	

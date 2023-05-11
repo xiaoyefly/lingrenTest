@@ -1,0 +1,6 @@
+﻿评价类型	评价类型对应ICON	评价类型提示语言包
+int	string	string
+EvaluationType	EvaluationIcon	EvaluationTips
+1	evaluation_icon_1	evaluationdes_1
+2	evaluation_icon_2	evaluationdes_2
+3	evaluation_icon_3	evaluationdes_3

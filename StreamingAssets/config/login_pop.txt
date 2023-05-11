@@ -1,0 +1,51 @@
+﻿编号	主键id	弹出类型	组	弹出顺序优先级	功能类型	活动id	开启条件	关闭条件	间隔多少时间再次弹出	额外参数	是否禁止登录弹出	功能开启时是否弹出	触发后回主城调用登录组id	广告图	时间类型	开始时间	结束时间	开始时间	持续时间	跳转Url链接	跳转链接	跳转链接面板名
+int	int	int	int	int	int	int	string	string	int	string	bool	bool	int	string	int	string	string	int	int	string	string	string
+Id	KeyId	PopType	Group	PopOrder	Function	ActiveId	OpenLimit	CloseLimit	PopSpaceTime	Args	LoginBanPopUp	FuncOpenPopUp	BackCityPopGroup	Notice	TimeType	StartTime	EndTime	StartDay	Duration	LinkUrl	Link	LinkPanelName
+1	1	1	0	1	24	0			21600				0		0			0	0		LinkUI:GameNoticePanel	GameNoticePanel
+2	2	1	0	3	213	0			21600		1	1	0		0			0	0		OpenFirstRecharge	FirstRechargePanel
+3	3	1	0	3	224	902			21600		1	1	0		0			0	0		LinkUI:WelfareActivityPanel;902;10	WelfareActivityPanel
+4	4	1	0	4	225	703			21600		1	1	0		0			0	0		LinkUI:WelfareActivityPanel;703;8	WelfareActivityPanel
+6	6	2	1	6	213	0			21600				0	bg_ad_weapon	0			0	0		OpenFirstRecharge	FirstRechargePanel
+7	7	2	1	6	216	703			21600				0	bg_ad_growfund	0			0	0		LinkUI:WelfareActivityPanel;703;8	WelfareActivityPanel
+8	8	2	0	8	233	4409			21600				0	bg_ad_startreasure	1			0	0		LinkUI:OpenServerActivityPanel;4409;18	OpenServerActivityPanel
+10	10	1	0	10	202	0			21600				0		0			0	0		LinkUI:WelfareActivityPanel;-1;1	WelfareActivityPanel
+14	14	2	0	7	203	102	102,2	102,12	21600				0	bg_pupkin	0			0	0		LinkUI:WelfareActivityPanel;102;2	WelfareActivityPanel
+18	18	2	0	7	255	6201			21600				0	bg_battlepass	2	2019-08-21-00:00:00	2019-08-29-23:59:59	0	0		LinkUI:StarBattlePassPanel	StarBattlePassPanel
+19	19	2	0	8	159	0			21600				0	ad_kingtower	2	2019-08-26-00:00:00	2019-09-10-23:59:59	0	0		LinkUI:KingTowerPanel	KingTowerPanel
+20	20	2	0	8	256	6403			21600				0	bg_ad_forgingfestival	2	2019-09-06-00:00:00	2019-09-13-23:59:59	0	0		LinkUI:OpenServerActivityPanel;6403;32	OpenServerActivityPanel
+21	21	2	0	9	236	4506			21600				0	bg_ad_midautumn	2	2019-09-12-00:00:00	2019-09-24-23:59:59	0	0		LinkUI:FestivalActivityPanel;4906;3	FestivalActivityPanel
+22	22	2	0	9	242	4907			21600				0	bg_ad_goldenautumn	2	2019-10-01-00:00:00	2019-10-07-23:59:59	0	0		LinkUI:FestivalActivityPanel;4907;3	FestivalActivityPanel
+23	23	2	0	9	257	6501			21600				0	bg_ad_luckyperimeter	2	2019-10-01-00:00:00	2019-10-07-23:59:59	0	0		LinkUI:FestivalActivityPanel;6501;33	FestivalActivityPanel
+24	24	2	0	9	257	6502			21600				0	bg_ad_luckyperimeter	2	2019-10-15-00:00:00	2019-10-21-23:59:59	0	0		LinkUI:FestivalActivityPanel;6502;33	FestivalActivityPanel
+25	25	2	0	8	24	0			21600				0	bg_ad_zhiai	2	2019-11-06-20:00:00	2019-11-11-23:59:59	0	0			
+26	26	2	0	8	24	0			21600				0	bg_ad_awalong	2	2019-11-05-20:00:00	2019-11-18-23:59:59	0	0			
+27	27	1	0	8	272	9105			21600				0		0			0	0		LinkUI:SevenDaysSignPanel;9105	SevenDaysSignPanel
+28	28	2	0	8	265	1101			21600				0	bg_ad_heroback	2	2019-12-24-00:00:00	2019-12-30-23:59:59	0	0	https://sr.xinghegame.com/hl/		
+29	29	2	0	8	24	0			21600				0	bg_ad_knight	2	2019-12-24-00:00:00	2020-01-01-23:59:59	0	0	https://sr.xinghegame.com/mgqs/		
+30	30	2	0	8	24	0			21600				0	bg_ad_huya	2	2019-12-24-00:00:00	2019-12-30-23:59:59	0	0	https://blog.huya.com/news/16599		
+31	31	2	0	8	24	8002			21600				0	bg_ad_wishtree	2	2020-01-21-00:00:00	2020-02-05-23:59:59	0	0		LinkUI:FestivalActivityPanel;8002;51	FestivalActivityPanel
+32	32	2	0	8	24	0			21600				0	bg_ad_happynewyear	2	2020-01-21-00:00:00	2020-02-02-23:59:59	0	0			
+33	33	2	0	8	24	0			21600				0	bg_ad_ncov	2	2020-02-13-00:00:00	2020-02-27-23:59:59	0	0			
+34	34	2	0	8	24	5407			21600				0	bg_ad_fishing2020	2	2020-04-16-00:00:00	2020-04-29-23:59:59	0	0		LinkUI:OpenServerActivityPanel;5407;12	OpenServerActivityPanel
+35	35	2	0	8	24	6806			21600				0	bg_jpnpoppush1	2	2020-04-30-00:00:00	2020-05-07-23:59:59	0	0		LinkUI:FestivalActivityPanel;6806;37	FestivalActivityPanel
+36	36	2	0	8	24	0			21600				0	bg_ad_51gongzonghao	2	2020-05-01-00:00:00	2020-05-07-23:59:59	0	0			
+37	37	2	0	7	24	0			21600				0	bg_ad_51xingguang	2	2020-05-01-00:00:00	2020-05-07-23:59:59	0	0	https://sr.xinghegame.com/recall/		
+38	38	2	0	7	24	6807			21600				0	bg_ad_hongfa	2	2020-06-11-00:00:00	2020-06-24-23:59:59	0	0		LinkUI:FestivalActivityPanel;6807;37	FestivalActivityPanel
+39	39	2	0	7	24	0			3600				0	bg_ad_feilipu	2	2020-06-18-11:00:00	2020-06-24-23:59:59	0	0	https://sr.xinghegame.com/shop/		
+40	40	2	0	8	24	4422			21600				0	bg_ad_startreasure1	2	2020-06-18-00:00:00	2020-06-24-23:59:59	0	0		LinkUI:FestivalActivityPanel;4422;18	FestivalActivityPanel
+41	41	2	0	7	24	0			21600				0	bg_ad_anniversary1	2	2020-07-04-00:00:00	2020-07-08-23:59:59	0	0			
+42	42	2	0	7	24	0			21600				0	bg_ad_anniversary2	2	2020-07-09-00:00:00	2020-07-15-23:59:59	0	0	https://sr.xinghegame.com/oneyear/#/		
+43	43	2	0	7	24	0			21600				0	bg_ad_doublediamond	2	2020-07-09-00:00:00	2020-07-15-23:59:59	0	0		LinkUI:MallPanel;2;2	MallPanel
+44	44	2	0	7	24	0			21600				0	bg_qixi	2	2020-08-25-05:00:00	2020-08-31-23:59:59	0	0	https://sr.xinghegame.com/qixi/		
+45	45	2	0	8	24	6810			21600				0	bg_kanjia825	2	2020-08-25-00:00:00	2020-09-02-23:59:59	0	0		LinkUI:FestivalActivityPanel;6810;37	FestivalActivityPanel
+46	46	2	0	8	24	6015			21600				0	bg_taro1	2	2020-09-03-05:00:00	2020-09-09-23:59:59	0	0		LinkUI:FestivalActivityPanel;6015;24	FestivalActivityPanel
+47	47	2	0	8	24	4424			21600				0	bg_star1	2	2020-09-07-00:00:00	2020-09-16-23:59:59	0	0		LinkUI:OpenServerActivityPanel;4424;18	OpenServerActivityPanel
+62	62	2	0	8	37	16202			21600				0	bg_xianyu_fishweek	2	2020-10-29-00:00:00	2020-11-11-23:59:59	0	0		LinkUI:FishingCompetitionPanel	FishingCompetitionPanel
+63	63	2	0	7	24	6020			21600				0	bg_taro2	2	2020-11-05-05:00:00	2020-11-11-23:59:59	0	0		LinkUI:FestivalActivityPanel;6020;24	FestivalActivityPanel
+64	64	2	0	6	24	6316			21600				0	bg_xianyu_luckysix	2	2020-11-12-00:00:00	2020-11-18-23:59:59	0	0		LinkUI:FestivalActivityPanel;6316;9	FestivalActivityPanel
+65	65	2	0	5	24	0			21600				0	bg_xianyu_ciyuan	2	2020-11-12-00:00:00	2020-11-25-23:59:59	0	0		LinkUI:SubSpaceBattlePanel	SubSpaceBattlePanel
+66	66	2	0	7	24	0			21600				0	bg_xianyu_redskillstone	2	2020-11-12-00:00:00	2020-11-18-23:59:59	0	0			
+67	67	2	0	5	24	0			21600				0	bg_xianyu_zhoubian	2	2020-11-12-00:00:00	2020-11-19-23:59:59	0	0	https://sr.xinghegame.com/dls/		
+168	168	2	0	1	24	0			21600				0	bg_xianyu_wozongyini	2	2022-06-03-09:00:00	2022-06-09-23:59:59	0	0			
+169	169	2	0	1	24	0			21600				0	bg_xianyu_manghe2	2	2022-06-13-09:00:00	2022-06-19-23:59:59	0	0			
+170	170	1	0	11	181	0			21600				0		0			0	0		LinkUI:RewardRetrievePanel	RewardRetrievePanel

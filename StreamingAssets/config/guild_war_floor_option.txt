@@ -1,0 +1,8 @@
+﻿流水	选项文本	场景	引导对象
+int	string	int	string
+Id	OptionDes	Scene	Guide
+62	GuildWar_OptionDes01	61	ClickNpc:61;npc_guildwar_eastwait
+162	GuildWar_OptionDes02	61	ClickNpc:61;npc_guildwar_southwait
+262	GuildWar_OptionDes03	61	ClickNpc:61;npc_guildwar_westwait
+362	GuildWar_OptionDes04	61	ClickNpc:61;npc_guildwar_northwait
+61		0	ClickNpc:2;npc_guildwar_entrance

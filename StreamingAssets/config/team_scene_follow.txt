@@ -1,0 +1,7 @@
+﻿场景ID	引导对象
+int	string
+Id	Guide
+66	ClickNpc:2;npc_holybattle;1
+67	ClickNpc:2;npc_holybattle;1
+68	ClickNpc:2;npc_holybattle;1
+69	ClickNpc:2;npc_holybattle;1

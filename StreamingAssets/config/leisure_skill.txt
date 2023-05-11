@@ -1,0 +1,5 @@
+﻿流水	技能类型	名字	图片	描述
+int	int	string	string	string
+Id	Type	LifeSkillName	LifeSkillpicture	LifeSkillDes
+1	1	LeisureSkillName1	item_170000101030	LeisureSkillDes1
+2	2	LeisureSkillName2	item_106030101087	LeisureSkillDes2

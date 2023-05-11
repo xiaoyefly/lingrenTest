@@ -1,0 +1,12 @@
+﻿流水序号	buff编号
+int	string
+Id	BuffId
+1	dg_bf444_1_zork::buff_0
+2	dg_bf444_1_zork::buff_1
+3	dg_bf444_1_zork::buff_2
+4	dg_bf444_1_zork::buff_3
+5	dg_bf444_1_zork::buff_4
+6	dg_bf444_1_zork::buff_5
+7	dg_bf444_1_zork::buff_6
+8	dg_bf444_1_zork::buff_7
+9	dg_bf444_1_zork::buff_8

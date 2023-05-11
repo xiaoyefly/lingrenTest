@@ -1,0 +1,7 @@
+﻿玩法id	需求线索数	底图素材	迷雾素材	手指指针	线索对象配置	本玩法名字文本	本玩法目标文本	玩法成功提示文本	玩法失败提示文本	超时处理
+int	int	string	string	string	string	string	string	string	string	string
+Id	TargetNum	Background	Fog	Finger	Clue	NameText	TargetText	SuccessText	FailedText	TimeLimit
+101	3	wipe_map_101	wipe_fog_101		item_106030101004,0.71,,-133,-20;item_106030101004,0.71,,54,54;item_106030101004,0.71,,192,0	wipe_name_101	wipe_target_101	wipe_success_101	wipe_fail_101	20,1
+102	3	wipe_bg_102	wipe_fog_102		m015_portrait01,0.8,wipe_102_clue_1,-186,0;m016_portrait01,0.8,wipe_102_clue_2,72,49;m015_portrait02,0.8,wipe_102_clue_3,304,29	wipe_name_102	wipe_target_102	wipe_success_102	wipe_fail_102	20,1
+103	3	minigame_502_outer_6	minigame_502_outer_1		minigame10711,0.5,,-199,106;minigame10712,0.5,,152,37;minigame10713,0.5,,4,-35	wipe_name_103	wipe_target_103	wipe_success_103	wipe_fail_103	20,1
+104	3	wipe_map_102	wipe_fog_101		item_106030101146,0.71,,-252,53;item_144320000012,0.71,,85,-60;item_106030101118,0.71,,393,38	wipe_name_101	wipe_target_101	wipe_success_101	wipe_fail_101	20,1

@@ -1,0 +1,8 @@
+﻿组ID	地图名字	地图名字位置	地图按钮资源	地图按钮资源位置	打开几级界面	地图底图	地图2层底图	地图当前位置
+int	string	string	string	string	int	string	string	string
+Id	MapAreaName	MapNamePosition	MapPicture	MapPicturePosition	OpenMapType	BaseMap	BaseSecondMap	CurrentPosition
+1	MapAreaName1	8,-30	bg_world1	36,-182,394,244	1	worldmap		8,-15
+2	MapAreaName2	0,-5	bg_world2	-342,-52,414,418	1	worldmap		
+3	MapAreaName3	0,30	bg_world3	-18,208,453,242	1	worldmap		
+4	MapAreaName4	20,18	bg_world4	360,-8,324,536	1	worldmap		
+5	MapAreaName5	10,-5	bg_world5	24,30,286,223	1			

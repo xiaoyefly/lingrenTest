@@ -1,0 +1,10 @@
+﻿关卡ID	关卡名字	下一个关卡	关卡图标	关卡名称	初始坐标	初始朝向	最大地图尺寸	进场景对话	场景胜利对话
+int	string	int	string	string	vector2	int	vector2	string	string
+RegionID	RegionTitle	RegionNext	Icon	IconDes	RegionStart	ReginDir	MaxRowCol	EnterMapTalk	BigBossWinTalk
+101	Deep_Minimap_101	102	icon_monster_shibaihe	Abyss_Icon_Des1_1	1,6	1	25,25	abyss_story011	abyss_story012
+102	Deep_Minimap_102	103	icon_monster_axiupuna	Abyss_Icon_Des2_1	16,16	1	25,25	abyss_story021	abyss_story022
+103	Deep_Minimap_103	104	icon_monster_aobendeer	Abyss_Icon_Des3_1	3,4	1	25,25	abyss_story031	abyss_story032
+104	Deep_Minimap_104	105	icon_monster_nangua	Abyss_Icon_Des4_1	1,14	1	30,30	abyss_story041	abyss_story042
+105	Deep_Minimap_105	106	icon_monster_yuanling	Abyss_Icon_Des5_1	1,14	1	30,30	abyss_story051	abyss_story052
+106	Deep_Minimap_106	107	icon_monster_chaweimao	Abyss_Icon_Des6_1	3,4	1	30,30	abyss_story061	abyss_story062
+107	Deep_Minimap_107	107	icon_monster_ronghuo	Abyssl_Icon_Des7_1	3,12	1	30,30	abyss_story071	abyss_story072

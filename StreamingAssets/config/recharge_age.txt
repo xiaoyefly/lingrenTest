@@ -1,0 +1,6 @@
+﻿流水	年龄最小值	年龄最大值	金额
+int	int	int	int
+Id	AgeMin	AgeMax	Amount
+1	0	15	500000
+2	16	19	2000000
+3	20	-1	-1

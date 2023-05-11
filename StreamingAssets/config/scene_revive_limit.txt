@@ -1,0 +1,3 @@
+﻿场景	复活次数限制	限制的复活技能id
+int	int	string
+SceneId	ReviveLimitCount	LimitSkillId

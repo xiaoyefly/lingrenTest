@@ -1,0 +1,12 @@
+﻿赛季ID	名称语言包	显示时间方式	活动时间语言包	赛季页签	赛季皮肤	场景地图	引导坐标	赛季钓鱼点	赛季出现鱼种	赛季排行鱼种	赛季排行鱼种	赛季排行鱼种	赛季排行鱼种	赛季活动鱼饵
+int	string	int	string	int	int	int	string	int	string	int	int	int	int	string
+SeasonID	SeasonName	TimeShowType	SeasonTime	SeasonTab	SeasonSkin	SeasonMap	GuildPoint	SeasonPoint	SeasonFish	SeasonRankFish1	SeasonRankFish2	SeasonRankFish3	SeasonRankFish4	SeasonBait
+1	FishSeasonName01	2	FishSeasonTime_RangeTime	1	0	1	0.1, -5.4, -67.0	10010103	1001,1002,1003,1004,1005,1006,1007,1008,1009,1010	1001	1002	1003	0	item250000000000
+2	FishSeasonName02	2	FishSeasonTime_RangeTime	2	1	3	-6.3, 0.2, -5.5	10010201	2001,2002,2003,2004,2005,2006,2007,2008,2009,2010	2001	2002	2003	0	item250000000000
+3	FishSeasonName03	2	FishSeasonTime_RangeTime	3	2	4	-53.9, 2.5, 11.5	10010303	3001,3002,3003,3004,3005,3006,3007,3008,3009,3010	3001	3002	3003	0	item250000000000
+4	FishSeasonName04	2	FishSeasonTime_RangeTime	4	0	3	-26.8, 0.2, 13.1	10010203	4001,4002,4003,4004,4005,4006,4007,4008,4009,4010	4001	4002	4003	4004	item250000000000
+5	FishSeasonName05	2	FishSeasonTime_RangeTime	1	0	1	0.1, -5.4, -67.0	10010103	5001,5002,5003,5004,5005,5006,5007,5008,5009,5010	5001	5002	5003	5004	item250000000000
+6	FishSeasonName06	2	FishSeasonTime_RangeTime	2	2	1	0.1, -5.4, -67.0	10010103	7001,7002,7003,7004,7005,7006,7007,7008,7009,7010	7001	7002	7003	7004	item250000000000
+8	FishSeasonName08	2	FishSeasonTime_RangeTime	2	2	1	0.1, -5.4, -67.0	10010103	8001,8002,8003,8004,8005,8006,8007,8008,8009,8010	8001	8002	8003	8004	item250000000000
+9	FishSeasonName09	2	FishSeasonTime_RangeTime	1	0	1	0.1, -5.4, -67.0	10010103	9001,9002,9003,9004,9005,9006,9007,9008,9009,9010	9001	9002	9003	9004	item250000000000
+10	FishSeasonName10	2	FishSeasonTime_RangeTime	2	1	1	0.1, -5.4, -67.0	10010103	10001,10002,10003,10004,10005,10006,10007,10008,10009,10010	10001	10002	10003	10004	item250000000000

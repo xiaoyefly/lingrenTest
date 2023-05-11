@@ -1,0 +1,8 @@
+﻿流水	难度名称	图标	需求军衔	必选合约最低等级
+int	string	string	int	int
+ID	Name	Icon	TitleLevel	ContractLevel
+1	contract_dungeon_difficulty_100	contract01_difficulty01	1	1
+2	contract_dungeon_difficulty_200	contract01_difficulty02	2	3
+3	contract_dungeon_difficulty_300	contract01_difficulty03	3	5
+4	contract_dungeon_difficulty_400	contract01_difficulty04	4	7
+5	contract_dungeon_difficulty_500	contract01_difficulty05	5	9

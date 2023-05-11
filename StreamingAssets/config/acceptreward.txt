@@ -1,0 +1,15 @@
+﻿奖励ID	任务类型	任务目标	奖励	任务描述
+int	int	string	string	string
+RewardID	ActiveType	TaskTarget	Reward	Desc
+1	2	1	item8103010121003,10;item1014,50	Companionably_Acceptward_Continue
+2	2	3	item8103010121003,30;item1014,50	Companionably_Acceptward_Continue
+3	2	7	item8103010121004,25;item1014,100;item105000000029,5	Companionably_Acceptward_Continue
+4	3	20	item101040101015,5;item107999900001,5	Companionably_Acceptward_Activation
+5	3	100	item101040101015,5;item107999900001,10	Companionably_Acceptward_Activation
+6	3	300	item8101020504900,2;item107999900002,10	Companionably_Acceptward_Activation
+7	3	600	item8101020504900,5;item107999900003,10;item101020507211,1	Companionably_Acceptward_Activation
+8	4	2000	item105000000029,2;item107200042001,20	Companionably_Acceptward_Effectiveness
+9	4	30000	item8119100000002,3;item107200051001,10;item105000000030,30	Companionably_Acceptward_Effectiveness
+10	4	60000	item8200000800002,5;item100500000001,30;item8200000800003,2	Companionably_Acceptward_Effectiveness
+11	4	80000	item161000000002,2;item8103015110409,5;item107200052001,10	Companionably_Acceptward_Effectiveness
+12	4	100000	item8119100000002,5;item8102020061006,1;item107200053001,15	Companionably_Acceptward_Effectiveness

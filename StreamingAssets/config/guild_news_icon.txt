@@ -1,0 +1,11 @@
+﻿类型键值	新闻图标
+int	string
+Id	icon
+1	icon_chengjiu1
+2	icon_chengjiu1
+3	icon_chengjiu1
+4	icon_chengjiu1
+5	icon_chengjiu1
+6	icon_chengjiu1
+7	icon_chengjiu1
+8	icon_chengjiu1

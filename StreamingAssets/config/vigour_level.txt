@@ -1,0 +1,16 @@
+﻿气势等级	升级需求经验	气势等级名	气势等级ICON	气势等级奖励	气势等级奖励赛季结算奖励	气势等级Buff
+int	int	string	string	string	string	string
+VigourLevel	NeedExp	VigourLevelName	IconRes	VigourLevelReward	VigourLevelBattlePassReward	VigourLevelBuff
+0	0	VigourLevel0	icon_vigourlevel_0			
+1	14400	VigourLevel1	icon_vigourlevel_1	item1039,100	item1039,100	commonbuff::buff_vigor,1
+2	38350	VigourLevel2	icon_vigourlevel_2	item1039,100	item1039,200	commonbuff::buff_vigor,2
+3	72700	VigourLevel3	icon_vigourlevel_3	item1039,100	item1039,300	commonbuff::buff_vigor,3
+4	118150	VigourLevel4	icon_vigourlevel_4	item1039,100	item1039,400	commonbuff::buff_vigor,4
+5	175450	VigourLevel5	icon_vigourlevel_5	item1039,100	item1039,500	commonbuff::buff_vigor,5
+6	245350	VigourLevel6	icon_vigourlevel_6	item1039,100	item1039,600	commonbuff::buff_vigor,6
+7	328600	VigourLevel7	icon_vigourlevel_7	item1039,100	item1039,700	commonbuff::buff_vigor,7
+8	425950	VigourLevel8	icon_vigourlevel_8	item1039,100	item1039,800	commonbuff::buff_vigor,8
+9	538150	VigourLevel9	icon_vigourlevel_9	item1039,100	item1039,900	commonbuff::buff_vigor,9
+10	665950	VigourLevel10	icon_vigourlevel_10	item1039,100	item1039,1000	commonbuff::buff_vigor,10
+11	810150	VigourLevel11	icon_vigourlevel_11	item1039,100	item1039,1100	commonbuff::buff_vigor,11
+12	974300	VigourLevel12	icon_vigourlevel_12	item1039,100	item1039,1200	commonbuff::buff_vigor,12

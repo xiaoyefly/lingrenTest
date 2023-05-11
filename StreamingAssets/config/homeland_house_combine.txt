@@ -1,0 +1,6 @@
+﻿房子ObjectID	墙纸ObjectID	地面ObjectID
+int	int	int
+HouseObjId	WallPaperObjId	GroundObjId
+9001	13001	12001
+9002	13002	12002
+9003	13003	12003

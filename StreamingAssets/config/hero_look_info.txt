@@ -1,0 +1,8 @@
+﻿角色	类型	对比内容	显示icon	提升	提升未开启提示
+int	int	string	string	int	string
+Id	Type	CompareName	Icon	Promote	FuncNotOpen
+1	1	CompareName1	bg_pingfen_jinglian	39	MSG_FuncNotOpen1
+2	2	CompareName2	bg_pingfen_jiachi	12	MSG_FuncNotOpen2
+3	3	CompareName3	bg_pingfen_baoshi	40	MSG_FuncNotOpen3
+4	5	CompareName5	bg_pingfen_qita	5	MSG_FuncNotOpen5
+10	4	CompareName4	bg_pingfen_qita	1	MSG_FuncNotOpen4

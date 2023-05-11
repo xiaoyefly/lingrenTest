@@ -1,0 +1,7 @@
+﻿OBJid	替换视角中心	替换视角相机角度	替换视角相机最小距离	替换视角相机最大距离	替换视角相机默认距离	编辑相机俯角	编辑相机最小高度	编辑相机最大高度	编辑相机默认高度	编辑相机X轴移动范围	编辑相机Z轴移动范围
+int	vector3	vector3	float	float	float	float	float	float	float	vector2	vector2
+DecorateId	ViewCenter	ViewRotation	MinViewDistance	MaxViewDistance	DefaultViewDistance	EditPitchDownAngle	EditMinHeight	EditMaxHeight	EditDefaultHeight	EditViewRangeX	EditViewRangeZ
+8001	-0.1,0,3.9	35,0,0	15.000000	30.000000	20.000000	35.000000	5.000000	10.000000	8.000000	-1.5,1.5	1,4
+8002	-0.1,0,4.2	35,0,0	15.000000	30.000000	20.000000	35.000000	5.000000	10.000000	8.000000	-1.5,1.5	1,4
+8003	-0.1,0,5.7	35,0,0	15.000000	30.000000	20.000000	35.000000	5.000000	10.000000	8.000000	-4.9,5	1.7,8.8
+8004	-0.2,0.1,-1	35,0,0	5.000000	15.000000	10.000000	35.000000	5.000000	30.000000	20.000000	-4.9,5	1.7,8.8

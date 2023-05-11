@@ -1,0 +1,4 @@
+﻿流水id	购买充值id	购买福利	会员名字	限时会员特权	会员特权标题	特权语言包	特权语言包图标	背景图片	每周领取鱼饵宝箱	跳转商店
+int	int	string	string	string	string	string	string	string	string	string
+Id	BuyRechargeId	RenewPar	MemberShipName	MemberShipInterest	MemberShipInterestTitle	MemberShipInterestShow	IconPic	BackGround	FishBox	Link
+1	8000	item100000000001,1;item100000000000,1;item170000120020,40;item101040101017,10;	UI_MemberShip_FishCardName	1,2,3,4	UI_MemberShip_FishCarddTitle	UI_MemberShip_FishCardDesc01;UI_MemberShip_FishCardDesc02;UI_MemberShip_FishCardDesc03;UI_MemberShip_FishCardDesc04;UI_MemberShip_FishCardDesc05	icon_vip_diaoyu02	bg_vip_diaoyu	item8170000120010,60	LinkUI:ShopPanel;910

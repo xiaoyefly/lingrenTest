@@ -1,0 +1,15 @@
+﻿雪人等级	升级经验	公共奖励
+int	int	string
+SnowmanLevel	SnowExp	CommonReward
+1	100	item1029,10
+2	300	item1029,10
+3	500	item1029,15
+4	800	item1029,20
+5	1200	item1029,25
+6	2400	item1029,30
+7	5000	item1029,35
+8	10000	item1029,40
+9	20000	item1029,45
+10	35000	item1029,50
+11	60000	item1029,55
+12	100000	item1029,60

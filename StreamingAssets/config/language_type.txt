@@ -1,0 +1,9 @@
+﻿语言	对应语言名字	是否使用空格	是否显示18+	18+图标	18+说明	18+链接	翻译简称
+string	string	bool	bool	string	string	string	string
+Id	LanguageName	IsUseSpace	IsDisplayLimit	LimitIcon	LimitDes	LimitLink	TranslateShortName
+ChineseSimplified	LanguageChineseSimplified	0	0				zh-CHS
+English	LanguageEnglish	1	0				en
+Vietnamese	LanguageVietnamese	1	1	icon_yuyan	LimitDes		vi
+Thai	LanguageThai	1	0				th
+Indonesian	LanguageIndonesian	1	0				id
+Chinese	LanguageChinese	0	0				zh-CHT

@@ -1,0 +1,20 @@
+﻿事件ID	事件类型	事件icon	事件动效	基础奖励	事件参数	事件标题	事件描述	事件选项左	BUFF（左）	事件描述左	事件选项右	BUFF（右）	事件描述右	奇遇形象	完成事件获得怒气值
+int	int	string	int	string	string	string	string	string	string	string	string	string	string	int	int
+EventId	EventType	EventIcon	EventEffect	BasisReward	EventParam	EventTitle	EventDes	EventLeft	EventLeftBuff	EventDesLeft	EventRight	EventRightBuff	EventDesRight	EventNPC	EventGetAnger
+1001	1		0											0	0
+2001	3	UI_guard_event04	0			GruadEventTitle_2001	GuardEventDes_2001	GuardEventLeftDes_2001	1001	GuardEventLeft_2001	GuardEventRightDes_2001		GuardEventRight_2001	0	0
+2002	3	UI_guard_event04	0			GruadEventTitle_2002	GuardEventDes_2002	GuardEventLeftDes_2002	1002	GuardEventLeft_2002	GuardEventRightDes_2002	1006	GuardEventRight_2002	0	0
+2003	3	UI_guard_event04	0			GruadEventTitle_2003	GuardEventDes_2003	GuardEventLeftDes_2003	1008	GuardEventLeft_2003	GuardEventRightDes_2003	1059	GuardEventRight_2003	0	0
+2004	3	UI_guard_event04	0			GruadEventTitle_2004	GuardEventDes_2004	GuardEventLeftDes_2004	1003	GuardEventLeft_2004	GuardEventRightDes_2004		GuardEventRight_2004	0	0
+2005	3	UI_guard_event04	0			GruadEventTitle_2005	GuardEventDes_2005	GuardEventLeftDes_2005		GuardEventLeft_2005	GuardEventRightDes_2005	1007	GuardEventRight_2005	0	0
+2006	3	UI_guard_event04	0			GruadEventTitle_2006	GuardEventDes_2006	GuardEventLeftDes_2006	1005	GuardEventLeft_2006	GuardEventRightDes_2006	1008	GuardEventRight_2006	0	0
+2007	3	UI_guard_event04	0			GruadEventTitle_2007	GuardEventDes_2007	GuardEventLeftDes_2007	1006	GuardEventLeft_2007	GuardEventRightDes_2007	1003	GuardEventRight_2007	0	0
+2008	3	UI_guard_event04	0			GruadEventTitle_2008	GuardEventDes_2008	GuardEventLeftDes_2008	1001	GuardEventLeft_2008	GuardEventRightDes_2008	1008	GuardEventRight_2008	0	0
+2009	3	UI_guard_event04	0			GruadEventTitle_2009	GuardEventDes_2009	GuardEventLeftDes_2009	1002	GuardEventLeft_2009	GuardEventRightDes_2009	1007	GuardEventRight_2009	0	0
+2010	3	UI_guard_event04	0			GruadEventTitle_2010	GuardEventDes_2010	GuardEventLeftDes_2010		GuardEventLeft_2010	GuardEventRightDes_2010	1059	GuardEventRight_2010	0	0
+4001	2		0			GruadEventTitle_4001	GuardEventDes_4001							0	0
+3001	5	UI_guard_event01	0	item1056,5;item1057,1	Monster1	GruadEventTitle_3001	GuardEventDes_3001							0	5
+3002	5	UI_guard_event02	0	item1056,8;item1057,2	Monster2	GruadEventTitle_3002	GuardEventDes_3002							0	10
+3003	5	UI_guard_event03	0	item1056,10;item1057,3	Monster3	GruadEventTitle_3003	GuardEventDes_3003							0	20
+10101	4	UI_guard_event06	0			GruadEventTitle_10101	GuardEventDes_10101	GuardEventLeftDes_10101		GuardEventLeft_10101	GuardEventRightDes_10101		GuardEventRight_10101	0	150
+10201	4	UI_guard_event05	0			GruadEventTitle_10201	GuardEventDes_10201	GuardEventLeftDes_10201	1004	GuardEventLeft_10201	GuardEventRightDes_10201	1004	GuardEventRight_10201	0	0

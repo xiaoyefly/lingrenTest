@@ -1,0 +1,63 @@
+﻿个人圣石等级	升级经验	需求公会圣器等级	压制等级	圣石评价	阶段奖励	圣石模型	升级获得技能点
+int	int	int	int	string	string	string	int
+Id	CostExp	NeedGuildHallowLevel	RepressLevel	PHallowEvaluation	RankPresent	PHallowNpc	GetSkillPoint
+1	0	0	1	PHallowEvaluation001		npc_hallowp001	1
+2	100	0	2	PHallowEvaluation001		npc_hallowp001	1
+3	220	0	3	PHallowEvaluation001		npc_hallowp001	1
+4	360	0	4	PHallowEvaluation001		npc_hallowp001	1
+5	540	0	5	PHallowEvaluation002	item100600000002,5	npc_hallowp001	1
+6	760	0	6	PHallowEvaluation002		npc_hallowp001	1
+7	1020	0	7	PHallowEvaluation002		npc_hallowp001	1
+8	1320	0	8	PHallowEvaluation002		npc_hallowp002	1
+9	1660	0	9	PHallowEvaluation002		npc_hallowp002	1
+10	2060	0	10	PHallowEvaluation003	item100600000002,5	npc_hallowp002	1
+11	2520	0	11	PHallowEvaluation003		npc_hallowp002	2
+12	3040	0	12	PHallowEvaluation003		npc_hallowp002	2
+13	3620	0	13	PHallowEvaluation003		npc_hallowp002	2
+14	4260	0	14	PHallowEvaluation003		npc_hallowp003	2
+15	4980	0	15	PHallowEvaluation004	item100600000002,10	npc_hallowp003	2
+16	5780	0	16	PHallowEvaluation004		npc_hallowp003	2
+17	6660	0	17	PHallowEvaluation004		npc_hallowp003	2
+18	7620	0	18	PHallowEvaluation004		npc_hallowp003	2
+19	8660	0	19	PHallowEvaluation004		npc_hallowp003	2
+20	9820	0	20	PHallowEvaluation005	item100600000002,10	npc_hallowp003	2
+21	11100	0	21	PHallowEvaluation005		npc_hallowp001	3
+22	12500	0	22	PHallowEvaluation005		npc_hallowp001	3
+23	14020	0	23	PHallowEvaluation005		npc_hallowp001	3
+24	15660	0	24	PHallowEvaluation005		npc_hallowp001	3
+25	17500	0	25	PHallowEvaluation006	item100600000002,15	npc_hallowp001	3
+26	19540	2	26	PHallowEvaluation006		npc_hallowp001	3
+27	21780	2	27	PHallowEvaluation006		npc_hallowp001	3
+28	24220	2	28	PHallowEvaluation006		npc_hallowp002	3
+29	26860	2	29	PHallowEvaluation006		npc_hallowp002	3
+30	29820	2	30	PHallowEvaluation007	item100600000002,15	npc_hallowp002	3
+31	33100	3	31	PHallowEvaluation007		npc_hallowp002	4
+32	36700	3	32	PHallowEvaluation007		npc_hallowp002	4
+33	40620	3	33	PHallowEvaluation007		npc_hallowp002	4
+34	44860	3	34	PHallowEvaluation007		npc_hallowp003	4
+35	49640	3	35	PHallowEvaluation008	item100600000002,20	npc_hallowp003	4
+36	54960	4	36	PHallowEvaluation008		npc_hallowp003	4
+37	60820	4	37	PHallowEvaluation008		npc_hallowp003	4
+38	67220	4	38	PHallowEvaluation008		npc_hallowp003	4
+39	74160	4	39	PHallowEvaluation008		npc_hallowp003	4
+40	82180	4	40	PHallowEvaluation009	item100600000002,20	npc_hallowp003	4
+41	92120	5	41	PHallowEvaluation009		npc_hallowp001	5
+42	104940	5	42	PHallowEvaluation009		npc_hallowp001	5
+43	121600	5	43	PHallowEvaluation009		npc_hallowp001	5
+44	143060	5	44	PHallowEvaluation009		npc_hallowp001	5
+45	170280	5	45	PHallowEvaluation010	item100600000002,25	npc_hallowp001	5
+46	204220	6	46	PHallowEvaluation010		npc_hallowp001	5
+47	245840	6	47	PHallowEvaluation010		npc_hallowp001	5
+48	296100	6	48	PHallowEvaluation010		npc_hallowp002	5
+49	355960	6	49	PHallowEvaluation010		npc_hallowp002	5
+50	435020	6	50	PHallowEvaluation011	item100600000002,25	npc_hallowp002	5
+51	536480	6	51	PHallowEvaluation011		npc_hallowp001	6
+52	663540	6	52	PHallowEvaluation012	item100600000002,10	npc_hallowp001	6
+53	819400	6	53	PHallowEvaluation012		npc_hallowp001	6
+54	1007260	6	54	PHallowEvaluation013	item100600000002,15	npc_hallowp001	6
+55	1230320	6	55	PHallowEvaluation013		npc_hallowp001	6
+56	1491780	6	56	PHallowEvaluation014	item100600000002,15	npc_hallowp001	7
+57	1794840	6	57	PHallowEvaluation014		npc_hallowp001	7
+58	2142700	6	58	PHallowEvaluation015	item100600000002,20	npc_hallowp001	7
+59	2538560	6	59	PHallowEvaluation015		npc_hallowp001	7
+60	2985620	6	60	PHallowEvaluation016	item100600000002,25	npc_hallowp001	7

@@ -1,0 +1,11 @@
+﻿关卡ID	章节	章节标题	章节内容	解锁提示
+int	int	string	string	string
+RegionID	Unit	CapName	CapStory	CapUnlockDes
+101	1	guard_title_cap9	guard_des_cap9	guard_unlock_cap9
+102	2	guard_title_cap10	guard_des_cap10	guard_unlock_cap10
+201	3	guard_title_cap13	guard_des_cap13	guard_unlock_cap11
+202	4	guard_title_cap14	guard_des_cap14	guard_unlock_cap12
+103	5	guard_title_cap11	guard_des_cap11	guard_unlock_cap13
+104	6	guard_title_cap12	guard_des_cap12	guard_unlock_cap14
+203	7	guard_title_cap15	guard_des_cap15	guard_unlock_cap15
+204	8	guard_title_cap16	guard_des_cap16	guard_unlock_cap16

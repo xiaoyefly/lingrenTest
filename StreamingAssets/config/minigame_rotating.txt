@@ -1,0 +1,5 @@
+﻿玩法id	底图素材(不填不显示)	底图素材位置	中心部件图片名	中心部件位置	中心部件角度	外圈部件	旋转时音效	固定时音效	参考图（不填不显示）	参考图位置	参考图缩放	成功音效	成功特效ID	成功特效播放位置	玩法标题	玩法引导文本	玩法成功提示文本	玩法失败提示文本	游戏限制时间	超时处理(0失败,1成功)
+int	string	vector3	string	vector3	float	string	int	int	string	vector3	float	int	int	vector3	string	string	string	string	float	int
+Id	Background	BGPos	CenterImage	CenterPos	CenterAngle	Outer	RotateAudio	FixedAudio	Reference	ReferencePos	ReferenceScale	WinAudio	WinEffect	WinEffectPos	NameText	TargetText	SuccessText	FailedText	Time	TimeOut
+401			minigame_401_center	0,0,0	0.000000	minigame_401_outer_1,120,0,30;minigame_401_outer_2,200,0,30	235	235			0.000000	246	10000009	0,0,0		minigame_target_401	minigame_success_401	minigame_failed_401	60.000000	0
+402	minigame_402_bg	0,-25,0		0,-25,0	0.000000	minigame_402_outer_1,0,180,30;minigame_402_outer_2,0,135,30;minigame_402_outer_3,0,300,30	235	235	minigame_402_arrow	0,250,0	0.850000	246	10000009	0,0,0		minigame_target_402	minigame_success_402	minigame_failed_402	60.000000	0

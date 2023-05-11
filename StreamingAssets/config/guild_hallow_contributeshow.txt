@@ -1,0 +1,133 @@
+﻿流水id	可捐献类型ID	显示类型	道具需求数量	展示道具	可捐献名字	可捐献圣能
+int	int	int	int	string	string	int
+Id	TypeId	ShowType	ItemNeedNum	ShowItem	Name	Cost
+1	1	1	0		ContributeShow010101	8
+2	2	1	0		ContributeShow010102	16
+3	3	1	0		ContributeShow010103	24
+4	4	1	0		ContributeShow010104	32
+5	5	1	0		ContributeShow010105	40
+6	6	1	0		ContributeShow010106	48
+7	7	1	0		ContributeShow010107	56
+8	8	1	0		ContributeShow010108	64
+9	9	1	0		ContributeShow010109	72
+10	10	1	0		ContributeShow010110	80
+11	26	1	0		ContributeShow010111	88
+12	27	1	0		ContributeShow010112	96
+13	11	1	0		ContributeShow010201	240
+14	12	1	0		ContributeShow010202	360
+15	13	1	0		ContributeShow010203	480
+16	14	1	0		ContributeShow010204	600
+17	15	1	0		ContributeShow010205	720
+18	16	1	0		ContributeShow010206	840
+19	17	1	0		ContributeShow010301	600
+20	18	1	0		ContributeShow010302	1000
+21	19	1	0		ContributeShow010303	2000
+22	20	1	0		ContributeShow010401	1200
+23	21	1	0		ContributeShow010402	1500
+24	22	1	0		ContributeShow010403	2500
+25	23	1	0		ContributeShow010501	1800
+26	24	1	0		ContributeShow010502	2000
+27	25	1	0		ContributeShow010503	3000
+28	101	2	20	item90000000132	ContributeItemTypeName01	66
+29	101	2	20	item90000000133	ContributeItemTypeName01	78
+30	101	2	20	item90000000134	ContributeItemTypeName01	90
+31	101	2	20	item90000000135	ContributeItemTypeName01	108
+32	101	2	20	item90000000193	ContributeItemTypeName01	126
+33	101	2	20	item90000000197	ContributeItemTypeName01	144
+34	101	2	20	item90000000204	ContributeItemTypeName01	144
+35	101	2	10	item90000000136	ContributeItemTypeName01	80
+36	101	2	10	item90000000137	ContributeItemTypeName01	128
+37	101	2	10	item90000000138	ContributeItemTypeName02	168
+38	101	2	10	item90000000198	ContributeItemTypeName02	208
+39	102	2	1	item90000000139	ContributeItemTypeName02	30
+40	102	2	1	item90000000140	ContributeItemTypeName02	75
+41	102	2	1	item90000000141	ContributeItemTypeName02	180
+42	102	2	1	item90000000142	ContributeItemTypeName02	360
+43	102	2	1	item127000041305	ContributeItemTypeName02	60
+44	102	2	1	item127000042101	ContributeItemTypeName02	144
+45	102	2	1	item127000042201	ContributeItemTypeName02	144
+46	102	2	1	item127000042302	ContributeItemTypeName02	144
+47	102	2	1	item127000042103	ContributeItemTypeName02	144
+48	102	2	1	item127000042203	ContributeItemTypeName02	144
+49	102	2	1	item127000042303	ContributeItemTypeName02	144
+50	102	2	1	item90000000143	ContributeItemTypeName02	720
+51	102	2	1	item90000000144	ContributeItemTypeName02	1080
+52	102	2	1	item90000000145	ContributeItemTypeName02	1440
+53	102	2	1	item127000051305	ContributeItemTypeName02	580
+54	102	2	1	item127000051102	ContributeItemTypeName02	580
+55	102	2	1	item127000051302	ContributeItemTypeName02	580
+56	102	2	1	item127000051301	ContributeItemTypeName02	580
+57	102	2	1	item127000051101	ContributeItemTypeName02	580
+58	102	2	1	item127000051202	ContributeItemTypeName02	580
+59	102	2	1	item127000051201	ContributeItemTypeName02	580
+60	102	2	1	item127000051203	ContributeItemTypeName02	580
+61	102	2	1	item127000052101	ContributeItemTypeName02	860
+62	102	2	1	item127000052201	ContributeItemTypeName02	860
+63	102	2	1	item127000052302	ContributeItemTypeName02	860
+64	102	2	1	item127000052103	ContributeItemTypeName02	860
+65	102	2	1	item127000052203	ContributeItemTypeName02	860
+66	102	2	1	item127000052303	ContributeItemTypeName02	860
+67	102	2	1	item127000053101	ContributeItemTypeName02	1150
+68	102	2	1	item127000053201	ContributeItemTypeName02	1150
+69	102	2	1	item127000053301	ContributeItemTypeName02	1150
+70	102	2	1	item127000053102	ContributeItemTypeName02	1150
+71	102	2	1	item127000053103	ContributeItemTypeName02	1150
+72	102	2	1	item127000053203	ContributeItemTypeName02	1150
+73	102	2	1	item127000053205	ContributeItemTypeName02	1150
+74	102	2	1	item127000053206	ContributeItemTypeName02	1150
+75	102	2	1	item127000053207	ContributeItemTypeName02	1150
+76	102	2	1	item127000053104	ContributeItemTypeName02	1150
+77	102	2	1	item127000053208	ContributeItemTypeName02	1150
+78	102	2	1	item127000053304	ContributeItemTypeName02	1150
+79	102	2	1	item127000053106	ContributeItemTypeName02	1150
+80	102	2	1	item127000053210	ContributeItemTypeName02	1150
+81	102	2	1	item127000053306	ContributeItemTypeName02	1150
+82	102	2	1	item127000053308	ContributeItemTypeName02	1150
+83	102	2	1	item127000053108	ContributeItemTypeName02	1150
+84	102	2	1	item127000053213	ContributeItemTypeName02	1150
+85	102	2	1	item127000053309	ContributeItemTypeName02	1150
+86	102	2	1	item127000053310	ContributeItemTypeName02	1150
+87	102	2	1	item127000053214	ContributeItemTypeName02	1150
+88	103	2	1	item90000000146	ContributeItemTypeName03	128
+89	103	2	1	item90000000147	ContributeItemTypeName03	192
+90	103	2	1	item90000000148	ContributeItemTypeName03	192
+91	103	2	1	item90000000199	ContributeItemTypeName03	256
+92	103	2	1	item90000000149	ContributeItemTypeName03	160
+93	103	2	1	item90000000150	ContributeItemTypeName03	240
+94	103	2	1	item90000000151	ContributeItemTypeName03	240
+95	103	2	1	item90000000200	ContributeItemTypeName03	320
+96	104	2	5	item103015110302	ContributeItemTypeName04	210
+97	104	2	7	item103015110303	ContributeItemTypeName04	210
+98	104	2	3	item103015110305	ContributeItemTypeName04	210
+99	104	2	1	item103015110408	ContributeItemTypeName04	288
+100	104	2	2	item103015110409	ContributeItemTypeName04	288
+101	104	2	2	item103015110415	ContributeItemTypeName04	252
+102	104	2	3	item103015110416	ContributeItemTypeName04	252
+103	105	2	1	item90000000159	ContributeItemTypeName05	200
+104	105	2	1	item90000000160	ContributeItemTypeName05	300
+105	105	2	1	item90000000161	ContributeItemTypeName05	400
+106	105	2	1	item90000000162	ContributeItemTypeName05	500
+107	105	2	1	item90000000163	ContributeItemTypeName05	300
+108	105	2	1	item90000000164	ContributeItemTypeName05	450
+109	105	2	1	item90000000165	ContributeItemTypeName05	600
+110	105	2	1	item90000000166	ContributeItemTypeName05	750
+111	105	2	1	item90000000167	ContributeItemTypeName05	400
+112	105	2	1	item90000000168	ContributeItemTypeName05	600
+113	105	2	1	item90000000169	ContributeItemTypeName05	800
+114	105	2	1	item90000000170	ContributeItemTypeName05	1000
+115	105	2	1	item90000000171	ContributeItemTypeName05	600
+116	105	2	1	item90000000172	ContributeItemTypeName05	900
+117	105	2	1	item90000000173	ContributeItemTypeName05	1200
+118	105	2	1	item90000000174	ContributeItemTypeName05	1500
+119	105	2	1	item90000000175	ContributeItemTypeName05	800
+120	105	2	1	item90000000176	ContributeItemTypeName05	1200
+121	105	2	1	item90000000177	ContributeItemTypeName05	1600
+122	105	2	1	item90000000178	ContributeItemTypeName05	2000
+123	105	2	1	item90000000179	ContributeItemTypeName05	1200
+124	105	2	1	item90000000180	ContributeItemTypeName05	1800
+125	105	2	1	item90000000181	ContributeItemTypeName05	2400
+126	105	2	1	item90000000182	ContributeItemTypeName05	3000
+127	105	2	1	item90000000183	ContributeItemTypeName05	1800
+128	105	2	1	item90000000184	ContributeItemTypeName05	2700
+129	105	2	1	item90000000185	ContributeItemTypeName05	3600
+130	105	2	1	item90000000186	ContributeItemTypeName05	4500

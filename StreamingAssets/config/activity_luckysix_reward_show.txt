@@ -1,0 +1,302 @@
+﻿流水	活动id	奖励名称	活动界面是否显示	奖励说明描述	组合图标名ID	奖励
+int	int	string	bool	string	string	string
+Id	ActivityId	RewardName	IsShow	RewardDes	IconGroup	Reward
+1	801	LuckySixRewardName_01	1		5,5,5	item106308010011,1
+2	801	LuckySixRewardName_02	1	LuckySixRewardDes_02	5	item106308010012,1
+3	801	LuckySixRewardName_03	1	LuckySixRewardDes_03	5	item106308010013,1
+4	801	LuckySixRewardName_04	0	LuckySixRewardDes_04		item1000,266666
+5	801	LuckySixRewardName_05	0	LuckySixRewardDes_05		item1000,166666
+6	6301	LuckySixRewardName_06	1		10,10,10	item91000000064,1
+7	6301	LuckySixRewardName_01	1	LuckySixRewardDes_02	10	item91000000065,1
+8	6301	LuckySixRewardName_02	1	LuckySixRewardDes_04		item91000000066,1
+9	6301	LuckySixRewardName_03	0	LuckySixRewardDes_03	10	item91000000067,1
+10	6301	LuckySixRewardName_07	0	LuckySixRewardDes_06		item91000000068,1
+11	6302	LuckySixRewardName_06	1		18,18,18	item91000000221,1
+12	6302	LuckySixRewardName_01	1	LuckySixRewardDes_02	18	item91000000222,1
+13	6302	LuckySixRewardName_02	1	LuckySixRewardDes_04		item91000000223,1
+14	6302	LuckySixRewardName_03	0	LuckySixRewardDes_03	18	item91000000224,1
+15	6302	LuckySixRewardName_07	0	LuckySixRewardDes_06		item91000000225,1
+16	6303	LuckySixRewardName_06	1		26,26,26	item1001,666666;item1002,18888;item91000000268,288
+17	6303	LuckySixRewardName_08	1		27,27,27	item91000000272,1;item91000000268,188
+18	6303	LuckySixRewardName_09	0		29,29,29	item91000000271,1;item91000000268,88
+19	6303	LuckySixRewardName_10	1		30,30,30	item103015110406,1;item91000000268,38
+20	6303	LuckySixRewardName_11	0		31,31,31	item1001,666666;item91000000268,18
+21	6303	LuckySixRewardName_01	0	LuckySixRewardDes_04		item1002,1888;item91000000268,58
+22	6303	LuckySixRewardName_02	0	LuckySixRewardDes_02	26	item1002,388;item91000000268,15
+23	6303	LuckySixRewardName_03	0	LuckySixRewardDes_03	26	item1002,118;item91000000268,2
+24	6303	LuckySixRewardName_07	0	LuckySixRewardDes_06		item1000,100000;item91000000268,2
+25	6304	LuckySixRewardName_06	1		39,39,39	item1001,666666;item1002,18888;item91000000453,288
+26	6304	LuckySixRewardName_08	1		51,51,51	item91000000459,1
+27	6304	LuckySixRewardName_09	0		53,53,53	item107100053210,1
+28	6304	LuckySixRewardName_10	1		38,38,38	item91000000460,1
+29	6304	LuckySixRewardName_01	0	LuckySixRewardDes_04		item1002,1888;item91000000453,58
+30	6304	LuckySixRewardName_02	0	LuckySixRewardDes_02	39	item1002,388;item91000000453,15
+31	6304	LuckySixRewardName_03	0	LuckySixRewardDes_03	39	item1002,118;item91000000453,3
+32	6304	LuckySixRewardName_07	0	LuckySixRewardDes_06		item1000,100000;item91000000453,2
+33	6305	LuckySixRewardName_06	1		39,39,39	item1001,666666;item1002,18888;item91000000453,288
+34	6305	LuckySixRewardName_08	1		51,51,51	item91000000459,1
+51	6305	LuckySixRewardName_09	0		53,53,53	item107100053210,1
+36	6305	LuckySixRewardName_10	1		38,38,38	item91000000460,1
+53	6305	LuckySixRewardName_01	0	LuckySixRewardDes_04		item1002,1888;item91000000453,58
+38	6305	LuckySixRewardName_02	0	LuckySixRewardDes_02	39	item1002,388;item91000000453,15
+39	6305	LuckySixRewardName_03	0	LuckySixRewardDes_03	39	item1002,118;item91000000453,3
+40	6305	LuckySixRewardName_07	0	LuckySixRewardDes_06		item1000,100000;item91000000453,2
+41	6306	LuckySixRewardName_06	1		50,50,50	item1001,666666;item1002,18888;item91000000453,288
+42	6306	LuckySixRewardName_08	1		51,51,51	item91000000552,1
+43	6306	LuckySixRewardName_09	1		53,53,53	item107100053106,1
+44	6306	LuckySixRewardName_10	0		38,38,38	item91000000542,888
+45	6306	LuckySixRewardName_01	0	LuckySixRewardDes_04		item1002,1888;item91000000453,58
+46	6306	LuckySixRewardName_02	0	LuckySixRewardDes_02	50	item1002,388;item91000000453,15
+47	6306	LuckySixRewardName_03	0	LuckySixRewardDes_03	50	item1002,118;item91000000453,3
+48	6306	LuckySixRewardName_07	0	LuckySixRewardDes_06		item1000,10000;item91000000453,2
+49	6307	LuckySixRewardName_06	1		58,58,58	item1002,18888
+50	6307	LuckySixRewardName_08	1		59,59,59	item91000000753,1
+51	6307	LuckySixRewardName_09	1		61,61,61	item91000000754,1
+52	6307	LuckySixRewardName_01	0		62,62,62	item1002,1200
+53	6307	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+54	6307	LuckySixRewardName_03	0	LuckySixRewardDes_03	58	item91000000755,1
+55	6307	LuckySixRewardName_07	0	LuckySixRewardDes_06		item1000,100000
+56	6308	LuckySixRewardName_06	1		58,58,58	item1002,18888
+57	6308	LuckySixRewardName_08	1		59,59,59	item91000000753,1
+58	6308	LuckySixRewardName_09	1		61,61,61	item91000000754,1
+59	6308	LuckySixRewardName_01	0		62,62,62	item1002,1200
+60	6308	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+61	6308	LuckySixRewardName_03	0	LuckySixRewardDes_03	58	item91000000755,1
+62	6308	LuckySixRewardName_07	0	LuckySixRewardDes_06		item1000,100000
+63	6309	LuckySixRewardName_06	1		66,66,66	item1002,18888
+64	6309	LuckySixRewardName_08	1		67,67,67	item91000000790,1
+65	6309	LuckySixRewardName_09	1		69,69,69	item8101020503086,1
+66	6309	LuckySixRewardName_01	0		70,70,70	item1002,1200
+67	6309	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+68	6309	LuckySixRewardName_03	0	LuckySixRewardDes_03	66	item91000000792,1
+69	6309	LuckySixRewardName_07	0	LuckySixRewardDes_06		item1000,100000
+70	6310	LuckySixRewardName_06	1		74,74,74	item1002,18888
+71	6310	LuckySixRewardName_08	1		75,75,75	item91000000847,1
+72	6310	LuckySixRewardName_09	1		77,77,77	item91000000848,1
+73	6310	LuckySixRewardName_01	0		78,78,78	item1002,1000
+74	6310	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+75	6310	LuckySixRewardName_03	0	LuckySixRewardDes_03	74	item91000000849,1
+76	6310	LuckySixRewardName_07	0	LuckySixRewardDes_06		item1000,100000
+77	6311	LuckySixRewardName_06	1		82,82,82	item1002,18888
+78	6311	LuckySixRewardName_08	1		83,83,83	item91000000874,1
+79	6311	LuckySixRewardName_09	1		85,85,85	item91000000875,1
+80	6311	LuckySixRewardName_01	0		86,86,86	item1002,1000
+81	6311	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+82	6311	LuckySixRewardName_03	0	LuckySixRewardDes_03	82	item91000000876,1
+83	6311	LuckySixRewardName_07	0	LuckySixRewardDes_06		item1000,100000
+84	6312	LuckySixRewardName_06	1		90,90,90	item1002,18888
+85	6312	LuckySixRewardName_08	1		91,91,91	item91000000918,1
+86	6312	LuckySixRewardName_09	1		93,93,93	item91000000919,1
+87	6312	LuckySixRewardName_01	0		94,94,94	item1002,1000
+88	6312	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+89	6312	LuckySixRewardName_03	0	LuckySixRewardDes_03	90	item91000000920,1
+90	6312	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+91	6313	LuckySixRewardName_06	1		98,98,98	item1002,18888
+92	6313	LuckySixRewardName_08	1		99,99,99	item91000000947,1
+93	6313	LuckySixRewardName_16	1		103,103,103	item101020503097,1
+94	6313	LuckySixRewardName_09	0		101,101,101	item91000000948,1
+95	6313	LuckySixRewardName_01	0		102,102,102	item1002,1000
+96	6313	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+97	6313	LuckySixRewardName_03	0	LuckySixRewardDes_03	98	item91000000949,1
+98	6313	LuckySixRewardName_07	0	LuckySixRewardDes_06		item1000,100000
+99	6314	LuckySixRewardName_06	1		106,106,106	item1002,18888
+100	6314	LuckySixRewardName_08	1		107,107,107	item91000000956,1
+101	6314	LuckySixRewardName_09	1		109,109,109	item91000000957,1
+102	6314	LuckySixRewardName_01	0		110,110,110	item1002,1000
+103	6314	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+104	6314	LuckySixRewardName_03	0	LuckySixRewardDes_03	106	item91000000958,1
+105	6314	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+106	6315	LuckySixRewardName_06	1		114,114,114	item1002,18888
+107	6315	LuckySixRewardName_08	1		115,115,115	item91000000986,1
+108	6315	LuckySixRewardName_09	1		117,117,117	item91000000987,1
+109	6315	LuckySixRewardName_01	0		118,118,118	item1002,1000
+110	6315	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+111	6315	LuckySixRewardName_03	0	LuckySixRewardDes_03	114	item91000000988,1
+112	6315	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+113	6316	LuckySixRewardName_06	1		122,122,122	item1002,18888
+114	6316	LuckySixRewardName_08	1		123,123,123	item91000001005,1
+115	6316	LuckySixRewardName_16	1		127,127,127	item8101020514004,1
+116	6316	LuckySixRewardName_09	0		125,125,125	item91000001006,1
+117	6316	LuckySixRewardName_01	0		126,126,126	item1002,1000
+118	6316	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+119	6316	LuckySixRewardName_03	0	LuckySixRewardDes_03	122	item91000001007,1
+120	6316	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+121	6317	LuckySixRewardName_06	1		130,130,130	item1002,18888
+122	6317	LuckySixRewardName_08	1		131,131,131	item91000001036,1
+123	6317	LuckySixRewardName_20	1		133,133,133	item91000001038,15
+124	6317	LuckySixRewardName_01	0		134,134,134	item1002,1000
+125	6317	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+126	6317	LuckySixRewardName_03	0	LuckySixRewardDes_03	130	item91000001038,1
+127	6317	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+128	6318	LuckySixRewardName_06	1		138,138,138	item1002,18888
+129	6318	LuckySixRewardName_08	1		139,139,139	item91000001068,1
+130	6318	LuckySixRewardName_16	1		143,143,143	item8101020514007,1
+131	6318	LuckySixRewardName_09	0		141,141,141	item91000001069,1
+132	6318	LuckySixRewardName_01	0		142,142,142	item1002,1000
+133	6318	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+134	6318	LuckySixRewardName_03	0	LuckySixRewardDes_03	138	item91000001070,1
+135	6318	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+136	6319	LuckySixRewardName_06	1		146,146,146	item1002,18888
+137	6319	LuckySixRewardName_08	1		147,147,147	item91000001101,1
+138	6319	LuckySixRewardName_09	1		149,149,149	item91000001102,1
+139	6319	LuckySixRewardName_01	0		150,150,150	item1002,1000
+140	6319	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+141	6319	LuckySixRewardName_03	0	LuckySixRewardDes_03	146	item91000001103,1
+142	6319	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+143	6320	LuckySixRewardName_06	1		154,154,154	item1002,18888
+144	6320	LuckySixRewardName_08	1		155,155,155	item91000001129,1
+145	6320	LuckySixRewardName_16	1		159,159,159	item8101020514008,1
+146	6320	LuckySixRewardName_09	0		157,157,157	item91000001130,1
+147	6320	LuckySixRewardName_01	0		158,158,158	item1002,1000
+148	6320	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+149	6320	LuckySixRewardName_03	0	LuckySixRewardDes_03	154	item91000001131,1
+150	6320	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+151	6321	LuckySixRewardName_06	1		154,154,154	item1002,18888
+152	6321	LuckySixRewardName_08	1		155,155,155	item91000001129,1
+153	6321	LuckySixRewardName_16	1		159,159,159	item8101020514010,1
+154	6321	LuckySixRewardName_09	0		157,157,157	item91000001130,1
+155	6321	LuckySixRewardName_01	0		158,158,158	item1002,1000
+156	6321	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+157	6321	LuckySixRewardName_03	0	LuckySixRewardDes_03	154	item91000001131,1
+158	6321	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+159	6322	LuckySixRewardName_06	1		170,170,170	item1002,18888
+160	6322	LuckySixRewardName_08	1		171,171,171	item91000001190,1
+161	6322	LuckySixRewardName_16	1		175,175,175	item8101020514011,1
+162	6322	LuckySixRewardName_09	0		173,173,173	item91000001191,1
+163	6322	LuckySixRewardName_01	0		174,174,174	item1002,1000
+164	6322	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+165	6322	LuckySixRewardName_03	0	LuckySixRewardDes_03	170	item91000001192,1
+166	6322	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+167	6323	LuckySixRewardName_06	1		178,178,178	item1002,18888
+168	6323	LuckySixRewardName_08	1		179,179,179	item91000001220,1
+169	6323	LuckySixRewardName_09	1		181,181,181	item91000001221,1
+170	6323	LuckySixRewardName_01	0		182,182,182	item1002,1000
+171	6323	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+172	6323	LuckySixRewardName_03	0	LuckySixRewardDes_03	178	item91000001222,1
+173	6323	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+174	6324	LuckySixRewardName_06	1		186,186,186	item1002,18888
+175	6324	LuckySixRewardName_08	1		187,187,187	item91000001237,1
+176	6324	LuckySixRewardName_09	1		189,189,189	item91000001238,1
+177	6324	LuckySixRewardName_01	0		190,190,190	item1002,1000
+178	6324	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+179	6324	LuckySixRewardName_03	0	LuckySixRewardDes_03	186	item91000001239,1
+180	6324	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+181	6325	LuckySixRewardName_06	1		194,194,194	item1002,18888
+182	6325	LuckySixRewardName_08	1		195,195,195	item91000001260,1
+183	6325	LuckySixRewardName_09	1		197,197,197	item91000001261,1
+184	6325	LuckySixRewardName_01	0		198,198,198	item1002,1000
+185	6325	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+186	6325	LuckySixRewardName_03	0	LuckySixRewardDes_03	194	item91000001262,1
+187	6325	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+188	6326	LuckySixRewardName_06	1		202,202,202	item1002,18888
+189	6326	LuckySixRewardName_08	1		203,203,203	item91000001296,1
+190	6326	LuckySixRewardName_16	1		207,207,207	item8101020514013,1
+191	6326	LuckySixRewardName_09	0		205,205,205	item91000001297,1
+192	6326	LuckySixRewardName_01	0		206,206,206	item1002,1000
+193	6326	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+194	6326	LuckySixRewardName_03	0	LuckySixRewardDes_03	202	item91000001298,1
+195	6326	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+196	6327	LuckySixRewardName_06	1		210,210,210	item1002,18888
+197	6327	LuckySixRewardName_08	1		211,211,211	item91000001382,1
+198	6327	LuckySixRewardName_16	1		215,215,215	item8101020514009,1
+199	6327	LuckySixRewardName_09	0		213,213,213	item91000001383,1
+200	6327	LuckySixRewardName_01	0		214,214,214	item1002,1000
+201	6327	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,120
+202	6327	LuckySixRewardName_03	0	LuckySixRewardDes_03	210	item91000001384,1
+203	6327	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+204	6328	LuckySixRewardName_06	1		218,218,218	item1002,12888
+205	6328	LuckySixRewardName_08	1		219,219,219	item91000001461,1
+206	6328	LuckySixRewardName_16	1		223,223,223	item101020514017,1
+207	6328	LuckySixRewardName_09	0		221,221,221	item91000001462,1
+208	6328	LuckySixRewardName_01	0		222,222,222	item1002,600
+209	6328	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,60
+210	6328	LuckySixRewardName_03	0	LuckySixRewardDes_03	218	item91000001463,1
+211	6328	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+212	6329	LuckySixRewardName_06	1		226,226,226	item1002,18888
+213	6329	LuckySixRewardName_08	1		227,227,227	item91000001529,1
+214	6329	LuckySixRewardName_16	1		231,231,231	item8101020514019,1
+215	6329	LuckySixRewardName_09	0		229,229,229	item91000001530,1
+216	6329	LuckySixRewardName_01	0		230,230,230	item1002,600
+217	6329	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,60
+218	6329	LuckySixRewardName_03	0	LuckySixRewardDes_03	226	item91000001531,1
+219	6329	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+220	6330	LuckySixRewardName_06	1		234,234,234	item1002,12888
+221	6330	LuckySixRewardName_08	1		235,235,235	item91000001567,1
+222	6330	LuckySixRewardName_16	1		239,239,239	item8101020514023,1
+223	6330	LuckySixRewardName_09	0		237,237,237	item91000001569,150
+224	6330	LuckySixRewardName_01	0		238,238,238	item1002,600
+225	6330	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,60
+226	6330	LuckySixRewardName_03	0	LuckySixRewardDes_03	234	item91000001569,1
+227	6330	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+228	6331	LuckySixRewardName_06	1		242,242,242	item1002,12888
+229	6331	LuckySixRewardName_08	1		243,243,243	item91000001606,1
+230	6331	LuckySixRewardName_16	1		247,247,247	item8101020514016,1
+231	6331	LuckySixRewardName_09	0		245,245,245	item91000001607,1
+232	6331	LuckySixRewardName_01	0		246,246,246	item1002,600
+233	6331	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,60
+234	6331	LuckySixRewardName_03	0	LuckySixRewardDes_03	242	item91000001608,1
+235	6331	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+236	6332	LuckySixRewardName_06	1		250,250,250	item1002,12888
+237	6332	LuckySixRewardName_08	1		251,251,251	item91000001637,1
+238	6332	LuckySixRewardName_16	1		255,255,255	item8101020514016,1
+239	6332	LuckySixRewardName_09	0		253,253,253	item91000001638,1
+240	6332	LuckySixRewardName_01	0		254,254,254	item1002,600
+241	6332	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,60
+242	6332	LuckySixRewardName_03	0	LuckySixRewardDes_03	250	item91000001639,1
+243	6332	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+244	6333	LuckySixRewardName_06	1		258,258,258	item1002,12888
+245	6333	LuckySixRewardName_08	1		259,259,259	item91000001665,1
+246	6333	LuckySixRewardName_16	1		263,263,263	item8101020514023,1
+247	6333	LuckySixRewardName_09	0		261,261,261	item91000001666,1
+248	6333	LuckySixRewardName_01	0		262,262,262	item1002,600
+249	6333	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,60
+250	6333	LuckySixRewardName_03	0	LuckySixRewardDes_03	258	item91000001667,1
+251	6333	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+252	6334	LuckySixRewardName_06	1		266,266,266	item1002,12888
+253	6334	LuckySixRewardName_08	1		267,267,267	item91000001687,1
+254	6334	LuckySixRewardName_16	1		271,271,271	item8101020514028,1
+255	6334	LuckySixRewardName_09	0		269,269,269	item91000001688,1
+256	6334	LuckySixRewardName_01	0		270,270,270	item1002,600
+257	6334	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,60
+258	6334	LuckySixRewardName_03	0	LuckySixRewardDes_03	266	item91000001689,1
+259	6334	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+260	6335	LuckySixRewardName_06	1		274,274,274	item1002,12888
+261	6335	LuckySixRewardName_08	1		275,275,275	item91000001740,1
+262	6335	LuckySixRewardName_16	1		279,279,279	item8101020514016,1
+263	6335	LuckySixRewardName_09	0		277,277,277	item91000001741,1
+264	6335	LuckySixRewardName_01	0		278,278,278	item1002,600
+265	6335	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,60
+266	6335	LuckySixRewardName_03	0	LuckySixRewardDes_03	274	item91000001742,1
+267	6335	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+268	6336	LuckySixRewardName_06	1		282,282,282	item1002,12888
+269	6336	LuckySixRewardName_08	1		283,283,283	item91000001764,1
+270	6336	LuckySixRewardName_16	1		287,287,287	item8101020514029,1
+271	6336	LuckySixRewardName_09	0		285,285,285	item91000001765,1
+272	6336	LuckySixRewardName_01	0		286,286,286	item1002,600
+273	6336	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,60
+274	6336	LuckySixRewardName_03	0	LuckySixRewardDes_03	282	item91000001766,1
+275	6336	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+276	6337	LuckySixRewardName_06	1		290,290,290	item1002,12888
+277	6337	LuckySixRewardName_08	1		291,291,291	item91000001787,1
+278	6337	LuckySixRewardName_16	1		295,295,295	item8101020514025,1
+279	6337	LuckySixRewardName_09	0		293,293,293	item91000001788,1
+280	6337	LuckySixRewardName_01	0		294,294,294	item1002,600
+281	6337	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,60
+282	6337	LuckySixRewardName_03	0	LuckySixRewardDes_03	290	item91000001789,1
+283	6337	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+284	6338	LuckySixRewardName_06	1		298,298,298	item1002,12888
+285	6338	LuckySixRewardName_08	1		299,299,299	item91000001817,1
+286	6338	LuckySixRewardName_16	1		303,303,303	item8101020514022,1
+287	6338	LuckySixRewardName_09	0		301,301,301	item91000001818,1
+288	6338	LuckySixRewardName_01	0		302,302,302	item1002,600
+289	6338	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,60
+290	6338	LuckySixRewardName_03	0	LuckySixRewardDes_03	298	item91000001819,1
+291	6338	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1
+292	6339	LuckySixRewardName_06	1		298,298,298	item1002,12888
+293	6339	LuckySixRewardName_08	1		299,299,299	item91000001817,1
+294	6339	LuckySixRewardName_16	1		303,303,303	item8101020514022,1
+295	6339	LuckySixRewardName_09	0		301,301,301	item91000001818,1
+296	6339	LuckySixRewardName_01	0		302,302,302	item1002,600
+297	6339	LuckySixRewardName_02	0	LuckySixRewardDes_04		item1002,60
+298	6339	LuckySixRewardName_03	0	LuckySixRewardDes_03	298	item91000001819,1
+299	6339	LuckySixRewardName_07	0	LuckySixRewardDes_06		item100000000006,1

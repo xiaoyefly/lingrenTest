@@ -1,0 +1,5 @@
+﻿流水	活动ID	事件类型ID不可变	语言包
+int	int	int	string
+Id	Activity	MessageId	MessageWord
+1	7612	101	hotel_message1
+2	7612	102	hotel_message2

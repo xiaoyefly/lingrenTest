@@ -1,0 +1,14 @@
+﻿命纹ID	命纹名	命纹图标	命纹品质	归属2件套	归属3件套	命纹属性	纹章基础属性加成	纹章基础属性加成提供战力	纹章洗练属性加成	纹章洗练属性加成提供战力	是否稀有提示
+int	string	string	int	int	int	string	int	int	int	int	bool
+AwakeId	Name	Icon	Rare	Set2Link	Set4Link	Prop	BadgeBaseProp	BadgeBasePropRank	BadgeRandomProp	BadgeRandomPropRank	IsRare
+1001	badage_awakename_1001	badage_awake_01	3	1001	1002	30,250;21,350;3,400	0	0	0	0	
+1002	badage_awakename_1002	badage_awake_02	3	1001	1002	31,250;22,350;1,4000	0	0	0	0	
+1003	badage_awakename_1003	badage_awake_03	3	1001	1002	32,250;34,250;3,400	0	0	0	0	
+1004	badage_awakename_1004	badage_awake_04	3	1001	1002	33,250;35,250;3,400	0	0	0	0	
+1005	badage_awakename_1005	badage_awake_05	3	1001	1002	12,300;13,300;11,300	0	0	0	0	
+1006	badage_awakename_1006	badage_awake_06	3	1001	1002	173,300;30,200;3,400	0	0	0	0	
+1007	badage_awakename_1007	badage_awake_07	3	1001	1002	174,300;34,200;3,400	0	0	0	0	
+1008	badage_awakename_1008	badage_awake_08	3	1001	1002	156,300;11,150;1,4000	0	0	0	0	
+1009	badage_awakename_1009	badage_awake_09	3	1001	1002	51,300;131,200;3,400	0	0	0	0	
+1010	badage_awakename_1010	badage_awake_10	3	1001	1002	52,300;132,200;1,4000	0	0	0	0	
+2001	badage_awakename_2001	badage_awake_11	4	2001	2002		2000	1800	0	0	1

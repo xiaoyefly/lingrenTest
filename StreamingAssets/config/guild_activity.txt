@@ -1,0 +1,11 @@
+﻿流水	公会活动名字	功能ID	活动ID	活动图标	活动时间描述	活动描述
+int	string	int	int	string	string	string
+Id	ActivityName	FuncId	ActivityId	ActivityIcon	ActivityTimeDes	ActivityDes
+1	GuildActivityName1	51	1	guildtask3	GuildActivityTimeDes1	GuildActivityDes1
+2	GuildActivityName2	57	2	ghactivity_shengyan	GuildActivityTimeDes2	GuildActivityDes2
+3	GuildActivityName3	67	3	GuildDonation	GuildActivityTimeDes3	GuildActivityDes3
+4	GuildActivityName4	68	4	GuildSupport	GuildActivityTimeDes4	GuildActivityDes4
+5	GuildActivityName5	74	5	Guilboss	GuildActivityTimeDes5	GuildActivityDes5
+6	GuildActivityName6	78	6	GuildExchange	GuildActivityTimeDes6	GuildActivityDes6
+7	GuildActivityName7	79	7	GuildTicket	GuildActivityTimeDes7	GuildActivityDes7
+8	GuildActivityName8	162	8	guild_train	GuildActivityTimeDes8	GuildActivityDes8

@@ -1,0 +1,79 @@
+﻿流水	边框ID	边框资源	名字	描述	时间类型	展示生效起始时间	使用时间（S）/结束时间	对应item	是否直接解锁	地区渠道号
+int	int	string	string	string	int	string	string	string	int	string
+Id	FrameId	FrameResource	FrameName	FrameDes	TimeType	ShowTime	LifeTime	Item	DirectUse	SDKAreaTypes
+1	101	frame1	FrameName1_1	FrameDes101	0	-1	-1	item140000011001	0	
+2	102	frame2	FrameName1_2	FrameDes102	0	-1	-1	item140000011002	0	
+3	103	frame3	FrameName1_3	FrameDes103	0	-1	-1	item140000011003	0	
+4	104	frame4	FrameName1_4	FrameDes104	0	-1	-1	item140000011004	0	
+5	105	frame5	FrameName1_5	FrameDes105	0	-1	-1	item140000011005	0	
+6	106	frame6	FrameName1_6	FrameDes106	0	-1	-1	item140000011006	0	
+7	107	frame7	FrameName1_7	FrameDes107	0	-1	-1	item140000011007	0	
+8	108	frame8	FrameName1_8	FrameDes108	0	-1	-1	item140000011008	0	
+9	109	frame9	FrameName1_9	FrameDes109	0	-1	-1	item140000011009	0	
+10	112	frame12	FrameName1_12	FrameDes112	0	-1	-1	item140000011012	0	
+11	113	frame13	FrameName1_13	FrameDes113	0	-1	-1	item140000011013	0	
+12	114	frame14	FrameName1_14	FrameDes114	0	-1	-1	item140000011014	0	
+13	115	frame15	FrameName1_15	FrameDes115	0	-1	2592000	item140000011015	0	
+14	116	frame16	FrameName1_16	FrameDes116	0	-1	2592000	item140000011016	0	
+15	117	frame17	FrameName1_17	FrameDes117	0	-1	-1	item140000011017	0	
+16	118	frame18	FrameName1_18	FrameDes118	0	-1	-1	item140000011018	0	
+17	119	frame19	FrameName1_19	FrameDes119	0	-1	-1	item140000011019	0	
+18	120	frame21	FrameName1_21	FrameDes121	0	-1	-1	item140000011021	0	
+19	121	frame16	FrameName1_16	FrameDes116	0	-1	-1	item140000011022	0	
+20	122	frame24	FrameName1_24	FrameDes124	0	-1	-1	item140000011023	0	
+21	123	frame25	FrameName1_25	FrameDes125	0	-1	6480000	item140000011024	0	
+22	124	frame26	FrameName1_26	FrameDes126	0	-1	6480000	item140000011025	0	
+23	125	frame29	FrameName1_29	FrameDes129	0	-1	-1	item140000011026	0	
+24	126	frame27	FrameName1_27	FrameDes127	0	-1	-1	item140000011027	0	
+25	127	frame28	FrameName1_28	FrameDes128	0	-1	-1	item140000011028	0	1;2;6
+26	128	frame30	FrameName1_30	FrameDes130	0	-1	-1	item140000011029	0	4
+27	131	frame22	FrameName1_22	FrameDes122	0	-1	-1	item140000011033	0	1;4;5
+28	132	frame23	FrameName1_23	FrameDes123	0	-1	-1	item140000011034	0	1;4;5
+29	133	frame33	FrameName1_31	FrameDes131	0	-1	-1	item140000011035	0	4;5
+30	134	frame31	FrameName1_32	FrameDes132	0	-1	-1	item140000011036	0	4
+31	135	frame32	FrameName1_33	FrameDes133	0	-1	-1	item140000011037	0	4
+32	136	frame34	FrameName1_34	FrameDes134	0	-1	-1	item140000011038	0	1;2;4;5;6
+33	137	frame701	FrameName1_701	FrameDes1701	0	-1	-1	item140000011039	0	1;6
+34	138	frame35	FrameName1_35	FrameDes135	0	-1	-1	item140000011040	0	1;2;4;5;6
+35	139	frame36	FrameName1_36	FrameDes136	0	-1	-1	item140000011041	0	1;2;3;4;5
+36	140	frame37	FrameName1_37	FrameDes137	0	-1	-1	item140000011042	0	1;2;4
+37	145	frame38	FrameName1_38	FrameDes138	0	-1	-1	item140000011045	0	1;2;3;4;5
+38	146	frame39	FrameName1_39	FrameDes139	0	-1	2592000	item140000011046	0	
+39	147	frame704	FrameName1_704	FrameDes704	0	-1	-1	item140000011047	0	1
+40	148	frame705	FrameName1_705	FrameDes705	0	-1	-1	item140000011048	0	1
+41	149	frame40	FrameName1_40	FrameDes140	0	-1	-1	item140000011049	0	1
+42	150	frame41	FrameName1_41	FrameDes141	0	-1	-1	item140000011050	0	1
+43	151	frame42	FrameName1_42	FrameDes142	0	-1	-1	item140000011051	0	1
+44	152	frame43	FrameName1_43	FrameDes143	0	-1	-1	item140000011052	0	5
+45	153	frame702	FrameName1_702	FrameDes1702	1	2021-07-15-00:00:00	2021-07-28-23:59:59	item140000011043	0	1
+46	154	frame703	FrameName1_703	FrameDes1703	1	2021-07-15-00:00:00	2021-07-28-23:59:59	item140000011044	0	1
+47	155	frame44	FrameName1_44	FrameDes144	0	-1	-1	item140000011053	0	1
+48	156	frame45	FrameName1_45	FrameDes145	0	-1	-1	item140000011054	0	1
+49	157	frame46	FrameName1_46	FrameDes146	0	-1	-1	item140000011055	0	1
+50	158	frame47	FrameName1_47	FrameDes147	0	-1	-1	item140000011056	0	1
+51	159	frame48	FrameName1_48	FrameDes148	0	-1	-1	item140000011057	0	1
+52	160	frame49	FrameName1_49	FrameDes149	0	-1	-1	item140000011058	0	1
+53	161	frame50	FrameName1_50	FrameDes150	0	-1	-1	item140000011059	0	1
+54	162	frame51	FrameName1_51	FrameDes151	0	-1	-1	item140000011060	0	1
+55	163	frame52	FrameName1_52	FrameDes152	0	-1	-1	item140000011061	0	1
+56	164	frame53	FrameName1_53	FrameDes153	0	-1	-1	item140000011062	0	
+57	165	frame54	FrameName1_54	FrameDes154	0	-1	-1	item140000011063	0	5
+58	166	frame55	FrameName1_55	FrameDes155	0	-1	-1	item140000011064	0	
+59	167	frame56	FrameName1_56	FrameDes156	0	-1	-1	item140000011065	0	
+60	168	frame57	FrameName1_57	FrameDes157	0	-1	-1	item140000011066	0	
+61	169	frame706	FrameName1_706	FrameDes1706	0	-1	-1	item140000011067	0	4
+62	170	frame707	FrameName1_707	FrameDes1707	0	-1	-1	item140000011068	0	4
+63	171	frame708	FrameName1_708	FrameDes1708	0	-1	-1	item140000011069	0	4
+64	172	frame709	FrameName1_709	FrameDes1709	0	-1	-1	item140000011070	0	1
+65	173	frame710	FrameName1_710	FrameDes1710	0	-1	-1	item140000011071	0	1
+66	174	frame711	FrameName1_711	FrameDes1711	0	-1	-1	item140000011072	0	1
+67	175	frame58	FrameName1_58	FrameDes158	0	-1	-1	item140000011073	0	
+68	176	frame59	FrameName1_59	FrameDes159	0	-1	-1	item140000011074	0	
+69	177	frame60	FrameName1_60	FrameDes160	0	-1	-1	item140000011075	0	
+70	178	frame61	FrameName1_61	FrameDes161	0	-1	-1	item140000011076	0	
+71	179	frame712	FrameName1_712	FrameDes1712	0	-1	-1	item140000011077	0	
+72	180	frame62	FrameName1_62	FrameDes162	0	-1	-1	item140000011078	0	
+73	181	frame63	FrameName1_63	FrameDes163	0	-1	-1	item140000011079	0	
+74	182	frame64	FrameName1_64	FrameDes164	0	-1	-1	item140000011080	0	
+75	183	frame65	FrameName1_65	FrameDes165	0	-1	-1	item140000011081	0	
+76	184	frame66	FrameName1_66	FrameDes166	0	-1	-1	item140000011082	0	

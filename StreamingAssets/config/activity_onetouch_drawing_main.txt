@@ -1,0 +1,6 @@
+﻿画册编号	活动ID	画册封面	画册封面底图	画册名	画册名底图	画册封面字体颜色	画册星级难度	画册星星底图	画册解锁条件	画册首通奖励	画册时长限制	是否随机关卡	画册关卡数	是否有排行榜	连线头部图片	连线尾巴图片	点亮的方块颜色
+int	int	string	string	string	string	string	int	string	int	string	int	int	int	int	string	string	string
+Id	ActivityID	Surface	SurfaceBg	BookName	TitleBg	FontColor	Level	StarBg	OpenCondition	FirstPassAward	ConfineTimes	Random	PartNum	RankShow	PointStarPic	PointEndPic	PointColor
+1	9612	normal_jijixiong	normal_bg	drawing001	normal_ribbon	17,95,68	1	normal_star	0	item91000000856,1	150	0	10	0	bg_xiaoyouxi_tutou	bg_xiaoyouxi_tuwei	131,208,193
+2	9612	genius_beibei	geniusl_bg	drawing002	genius_ribbon	80,20,142	3	genius_star	1	item91000000856,1	140	0	10	0	bg_xiaoyouxi_tutou	bg_xiaoyouxi_tuwei	251,169,181
+3	9612	master_timu	master_bg	drawing003	master_ribbon	121,58,8	5	master_star	2	item90000000131,2	120	1	0	1	bg_xiaoyouxi_tutou	bg_xiaoyouxi_tuwei	250,208,121

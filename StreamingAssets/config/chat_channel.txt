@@ -1,0 +1,11 @@
+﻿频道编号	频道名	频道发言间隔	最低发言等级	优先消耗物品	消耗货币种类	免费发言次数
+int	string	int	int	string	string	string
+ChannelId	ChannelName	TalkInterval	TalkLevel	ItemCost	CurrencyCost	FreeChat
+0	UI_Chat_ChannelName1	0	0			
+2	UI_Chat_ChannelName6	0	12			
+5	UI_Chat_ChannelName2	10	15		6,1	15,10;30,20;40,30;50,40
+7	UI_Chat_ChannelName3	0	0			
+4	UI_Chat_ChannelName4	0	0			
+6	UI_Chat_ChannelName5	1	10			
+12	UI_Chat_ChannelName7	0	0			
+15	UI_Chat_ChannelName8	60	31		6,1	

@@ -1,0 +1,6 @@
+﻿流水	道具ID	加速时间
+int	string	int
+Id	ItemId	Time
+1	item101040101071	1800
+2	item101040101072	7200
+3	item101040101073	28800

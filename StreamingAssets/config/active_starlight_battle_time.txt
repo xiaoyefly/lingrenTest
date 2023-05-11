@@ -1,0 +1,6 @@
+﻿流水ID	轮次	休整时间	单局对战时长	战斗结算时常
+int	int	int	int	int
+ID	Rounds	RestTime	BattleTime	EndTime
+1	1	90	300	15
+2	2	90	300	15
+3	3	90	300	15

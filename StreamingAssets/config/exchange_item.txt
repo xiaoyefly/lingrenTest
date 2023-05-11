@@ -1,0 +1,7 @@
+﻿流水	兑换对象	道具id
+int	string	string
+Id	NpcId	ItemId
+1	npc_100821	item170000201010
+2	npc_100821	item170000201020
+3	npc_100821	item170000202010
+4	npc_100821	item170000202020

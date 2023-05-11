@@ -1,0 +1,15 @@
+﻿流水id	星座id	星座图标	文本内容	星座雪人npcid	星座雪人特效
+int	int	string	string	string	string
+Id	Type	iconinfo	Content	SnowManNpc	SnowManEffect
+1	0	star_aries	star_aries_name	npc_snowman01	40000130
+2	1	star_taurus	star_taurus_name	npc_snowman02	40000131
+3	2	star_gemini	star_gemini_name	npc_snowman03	40000132
+4	3	star_cancer	star_cancer_name	npc_snowman04	40000133
+5	4	star_leo	star_leo_name	npc_snowman05	40000134
+6	5	star_virgo	star_virgo_name	npc_snowman06	40000135
+7	6	star_libra	star_libra_name	npc_snowman07	40000136
+8	7	star_scorpio	star_scorpio_name	npc_snowman08	40000137
+9	8	star_sagittarius	star_sagittarius_name	npc_snowman09	40000138
+10	9	star_capricorn	star_capricorn_name	npc_snowman10	40000139
+11	10	star_aquarius	star_aquarius_name	npc_snowman11	40000140
+12	11	star_pisces	star_pisces_name	npc_snowman12	40000141

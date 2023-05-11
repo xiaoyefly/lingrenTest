@@ -1,0 +1,448 @@
+﻿NPC编号	头像	模型缩放	常驻美术特效	种族编号
+string	string	float	string	int
+Id	Icon	AvatarZoom	PermanentEffect	TribeId
+player_npc_001		1.000000		1
+player_npc_002		1.000000		1
+player_npc_003		1.000000		1
+player_npc_004		1.000000		1
+player_npc_005		1.000000		1
+player_npc_006		1.000000		1
+player_npc_007		1.000000		1
+player_npc_008		1.000000		1
+multi_robot_01		1.000000		1
+multi_robot_02		1.000000		1
+multi_robot_03		1.000000		1
+multi_robot_04		1.000000		1
+multi_robot_05		1.000000		1
+trial_monster_1101	n015_portrait01	1.200000		0
+trial_monster_1102	n015_portrait01	1.200000		0
+trial_monster_1103	n016_portrait01	1.200000		0
+trial_monster_1104	n016_portrait01	1.200000		0
+trial_monster_1105	n017_portrait01	1.200000		0
+trial_monster_1106	n017_portrait01	1.200000		0
+trial_monster_1107	n018_portrait01	1.200000		0
+trial_monster_1108	n018_portrait01	1.200000		0
+trial_monster_1109	n019_portrait01	1.200000		0
+trial_monster_1110	n019_portrait01	1.200000		0
+trial_monster_1111	n020_portrait01	1.200000		0
+trial_monster_1112	n020_portrait01	1.200000		0
+trial_monster_1201	n015_portrait01	1.200000		0
+trial_monster_1202	n015_portrait01	1.200000		0
+trial_monster_1203	n016_portrait01	1.200000		0
+trial_monster_1204	n016_portrait01	1.200000		0
+trial_monster_1205	n017_portrait01	1.200000		0
+trial_monster_1206	n017_portrait01	1.200000		0
+trial_monster_1207	n018_portrait01	1.200000		0
+trial_monster_1208	n018_portrait01	1.200000		0
+trial_monster_1209	n019_portrait01	1.200000		0
+trial_monster_1210	n019_portrait01	1.200000		0
+trial_monster_1211	n020_portrait01	1.200000		0
+trial_monster_1212	n020_portrait01	1.200000		0
+trial_monster_1301	n015_portrait01	1.200000		0
+trial_monster_1302	n015_portrait01	1.200000		0
+trial_monster_1303	n016_portrait01	1.200000		0
+trial_monster_1304	n016_portrait01	1.200000		0
+trial_monster_1305	n017_portrait01	1.200000		0
+trial_monster_1306	n017_portrait01	1.200000		0
+trial_monster_1307	n018_portrait01	1.200000		0
+trial_monster_1308	n018_portrait01	1.200000		0
+trial_monster_1309	n019_portrait01	1.200000		0
+trial_monster_1310	n019_portrait01	1.200000		0
+trial_monster_1311	n020_portrait01	1.200000		0
+trial_monster_1312	n020_portrait01	1.200000		0
+trial_monster_1401	n015_portrait01	1.200000		0
+trial_monster_1402	n015_portrait01	1.200000		0
+trial_monster_1403	n016_portrait01	1.200000		0
+trial_monster_1404	n016_portrait01	1.200000		0
+trial_monster_1405	n017_portrait01	1.200000		0
+trial_monster_1406	n017_portrait01	1.200000		0
+trial_monster_1407	n018_portrait01	1.200000		0
+trial_monster_1408	n018_portrait01	1.200000		0
+trial_monster_1409	n019_portrait01	1.200000		0
+trial_monster_1410	n019_portrait01	1.200000		0
+trial_monster_1411	n020_portrait01	1.200000		0
+trial_monster_1412	n020_portrait01	1.200000		0
+trial_monster_1501	n015_portrait01	1.200000		0
+trial_monster_1502	n015_portrait01	1.200000		0
+trial_monster_1503	n016_portrait01	1.200000		0
+trial_monster_1504	n016_portrait01	1.200000		0
+trial_monster_1505	n017_portrait01	1.200000		0
+trial_monster_1506	n017_portrait01	1.200000		0
+trial_monster_1507	n018_portrait01	1.200000		0
+trial_monster_1508	n018_portrait01	1.200000		0
+trial_monster_1509	n019_portrait01	1.200000		0
+trial_monster_1510	n019_portrait01	1.200000		0
+trial_monster_1511	n020_portrait01	1.200000		0
+trial_monster_1512	n020_portrait01	1.200000		0
+trial_monster_1601	n015_portrait01	1.200000		0
+trial_monster_1602	n015_portrait01	1.200000		0
+trial_monster_1603	n016_portrait01	1.200000		0
+trial_monster_1604	n016_portrait01	1.200000		0
+trial_monster_1605	n017_portrait01	1.200000		0
+trial_monster_1606	n017_portrait01	1.200000		0
+trial_monster_1607	n018_portrait01	1.200000		0
+trial_monster_1608	n018_portrait01	1.200000		0
+trial_monster_1609	n019_portrait01	1.200000		0
+trial_monster_1610	n019_portrait01	1.200000		0
+trial_monster_1611	n020_portrait01	1.200000		0
+trial_monster_1612	n020_portrait01	1.200000		0
+trial_monster_1701	n015_portrait01	1.200000		0
+trial_monster_1702	n015_portrait01	1.200000		0
+trial_monster_1703	n016_portrait01	1.200000		0
+trial_monster_1704	n016_portrait01	1.200000		0
+trial_monster_1705	n017_portrait01	1.200000		0
+trial_monster_1706	n017_portrait01	1.200000		0
+trial_monster_1707	n018_portrait01	1.200000		0
+trial_monster_1708	n018_portrait01	1.200000		0
+trial_monster_1709	n019_portrait01	1.200000		0
+trial_monster_1710	n019_portrait01	1.200000		0
+trial_monster_1711	n020_portrait01	1.200000		0
+trial_monster_1712	n020_portrait01	1.200000		0
+trial_monster_1801	n015_portrait01	1.200000		0
+trial_monster_1802	n015_portrait01	1.200000		0
+trial_monster_1803	n016_portrait01	1.200000		0
+trial_monster_1804	n016_portrait01	1.200000		0
+trial_monster_1805	n017_portrait01	1.200000		0
+trial_monster_1806	n017_portrait01	1.200000		0
+trial_monster_1807	n018_portrait01	1.200000		0
+trial_monster_1808	n018_portrait01	1.200000		0
+trial_monster_1809	n019_portrait01	1.200000		0
+trial_monster_1810	n019_portrait01	1.200000		0
+trial_monster_1811	n020_portrait01	1.200000		0
+trial_monster_1812	n020_portrait01	1.200000		0
+trial_monster_1901	n015_portrait01	1.200000		0
+trial_monster_1902	n015_portrait01	1.200000		0
+trial_monster_1903	n016_portrait01	1.200000		0
+trial_monster_1904	n016_portrait01	1.200000		0
+trial_monster_1905	n017_portrait01	1.200000		0
+trial_monster_1906	n017_portrait01	1.200000		0
+trial_monster_1907	n018_portrait01	1.200000		0
+trial_monster_1908	n018_portrait01	1.200000		0
+trial_monster_1909	n019_portrait01	1.200000		0
+trial_monster_1910	n019_portrait01	1.200000		0
+trial_monster_1911	n020_portrait01	1.200000		0
+trial_monster_1912	n020_portrait01	1.200000		0
+trial_monster_2001	n015_portrait01	1.200000		0
+trial_monster_2002	n015_portrait01	1.200000		0
+trial_monster_2003	n016_portrait01	1.200000		0
+trial_monster_2004	n016_portrait01	1.200000		0
+trial_monster_2005	n017_portrait01	1.200000		0
+trial_monster_2006	n017_portrait01	1.200000		0
+trial_monster_2007	n018_portrait01	1.200000		0
+trial_monster_2008	n018_portrait01	1.200000		0
+trial_monster_2009	n019_portrait01	1.200000		0
+trial_monster_2010	n019_portrait01	1.200000		0
+trial_monster_2011	n020_portrait01	1.200000		0
+trial_monster_2012	n020_portrait01	1.200000		0
+trial_monster_2101	n015_portrait01	1.200000		0
+trial_monster_2102	n015_portrait01	1.200000		0
+trial_monster_2103	n016_portrait01	1.200000		0
+trial_monster_2104	n016_portrait01	1.200000		0
+trial_monster_2105	n017_portrait01	1.200000		0
+trial_monster_2106	n017_portrait01	1.200000		0
+trial_monster_2107	n018_portrait01	1.200000		0
+trial_monster_2108	n018_portrait01	1.200000		0
+trial_monster_2109	n019_portrait01	1.200000		0
+trial_monster_2110	n019_portrait01	1.200000		0
+trial_monster_2111	n020_portrait01	1.200000		0
+trial_monster_2112	n020_portrait01	1.200000		0
+trial_monster_2201	n015_portrait01	1.200000		0
+trial_monster_2202	n015_portrait01	1.200000		0
+trial_monster_2203	n016_portrait01	1.200000		0
+trial_monster_2204	n016_portrait01	1.200000		0
+trial_monster_2205	n017_portrait01	1.200000		0
+trial_monster_2206	n017_portrait01	1.200000		0
+trial_monster_2207	n018_portrait01	1.200000		0
+trial_monster_2208	n018_portrait01	1.200000		0
+trial_monster_2209	n019_portrait01	1.200000		0
+trial_monster_2210	n019_portrait01	1.200000		0
+trial_monster_2211	n020_portrait01	1.200000		0
+trial_monster_2212	n020_portrait01	1.200000		0
+trial_monster_5101	n015_portrait01	1.200000		0
+trial_monster_5102	n015_portrait01	1.200000		0
+trial_monster_5103	n016_portrait01	1.200000		0
+trial_monster_5104	n016_portrait01	1.200000		0
+trial_monster_5105	n017_portrait01	1.200000		0
+trial_monster_5106	n017_portrait01	1.200000		0
+trial_monster_5107	n018_portrait01	1.200000		0
+trial_monster_5108	n018_portrait01	1.200000		0
+trial_monster_5109	n019_portrait01	1.200000		0
+trial_monster_5110	n019_portrait01	1.200000		0
+trial_monster_5111	n020_portrait01	1.200000		0
+trial_monster_5112	n020_portrait01	1.200000		0
+trial_monster_5201	n015_portrait01	1.200000		0
+trial_monster_5202	n015_portrait01	1.200000		0
+trial_monster_5203	n016_portrait01	1.200000		0
+trial_monster_5204	n016_portrait01	1.200000		0
+trial_monster_5205	n017_portrait01	1.200000		0
+trial_monster_5206	n017_portrait01	1.200000		0
+trial_monster_5207	n018_portrait01	1.200000		0
+trial_monster_5208	n018_portrait01	1.200000		0
+trial_monster_5209	n019_portrait01	1.200000		0
+trial_monster_5210	n019_portrait01	1.200000		0
+trial_monster_5211	n020_portrait01	1.200000		0
+trial_monster_5212	n020_portrait01	1.200000		0
+trial_monster_5301	n015_portrait01	1.200000		0
+trial_monster_5302	n015_portrait01	1.200000		0
+trial_monster_5303	n016_portrait01	1.200000		0
+trial_monster_5304	n016_portrait01	1.200000		0
+trial_monster_5305	n017_portrait01	1.200000		0
+trial_monster_5306	n017_portrait01	1.200000		0
+trial_monster_5307	n018_portrait01	1.200000		0
+trial_monster_5308	n018_portrait01	1.200000		0
+trial_monster_5309	n019_portrait01	1.200000		0
+trial_monster_5310	n019_portrait01	1.200000		0
+trial_monster_5311	n020_portrait01	1.200000		0
+trial_monster_5312	n020_portrait01	1.200000		0
+trial_monster_5401	n015_portrait01	1.200000		0
+trial_monster_5402	n015_portrait01	1.200000		0
+trial_monster_5403	n016_portrait01	1.200000		0
+trial_monster_5404	n016_portrait01	1.200000		0
+trial_monster_5405	n017_portrait01	1.200000		0
+trial_monster_5406	n017_portrait01	1.200000		0
+trial_monster_5407	n018_portrait01	1.200000		0
+trial_monster_5408	n018_portrait01	1.200000		0
+trial_monster_5409	n019_portrait01	1.200000		0
+trial_monster_5410	n019_portrait01	1.200000		0
+trial_monster_5411	n020_portrait01	1.200000		0
+trial_monster_5412	n020_portrait01	1.200000		0
+trial_monster_5501	n015_portrait01	1.200000		0
+trial_monster_5502	n015_portrait01	1.200000		0
+trial_monster_5503	n016_portrait01	1.200000		0
+trial_monster_5504	n016_portrait01	1.200000		0
+trial_monster_5505	n017_portrait01	1.200000		0
+trial_monster_5506	n017_portrait01	1.200000		0
+trial_monster_5507	n018_portrait01	1.200000		0
+trial_monster_5508	n018_portrait01	1.200000		0
+trial_monster_5509	n019_portrait01	1.200000		0
+trial_monster_5510	n019_portrait01	1.200000		0
+trial_monster_5511	n020_portrait01	1.200000		0
+trial_monster_5512	n020_portrait01	1.200000		0
+trial_monster_5601	n015_portrait01	1.200000		0
+trial_monster_5602	n015_portrait01	1.200000		0
+trial_monster_5603	n016_portrait01	1.200000		0
+trial_monster_5604	n016_portrait01	1.200000		0
+trial_monster_5605	n017_portrait01	1.200000		0
+trial_monster_5606	n017_portrait01	1.200000		0
+trial_monster_5607	n018_portrait01	1.200000		0
+trial_monster_5608	n018_portrait01	1.200000		0
+trial_monster_5609	n019_portrait01	1.200000		0
+trial_monster_5610	n019_portrait01	1.200000		0
+trial_monster_5611	n020_portrait01	1.200000		0
+trial_monster_5612	n020_portrait01	1.200000		0
+killstar_monster_1101	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1102	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1103	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1104	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1105	JobPotrait_sp03	1.250000	33000001	0
+killstar_monster_1106	JobPotrait_sp07	1.250000	33000001	0
+killstar_monster_1107	JobPotrait_sp04	1.250000	33000001	0
+killstar_monster_1108	JobPotrait_sp08	1.250000	33000001	0
+killstar_monster_1109	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1110	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1111	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1112	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1201	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1202	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1203	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1204	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1205	JobPotrait_sp03	1.250000	33000001	0
+killstar_monster_1206	JobPotrait_sp07	1.250000	33000001	0
+killstar_monster_1207	JobPotrait_sp04	1.250000	33000001	0
+killstar_monster_1208	JobPotrait_sp08	1.250000	33000001	0
+killstar_monster_1209	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1210	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1211	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1212	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1301	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1302	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1303	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1304	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1305	JobPotrait_sp03	1.250000	33000001	0
+killstar_monster_1306	JobPotrait_sp07	1.250000	33000001	0
+killstar_monster_1307	JobPotrait_sp04	1.250000	33000001	0
+killstar_monster_1308	JobPotrait_sp08	1.250000	33000001	0
+killstar_monster_1309	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1310	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1311	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1312	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1401	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1402	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1403	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1404	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1405	JobPotrait_sp03	1.250000	33000001	0
+killstar_monster_1406	JobPotrait_sp07	1.250000	33000001	0
+killstar_monster_1407	JobPotrait_sp04	1.250000	33000001	0
+killstar_monster_1408	JobPotrait_sp08	1.250000	33000001	0
+killstar_monster_1409	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1410	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1411	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1412	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1501	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1502	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1503	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1504	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1505	JobPotrait_sp03	1.250000	33000001	0
+killstar_monster_1506	JobPotrait_sp07	1.250000	33000001	0
+killstar_monster_1507	JobPotrait_sp04	1.250000	33000001	0
+killstar_monster_1508	JobPotrait_sp08	1.250000	33000001	0
+killstar_monster_1509	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1510	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1511	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1512	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1601	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1602	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1603	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1604	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1605	JobPotrait_sp03	1.250000	33000001	0
+killstar_monster_1606	JobPotrait_sp07	1.250000	33000001	0
+killstar_monster_1607	JobPotrait_sp04	1.250000	33000001	0
+killstar_monster_1608	JobPotrait_sp08	1.250000	33000001	0
+killstar_monster_1609	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1610	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1611	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1612	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1701	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1702	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1703	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1704	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1705	JobPotrait_sp03	1.250000	33000001	0
+killstar_monster_1706	JobPotrait_sp07	1.250000	33000001	0
+killstar_monster_1707	JobPotrait_sp04	1.250000	33000001	0
+killstar_monster_1708	JobPotrait_sp08	1.250000	33000001	0
+killstar_monster_1709	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1710	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1711	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1712	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1801	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1802	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1803	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1804	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1805	JobPotrait_sp03	1.250000	33000001	0
+killstar_monster_1806	JobPotrait_sp07	1.250000	33000001	0
+killstar_monster_1807	JobPotrait_sp04	1.250000	33000001	0
+killstar_monster_1808	JobPotrait_sp08	1.250000	33000001	0
+killstar_monster_1809	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1810	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1811	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1812	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1901	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1902	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_1903	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1904	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_1905	JobPotrait_sp03	1.250000	33000001	0
+killstar_monster_1906	JobPotrait_sp07	1.250000	33000001	0
+killstar_monster_1907	JobPotrait_sp04	1.250000	33000001	0
+killstar_monster_1908	JobPotrait_sp08	1.250000	33000001	0
+killstar_monster_1909	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1910	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_1911	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_1912	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_2001	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_2002	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_2003	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_2004	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_2005	JobPotrait_sp03	1.250000	33000001	0
+killstar_monster_2006	JobPotrait_sp07	1.250000	33000001	0
+killstar_monster_2007	JobPotrait_sp04	1.250000	33000001	0
+killstar_monster_2008	JobPotrait_sp08	1.250000	33000001	0
+killstar_monster_2009	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_2010	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_2011	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_2012	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_2101	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_2102	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_2103	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_2104	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_2105	JobPotrait_sp03	1.250000	33000001	0
+killstar_monster_2106	JobPotrait_sp07	1.250000	33000001	0
+killstar_monster_2107	JobPotrait_sp04	1.250000	33000001	0
+killstar_monster_2108	JobPotrait_sp08	1.250000	33000001	0
+killstar_monster_2109	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_2110	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_2111	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_2112	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_2201	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_2202	JobPotrait_sp01	1.250000	33000001	0
+killstar_monster_2203	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_2204	JobPotrait_sp02	1.250000	33000001	0
+killstar_monster_2205	JobPotrait_sp03	1.250000	33000001	0
+killstar_monster_2206	JobPotrait_sp07	1.250000	33000001	0
+killstar_monster_2207	JobPotrait_sp04	1.250000	33000001	0
+killstar_monster_2208	JobPotrait_sp08	1.250000	33000001	0
+killstar_monster_2209	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_2210	JobPotrait_sp05	1.250000	33000001	0
+killstar_monster_2211	JobPotrait_sp06	1.100000	33000001	0
+killstar_monster_2212	JobPotrait_sp06	1.100000	33000001	0
+guildleague_statue		1.400000		0
+hero_killstar_monster_1101	soldier903_portrait01	1.250000	33000001	0
+hero_killstar_monster_1201	soldier901_portrait01	1.250000	33000001	0
+hero_killstar_monster_1301	soldier902_portrait01	1.250000	33000001	0
+hero_killstar_monster_1401	soldier903_portrait01	1.250000	33000001	0
+hero_killstar_monster_1402	soldier901_portrait01	1.250000	33000001	0
+hero_killstar_monster_1403	soldier902_portrait01	1.250000	33000001	0
+hero_killstar_monster_1501	soldier904_portrait01	1.250000	33000001	0
+hero_killstar_monster_1601	soldier905_portrait01	1.250000	33000001	0
+hero_killstar_monster_1701	soldier906_portrait01	1.250000	33000001	0
+hero_killstar_monster_1801	soldier906_portrait01	1.250000	33000001	0
+hero_killstar_monster_1802	soldier904_portrait01	1.250000	33000001	0
+hero_killstar_monster_1803	soldier905_portrait01	1.250000	33000001	0
+hero_killstar_monster_1901	soldier903_portrait01	1.250000	33000001	0
+hero_killstar_monster_1902	soldier901_portrait01	1.250000	33000001	0
+hero_killstar_monster_1903	soldier902_portrait01	1.250000	33000001	0
+hero_killstar_monster_1904	soldier904_portrait01	1.250000	33000001	0
+hero_killstar_monster_1905	soldier905_portrait01	1.250000	33000001	0
+hero_killstar_monster_1906	soldier906_portrait01	1.250000	33000001	0
+hero_killstar_monster_1907	soldier910_portrait01	1.250000	33000001	0
+hero_killstar_monster_1908	soldier909_portrait01	1.250000	33000001	0
+hero_killstar_monster_1909	soldier908_portrait01	1.250000	33000001	0
+hero_killstar_monster_1910	soldier910_portrait01	1.250000	33000001	0
+hero_killstar_monster_1911	soldier909_portrait01	1.250000	33000001	0
+hero_killstar_monster_1912	soldier908_portrait01	1.250000	33000001	0
+hero_killstar_monster_1913	soldier907_portrait01	1.250000	33000001	0
+hero_killstar_monster_1914	soldier912_portrait01	1.250000	33000001	0
+hero_killstar_monster_1915	soldier913_portrait01	1.250000	33000001	0
+hero_killstar_monster_1916	soldier907_portrait01	1.250000	33000001	0
+hero_killstar_monster_1917	soldier912_portrait01	1.250000	33000001	0
+hero_killstar_monster_1918	soldier913_portrait01	1.250000	33000001	0
+hero_killstar_monster_1919	soldier910_portrait01	1.250000	33000001	0
+hero_killstar_monster_1920	soldier909_portrait01	1.250000	33000001	0
+hero_killstar_monster_1921	soldier908_portrait01	1.250000	33000001	0
+hero_killstar_monster_1922	soldier907_portrait01	1.250000	33000001	0
+hero_killstar_monster_1923	soldier912_portrait01	1.250000	33000001	0
+hero_killstar_monster_1924	soldier913_portrait01	1.250000	33000001	0
+hero_killstar_monster_2101	JobPotrait_sp01	1.250000	33000001	0
+hero_killstar_monster_2102	JobPotrait_sp01	1.250000	33000001	0
+hero_killstar_monster_2103	JobPotrait_sp02	1.250000	33000001	0
+hero_killstar_monster_2104	JobPotrait_sp02	1.250000	33000001	0
+hero_killstar_monster_2105	JobPotrait_sp03	1.250000	33000001	0
+hero_killstar_monster_2106	JobPotrait_sp07	1.250000	33000001	0
+hero_killstar_monster_2107	JobPotrait_sp04	1.250000	33000001	0
+hero_killstar_monster_2108	JobPotrait_sp08	1.250000	33000001	0
+hero_killstar_monster_2109	JobPotrait_sp05	1.250000	33000001	0
+hero_killstar_monster_2110	JobPotrait_sp05	1.250000	33000001	0
+hero_killstar_monster_2111	JobPotrait_sp06	1.100000	33000001	0
+hero_killstar_monster_2112	JobPotrait_sp06	1.100000	33000001	0
+hero_killstar_monster_3101	JobPotrait_sp01	1.250000	33000001	0
+hero_killstar_monster_3102	JobPotrait_sp01	1.250000	33000001	0
+hero_killstar_monster_3103	JobPotrait_sp02	1.250000	33000001	0
+hero_killstar_monster_3104	JobPotrait_sp02	1.250000	33000001	0
+hero_killstar_monster_3105	JobPotrait_sp03	1.250000	33000001	0
+hero_killstar_monster_3106	JobPotrait_sp07	1.250000	33000001	0
+hero_killstar_monster_3107	JobPotrait_sp04	1.250000	33000001	0
+hero_killstar_monster_3108	JobPotrait_sp08	1.250000	33000001	0
+hero_killstar_monster_3109	JobPotrait_sp05	1.250000	33000001	0
+hero_killstar_monster_3110	JobPotrait_sp05	1.250000	33000001	0
+hero_killstar_monster_3111	JobPotrait_sp06	1.100000	33000001	0
+hero_killstar_monster_3112	JobPotrait_sp06	1.100000	33000001	0
+hero_killstar_monster_3113	JobPotrait_sp06	1.100000	33000001	0
+hero_killstar_monster_3114	JobPotrait_sp06	1.100000	33000001	0
+starlight_battle_statue_01		1.400000		0
+starlight_battle_statue_02		1.400000		0
+starlight_battle_statue_03		1.400000		0
+starlight_battle_statue_04		1.400000		0
+starlight_battle_statue_05		1.400000		0
+starlight_battle_statue_06		1.400000		0
+starlight_battle_statue_07		1.400000		0
+starlight_battle_statue_08		1.400000		0
+duel_effigy		1.400000		0

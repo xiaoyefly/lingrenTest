@@ -1,0 +1,17 @@
+﻿NPC编号	对象类型	动作集	名称	名称位置	描边参数	模型编号	怪物头像	怪物种类	脚本编号	模型缩放	普通移动速度	待机移动速度	战斗移动速度	触发范围	随机移动半径	最大追击范围	出场动作	出场特效ID	出场特殊效果	怪物说话模组
+string	string	int	string	string	int	string	string	int	string	float	float	float	float	float	float	float	int	int	int	int
+Id	script	ActionSet	Name	NamePos	OutlinePara	Avatar	Icon	MonsterType	LuaScript	AvatarZoom	MoveSpeed	RestMoveSpeed	FightMoveSpeed	SpringRange	RandomMoveRange	MaxChaseDistance	BornAction	BornEffect	BornSpecialEffect	SpeakMod
+animal10001	LandscapeNpc	6	AniName_001	0,1,0	1	a001|body|a001_body_t1	a001_portrait01	1001		1.000000	2.000000	2.000000	2.500000	10.000000	5.000000	40.000000	0	110000	0	0
+animal10002	LandscapeNpc	6	AniName_002	0,1,0	1	a002|body|a002_body_t1	a002_portrait01	1001		1.000000	2.000000	2.000000	2.500000	10.000000	5.000000	40.000000	0	110000	0	0
+animal10003	LandscapeNpc	6	AniName_003	0,1,0	1	a003|body|a003_body_t1	a003_portrait01	1001	npc/yucun/animal10003.lua	1.000000	2.000000	2.000000	2.500000	10.000000	5.000000	40.000000	0	110000	0	0
+animal10004	LandscapeNpc	6	AniName_004	0,1,0	1	m023|body|m023_body_t1	m023_portrait01	1001		0.400000	2.000000	2.000000	2.500000	10.000000	5.000000	40.000000	0	110000	0	0
+animal10005	LandscapeNpc	6	AniName_002	0,1,0	1	a002|body|a002_body_t1	a002_portrait01	1001		1.000000	2.000000	2.000000	2.500000	10.000000	5.000000	40.000000	0	110000	0	0
+animal10006	LandscapeNpc	6	AniName_004	0,1,0	1	a008|body|a008_body_t1	m023_portrait01	1001		1.000000	2.000000	2.000000	2.500000	10.000000	5.000000	40.000000	0	110000	0	0
+animal10007	LandscapeNpc	6	AniName_002	0,1,0	1	a009|body|a009_body_t1	a002_portrait01	1001		1.000000	2.000000	2.000000	2.500000	10.000000	5.000000	40.000000	0	110000	0	0
+animal10008	LandscapeNpc	6	AniName_008	0,1,0	1	m012|body|m012_body_t3	m012_portrait03	1001		0.500000	2.000000	2.000000	2.500000	10.000000	5.000000	40.000000	0	110000	0	0
+animal10009	LandscapeNpc	6	AniName_009	0,1,0	1	m015|body|m015_body_t3	m015_portrait03	1001		0.500000	2.000000	2.000000	2.500000	10.000000	5.000000	40.000000	0	110000	0	0
+animal10011	LandscapeNpc	6	AniName_011	0,1,0	1	a011|body|a011_body_t1	a011_portrait01	1001		1.100000	2.500000	2.500000	2.500000	5.000000	4.000000	10.000000	0	110000	0	0
+animal10012	LandscapeNpc	6	AniName_012	0,1,0	1	a012|body|a012_body_t1	a012_portrait01	1001		1.100000	2.000000	2.000000	2.500000	5.000000	4.000000	10.000000	0	110000	0	0
+animal10013	LandscapeNpc	6	AniName_004	0,1,0	1	a008|body|a008_body_t1	a008_portrait01	1001		1.000000	2.000000	2.000000	2.500000	10.000000	5.000000	40.000000	0	110000	0	0
+animal10014	LandscapeNpc	6	AniName_002	0,1,0	1	a009|body|a009_body_t1	a009_portrait01	1001		1.000000	2.000000	2.000000	2.500000	10.000000	5.000000	40.000000	0	110000	0	0
+animal10015	LandscapeNpc	6	AniName_004	0,1,0	1	m023|body|m023_body_t1	m023_portrait01	1001		0.400000	2.000000	2.000000	2.500000	10.000000	5.000000	40.000000	0	110000	0	0

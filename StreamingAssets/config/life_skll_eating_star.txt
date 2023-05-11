@@ -1,0 +1,12 @@
+﻿提姆林星级	萝卜数量	萝卜图标	背景板样式	食物图片	推荐描述
+int	int	string	string	string	string
+Star	CarrotNum	CarrotPic	BgPic	FoodPic	RecommendDes
+1	1	cook_icon_carrot1	cook_bg_green	cook_btn_food1	cooking_recommendDes_1
+2	2	cook_icon_carrot1	cook_bg_green	cook_btn_food1	cooking_recommendDes_2
+3	3	cook_icon_carrot1	cook_bg_green	cook_btn_food1	cooking_recommendDes_3
+4	1	cook_icon_carrot2	cook_bg_blue	cook_btn_food1	cooking_recommendDes_4
+5	2	cook_icon_carrot2	cook_bg_blue	cook_btn_food1	cooking_recommendDes_5
+6	3	cook_icon_carrot2	cook_bg_blue	cook_btn_food1	cooking_recommendDes_6
+7	1	cook_icon_carrot3	cook_bg_pru	cook_btn_food1	cooking_recommendDes_7
+8	2	cook_icon_carrot3	cook_bg_pru	cook_btn_food1	cooking_recommendDes_8
+9	3	cook_icon_carrot3	cook_bg_pru	cook_btn_food1	cooking_recommendDes_9

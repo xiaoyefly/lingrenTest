@@ -1,0 +1,17 @@
+﻿ID	挖宝类型组id	挖宝寄奖励类型	激活前icon	激活后icon
+int	int	int	string	string
+Id	TreasureTypeZoneId	TreasureGemType	ActiveIconBefore	ActiveIconAfter
+1	1	1		
+2	1	2	icon_treasurebox02_0	icon_treasurebox02_1
+3	1	3	icon_treasurebox05_0	icon_treasurebox05_1
+4	1	4	icon_commit	icon_commit2
+5	1	5	item_91000000291	item_91000000291
+6	1	6		
+7	1	7		
+8	2	1		
+9	2	2	icon_treasurebox02_0	icon_treasurebox02_1
+10	2	3	icon_treasurebox05_0	icon_treasurebox05_1
+11	2	4	icon_commit	icon_commit2
+12	2	5	item_91000000291	item_91000000291
+13	2	6		
+14	2	7		

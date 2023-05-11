@@ -1,0 +1,9 @@
+﻿槽位id	解锁条件
+int	int
+Id	UnlockLevel
+1	10
+2	20
+3	30
+4	40
+5	50
+6	60

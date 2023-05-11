@@ -1,0 +1,11 @@
+﻿解锁小地图ID	岛屿位置	岛屿icon	岛屿名称	岛屿描述	岛屿解锁前提描述	基础产量（小时）	幸运物	加成系数	特效播放
+int	vector2	string	string	string	string	string	string	string	string
+IslandId	IslandPositon	IslandIcon	IslandName	IslandDes	LockDes	BaseProduction	LuckyItemID	AdvProduction	EffectTime
+101	-101,168	icon_sailingseason_island1	IslandName101	IslandDes101	IslandLockDes101	item1040,10;item1041,10;item1000,1000	1,10,25,38	0.05,0.1,0.05,0.1	40000303;3;6
+102	-202,20	icon_sailingseason_island2	IslandName102	IslandDes102	IslandLockDes102	item1040,14;item1041,14;item1000,1400	7,11,26,43	0.05,0.1,0.05,0.1	40000303;3;5
+103	-459,-71	icon_sailingseason_island3	IslandName103	IslandDes103	IslandLockDes103	item1040,20;item1041,20;item1000,2000	6,16,27,39	0.05,0.1,0.05,0.1	40000303;3;5
+104	-91,-270	icon_sailingseason_island4	IslandName104	IslandDes104	IslandLockDes104	item1040,24;item1041,24;item1000,2400	2,17,28,40	0.05,0.1,0.05,0.1	40000303;4;4
+105	386,-182	icon_sailingseason_island5	IslandName105	IslandDes105	IslandLockDes105	item1040,30;item1041,30;item1000,3000	3,14,29,41	0.05,0.1,0.05,0.1	40000303;4;4
+106	341,53	icon_sailingseason_island6	IslandName106	IslandDes106	IslandLockDes106	item1040,34;item1041,34;item1000,3400	4,13,30,42	0.05,0.1,0.05,0.1	40000303;4;4
+107	131,153	icon_sailingseason_island7	IslandName107	IslandDes107	IslandLockDes107	item1040,40;item1041,40;item1000,4000	5,15,31,48	0.05,0.1,0.05,0.1	40000303;5;3
+108	463,250	icon_sailingseason_island8	IslandName108	IslandDes108	IslandLockDes108	item1040,50;item1041,50;item1000,5000	9,12,32,49	0.05,0.1,0.05,0.1	40000303;5;3

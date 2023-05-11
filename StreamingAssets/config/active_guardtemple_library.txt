@@ -1,0 +1,23 @@
+﻿研究所等级	研究所单位产出	研究所名称	资源产出描述	上限	升级材料	幸运物描述	最大幸运物数量	幸运物	天赋点
+int	string	string	string	string	string	string	int	string	string
+LibraryLevel	LibraryGet	LibraryName	ResDes	MaxReward	LevelUpItem	LuckyItemDes	LuckyItemLimit	LuckyItemID	TalentPoint
+1	item1056,1	lLibraryName101	lLibraryLockDes101	-1		lLibraryLuckDes101	4	1,10,25,33	
+2	item1056,1.1	lLibraryName102	lLibraryLockDes102	-1	item127000068122,300;item127000068118,20	lLibraryLuckDes101	4	1,10,25,33	item1057,40
+3	item1056,1.15	lLibraryName103	lLibraryLockDes103	-1	item127000068122,600;item127000068118,30	lLibraryLuckDes101	4	1,10,25,33	item1057,40
+4	item1056,1.2	lLibraryName104	lLibraryLockDes104	-1	item127000068122,900;item127000068118,40	lLibraryLuckDes101	4	1,10,25,33	item1057,40
+5	item1056,1.25	lLibraryName105	lLibraryLockDes105	-1	item127000068122,1200;item127000068118,50	lLibraryLuckDes101	4	1,10,25,33	item1057,40
+6	item1056,1.3	lLibraryName106	lLibraryLockDes106	-1	item127000068124,200;item127000068118,60	lLibraryLuckDes101	4	1,10,25,33	item1057,40
+7	item1056,1.35	lLibraryName107	lLibraryLockDes107	-1	item127000068124,400;item127000068118,70	lLibraryLuckDes101	4	1,10,25,33	item1057,45
+8	item1056,1.4	lLibraryName108	lLibraryLockDes108	-1	item127000068124,600;item127000068118,80	lLibraryLuckDes101	4	1,10,25,33	item1057,45
+9	item1056,1.45	lLibraryName109	lLibraryLockDes109	-1	item127000068124,800;item127000068118,90	lLibraryLuckDes101	4	1,10,25,33	item1057,45
+10	item1056,1.5	lLibraryName110	lLibraryLockDes110	-1	item127000068124,1000;item127000068118,100	lLibraryLuckDes101	4	1,10,25,33	item1057,45
+11	item1056,1.55	lLibraryName111	lLibraryLockDes111	-1	item127000068126,200;item127000068119,10	lLibraryLuckDes101	4	1,10,25,33	item1057,50
+12	item1056,1.6	lLibraryName112	lLibraryLockDes112	-1	item127000068126,400;item127000068119,20	lLibraryLuckDes101	4	1,10,25,33	item1057,50
+13	item1056,1.65	lLibraryName113	lLibraryLockDes113	-1	item127000068126,600;item127000068119,30	lLibraryLuckDes101	4	1,10,25,33	item1057,50
+14	item1056,1.7	lLibraryName114	lLibraryLockDes114	-1	item127000068126,800;item127000068119,40	lLibraryLuckDes101	4	1,10,25,33	item1057,50
+15	item1056,1.75	lLibraryName115	lLibraryLockDes115	-1	item127000068126,1000;item127000068119,50	lLibraryLuckDes101	4	1,10,25,33	item1057,50
+16	item1056,1.8	lLibraryName116	lLibraryLockDes116	-1	item127000068128,200;item127000068119,60	lLibraryLuckDes101	4	1,10,25,33	item1057,60
+17	item1056,1.85	lLibraryName117	lLibraryLockDes117	-1	item127000068128,400;item127000068119,70	lLibraryLuckDes101	4	1,10,25,33	item1057,60
+18	item1056,1.9	lLibraryName118	lLibraryLockDes118	-1	item127000068128,600;item127000068119,80	lLibraryLuckDes101	4	1,10,25,33	item1057,60
+19	item1056,1.95	lLibraryName119	lLibraryLockDes119	-1	item127000068128,800;item127000068119,90	lLibraryLuckDes101	4	1,10,25,33	item1057,60
+20	item1056,2	lLibraryName120	lLibraryLockDes120	-1	item127000068128,1000;item127000068119,100	lLibraryLuckDes101	4	1,10,25,33	item1057,60

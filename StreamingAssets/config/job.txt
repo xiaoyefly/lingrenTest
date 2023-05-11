@@ -1,0 +1,9 @@
+﻿职业	职业名称	职业头像	职业图标	职业头像-主界面	职业图标-主界面	背景颜色	属性边颜色	属性中心颜色	属性边缘颜色	标题渐变颜色	纹饰颜色	是否开放	默认显示性别	转性道具	转职道具	便捷转职指定道具	转职FUNC
+int	string	string	string	string	string	string	string	string	string	string	string	bool	int	string	string	string	int
+Id	name	potrait	icon	mainPotrait	mainIcon	createRoleBgColor	propEdgeColor	propCenterColor	propMarginColor	titleColor	docColor	IsOpen	DefShowSex	ChangeGenderItem	ChangeJobItem	QuickChangeJobItem	FuncID
+1	Hero_JobName1	JobPotrait01	hero101_job01	Job01	zhanshi_icon	217,96,58,255	204,88,52,220	125,58,37,127	205,88,51,127	238,183,168,255	192,96,65,255	1	1	item100000000103,1	item101200000003,1	item101200001001,1	301
+2	Hero_JobName2	JobPotrait02	hero102_job01	Job02	fashi_icon	50,139,202,255	51,159,231,220	25,70,103,127	32,138,208,127	168,209,238,255	41,148,220,255	1	2	item100000000103,1	item101200000003,1	item101200001002,1	302
+3	Hero_JobName3	JobPotrait03	hero103_job01	Job03	sheshou_icon	139,193,93,255	120,203,52,220	56,94,24,127	120,203,52,127	181,216,143,255	120,203,52,255	1	2	item100000000103,1	item101200000003,1	item101200001003,1	303
+4	Hero_JobName4	JobPotrait04	hero104_job01	Job04	mushi_icon	194,166,70	224,213,161,220	80,80,64,127	169,167,135,127	229,220,191,255	211,192,147	1	2	item100000000103,1	item101200000003,1	item101200001004,1	304
+5	Hero_JobName5	JobPotrait05	hero105_job01	Job05	mushi_icon	184,27,46	179,27,47,220	88,37,46,127	179,27,47,127	208,22,40	164,46,60	1	1	item100000000103,1	item101200000003,1	item101200001005,1	305
+6	Hero_JobName6	JobPotrait06	hero106_job01	Job06	qishi_icon	194,166,70	39,86,254,220	24,29,94,127	52,73,203,127	229,220,191,255	211,192,147	1	1	item100000000103,1	item101200000003,1	item101200001006,1	306

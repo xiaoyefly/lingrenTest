@@ -1,0 +1,15 @@
+﻿流水id	模式	血量值（等于该值，百分比分子）	评级	副本任务目标	boss对应buff编号
+int	int	int	int	string	int
+ID	Mode	HpRate	SettleLevel	TargetDesc	BuffNumber
+1	1	20	1	UI_MonthPve_TaskDest_Single1	0
+2	1	50	2	UI_MonthPve_TaskDest_Single2	0
+3	1	70	3	UI_MonthPve_TaskDest_Single3	0
+4	1	100	4	UI_MonthPve_TaskDest_Single4	0
+5	1	70	5	UI_MonthPve_TaskDest_Single5	1
+6	1	100	6	UI_MonthPve_TaskDest_Single6	1
+7	2	20	1	UI_MonthPve_TaskDest_Single1	0
+8	2	50	2	UI_MonthPve_TaskDest_Single2	0
+9	2	70	3	UI_MonthPve_TaskDest_Single3	0
+10	2	100	4	UI_MonthPve_TaskDest_Single4	0
+11	2	70	5	UI_MonthPve_TaskDest_Single5	1
+12	2	100	6	UI_MonthPve_TaskDest_Single6	1

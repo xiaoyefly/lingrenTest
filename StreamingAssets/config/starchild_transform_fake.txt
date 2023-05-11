@@ -1,0 +1,11 @@
+﻿角色ID
+string
+HeroId
+hero101
+hero102
+hero103
+hero104
+hero105
+hero106
+hero107
+hero108

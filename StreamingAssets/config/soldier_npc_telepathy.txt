@@ -1,0 +1,15 @@
+﻿栏位编号	对应页签	拥有佣兵数量解锁条件	玩家等级解锁条件	通关英雄史诗指定关卡	英雄史诗条件语言包	通关星痕传说指定关卡	星痕传说条件语言包	转化属性	推荐佣兵
+int	int	int	int	int	string	int	string	string	string
+Id	PageNum	SoldierNeedNum	NeedLevel	NeedEpic	NeedEpicDec	NeedStartrace	NeedStartraceDec	Attribute	SoldierRecommend
+1	1	1	15	0	NeedEpicDec001	0	NeedStartraceDec001	1,600;4,600;3,600	soldier_npc_10041,soldier_npc_10040,soldier_npc_10032
+2	1	8	30	0	NeedEpicDec002	0	NeedStartraceDec002	1,300;21,500;22,500	soldier_npc_10041,soldier_npc_10024,soldier_npc_10048
+3	1	0	35	11001	NeedEpicDec003	0	NeedStartraceDec003	3,300;23,500;25,500	soldier_npc_10047,soldier_npc_10051,soldier_npc_10050
+4	1	0	45	31001	NeedEpicDec004	0	NeedStartraceDec004	4,300;24,500;26,500	soldier_npc_10032,soldier_npc_10024,soldier_npc_10022
+5	1	18	0	0	NeedEpicDec005	0	NeedStartraceDec005	3,300;32,1000;34,1000	soldier_npc_10027,soldier_npc_10019,soldier_npc_10047
+6	1	12	0	0	NeedEpicDec006	0	NeedStartraceDec006	1,300;33,1000;35,1000	soldier_npc_10042,soldier_npc_10022,soldier_npc_10024
+7	2	0	70	61001	NeedEpicDec007	0	NeedStartraceDec001	1,400;4,400;3,400	soldier_npc_10041,soldier_npc_10023,soldier_npc_10049
+8	2	0	70	61002	NeedEpicDec008	0	NeedStartraceDec002	1,200;30,800;31,800	soldier_npc_10024,soldier_npc_10041,soldier_npc_10048
+9	2	0	75	71001	NeedEpicDec009	0	NeedStartraceDec003	3,200;23,400;24,400	soldier_npc_10047,soldier_npc_10023,soldier_npc_10050
+10	2	0	75	71002	NeedEpicDec010	0	NeedStartraceDec004	4,200;25,400;26,400	soldier_npc_10032,soldier_npc_10022,soldier_npc_10027
+11	2	0	80	81001	NeedEpicDec011	0	NeedStartraceDec005	3,200;32,800;33,800	soldier_npc_10027,soldier_npc_10019,soldier_npc_10047
+12	2	0	80	81002	NeedEpicDec012	0	NeedStartraceDec006	4,200;34,800;35,800	soldier_npc_10042,soldier_npc_10022,soldier_npc_10026

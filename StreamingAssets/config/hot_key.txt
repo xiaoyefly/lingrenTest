@@ -1,0 +1,32 @@
+﻿快捷功能ID(不可修改ID)	功能ID	快捷键分类	功能说明文本	是否显示快捷键角标	按钮在键盘上的图片名	文字颜色	是否支持修改快捷键	默认快捷键	是否检查可使用场景	LinkUI执行条件	条件为真执行事件	条件为假执行事件
+string	int	int	string	bool	string	string	bool	int	int	string	string	string
+HotKeyType	FuncID	Group	Name	IsDisplay	KeyBtnIcon	TextColor	CanEditor	KeyCode	CheckUseScene	LinkUICondition	TrueLinkUI	FalseLinkUI
+Skill0	0	1	Hot_Key_Skill0	1	pcsetting_key02	#a8b0bc	1	49	0			
+Skill1	0	1	Hot_Key_Skill1	1	pcsetting_key02	#a8b0bc	1	50	0			
+Skill2	0	1	Hot_Key_Skill2	1	pcsetting_key02	#a8b0bc	1	51	0			
+Skill3	0	1	Hot_Key_Skill3	1	pcsetting_key02	#a8b0bc	1	52	0			
+Skill4	0	1	Hot_Key_Skill4	1	pcsetting_key02	#a8b0bc	1	53	0			
+Skill5	0	1	Hot_Key_Skill5	1	pcsetting_key02	#a8b0bc	1	54	0			
+RollSkill	0	1	Hot_Key_Roll	1	pcsetting_key02	#a8b0bc	1	304	0			
+PetSkill1	0	1	Hot_Key_PetSkill1	1	pcsetting_key02	#a8b0bc	1	113	0			
+PetSkill2	0	1	Hot_Key_PetSkill2	1	pcsetting_key02	#a8b0bc	1	101	0			
+WeaponSkill1	0	1	Hot_Key_WeaponSkill1	1	pcsetting_key02	#a8b0bc	1	102	0			
+WeaponSkill2	0	1	Hot_Key_WeaponSkill2	1	pcsetting_key02	#a8b0bc	1	103	0			
+StarChildSkill	0	1	Hot_Key_StarChildSkill	1	pcsetting_key02	#a8b0bc	1	114	0			
+EnvoySkill	0	1	Hot_Key_EnvoySkill	1	pcsetting_key02	#a8b0bc	1	118	0			
+OpenChat	0	2	Hot_Key_OpenChat		pcsetting_key01	#96adce	1	13	0	UIIsOpen:ChatPanel		LinkUI:ChatPanel;SelectInput
+ChangeTarget	0	2	Hot_Key_ChangeTarget		pcsetting_key01	#96adce	1	9	0	LinkUI:TryChangedTarget		
+Backpack	7	2	Hot_Key_Backpack		pcsetting_key01	#96adce	1	98	1	UIIsOpen:BagPanel	CloseUI:BagPanel	LinkUI:BagPanel
+Friend	41	2	Hot_Key_Friend		pcsetting_key01	#96adce	1	104	1	UIIsOpen:SocialPanel	CloseUI:SocialPanel	TryOpenFriendPanel
+AutoFight	0	2	Hot_Key_AutoFight		pcsetting_key01	#96adce	1	122	0			
+Ride	0	2	Hot_Key_Ride		pcsetting_key01	#96adce	1	120	0			
+Drug	0	2	Hot_Key_Drug		pcsetting_key01	#96adce	1	99	0			
+InteractiveBtn1	0	2	Hot_Key_InteractiveBtn1		pcsetting_key01	#96adce	1	116	0			
+InteractiveBtn2	0	2	Hot_Key_InteractiveBtn2		pcsetting_key01	#96adce	1	121	0			
+InteractiveBtn3	0	2	Hot_Key_InteractiveBtn3		pcsetting_key01	#96adce	1	117	0			
+InteractiveBtn4	0	2	Hot_Key_InteractiveBtn4		pcsetting_key01	#96adce	1	105	0			
+InteractiveBtn5	0	2	Hot_Key_InteractiveBtn5		pcsetting_key01	#96adce	1	111	0			
+Up	0	1	Hot_Key_Up		pcsetting_key03	#d3c3d3	0	119	0			
+Down	0	1	Hot_Key_Down		pcsetting_key03	#d3c3d3	0	115	0			
+Left	0	1	Hot_Key_Left		pcsetting_key03	#d3c3d3	0	97	0			
+Right	0	1	Hot_Key_Right		pcsetting_key03	#d3c3d3	0	100	0			

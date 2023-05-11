@@ -1,0 +1,580 @@
+﻿效果id	职业	组id	功能ID	效果类型	技能品质	名称	ICON	效果描述	持续生效事件格数	初始等级	属性参数	效果参数	buff初始层数	buff失效后是否删除	解锁类型	解锁参数	解锁描述	是否在祝福加持展示	技能回收	商店中技能回收	buff叠加参数	buff叠加显示用状态
+int	int	int	int	int	int	string	string	string	int	int	string	string	int	int	int	string	string	int	int	int	string	string
+ID	Job	GroupId	FuncId	Type	Level	Name	Icon	EffectDes	KeepTime	BaseLevel	Prop	EffectParam	BuffLayer	BuffDelete	LockType	LockParam	LockDes	Show	SkillRecovery1	SkillRecovery2	BuffSuperposition	BuffState
+101	0	101	37	1	5	SkillNameskill61601	skill_61591	SkillDesskill61601	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61591	0	0	0			0	125	125		
+102	0	102	37	1	5	SkillNameskill61581	skill_61581	SkillDesskill61581	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61581	0	0	0			0	125	125		
+103	0	103	37	1	5	SkillNameskill61571	skill_61571	SkillDesskill61571	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61571	0	0	0			0	125	125		
+104	0	104	37	1	5	SkillNameskill61521	skill_61521	SkillDesskill61521	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61521	0	0	0			0	125	125		
+105	0	105	37	1	5	SkillNameskill61511	skill_61511	SkillDesskill61511	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61511	0	0	0			0	125	125		
+106	0	106	37	1	5	SkillNameskill61501	skill_61501	SkillDesskill61501	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61501	0	0	0			0	125	125		
+107	0	107	37	1	5	SkillNameskill61491	skill_61491	SkillDesskill61491	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61491	0	0	0			0	125	125		
+108	0	108	37	1	5	SkillNameskill61451	skill_61451	SkillDesskill61451	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61451	0	0	0			0	125	125		
+109	0	109	37	1	5	SkillNameskill61441	skill_61441	SkillDesskill61441	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61441	0	0	0			0	125	125		
+110	0	110	37	1	5	SkillNameskill61421	skill_61421	SkillDesskill61421	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61421	0	0	0			0	125	125		
+111	0	111	37	1	5	SkillNameskill61021	skill_60981	SkillDesskill61021	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61021	0	0	0			0	125	125		
+112	0	112	37	1	5	SkillNameskill60121	skill_60121	SkillDesskill60121	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill60121	0	0	0			0	125	125		
+113	0	113	37	1	5	SkillNameskill61301	skill_61301	SkillDesskill61301	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61301	0	0	0			0	125	125		
+114	0	114	37	1	5	SkillNameskill60041	skill_60041	SkillDesskill60041	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill60041	0	0	0			0	125	125		
+115	0	115	37	1	5	SkillNameskill61141	skill_61141	SkillDesskill61141	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61141	0	0	0			0	125	125		
+116	0	116	37	1	5	SkillNameskill61341	skill_61341	SkillDesskill61341	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61341	0	0	0			0	125	125		
+117	0	117	37	1	5	SkillNameskill60161	skill_60161	SkillDesskill60161	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill60161	0	0	0			0	125	125		
+118	0	118	37	1	5	SkillNameskill61221	skill_61221	SkillDesskill61221	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61221	0	0	0			0	125	125		
+119	0	119	37	1	5	SkillNameskill60221	skill_60221	SkillDesskill60221	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill60221	0	0	0			0	125	125		
+120	0	120	37	1	5	SkillNameskill60181	skill_60181	SkillDesskill60181	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill60181	0	0	0			0	125	125		
+121	0	121	37	1	5	SkillNameskill60201	skill_60201	SkillDesskill60201	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill60201	0	0	0			0	125	125		
+122	0	122	37	1	5	SkillNameskill60001	skill_60001	SkillDesskill60001	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill60001	0	0	0			0	125	125		
+123	0	123	37	1	5	SkillNameskill60021	skill_60021	SkillDesskill60021	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill60021	0	0	0			0	125	125		
+124	0	124	37	1	5	SkillNameskill61321	skill_61321	SkillDesskill61321	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61321	0	0	0			0	125	125		
+125	0	125	37	1	5	SkillNameskill60141	skill_60141	SkillDesskill60141	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill60141	0	0	0			0	125	125		
+126	0	126	37	1	5	SkillNameskill61161	skill_61161	SkillDesskill61161	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61161	0	0	0			0	125	125		
+127	0	127	37	1	5	SkillNameskill61401	skill_61401	SkillDesskill61401	-1	1	11,250;12,250;13,250;32,1000;34,1000	skill61401	0	0	0			0	100	100		
+128	0	128	37	1	4	SkillNameskill60061	skill_60061	SkillDesskill60061	-1	1	11,150;12,150;13,150;32,600;34,600	skill60061	0	0	0			0	100	100		
+129	0	129	37	1	4	SkillNameskill60101	skill_60101	SkillDesskill60101	-1	1	11,150;12,150;13,150;32,600;34,600	skill60101	0	0	0			0	100	100		
+130	0	130	37	1	4	SkillNameskill60081	skill_60081	SkillDesskill60081	-1	1	11,150;12,150;13,150;32,600;34,600	skill60081	0	0	0			0	100	100		
+131	0	131	37	1	4	SkillNameskill60881	skill_60881	SkillDesskill60881	-1	1	11,150;12,150;13,150;32,600;34,600	skill60881	0	0	0			0	100	100		
+132	0	132	37	1	4	SkillNameskill61081	skill_61081	SkillDesskill61081	-1	1	11,150;12,150;13,150;32,600;34,600	skill61081	0	0	0			0	100	100		
+133	0	133	37	1	4	SkillNameskill60321	skill_60321	SkillDesskill60321	-1	1	11,150;12,150;13,150;32,600;34,600	skill60321	0	0	0			0	100	100		
+134	0	134	37	1	4	SkillNameskill60861	skill_60861	SkillDesskill60861	-1	1	11,150;12,150;13,150;32,600;34,600	skill60861	0	0	0			0	100	100		
+135	0	135	37	1	4	SkillNameskill60341	skill_60341	SkillDesskill60341	-1	1	11,150;12,150;13,150;32,600;34,600	skill60341	0	0	0			0	100	100		
+136	0	136	37	1	4	SkillNameskill60381	skill_60381	SkillDesskill60381	-1	1	11,150;12,150;13,150;32,600;34,600	skill60381	0	0	0			0	100	100		
+137	0	137	37	1	4	SkillNameskill60241	skill_pet1	SkillDesskill60241	-1	1	11,150;12,150;13,150;32,600;34,600	skill60241	0	0	0			0	100	100		
+138	0	138	37	1	4	SkillNameskill60261	skill_pet2	SkillDesskill60261	-1	1	11,150;12,150;13,150;32,600;34,600	skill60261	0	0	0			0	100	100		
+139	0	139	37	1	4	SkillNameskill60921	skill_60921	SkillDesskill60921	-1	1	11,150;12,150;13,150;32,600;34,600	skill60921	0	0	0			0	100	100		
+140	0	140	37	1	4	SkillNameskill60301	skill_60301	SkillDesskill60301	-1	1	11,150;12,150;13,150;32,600;34,600	skill60301	0	0	0			0	100	100		
+141	0	141	37	1	4	SkillNameskill60281	skill_60281	SkillDesskill60281	-1	1	11,150;12,150;13,150;32,600;34,600	skill60281	0	0	0			0	100	100		
+142	0	142	37	1	4	SkillNameskill60401	skill_60401	SkillDesskill60401	-1	1	11,150;12,150;13,150;32,600;34,600	skill60401	0	0	0			0	100	100		
+143	0	143	37	1	4	SkillNameskill60361	skill_60361	SkillDesskill60361	-1	1	11,150;12,150;13,150;32,600;34,600	skill60361	0	0	0			0	100	100		
+144	0	144	37	1	3	SkillNameskill60901	skill_60901	SkillDesskill60901	-1	1	11,100;12,100;13,100;32,400;34,400	skill60901	0	0	0			0	75	75		
+145	0	145	37	1	3	SkillNameskill60961	skill_60961	SkillDesskill60961	-1	1	11,100;12,100;13,100;32,400;34,400	skill60961	0	0	0			0	75	75		
+146	0	146	37	1	3	SkillNameskill60481	skill_60481	SkillDesskill60481	-1	1	11,100;12,100;13,100;32,400;34,400	skill60481	0	0	0			0	75	75		
+147	0	147	37	1	3	SkillNameskill60461	skill_60461	SkillDesskill60461	-1	1	11,100;12,100;13,100;32,400;34,400	skill60461	0	0	0			0	75	75		
+148	0	148	37	1	3	SkillNameskill60501	skill_60501	SkillDesskill60501	-1	1	11,100;12,100;13,100;32,400;34,400	skill60501	0	0	0			0	75	75		
+149	0	149	37	1	3	SkillNameskill60421	skill_60421	SkillDesskill60421	-1	1	11,100;12,100;13,100;32,400;34,400	skill60421	0	0	0			0	75	75		
+150	0	150	37	1	3	SkillNameskill60841	skill_60841	SkillDesskill60841	-1	1	11,100;12,100;13,100;32,400;34,400	skill60841	0	0	0			0	75	75		
+151	0	151	37	1	3	SkillNameskill60541	skill_60541	SkillDesskill60541	-1	1	11,100;12,100;13,100;32,400;34,400	skill60541	0	0	0			0	75	75		
+152	0	152	37	1	3	SkillNameskill60441	skill_60441	SkillDesskill60441	-1	1	11,100;12,100;13,100;32,400;34,400	skill60441	0	0	0			0	75	75		
+153	0	153	37	1	3	SkillNameskill60521	skill_60521	SkillDesskill60521	-1	1	11,100;12,100;13,100;32,400;34,400	skill60521	0	0	0			0	75	75		
+154	0	154	37	1	2	SkillNameskill60781	skill_60781	SkillDesskill60781	-1	1	11,50;12,50;13,50;32,200;34,200	skill60781	0	0	0			0	50	50		
+155	0	155	37	1	2	SkillNameskill60721	skill_10005	SkillDesskill60721	-1	1	11,50;12,50;13,50;32,200;34,200	skill60721	0	0	0			0	50	50		
+156	0	156	37	1	2	SkillNameskill60701	skill_10004	SkillDesskill60701	-1	1	11,50;12,50;13,50;32,200;34,200	skill60701	0	0	0			0	50	50		
+157	0	157	37	1	2	SkillNameskill60681	skill_60681	SkillDesskill60681	-1	1	11,50;12,50;13,50;32,200;34,200	skill60681	0	0	0			0	50	50		
+158	0	158	37	1	2	SkillNameskill60821	skill_60821	SkillDesskill60821	-1	1	11,50;12,50;13,50;32,200;34,200	skill60821	0	0	0			0	50	50		
+159	0	159	37	1	2	SkillNameskill60761	skill_60761	SkillDesskill60761	-1	1	11,50;12,50;13,50;32,200;34,200	skill60761	0	0	0			0	50	50		
+160	0	160	37	1	2	SkillNameskill60801	skill_60801	SkillDesskill60801	-1	1	11,50;12,50;13,50;32,200;34,200	skill60801	0	0	0			0	50	50		
+161	0	161	37	1	2	SkillNameskill60741	skill_60741	SkillDesskill60741	-1	1	11,50;12,50;13,50;32,200;34,200	skill60741	0	0	0			0	50	50		
+201	0	201	124	2	5	SkillNameskill10010	skill_10010	SkillDesskill10010	-1	1	11,200;12,200;13,200;30,1000;52,1000	skill10010	0	0	0			0	100	100		
+202	0	202	124	2	5	SkillNameskill10011	skill_10011	SkillDesskill10011	-1	1	11,200;12,200;13,200;30,1000;52,1000	skill10011	0	0	0			0	100	100		
+203	0	203	124	2	5	SkillNameskill10012	skill_10012	SkillDesskill10012	-1	1	11,200;12,200;13,200;30,1000;52,1000	skill10012	0	0	0			0	100	100		
+204	0	204	124	2	5	SkillNameskill10013	skill_10013	SkillDesskill10013	-1	1	11,200;12,200;13,200;30,1000;52,1000	skill10013	0	0	0			0	100	100		
+205	0	205	124	2	5	SkillNameskill1202	skill_1202	SkillDesskill1202	-1	1	11,200;12,200;13,200;30,1000;52,1000	skill1202	0	0	0			0	100	100		
+206	0	206	124	2	5	SkillNameskill1119	skill_1119	SkillDesskill1119	-1	1	11,200;12,200;13,200;30,1000;52,1000	skill1119	0	0	0			0	100	100		
+207	0	207	124	2	5	SkillNameskill1010	skill_1010	SkillDesskill1010	-1	1	11,200;12,200;13,200;30,1000;52,1000	skill1010	0	0	0			0	100	100		
+208	0	208	124	2	5	SkillNameskill1316	skill_1316	SkillDesskill1316	-1	1	11,200;12,200;13,200;30,1000;52,1000	skill1316	0	0	0			0	100	100		
+209	0	209	124	2	5	SkillNameskill1414	skill_1414	SkillDesskill1414	-1	1	11,200;12,200;13,200;30,1000;52,1000	skill1414	0	0	0			0	100	100		
+210	0	210	124	2	5	SkillNameskill1515	skill_1515	SkillDesskill1515	-1	1	11,200;12,200;13,200;30,1000;52,1000	skill1515	0	0	0			0	100	100		
+211	0	211	124	2	4	SkillNameskill10009	skill_10009	SkillDesskill10009	-1	1	11,120;12,120;13,120;30,600;52,600	skill10009	0	0	0			0	80	80		
+212	0	212	124	2	4	SkillNameskill10002	skill_10002	SkillDesskill10002	-1	1	11,120;12,120;13,120;30,600;52,600	skill10002	0	0	0			0	80	80		
+213	0	213	124	2	4	SkillNameskill10014	skill_10014	SkillDesskill10014	-1	1	11,120;12,120;13,120;30,600;52,600	skill10014	0	0	0			0	80	80		
+214	0	214	124	2	4	SkillNameskill10015	skill_10015	SkillDesskill10015	-1	1	11,120;12,120;13,120;30,600;52,600	skill10015	0	0	0			0	80	80		
+215	0	215	124	2	4	SkillNameskill1207	skill_1207	SkillDesskill1207	-1	1	11,120;12,120;13,120;30,600;52,600	skill1207	0	0	0			0	80	80		
+216	0	216	124	2	4	SkillNameskill1112	skill_1112	SkillDesskill1112	-1	1	11,120;12,120;13,120;30,600;52,600	skill1112	0	0	0			0	80	80		
+217	0	217	124	2	4	SkillNameskill1017	skill_1017	SkillDesskill1017	-1	1	11,120;12,120;13,120;30,600;52,600	skill1017	0	0	0			0	80	80		
+218	0	218	124	2	4	SkillNameskill1311	skill_1311	SkillDesskill1311	-1	1	11,120;12,120;13,120;30,600;52,600	skill1311	0	0	0			0	80	80		
+219	0	219	124	2	4	SkillNameskill1415	skill_1415	SkillDesskill1415	-1	1	11,120;12,120;13,120;30,600;52,600	skill1415	0	0	0			0	80	80		
+220	0	220	124	2	4	SkillNameskill1514	skill_1514	SkillDesskill1514	-1	1	11,120;12,120;13,120;30,600;52,600	skill1514	0	0	0			0	80	80		
+221	0	221	124	2	3	SkillNameskill10005	skill_10005	SkillDesskill10005	-1	1	11,80;12,80;13,80;30,400;52,400	skill10005	0	0	0			0	60	60		
+222	0	222	124	2	3	SkillNameskill10006	skill_10006	SkillDesskill10006	-1	1	11,80;12,80;13,80;30,400;52,400	skill10006	0	0	0			0	60	60		
+223	0	223	124	2	3	SkillNameskill10016	skill_10016	SkillDesskill10016	-1	1	11,80;12,80;13,80;30,400;52,400	skill10016	0	0	0			0	60	60		
+224	0	224	124	2	3	SkillNameskill1211	skill_1211	SkillDesskill1211	-1	1	11,80;12,80;13,80;30,400;52,400	skill1211	0	0	0			0	60	60		
+225	0	225	124	2	3	SkillNameskill1208	skill_1208	SkillDesskill1208	-1	1	11,80;12,80;13,80;30,400;52,400	skill1208	0	0	0			0	60	60		
+226	0	226	124	2	3	SkillNameskill1113	skill_1113	SkillDesskill1113	-1	1	11,80;12,80;13,80;30,400;52,400	skill1113	0	0	0			0	60	60		
+227	0	227	124	2	3	SkillNameskill1118	skill_1118	SkillDesskill1118	-1	1	11,80;12,80;13,80;30,400;52,400	skill1118	0	0	0			0	60	60		
+228	0	228	124	2	3	SkillNameskill1014	skill_1014	SkillDesskill1014	-1	1	11,80;12,80;13,80;30,400;52,400	skill1014	0	0	0			0	60	60		
+229	0	229	124	2	3	SkillNameskill1009	skill_1009	SkillDesskill1009	-1	1	11,80;12,80;13,80;30,400;52,400	skill1009	0	0	0			0	60	60		
+230	0	230	124	2	3	SkillNameskill1306	skill_1306	SkillDesskill1306	-1	1	11,80;12,80;13,80;30,400;52,400	skill1306	0	0	0			0	60	60		
+231	0	231	124	2	3	SkillNameskill1315	skill_1315	SkillDesskill1315	-1	1	11,80;12,80;13,80;30,400;52,400	skill1315	0	0	0			0	60	60		
+232	0	232	124	2	3	SkillNameskill1412	skill_1412	SkillDesskill1412	-1	1	11,80;12,80;13,80;30,400;52,400	skill1412	0	0	0			0	60	60		
+233	0	233	124	2	3	SkillNameskill1410	skill_1410	SkillDesskill1410	-1	1	11,80;12,80;13,80;30,400;52,400	skill1410	0	0	0			0	60	60		
+234	0	234	124	2	3	SkillNameskill1511	skill_1511	SkillDesskill1511	-1	1	11,80;12,80;13,80;30,400;52,400	skill1511	0	0	0			0	60	60		
+235	0	235	124	2	3	SkillNameskill1512	skill_1512	SkillDesskill1512	-1	1	11,80;12,80;13,80;30,400;52,400	skill1512	0	0	0			0	60	60		
+236	0	236	124	2	2	SkillNameskill10001	skill_10001	SkillDesskill10001	-1	1	11,40;12,40;13,40;30,200;52,200	skill10001	0	0	0			0	40	40		
+237	0	237	124	2	2	SkillNameskill10008	skill_10008	SkillDesskill10008	-1	1	11,40;12,40;13,40;30,200;52,200	skill10008	0	0	0			0	40	40		
+238	0	238	124	2	2	SkillNameskill10007	skill_10007	SkillDesskill10007	-1	1	11,40;12,40;13,40;30,200;52,200	skill10007	0	0	0			0	40	40		
+239	0	239	124	2	2	SkillNameskill10004	skill_10004	SkillDesskill10004	-1	1	11,40;12,40;13,40;30,200;52,200	skill10004	0	0	0			0	40	40		
+240	0	240	124	2	2	SkillNameskill1212	skill_1212	SkillDesskill1212	-1	1	11,40;12,40;13,40;30,200;52,200	skill1212	0	0	0			0	40	40		
+241	0	241	124	2	2	SkillNameskill1114	skill_1114	SkillDesskill1114	-1	1	11,40;12,40;13,40;30,200;52,200	skill1114	0	0	0			0	40	40		
+242	0	242	124	2	2	SkillNameskill1012	skill_1012	SkillDesskill1012	-1	1	11,40;12,40;13,40;30,200;52,200	skill1012	0	0	0			0	40	40		
+243	0	243	124	2	2	SkillNameskill1310	skill_1310	SkillDesskill1310	-1	1	11,40;12,40;13,40;30,200;52,200	skill1310	0	0	0			0	40	40		
+244	0	244	124	2	2	SkillNameskill1411	skill_1411	SkillDesskill1411	-1	1	11,40;12,40;13,40;30,200;52,200	skill1411	0	0	0			0	40	40		
+245	0	245	124	2	2	SkillNameskill1513	skill_1513	SkillDesskill1513	-1	1	11,40;12,40;13,40;30,200;52,200	skill1513	0	0	0			0	40	40		
+301	0	301	463	3	5	SkillNameskill11020	skill11020	SkillDesskill11020	-1	1	11,150;12,150;13,150;51,1000;31,1000	skill11020	0	0	0			0	100	100		
+302	0	302	463	3	5	SkillNameskill11021	skill11021	SkillDesskill11021	-1	1	11,150;12,150;13,150;51,1000;31,1000	skill11021	0	0	0			0	100	100		
+303	0	303	463	3	5	SkillNameskill11022	skill11022	SkillDesskill11022	-1	1	11,150;12,150;13,150;51,1000;31,1000	skill11022	0	0	0			0	100	100		
+304	0	304	463	3	5	SkillNameskill11023	skill11023	SkillDesskill11023	-1	1	11,150;12,150;13,150;51,1000;31,1000	skill11023	0	0	0			0	100	100		
+305	0	305	463	3	5	SkillNameskill11039	skill_11039	SkillDesskill11039	-1	1	11,150;12,150;13,150;51,1000;31,1000	skill11039	0	0	0			0	100	100		
+306	0	306	463	3	5	SkillNameskill11038	skill_11038	SkillDesskill11038	-1	1	11,150;12,150;13,150;51,1000;31,1000	skill11038	0	0	0			0	100	100		
+307	0	307	463	3	5	SkillNameskill11043	skill_402813	SkillDesskill11043	-1	1	11,150;12,150;13,150;51,1000;31,1000	skill11043	0	0	0			0	100	100		
+308	0	308	463	3	5	SkillNameskill11044	skill_11044	SkillDesskill11044	-1	1	11,150;12,150;13,150;51,1000;31,1000	skill11044	0	0	0			0	100	100		
+309	0	309	463	3	4	SkillNameskill11204	skill11204	SkillDesskill11204	-1	1	11,90;12,90;13,90;51,600;31,600	skill11204	0	0	0			0	75	75		
+310	0	310	463	3	4	SkillNameskill11104	skill11104	SkillDesskill11104	-1	1	11,90;12,90;13,90;51,600;31,600	skill11104	0	0	0			0	75	75		
+311	0	311	463	3	4	SkillNameskill11004	skill11004	SkillDesskill11004	-1	1	11,90;12,90;13,90;51,600;31,600	skill11004	0	0	0			0	75	75		
+312	0	312	463	3	4	SkillNameskill11304	skill11304	SkillDesskill11304	-1	1	11,90;12,90;13,90;51,600;31,600	skill11304	0	0	0			0	75	75		
+313	0	313	463	3	4	SkillNameskill11404	skill11404	SkillDesskill11404	-1	1	11,90;12,90;13,90;51,600;31,600	skill11404	0	0	0			0	75	75		
+314	0	314	463	3	4	SkillNameskill11504	skill11504	SkillDesskill11504	-1	1	11,90;12,90;13,90;51,600;31,600	skill11504	0	0	0			0	75	75		
+315	0	315	463	3	4	SkillNameskill11031	skill11031	SkillDesskill11031	-1	1	11,90;12,90;13,90;51,600;31,600	skill11031	0	0	0			0	75	75		
+316	0	316	463	3	4	SkillNameskill11030	skill11030	SkillDesskill11030	-1	1	11,90;12,90;13,90;51,600;31,600	skill11030	0	0	0			0	75	75		
+317	0	317	463	3	4	SkillNameskill11028	skill11028	SkillDesskill11028	-1	1	11,90;12,90;13,90;51,600;31,600	skill11028	0	0	0			0	75	75		
+318	0	318	463	3	4	SkillNameskill11029	skill11029	SkillDesskill11029	-1	1	11,90;12,90;13,90;51,600;31,600	skill11029	0	0	0			0	75	75		
+319	0	319	463	3	4	SkillNameskill11026	skill11026	SkillDesskill11026	-1	1	11,90;12,90;13,90;51,600;31,600	skill11026	0	0	0			0	75	75		
+320	0	320	463	3	4	SkillNameskill11027	skill11027	SkillDesskill11027	-1	1	11,90;12,90;13,90;51,600;31,600	skill11027	0	0	0			0	75	75		
+321	0	321	463	3	3	SkillNameskill11025	skill11025	SkillDesskill11025	-1	1	11,60;12,60;13,60;51,400;31,400	skill11025	0	0	0			0	44	44		
+322	0	322	463	3	3	SkillNameskill11024	skill11024	SkillDesskill11024	-1	1	11,60;12,60;13,60;51,400;31,400	skill11024	0	0	0			0	44	44		
+323	0	323	463	3	3	SkillNameskill11032	skill11032	SkillDesskill11032	-1	1	11,60;12,60;13,60;51,400;31,400	skill11032	0	0	0			0	44	44		
+324	0	324	463	3	3	SkillNameskill11033	skill11033	SkillDesskill11033	-1	1	11,60;12,60;13,60;51,400;31,400	skill11033	0	0	0			0	44	44		
+325	0	325	463	3	2	SkillNameskill11034	skill11034	SkillDesskill11034	-1	1	11,30;12,30;13,30;51,200;31,200	skill11034	0	0	0			0	25	25		
+326	0	326	463	3	2	SkillNameskill11035	skill11035	SkillDesskill11035	-1	1	11,30;12,30;13,30;51,200;31,200	skill11035	0	0	0			0	25	25		
+327	0	327	463	3	2	SkillNameskill11036	skill11036	SkillDesskill11036	-1	1	11,30;12,30;13,30;51,200;31,200	skill11036	0	0	0			0	25	25		
+328	0	328	463	3	2	SkillNameskill11037	skill11037	SkillDesskill11037	-1	1	11,30;12,30;13,30;51,200;31,200	skill11037	0	0	0			0	25	25		
+401	0	401	476	4	5	SkillNameskill121001	skill_121001	SkillDesskill121001	-1	1	11,200;12,200;13,200;33,800;35,800	skill121001	0	0	0			0	140	140		
+402	0	402	476	4	5	SkillNameskill121002	skill_121002	SkillDesskill121002	-1	1	11,200;12,200;13,200;33,800;35,800	skill121002	0	0	0			0	140	140		
+403	0	403	476	4	5	SkillNameskill121003	skill_121003	SkillDesskill121003	-1	1	11,200;12,200;13,200;33,800;35,800	skill121003	0	0	0			0	140	140		
+404	0	404	476	4	4	SkillNameskill121004	skill_121004	SkillDesskill121004	-1	1	11,100;12,100;13,100;33,400;35,400	skill121004	0	0	0			0	90	90		
+405	0	405	476	4	4	SkillNameskill121005	skill_121005	SkillDesskill121005	-1	1	11,100;12,100;13,100;33,400;35,400	skill121005	0	0	0			0	90	90		
+406	0	406	476	4	4	SkillNameskill121006	skill_121006	SkillDesskill121006	-1	1	11,100;12,100;13,100;33,400;35,400	skill121006	0	0	0			0	90	90		
+407	0	407	476	4	3	SkillNameskill121007	skill_121007	SkillDesskill121007	-1	1	11,50;12,50;13,50;33,200;35,200	skill121007	0	0	0			0	40	40		
+500	1	500	466	5	2	ItemName_17901020101001	skill_1214	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+501	1	501	466	5	2	ItemName_17901020102001	skill_1215	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+502	1	502	466	5	2	ItemName_17901020103001	skill_1206	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+503	1	503	466	5	2	ItemName_17901020104001	skill_1201	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+504	1	504	466	5	2	ItemName_17901020105001	skill_1209	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+505	1	505	466	5	2	ItemName_17901020106001	skill_1205	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+506	1	506	466	5	2	ItemName_17901020107001	skill_1204	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+507	1	507	466	5	2	ItemName_17901020108001	skill_1203	buffdes_saint03	-1	1		buff6_saint01::buff_2	1	0	0			1	0	0		
+508	1	508	466	5	3	ItemName_17901030101001	skill_1214	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+509	1	509	466	5	3	ItemName_17901030102001	skill_1215	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+510	1	510	466	5	3	ItemName_17901030103001	skill_1206	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+511	1	511	466	5	3	ItemName_17901030104001	skill_1201	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+512	1	512	466	5	3	ItemName_17901030105001	skill_1209	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+513	1	513	466	5	3	ItemName_17901030106001	skill_1205	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+514	1	514	466	5	3	ItemName_17901030107001	skill_1204	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+515	1	515	466	5	3	ItemName_17901030108001	skill_1203	buffdes_saint05	-1	1		buff6_saint01::buff_4	1	0	0			1	0	0		
+516	1	516	466	5	4	ItemName_17901040101001	skill_1214	SkillDesskill81001	-1	1		skill81001	0	0	0			1	0	0		
+517	1	517	466	5	4	ItemName_17901040102001	skill_1215	SkillDesskill81003	-1	1		skill81003	0	0	0			1	0	0		
+518	1	518	466	5	4	ItemName_17901040103001	skill_1206	SkillDesskill81011	-1	1		skill81011	0	0	0			1	0	0		
+519	1	519	466	5	4	ItemName_17901040104001	skill_1201	SkillDesskill81005	-1	1		skill81005	0	0	0			1	0	0		
+520	1	520	466	5	4	ItemName_17901040105001	skill_1209	SkillDesskill81009	-1	1		skill81009	0	0	0			1	0	0		
+521	1	521	466	5	4	ItemName_17901040106001	skill_1205	SkillDesskill81007	-1	1		skill81007	0	0	0			1	0	0		
+522	1	522	466	5	4	ItemName_17901040107001	skill_1204	SkillDesskill81013	-1	1		skill81013	0	0	0			1	0	0		
+523	1	523	466	5	4	ItemName_17901040108001	skill_1203	SkillDesskill81015	-1	1		skill81015	0	0	0			1	0	0		
+524	1	524	466	5	5	ItemName_17901050101001	skill_1214	SkillDesskill81002	-1	1		skill81002	0	0	0			1	0	0		
+525	1	525	466	5	5	ItemName_17901050102001	skill_1215	SkillDesskill81004	-1	1		skill81004	0	0	0			1	0	0		
+526	1	526	466	5	5	ItemName_17901050103001	skill_1206	SkillDesskill81012	-1	1		skill81012	0	0	0			1	0	0		
+527	1	527	466	5	5	ItemName_17901050104001	skill_1201	SkillDesskill81006	-1	1		skill81006	0	0	0			1	0	0		
+528	1	528	466	5	5	ItemName_17901050105001	skill_1209	SkillDesskill81010	-1	1		skill81010	0	0	0			1	0	0		
+529	1	529	466	5	5	ItemName_17901050106001	skill_1205	SkillDesskill81008	-1	1		skill81008	0	0	0			1	0	0		
+530	1	530	466	5	5	ItemName_17901050107001	skill_1204	SkillDesskill81014	-1	1		skill81014	0	0	0			1	0	0		
+531	1	531	466	5	5	ItemName_17901050108001	skill_1203	SkillDesskill81016	-1	1		skill81016	0	0	0			1	0	0		
+532	2	500	466	5	2	ItemName_17901020201001	skill_1107	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+533	2	501	466	5	2	ItemName_17901020202001	skill_1104	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+534	2	502	466	5	2	ItemName_17901020203001	skill_1110	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+535	2	503	466	5	2	ItemName_17901020204001	skill_1109	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+536	2	504	466	5	2	ItemName_17901020205001	skill_1108	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+537	2	505	466	5	2	ItemName_17901020206001	skill_1116	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+538	2	506	466	5	2	ItemName_17901020207001	skill_1111	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+539	2	507	466	5	2	ItemName_17901020208001	skill_1101	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+540	2	508	466	5	3	ItemName_17901030201001	skill_1107	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+541	2	509	466	5	3	ItemName_17901030202001	skill_1104	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+542	2	510	466	5	3	ItemName_17901030203001	skill_1110	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+543	2	511	466	5	3	ItemName_17901030204001	skill_1109	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+544	2	512	466	5	3	ItemName_17901030205001	skill_1108	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+545	2	513	466	5	3	ItemName_17901030206001	skill_1116	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+546	2	514	466	5	3	ItemName_17901030207001	skill_1111	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+547	2	515	466	5	3	ItemName_17901030208001	skill_1101	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+548	2	516	466	5	4	ItemName_17901040201001	skill_1107	SkillDesskill81017	-1	1		skill81017	0	0	0			1	0	0		
+549	2	517	466	5	4	ItemName_17901040202001	skill_1104	SkillDesskill81019	-1	1		skill81019	0	0	0			1	0	0		
+550	2	518	466	5	4	ItemName_17901040203001	skill_1110	SkillDesskill81021	-1	1		skill81021	0	0	0			1	0	0		
+551	2	519	466	5	4	ItemName_17901040204001	skill_1109	SkillDesskill81023	-1	1		skill81023	0	0	0			1	0	0		
+552	2	520	466	5	4	ItemName_17901040205001	skill_1108	SkillDesskill81025	-1	1		skill81025	0	0	0			1	0	0		
+553	2	521	466	5	4	ItemName_17901040206001	skill_1116	SkillDesskill81027	-1	1		skill81027	0	0	0			1	0	0		
+554	2	522	466	5	4	ItemName_17901040207001	skill_1111	SkillDesskill81029	-1	1		skill81029	0	0	0			1	0	0		
+555	2	523	466	5	4	ItemName_17901040208001	skill_1101	SkillDesskill81031	-1	1		skill81031	0	0	0			1	0	0		
+556	2	524	466	5	5	ItemName_17901050201001	skill_1107	SkillDesskill81018	-1	1		skill81018	0	0	0			1	0	0		
+557	2	525	466	5	5	ItemName_17901050202001	skill_1104	SkillDesskill81020	-1	1		skill81020	0	0	0			1	0	0		
+558	2	526	466	5	5	ItemName_17901050203001	skill_1110	SkillDesskill81022	-1	1		skill81022	0	0	0			1	0	0		
+559	2	527	466	5	5	ItemName_17901050204001	skill_1109	SkillDesskill81024	-1	1		skill81024	0	0	0			1	0	0		
+560	2	528	466	5	5	ItemName_17901050205001	skill_1108	SkillDesskill81026	-1	1		skill81026	0	0	0			1	0	0		
+561	2	529	466	5	5	ItemName_17901050206001	skill_1116	SkillDesskill81028	-1	1		skill81028	0	0	0			1	0	0		
+562	2	530	466	5	5	ItemName_17901050207001	skill_1111	SkillDesskill81030	-1	1		skill81030	0	0	0			1	0	0		
+563	2	531	466	5	5	ItemName_17901050208001	skill_1101	SkillDesskill81032	-1	1		skill81032	0	0	0			1	0	0		
+564	3	500	466	5	2	ItemName_17901020301001	skill_1001	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+565	3	501	466	5	2	ItemName_17901020302001	skill_1003	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+566	3	502	466	5	2	ItemName_17901020303001	skill_1002	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+567	3	503	466	5	2	ItemName_17901020304001	skill_1006	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+568	3	504	466	5	2	ItemName_17901020305001	skill_1005	buffdes_saint03	-1	1		buff6_saint01::buff_2	1	0	0			1	0	0		
+569	3	505	466	5	2	ItemName_17901020306001	skill_1016	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+570	3	506	466	5	2	ItemName_17901020307001	skill_1004	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+571	3	507	466	5	2	ItemName_17901020308001	skill_1008	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+572	3	508	466	5	3	ItemName_17901030301001	skill_1001	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+573	3	509	466	5	3	ItemName_17901030302001	skill_1003	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+574	3	510	466	5	3	ItemName_17901030303001	skill_1002	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+575	3	511	466	5	3	ItemName_17901030304001	skill_1006	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+576	3	512	466	5	3	ItemName_17901030305001	skill_1005	buffdes_saint05	-1	1		buff6_saint01::buff_4	1	0	0			1	0	0		
+577	3	513	466	5	3	ItemName_17901030306001	skill_1016	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+578	3	514	466	5	3	ItemName_17901030307001	skill_1004	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+579	3	515	466	5	3	ItemName_17901030308001	skill_1008	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+580	3	516	466	5	4	ItemName_17901040301001	skill_1001	SkillDesskill81037	-1	1		skill81037	0	0	0			1	0	0		
+581	3	517	466	5	4	ItemName_17901040302001	skill_1003	SkillDesskill81035	-1	1		skill81035	0	0	0			1	0	0		
+582	3	518	466	5	4	ItemName_17901040303001	skill_1002	SkillDesskill81033	-1	1		skill81033	0	0	0			1	0	0		
+583	3	519	466	5	4	ItemName_17901040304001	skill_1006	SkillDesskill81039	-1	1		skill81039	0	0	0			1	0	0		
+584	3	520	466	5	4	ItemName_17901040305001	skill_1005	SkillDesskill81041	-1	1		skill81041	0	0	0			1	0	0		
+585	3	521	466	5	4	ItemName_17901040306001	skill_1016	SkillDesskill81043	-1	1		skill81043	0	0	0			1	0	0		
+586	3	522	466	5	4	ItemName_17901040307001	skill_1004	SkillDesskill81045	-1	1		skill81045	0	0	0			1	0	0		
+587	3	523	466	5	4	ItemName_17901040308001	skill_1008	SkillDesskill81047	-1	1		skill81047	0	0	0			1	0	0		
+588	3	524	466	5	5	ItemName_17901050301001	skill_1001	SkillDesskill81038	-1	1		skill81038	0	0	0			1	0	0		
+589	3	525	466	5	5	ItemName_17901050302001	skill_1003	SkillDesskill81036	-1	1		skill81036	0	0	0			1	0	0		
+590	3	526	466	5	5	ItemName_17901050303001	skill_1002	SkillDesskill81034	-1	1		skill81034	0	0	0			1	0	0		
+591	3	527	466	5	5	ItemName_17901050304001	skill_1006	SkillDesskill81040	-1	1		skill81040	0	0	0			1	0	0		
+592	3	528	466	5	5	ItemName_17901050305001	skill_1005	SkillDesskill81042	-1	1		skill81042	0	0	0			1	0	0		
+593	3	529	466	5	5	ItemName_17901050306001	skill_1016	SkillDesskill81044	-1	1		skill81044	0	0	0			1	0	0		
+594	3	530	466	5	5	ItemName_17901050307001	skill_1004	SkillDesskill81046	-1	1		skill81046	0	0	0			1	0	0		
+595	3	531	466	5	5	ItemName_17901050308001	skill_1008	SkillDesskill81048	-1	1		skill81048	0	0	0			1	0	0		
+596	4	500	466	5	2	ItemName_17901020401001	skill_1301	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+597	4	501	466	5	2	ItemName_17901020402001	skill_1302	buffdes_saint08	-1	1		buff6_saint01::buff_7	1	0	0			1	0	0		
+598	4	502	466	5	2	ItemName_17901020403001	skill_1307	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+599	4	503	466	5	2	ItemName_17901020404001	skill_1303	buffdes_saint08	-1	1		buff6_saint01::buff_7	1	0	0			1	0	0		
+600	4	504	466	5	2	ItemName_17901020405001	skill_1304	buffdes_saint08	-1	1		buff6_saint01::buff_7	1	0	0			1	0	0		
+601	4	505	466	5	2	ItemName_17901020406001	skill_1305	buffdes_saint08	-1	1		buff6_saint01::buff_7	1	0	0			1	0	0		
+602	4	506	466	5	2	ItemName_17901020407001	skill_1313	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+603	4	507	466	5	2	ItemName_17901020408001	skill_1308	buffdes_saint08	-1	1		buff6_saint01::buff_7	1	0	0			1	0	0		
+604	4	508	466	5	3	ItemName_17901030401001	skill_1301	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+605	4	509	466	5	3	ItemName_17901030402001	skill_1302	buffdes_saint09	-1	1		buff6_saint01::buff_8	1	0	0			1	0	0		
+606	4	510	466	5	3	ItemName_17901030403001	skill_1307	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+607	4	511	466	5	3	ItemName_17901030404001	skill_1303	buffdes_saint09	-1	1		buff6_saint01::buff_8	1	0	0			1	0	0		
+608	4	512	466	5	3	ItemName_17901030405001	skill_1304	buffdes_saint09	-1	1		buff6_saint01::buff_8	1	0	0			1	0	0		
+609	4	513	466	5	3	ItemName_17901030406001	skill_1305	buffdes_saint09	-1	1		buff6_saint01::buff_8	1	0	0			1	0	0		
+610	4	514	466	5	3	ItemName_17901030407001	skill_1313	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+611	4	515	466	5	3	ItemName_17901030408001	skill_1308	buffdes_saint09	-1	1		buff6_saint01::buff_8	1	0	0			1	0	0		
+612	4	516	466	5	4	ItemName_17901040401001	skill_1301	SkillDesskill81049	-1	1		skill81049	0	0	0			1	0	0		
+613	4	517	466	5	4	ItemName_17901040402001	skill_1302	SkillDesskill81051	-1	1		skill81051	0	0	0			1	0	0		
+614	4	518	466	5	4	ItemName_17901040403001	skill_1307	SkillDesskill81053	-1	1		skill81053	0	0	0			1	0	0		
+615	4	519	466	5	4	ItemName_17901040404001	skill_1303	SkillDesskill81055	-1	1		skill81055	0	0	0			1	0	0		
+616	4	520	466	5	4	ItemName_17901040405001	skill_1304	SkillDesskill81057	-1	1		skill81057	0	0	0			1	0	0		
+617	4	521	466	5	4	ItemName_17901040406001	skill_1305	SkillDesskill81059	-1	1		skill81059	0	0	0			1	0	0		
+618	4	522	466	5	4	ItemName_17901040407001	skill_1313	SkillDesskill81061	-1	1		skill81061	0	0	0			1	0	0		
+619	4	523	466	5	4	ItemName_17901040408001	skill_1308	SkillDesskill81063	-1	1		skill81063	0	0	0			1	0	0		
+620	4	524	466	5	5	ItemName_17901050401001	skill_1301	SkillDesskill81050	-1	1		skill81050	0	0	0			1	0	0		
+621	4	525	466	5	5	ItemName_17901050402001	skill_1302	SkillDesskill81052	-1	1		skill81052	0	0	0			1	0	0		
+622	4	526	466	5	5	ItemName_17901050403001	skill_1307	SkillDesskill81054	-1	1		skill81054	0	0	0			1	0	0		
+623	4	527	466	5	5	ItemName_17901050404001	skill_1303	SkillDesskill81056	-1	1		skill81056	0	0	0			1	0	0		
+624	4	528	466	5	5	ItemName_17901050405001	skill_1304	SkillDesskill81058	-1	1		skill81058	0	0	0			1	0	0		
+625	4	529	466	5	5	ItemName_17901050406001	skill_1305	SkillDesskill81060	-1	1		skill81060	0	0	0			1	0	0		
+626	4	530	466	5	5	ItemName_17901050407001	skill_1313	SkillDesskill81062	-1	1		skill81062	0	0	0			1	0	0		
+627	4	531	466	5	5	ItemName_17901050408001	skill_1308	SkillDesskill81064	-1	1		skill81064	0	0	0			1	0	0		
+628	5	500	466	5	2	ItemName_17901020501001	skill_1401	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+629	5	501	466	5	2	ItemName_17901020502001	skill_1407	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+630	5	502	466	5	2	ItemName_17901020503001	skill_1406	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+631	5	503	466	5	2	ItemName_17901020504001	skill_1408	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+632	5	504	466	5	2	ItemName_17901020505001	skill_1402	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+633	5	505	466	5	2	ItemName_17901020506001	skill_1405	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+634	5	506	466	5	2	ItemName_17901020507001	skill_1404	buffdes_saint03	-1	1		buff6_saint01::buff_2	1	0	0			1	0	0		
+635	5	507	466	5	2	ItemName_17901020508001	skill_1403	buffdes_saint03	-1	1		buff6_saint01::buff_2	1	0	0			1	0	0		
+636	5	508	466	5	3	ItemName_17901030501001	skill_1401	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+637	5	509	466	5	3	ItemName_17901030502001	skill_1407	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+638	5	510	466	5	3	ItemName_17901030503001	skill_1406	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+639	5	511	466	5	3	ItemName_17901030504001	skill_1408	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+640	5	512	466	5	3	ItemName_17901030505001	skill_1402	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+641	5	513	466	5	3	ItemName_17901030506001	skill_1405	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+642	5	514	466	5	3	ItemName_17901030507001	skill_1404	buffdes_saint05	-1	1		buff6_saint01::buff_4	1	0	0			1	0	0		
+643	5	515	466	5	3	ItemName_17901030508001	skill_1403	buffdes_saint05	-1	1		buff6_saint01::buff_4	1	0	0			1	0	0		
+644	5	516	466	5	4	ItemName_17901040501001	skill_1401	SkillDesskill81065	-1	1		skill81065	0	0	0			1	0	0		
+645	5	517	466	5	4	ItemName_17901040502001	skill_1407	SkillDesskill81067	-1	1		skill81067	0	0	0			1	0	0		
+646	5	518	466	5	4	ItemName_17901040503001	skill_1406	SkillDesskill81069	-1	1		skill81069	0	0	0			1	0	0		
+647	5	519	466	5	4	ItemName_17901040504001	skill_1408	SkillDesskill81071	-1	1		skill81071	0	0	0			1	0	0		
+648	5	520	466	5	4	ItemName_17901040505001	skill_1402	SkillDesskill81073	-1	1		skill81073	0	0	0			1	0	0		
+649	5	521	466	5	4	ItemName_17901040506001	skill_1405	SkillDesskill81075	-1	1		skill81075	0	0	0			1	0	0		
+650	5	522	466	5	4	ItemName_17901040507001	skill_1404	SkillDesskill81077	-1	1		skill81077	0	0	0			1	0	0		
+651	5	523	466	5	4	ItemName_17901040508001	skill_1403	SkillDesskill81079	-1	1		skill81079	0	0	0			1	0	0		
+652	5	524	466	5	5	ItemName_17901050501001	skill_1401	SkillDesskill81066	-1	1		skill81066	0	0	0			1	0	0		
+653	5	525	466	5	5	ItemName_17901050502001	skill_1407	SkillDesskill81068	-1	1		skill81068	0	0	0			1	0	0		
+654	5	526	466	5	5	ItemName_17901050503001	skill_1406	SkillDesskill81070	-1	1		skill81070	0	0	0			1	0	0		
+655	5	527	466	5	5	ItemName_17901050504001	skill_1408	SkillDesskill81072	-1	1		skill81072	0	0	0			1	0	0		
+656	5	528	466	5	5	ItemName_17901050505001	skill_1402	SkillDesskill81074	-1	1		skill81074	0	0	0			1	0	0		
+657	5	529	466	5	5	ItemName_17901050506001	skill_1405	SkillDesskill81076	-1	1		skill81076	0	0	0			1	0	0		
+658	5	530	466	5	5	ItemName_17901050507001	skill_1404	SkillDesskill81078	-1	1		skill81078	0	0	0			1	0	0		
+659	5	531	466	5	5	ItemName_17901050508001	skill_1403	SkillDesskill81080	-1	1		skill81080	0	0	0			1	0	0		
+660	6	500	466	5	2	ItemName_17901020601001	skill_1509	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+661	6	501	466	5	2	ItemName_17901020602001	skill_1502	buffdes_saint03	-1	1		buff6_saint01::buff_2	1	0	0			1	0	0		
+662	6	502	466	5	2	ItemName_17901020603001	skill_1503	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+663	6	503	466	5	2	ItemName_17901020604001	skill_1501	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+664	6	504	466	5	2	ItemName_17901020605001	skill_1504	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+665	6	505	466	5	2	ItemName_17901020606001	skill_1505	buffdes_saint03	-1	1		buff6_saint01::buff_2	1	0	0			1	0	0		
+666	6	506	466	5	2	ItemName_17901020607001	skill_1508	buffdes_saint02	-1	1		buff6_saint01::buff_1	1	0	0			1	0	0		
+667	6	507	466	5	2	ItemName_17901020608001	skill_1507	buffdes_saint03	-1	1		buff6_saint01::buff_2	1	0	0			1	0	0		
+668	6	508	466	5	3	ItemName_17901030601001	skill_1509	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+669	6	509	466	5	3	ItemName_17901030602001	skill_1502	buffdes_saint05	-1	1		buff6_saint01::buff_4	1	0	0			1	0	0		
+670	6	510	466	5	3	ItemName_17901030603001	skill_1503	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+671	6	511	466	5	3	ItemName_17901030604001	skill_1501	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+672	6	512	466	5	3	ItemName_17901030605001	skill_1504	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+673	6	513	466	5	3	ItemName_17901030606001	skill_1505	buffdes_saint05	-1	1		buff6_saint01::buff_4	1	0	0			1	0	0		
+674	6	514	466	5	3	ItemName_17901030607001	skill_1508	buffdes_saint04	-1	1		buff6_saint01::buff_3	1	0	0			1	0	0		
+675	6	515	466	5	3	ItemName_17901030608001	skill_1507	buffdes_saint05	-1	1		buff6_saint01::buff_4	1	0	0			1	0	0		
+676	6	516	466	5	4	ItemName_17901040601001	skill_1509	SkillDesskill81081	-1	1		skill81081	0	0	0			1	0	0		
+677	6	517	466	5	4	ItemName_17901040602001	skill_1502	SkillDesskill81083	-1	1		skill81083	0	0	0			1	0	0		
+678	6	518	466	5	4	ItemName_17901040603001	skill_1503	SkillDesskill81085	-1	1		skill81085	0	0	0			1	0	0		
+679	6	519	466	5	4	ItemName_17901040604001	skill_1501	SkillDesskill81087	-1	1		skill81087	0	0	0			1	0	0		
+680	6	520	466	5	4	ItemName_17901040605001	skill_1504	SkillDesskill81089	-1	1		skill81089	0	0	0			1	0	0		
+681	6	521	466	5	4	ItemName_17901040606001	skill_1505	SkillDesskill81091	-1	1		skill81091	0	0	0			1	0	0		
+682	6	522	466	5	4	ItemName_17901040607001	skill_1508	SkillDesskill81093	-1	1		skill81093	0	0	0			1	0	0		
+683	6	523	466	5	4	ItemName_17901040608001	skill_1507	SkillDesskill81095	-1	1		skill81095	0	0	0			1	0	0		
+684	6	524	466	5	5	ItemName_17901050601001	skill_1509	SkillDesskill81082	-1	1		skill81082	0	0	0			1	0	0		
+685	6	525	466	5	5	ItemName_17901050602001	skill_1502	SkillDesskill81084	-1	1		skill81084	0	0	0			1	0	0		
+686	6	526	466	5	5	ItemName_17901050603001	skill_1503	SkillDesskill81086	-1	1		skill81086	0	0	0			1	0	0		
+687	6	527	466	5	5	ItemName_17901050604001	skill_1501	SkillDesskill81088	-1	1		skill81088	0	0	0			1	0	0		
+688	6	528	466	5	5	ItemName_17901050605001	skill_1504	SkillDesskill81090	-1	1		skill81090	0	0	0			1	0	0		
+689	6	529	466	5	5	ItemName_17901050606001	skill_1505	SkillDesskill81092	-1	1		skill81092	0	0	0			1	0	0		
+690	6	530	466	5	5	ItemName_17901050607001	skill_1508	SkillDesskill81094	-1	1		skill81094	0	0	0			1	0	0		
+691	6	531	466	5	5	ItemName_17901050608001	skill_1507	SkillDesskill81096	-1	1		skill81096	0	0	0			1	0	0		
+701	0	701	0	6	2	buffname_skill40405_buff_01		buffdes_skill40405_buff_01	-1	1		skill40405::buff_01	1	0	0			0	0	0		
+702	0	702	0	6	2	buffname_skill40405_buff_02		buffdes_skill40405_buff_02	-1	1		skill40405::buff_02	1	0	0			0	0	0		
+703	0	703	0	6	2	buffname_skill40405_buff_03		buffdes_skill40405_buff_03	-1	1		skill40405::buff_03	1	0	0			0	0	0		
+704	0	704	0	6	2	buffname_skill40405_buff_04		buffdes_skill40405_buff_04	-1	1		skill40405::buff_04	1	0	0			0	0	0		
+705	0	705	0	6	2	buffname_skill40405_buff_05	fairycastle_talent04	buffdes_skill40405_buff_05	-1	1		skill40405::buff_05	1	0	0			0	0	0		
+706	0	706	0	6	2	buffname_skill40405_buff_06	fairycastle_talent05	buffdes_skill40405_buff_06	-1	1		skill40405::buff_06	1	0	0			0	0	0		
+707	0	707	0	6	2	buffname_skill40405_buff_07	fairycastle_talent06	buffdes_skill40405_buff_07	-1	1		skill40405::buff_07	1	0	0			0	0	0		
+708	0	708	0	6	2		fairycastle_talent07		-1	1			1	0	0			0	0	0		
+709	0	709	0	6	2		fairycastle_talent08		-1	1			1	0	0			0	0	0		
+710	0	710	0	6	2	buffname_skill40405_buff_08		buffdes_skill40405_buff_08	-1	1		skill40405::buff_08	1	0	0			0	0	0		
+711	0	711	0	6	2	buffname_skill40405_buff_09		buffdes_skill40405_buff_09	-1	1		skill40405::buff_09	1	0	0			0	0	0		
+712	0	712	0	6	2	buffname_skill40405_buff_10		buffdes_skill40405_buff_10	-1	1		skill40405::buff_10	1	0	0			0	0	0		
+713	0	713	0	6	2	buffname_skill40405_buff_12	fairycastle_talent09	buffdes_skill40405_buff_12	-1	1		skill40405::buff_12	1	1	0			0	0	0		
+714	0	714	0	6	2	buffname_skill40405_buff_11		buffdes_skill40405_buff_11	-1	1		skill40405::buff_11	1	0	0			0	0	0		
+715	0	715	0	6	2	buffname_skill40405_buff_13		buffdes_skill40405_buff_13	-1	1		skill40405::buff_13	1	0	0			0	0	0		
+716	0	716	0	6	2	buffname_skill40405_buff_14		buffdes_skill40405_buff_14	-1	1		skill40405::buff_14	1	0	0			0	0	0		
+717	0	717	0	6	2	buffname_skill40405_buff_15		buffdes_skill40405_buff_15	-1	1		skill40405::buff_15	1	0	0			0	0	0		
+718	0	718	0	6	2	buffname_skill40405_buff_16		buffdes_skill40405_buff_16	-1	1		skill40405::buff_16	1	0	0			0	0	0		
+719	0	719	0	6	2	buffname_skill40405_buff_17	fairycastle_talent10	buffdes_skill40405_buff_17	-1	1		skill40405::buff_17	1	0	0			0	0	0		
+720	0	720	0	6	2	buffname_skill40405_buff_18	fairycastle_talent11	buffdes_skill40405_buff_18	-1	1		skill40405::buff_18	1	0	0			0	0	0		
+721	0	721	0	6	2	buffname_skill40405_buff_19	fairycastle_talent12	buffdes_skill40405_buff_19	-1	1		skill40405::buff_19	1	0	0			0	0	0		
+722	0	722	0	6	2	buffname_skill40405_buff_20		buffdes_skill40405_buff_20	-1	1		skill40405::buff_20	1	0	0			0	0	0		
+723	0	723	0	6	2	buffname_skill40405_buff_21		buffdes_skill40405_buff_21	-1	1		skill40405::buff_21	1	0	0			0	0	0		
+724	0	724	0	6	2	buffname_skill40405_buff_22		buffdes_skill40405_buff_22	-1	1		skill40405::buff_22	1	0	0			0	0	0		
+725	0	725	0	6	2		fairycastle_talent13		-1	1			1	0	0			0	0	0		
+726	0	726	0	6	2	buffname_skill40405_buff_23		buffdes_skill40405_buff_23	-1	1		skill40405::buff_23	1	0	0			0	0	0		
+727	0	727	0	6	2	buffname_skill40405_buff_24		buffdes_skill40405_buff_24	-1	1		skill40405::buff_24	1	0	0			0	0	0		
+728	0	728	0	6	2	buffname_skill40405_buff_25		buffdes_skill40405_buff_25	-1	1		skill40405::buff_25	1	0	0			0	0	0		
+729	0	729	0	6	2	buffname_skill40405_buff_26		buffdes_skill40405_buff_26	-1	1		skill40405::buff_26	1	0	0			0	0	0		
+730	0	730	0	6	2	buffname_skill40405_buff_27		buffdes_skill40405_buff_27	-1	1		skill40405::buff_27	1	0	0			0	0	0		
+731	0	731	0	6	5	buffname_skill40407_buff_01	skill_401107	buffdes_skill40407_buff_01	5	1		skill40407::buff_01	1	1	0			1	0	0		
+732	0	732	0	6	4	buffname_skill40407_buff_02	skill_402401_1	buffdes_skill40407_buff_02	5	1		skill40407::buff_02	1	1	0			1	0	0		
+733	0	733	0	6	4	buffname_skill40407_buff_03	skill_400707	buffdes_skill40407_buff_03	3	1		skill40407::buff_03	1	1	0			1	0	0		
+734	0	734	0	6	4	buffname_skill40407_buff_04	skill_400909	buffdes_skill40407_buff_04	5	1		skill40407::buff_04	1	1	0			1	0	0		
+735	0	735	0	6	4	buffname_skill40407_buff_05	skill_400701	buffdes_skill40407_buff_05	3	1		skill40407::buff_05	1	1	0			1	0	0		
+736	0	736	0	6	5	buffname_skill40407_buff_06	skill_400906	buffdes_skill40407_buff_06	5	1		skill40407::buff_06	1	1	0			1	0	0		
+737	0	737	0	6	5	buffname_skill40407_buff_07	skill_401501	buffdes_skill40407_buff_07	3	1		skill40407::buff_07	1	1	0			1	0	0		
+738	0	738	0	6	5	buffname_skill40407_buff_09	skill_402201_1	buffdes_skill40407_buff_09	1	1		skill40407::buff_09	1	1	0			1	0	0		
+739	0	739	0	6	5	buffname_skill40407_buff_10	skill_400907	buffdes_skill40407_buff_10	-1	1		skill40407::buff_10	1	1	0			1	0	0		
+740	0	740	0	6	5	buffname_skill40407_buff_11	skill_401223	buffdes_skill40407_buff_11	5	1		skill40407::buff_11	1	1	0			1	0	0		
+741	0	741	0	6	5	buffname_skill40407_buff_12	skill_400709	buffdes_skill40407_buff_12	3	1		skill40407::buff_12	1	1	0			1	0	0		
+742	0	742	0	7	2	buffname_skill40408_buff_01	skill_402209	buffdes_skill40408_buff_01	-1	1		skill40408::buff_01	1	0	0			0	0	0		
+743	0	743	0	7	2	buffname_skill40408_buff_02	skill_401109	buffdes_skill40408_buff_02	-1	1		skill40408::buff_02	1	0	0			0	0	0		
+744	0	744	0	7	2	buffname_skill40408_buff_03	skill_401803	buffdes_skill40408_buff_03	-1	1		skill40408::buff_03	1	0	0			0	0	0		
+745	0	745	0	7	2	buffname_skill40408_buff_04	skill_401901	buffdes_skill40408_buff_04	-1	1		skill40408::buff_04	1	0	0			0	0	0		
+746	0	746	0	7	2	buffname_skill40408_buff_05	skill_401106	buffdes_skill40408_buff_05_aoe	-1	1		skill40408::buff_05	1	0	0			0	0	0		
+747	0	747	0	7	2	buffname_skill40408_buff_06	skill_403305	buffdes_skill40408_buff_06	-1	1		skill40408::buff_06	1	0	0			0	0	0		
+748	0	748	0	7	2	buffname_skill40408_buff_07	skill_400605	buffdes_skill40408_buff_07	-1	1		skill40408::buff_07	1	0	0			0	0	0		
+749	0	749	0	7	2	buffname_skill40408_buff_08	skill_401903	buffdes_skill40408_buff_08	-1	1		skill40408::buff_08	1	0	0			0	0	0		
+750	0	750	0	7	2	buffname_skill40408_buff_09	skill_402601	buffdes_skill40408_buff_09	-1	1		skill40408::buff_09	1	0	0			0	0	0		
+751	0	751	0	7	2	buffname_skill40408_buff_10	skill_401802	buffdes_skill40408_buff_10	-1	1		skill40408::buff_10	1	0	0			0	0	0		
+800	0	800	0	6	2	buffname_skill40411_buff_01_1	skill_401213	buffdes_skill40411_buff_01_1	-1	1		skill40411::buff_01_1	1	0	0			1	0	0	skill40411::buff_01_prop,4	1,1
+801	3	801	0	6	2	buffname_skill40411_buff_32_1	skill_1006		-1	1		skill40411::buff_32_1	1	0	0			1	0	0	skill40411::buff_32,3	1,1
+802	2	801	0	6	2	buffname_skill40411_buff_33_1	skill_1108		-1	1		skill40411::buff_33_1	1	0	0			1	0	0	skill40411::buff_33,3	1,1
+803	1	801	0	6	2	buffname_skill40411_buff_34_1	skill_1209		-1	1		skill40411::buff_34_1	1	0	0			1	0	0	skill40411::buff_34,3	1,1
+804	6	801	0	6	2	buffname_skill40411_buff_35_1	skill_1509		-1	1		skill40411::buff_35_1	1	0	0			1	0	0	skill40411::buff_35,3	1,1
+805	5	801	0	6	2	buffname_skill40411_buff_36_1	skill_1408		-1	1		skill40411::buff_36_1	1	0	0			1	0	0	skill40411::buff_36,3	1,1
+806	4	801	0	6	2	buffname_skill40411_buff_37_1	skill_1304		-1	1		skill40411::buff_37_1	1	0	0			1	0	0	skill40411::buff_37,3	1,1
+807	3	802	0	6	2	buffname_skill40411_buff_38_1	skill_1006		-1	1		skill40411::buff_38_1	1	0	0			1	0	0	skill40411::buff_38,1	2,1
+808	2	802	0	6	2	buffname_skill40411_buff_39_1	skill_1109		-1	1		skill40411::buff_39_1	1	0	0			1	0	0	skill40411::buff_39,1	2,1
+809	1	802	0	6	2	buffname_skill40411_buff_40_1	skill_1209		-1	1		skill40411::buff_40_1	1	0	0			1	0	0	skill40411::buff_40,1	2,1
+810	4	802	0	6	2	buffname_skill40411_buff_41_1	skill_1304		-1	1		skill40411::buff_41_1	1	0	0			1	0	0	skill40411::buff_41,1	2,1
+811	6	802	0	6	2	buffname_skill40411_buff_42_1	skill_1505		-1	1		skill40411::buff_42_1	1	0	0			1	0	0	skill40411::buff_42,1	2,1
+812	5	802	0	6	2	buffname_skill40411_buff_43_1	skill_1407		-1	1		skill40411::buff_43_1	1	0	0			1	0	0	skill40411::buff_43,1	2,1
+813	3	803	0	6	2	buffname_skill40411_buff_20_1	skill_1006		-1	1		skill40411::buff_20_1	1	0	0			1	0	0	skill40411::buff_20,8	3,0.1
+814	3	804	0	6	2	buffname_skill40411_buff_21_1	skill_1003		-1	1		skill40411::buff_21_1	1	0	0			1	0	0	skill40411::buff_21,8	3,0.1
+815	2	803	0	6	2	buffname_skill40411_buff_22_1	skill_1108		-1	1		skill40411::buff_22_1	1	0	0			1	0	0	skill40411::buff_22,8	3,0.1
+816	2	804	0	6	2	buffname_skill40411_buff_23_1	skill_1107		-1	1		skill40411::buff_23_1	1	0	0			1	0	0	skill40411::buff_23,8	3,0.1
+817	1	803	0	6	2	buffname_skill40411_buff_24_1	skill_1209		-1	1		skill40411::buff_24_1	1	0	0			1	0	0	skill40411::buff_24,8	3,0.1
+818	1	804	0	6	2	buffname_skill40411_buff_25_1	skill_1215		-1	1		skill40411::buff_25_1	1	0	0			1	0	0	skill40411::buff_25,8	3,0.1
+819	6	803	0	6	2	buffname_skill40411_buff_26_1	skill_1509		-1	1		skill40411::buff_26_1	1	0	0			1	0	0	skill40411::buff_26,8	3,0.1
+820	6	804	0	6	2	buffname_skill40411_buff_27_1	skill_1504		-1	1		skill40411::buff_27_1	1	0	0			1	0	0	skill40411::buff_27,8	3,0.1
+821	5	803	0	6	2	buffname_skill40411_buff_28_1	skill_1408		-1	1		skill40411::buff_28_1	1	0	0			1	0	0	skill40411::buff_28,8	3,0.1
+822	5	804	0	6	2	buffname_skill40411_buff_29_1	skill_1407		-1	1		skill40411::buff_29_1	1	0	0			1	0	0	skill40411::buff_29,8	3,0.1
+823	4	803	0	6	2	buffname_skill40411_buff_30_1	skill_1304		-1	1		skill40411::buff_30_1	1	0	0			1	0	0	skill40411::buff_30,8	3,0.1
+824	4	804	0	6	2	buffname_skill40411_buff_31_1	skill_1307		-1	1		skill40411::buff_31_1	1	0	0			1	0	0	skill40411::buff_31,8	3,0.1
+825	0	805	0	6	3	buffname_skill40411_buff_01_2	skill_401213	buffdes_skill40411_buff_01_2	-1	1		skill40411::buff_01_2	1	0	0			1	0	0	skill40411::buff_01_prop,6	1,1
+826	3	806	0	6	3	buffname_skill40411_buff_02	skill_1006	buffdes_skill40411_buff_02	-1	1		skill40411::buff_02	1	0	0			1	0	0	skill40411::buff_02,1	2,0.2
+827	3	807	0	6	3	buffname_skill40411_buff_03	skill_1002	buffdes_skill40411_buff_03	-1	1		skill40411::buff_03	1	0	0			1	0	0	skill40411::buff_03,1	2,0.2
+828	3	808	0	6	3	buffname_skill40411_buff_04	skill_1003	buffdes_skill40411_buff_04	-1	1		skill40411::buff_04	1	0	0			1	0	0	skill40411::buff_04,1	2,0.2
+829	2	806	0	6	3	buffname_skill40411_buff_05	skill_1108	buffdes_skill40411_buff_05	-1	1		skill40411::buff_05	1	0	0			1	0	0	skill40411::buff_05,1	2,0.2
+830	2	807	0	6	3	buffname_skill40411_buff_06	skill_1107	buffdes_skill40411_buff_06	-1	1		skill40411::buff_06	1	0	0			1	0	0	skill40411::buff_06,1	2,0.2
+831	2	808	0	6	3	buffname_skill40411_buff_07	skill_1110	buffdes_skill40411_buff_07	-1	1		skill40411::buff_07	1	0	0			1	0	0	skill40411::buff_07,1	2,0.2
+832	1	806	0	6	3	buffname_skill40411_buff_08	skill_1215	buffdes_skill40411_buff_08	-1	1		skill40411::buff_08	1	0	0			1	0	0	skill40411::buff_08,1	2,0.2
+833	1	807	0	6	3	buffname_skill40411_buff_09	skill_1209	buffdes_skill40411_buff_09	-1	1		skill40411::buff_09	1	0	0			1	0	0	skill40411::buff_09,1	2,0.2
+834	1	808	0	6	3	buffname_skill40411_buff_10	skill_1206	buffdes_skill40411_buff_10	-1	1		skill40411::buff_10	1	0	0			1	0	0	skill40411::buff_10,1	2,0.2
+835	6	806	0	6	3	buffname_skill40411_buff_11	skill_1509	buffdes_skill40411_buff_11	-1	1		skill40411::buff_11	1	0	0			1	0	0	skill40411::buff_11,1	2,0.2
+836	6	807	0	6	3	buffname_skill40411_buff_12	skill_1501	buffdes_skill40411_buff_12	-1	1		skill40411::buff_12	1	0	0			1	0	0	skill40411::buff_12,1	2,0.2
+837	6	808	0	6	3	buffname_skill40411_buff_13	skill_1505	buffdes_skill40411_buff_13	-1	1		skill40411::buff_13	1	0	0			1	0	0	skill40411::buff_13,1	2,0.2
+838	4	806	0	6	3	buffname_skill40411_buff_14	skill_1304	buffdes_skill40411_buff_14	-1	1		skill40411::buff_14	1	0	0			1	0	0	skill40411::buff_14,1	2,0.2
+839	4	807	0	6	3	buffname_skill40411_buff_15	skill_1305	buffdes_skill40411_buff_15	-1	1		skill40411::buff_15	1	0	0			1	0	0	skill40411::buff_15,1	2,0.2
+840	4	808	0	6	3	buffname_skill40411_buff_16	skill_1303	buffdes_skill40411_buff_16	-1	1		skill40411::buff_16	1	0	0			1	0	0	skill40411::buff_16,1	2,0.2
+841	5	806	0	6	3	buffname_skill40411_buff_17	skill_1408	buffdes_skill40411_buff_17	-1	1		skill40411::buff_17	1	0	0			1	0	0	skill40411::buff_17,1	2,0.2
+842	5	807	0	6	3	buffname_skill40411_buff_18	skill_1406	buffdes_skill40411_buff_18	-1	1		skill40411::buff_18	1	0	0			1	0	0	skill40411::buff_18,1	2,0.2
+843	5	808	0	6	3	buffname_skill40411_buff_19	skill_1402	buffdes_skill40411_buff_19	-1	1		skill40411::buff_19	1	0	0			1	0	0	skill40411::buff_19,1	2,0.2
+844	3	809	0	6	3	buffname_skill40411_buff_32_2	skill_1006		-1	1		skill40411::buff_32_2	1	0	0			1	0	0	skill40411::buff_32,5	1,1
+845	2	809	0	6	3	buffname_skill40411_buff_33_2	skill_1108		-1	1		skill40411::buff_33_2	1	0	0			1	0	0	skill40411::buff_33,5	1,1
+846	1	809	0	6	3	buffname_skill40411_buff_34_2	skill_1209		-1	1		skill40411::buff_34_2	1	0	0			1	0	0	skill40411::buff_34,5	1,1
+847	6	809	0	6	3	buffname_skill40411_buff_35_2	skill_1509		-1	1		skill40411::buff_35_2	1	0	0			1	0	0	skill40411::buff_35,5	1,1
+848	5	809	0	6	3	buffname_skill40411_buff_36_2	skill_1408		-1	1		skill40411::buff_36_2	1	0	0			1	0	0	skill40411::buff_36,5	1,1
+849	4	809	0	6	3	buffname_skill40411_buff_37_2	skill_1304		-1	1		skill40411::buff_37_2	1	0	0			1	0	0	skill40411::buff_37,5	1,1
+850	3	810	0	6	3	buffname_skill40411_buff_38_2	skill_1006		-1	1		skill40411::buff_38_2	1	0	0			1	0	0	skill40411::buff_38,2	2,1
+851	2	810	0	6	3	buffname_skill40411_buff_39_2	skill_1109		-1	1		skill40411::buff_39_2	1	0	0			1	0	0	skill40411::buff_39,2	2,1
+852	1	810	0	6	3	buffname_skill40411_buff_40_2	skill_1209		-1	1		skill40411::buff_40_2	1	0	0			1	0	0	skill40411::buff_40,2	2,1
+853	4	810	0	6	3	buffname_skill40411_buff_41_2	skill_1304		-1	1		skill40411::buff_41_2	1	0	0			1	0	0	skill40411::buff_41,2	2,1
+854	6	810	0	6	3	buffname_skill40411_buff_42_2	skill_1505		-1	1		skill40411::buff_42_2	1	0	0			1	0	0	skill40411::buff_42,2	2,1
+855	5	810	0	6	3	buffname_skill40411_buff_43_2	skill_1407		-1	1		skill40411::buff_43_2	1	0	0			1	0	0	skill40411::buff_43,2	2,1
+856	3	834	0	6	4	buffname_skill40412_buff_01	skill_1002		-1	1		skill40412::buff_01	1	0	0			1	0	0		
+857	3	835	0	6	4	buffname_skill40412_buff_02	skill_1006		-1	1		skill40412::buff_02	1	0	0			1	0	0		
+858	2	834	0	6	4	buffname_skill40412_buff_03	skill_1104		-1	1		skill40412::buff_03	1	0	0			1	0	0		
+859	2	835	0	6	4	buffname_skill40412_buff_04	skill_1108		-1	1		skill40412::buff_04	1	0	0			1	0	0		
+860	4	834	0	6	4	buffname_skill40412_buff_05	skill_1304		-1	1		skill40412::buff_05	1	0	0			1	0	0		
+861	4	835	0	6	4	buffname_skill40412_buff_06	skill_1304		-1	1		skill40412::buff_06	1	0	0			1	0	0		
+862	5	834	0	6	4	buffname_skill40412_buff_07	skill_1402		-1	1		skill40412::buff_07	1	0	0			1	0	0		
+863	5	841	0	6	5	buffname_skill40412_buff_08	skill_1408		-1	1		skill40412::buff_08	1	0	0			1	0	0		
+864	6	834	0	6	4	buffname_skill40412_buff_09	skill_1501		-1	1		skill40412::buff_09	1	0	0			1	0	0		
+865	6	835	0	6	4	buffname_skill40412_buff_10	skill_1509		-1	1		skill40412::buff_10	1	0	0			1	0	0		
+866	1	834	0	6	4	buffname_skill40412_buff_11	skill_1209		-1	1		skill40412::buff_11	1	0	0			1	0	0		
+867	1	835	0	6	4	buffname_skill40412_buff_12	skill_1214		-1	1		skill40412::buff_12	1	0	0			1	0	0		
+868	0	813	0	6	4	buffname_skill40411_buff_44	skill_400506		-1	1		skill40411::buff_44	1	0	0			1	0	0		
+869	0	814	0	6	4	buffname_skill40411_buff_45	skill_402109		-1	1		skill40411::buff_45	1	0	0			1	0	0		
+870	0	815	0	6	4	buffname_skill40411_buff_50	skill_401504		-1	1		skill40411::buff_50	1	0	0			1	0	0		
+871	0	816	0	6	4	buffname_skill40411_buff_51	skill_402605		-1	1		skill40411::buff_51	1	0	0			1	0	0		
+872	0	817	0	6	4	buffname_skill40411_buff_01_3	skill_401213	buffdes_skill40411_buff_01_3	-1	1		skill40411::buff_01_3	1	0	0			1	0	0	skill40411::buff_01_prop,8	1,1
+873	3	818	0	6	4	buffname_skill40411_buff_32_3	skill_1006		-1	1		skill40411::buff_32_3	1	0	0			1	0	0	skill40411::buff_32,7	1,1
+874	2	818	0	6	4	buffname_skill40411_buff_33_3	skill_1108		-1	1		skill40411::buff_33_3	1	0	0			1	0	0	skill40411::buff_33,7	1,1
+875	1	818	0	6	4	buffname_skill40411_buff_34_3	skill_1209		-1	1		skill40411::buff_34_3	1	0	0			1	0	0	skill40411::buff_34,7	1,1
+876	6	818	0	6	4	buffname_skill40411_buff_35_3	skill_1509		-1	1		skill40411::buff_35_3	1	0	0			1	0	0	skill40411::buff_35,7	1,1
+877	5	818	0	6	4	buffname_skill40411_buff_36_3	skill_1408		-1	1		skill40411::buff_36_3	1	0	0			1	0	0	skill40411::buff_36,7	1,1
+878	4	818	0	6	4	buffname_skill40411_buff_37_3	skill_1304		-1	1		skill40411::buff_37_3	1	0	0			1	0	0	skill40411::buff_37,7	1,1
+879	3	819	0	6	4	buffname_skill40411_buff_38_3	skill_1006		-1	1		skill40411::buff_38_3	1	0	0			1	0	0	skill40411::buff_38,3	2,1
+880	2	819	0	6	4	buffname_skill40411_buff_39_3	skill_1109		-1	1		skill40411::buff_39_3	1	0	0			1	0	0	skill40411::buff_39,3	2,1
+881	1	819	0	6	4	buffname_skill40411_buff_40_3	skill_1209		-1	1		skill40411::buff_40_3	1	0	0			1	0	0	skill40411::buff_40,3	2,1
+882	4	819	0	6	4	buffname_skill40411_buff_41_3	skill_1304		-1	1		skill40411::buff_41_3	1	0	0			1	0	0	skill40411::buff_41,3	2,1
+883	6	819	0	6	4	buffname_skill40411_buff_42_3	skill_1505		-1	1		skill40411::buff_42_3	1	0	0			1	0	0	skill40411::buff_42,3	2,1
+884	5	819	0	6	4	buffname_skill40411_buff_43_3	skill_1407		-1	1		skill40411::buff_43_3	1	0	0			1	0	0	skill40411::buff_43,3	2,1
+885	0	820	0	6	5	buffname_skill40411_buff_46	skill_402810		-1	1		skill40411::buff_46	1	0	0			1	0	0		
+886	0	821	0	6	5	buffname_skill40411_buff_47	skill_402009		-1	1		skill40411::buff_47	1	0	0			1	0	0		
+887	0	822	0	6	5	buffname_skill40411_buff_48	skill_404006		-1	1		skill40411::buff_48	1	0	0			1	0	0		
+888	0	823	0	6	5	buffname_skill40411_buff_49	skill_401226		-1	1		skill40411::buff_49	1	0	0			1	0	0		
+889	0	824	0	6	5	buffname_skill40411_buff_01_4	skill_401213		-1	1		skill40411::buff_01_4	1	0	0			1	0	0	skill40411::buff_01_prop,12	1,1
+890	3	825	0	6	5	buffname_skill40411_buff_32_4	skill_1006		-1	1		skill40411::buff_32_4	1	0	0			1	0	0	skill40411::buff_32,10	1,1
+891	2	825	0	6	5	buffname_skill40411_buff_33_4	skill_1108		-1	1		skill40411::buff_33_4	1	0	0			1	0	0	skill40411::buff_33,10	1,1
+892	1	825	0	6	5	buffname_skill40411_buff_34_4	skill_1209		-1	1		skill40411::buff_34_4	1	0	0			1	0	0	skill40411::buff_34,10	1,1
+893	6	825	0	6	5	buffname_skill40411_buff_35_4	skill_1509		-1	1		skill40411::buff_35_4	1	0	0			1	0	0	skill40411::buff_35,10	1,1
+894	5	825	0	6	5	buffname_skill40411_buff_36_4	skill_1408		-1	1		skill40411::buff_36_4	1	0	0			1	0	0	skill40411::buff_36,10	1,1
+895	4	825	0	6	5	buffname_skill40411_buff_37_4	skill_1304		-1	1		skill40411::buff_37_4	1	0	0			1	0	0	skill40411::buff_37,10	1,1
+896	3	826	0	6	5	buffname_skill40411_buff_38_4	skill_1006		-1	1		skill40411::buff_38_4	1	0	0			1	0	0	skill40411::buff_38,5	2,1
+897	2	826	0	6	5	buffname_skill40411_buff_39_4	skill_1109		-1	1		skill40411::buff_39_4	1	0	0			1	0	0	skill40411::buff_39,5	2,1
+898	1	826	0	6	5	buffname_skill40411_buff_40_4	skill_1209		-1	1		skill40411::buff_40_4	1	0	0			1	0	0	skill40411::buff_40,5	2,1
+899	4	826	0	6	5	buffname_skill40411_buff_41_4	skill_1304		-1	1		skill40411::buff_41_4	1	0	0			1	0	0	skill40411::buff_41,5	2,1
+900	6	826	0	6	5	buffname_skill40411_buff_42_4	skill_1505		-1	1		skill40411::buff_42_4	1	0	0			1	0	0	skill40411::buff_42,5	2,1
+901	5	826	0	6	5	buffname_skill40411_buff_43_4	skill_1407		-1	1		skill40411::buff_43_4	1	0	0			1	0	0	skill40411::buff_43,5	2,1
+902	3	827	0	6	3	buffname_skill40411_buff_20_2	skill_1006		-1	1		skill40411::buff_20_2	1	0	0			1	0	0	skill40411::buff_20,16	3,0.1
+903	3	828	0	6	3	buffname_skill40411_buff_21_2	skill_1003		-1	1		skill40411::buff_21_2	1	0	0			1	0	0	skill40411::buff_21,16	3,0.1
+904	2	827	0	6	3	buffname_skill40411_buff_22_2	skill_1108		-1	1		skill40411::buff_22_2	1	0	0			1	0	0	skill40411::buff_22,16	3,0.1
+905	2	828	0	6	3	buffname_skill40411_buff_23_2	skill_1107		-1	1		skill40411::buff_23_2	1	0	0			1	0	0	skill40411::buff_23,16	3,0.1
+906	1	827	0	6	3	buffname_skill40411_buff_24_2	skill_1209		-1	1		skill40411::buff_24_2	1	0	0			1	0	0	skill40411::buff_24,16	3,0.1
+907	1	828	0	6	3	buffname_skill40411_buff_25_2	skill_1215		-1	1		skill40411::buff_25_2	1	0	0			1	0	0	skill40411::buff_25,16	3,0.1
+908	6	827	0	6	3	buffname_skill40411_buff_26_2	skill_1509		-1	1		skill40411::buff_26_2	1	0	0			1	0	0	skill40411::buff_26,16	3,0.1
+909	6	828	0	6	3	buffname_skill40411_buff_27_2	skill_1504		-1	1		skill40411::buff_27_2	1	0	0			1	0	0	skill40411::buff_27,16	3,0.1
+910	5	827	0	6	3	buffname_skill40411_buff_28_2	skill_1408		-1	1		skill40411::buff_28_2	1	0	0			1	0	0	skill40411::buff_28,16	3,0.1
+911	5	828	0	6	3	buffname_skill40411_buff_29_2	skill_1407		-1	1		skill40411::buff_29_2	1	0	0			1	0	0	skill40411::buff_29,16	3,0.1
+912	4	827	0	6	3	buffname_skill40411_buff_30_2	skill_1304		-1	1		skill40411::buff_30_2	1	0	0			1	0	0	skill40411::buff_30,16	3,0.1
+913	4	828	0	6	3	buffname_skill40411_buff_31_2	skill_1307		-1	1		skill40411::buff_31_2	1	0	0			1	0	0	skill40411::buff_31,16	3,0.1
+914	3	829	0	6	4	buffname_skill40411_buff_20_3	skill_1006		-1	1		skill40411::buff_20_3	1	0	0			1	0	0	skill40411::buff_20,24	3,0.1
+915	3	830	0	6	4	buffname_skill40411_buff_21_3	skill_1003		-1	1		skill40411::buff_21_3	1	0	0			1	0	0	skill40411::buff_21,24	3,0.1
+916	2	829	0	6	4	buffname_skill40411_buff_22_3	skill_1108		-1	1		skill40411::buff_22_3	1	0	0			1	0	0	skill40411::buff_22,24	3,0.1
+917	2	830	0	6	4	buffname_skill40411_buff_23_3	skill_1107		-1	1		skill40411::buff_23_3	1	0	0			1	0	0	skill40411::buff_23,24	3,0.1
+918	1	829	0	6	4	buffname_skill40411_buff_24_3	skill_1209		-1	1		skill40411::buff_24_3	1	0	0			1	0	0	skill40411::buff_24,24	3,0.1
+919	1	830	0	6	4	buffname_skill40411_buff_25_3	skill_1215		-1	1		skill40411::buff_25_3	1	0	0			1	0	0	skill40411::buff_25,24	3,0.1
+920	6	829	0	6	4	buffname_skill40411_buff_26_3	skill_1509		-1	1		skill40411::buff_26_3	1	0	0			1	0	0	skill40411::buff_26,24	3,0.1
+921	6	830	0	6	4	buffname_skill40411_buff_27_3	skill_1504		-1	1		skill40411::buff_27_3	1	0	0			1	0	0	skill40411::buff_27,24	3,0.1
+922	5	829	0	6	4	buffname_skill40411_buff_28_3	skill_1408		-1	1		skill40411::buff_28_3	1	0	0			1	0	0	skill40411::buff_28,24	3,0.1
+923	5	830	0	6	4	buffname_skill40411_buff_29_3	skill_1407		-1	1		skill40411::buff_29_3	1	0	0			1	0	0	skill40411::buff_29,24	3,0.1
+924	4	829	0	6	4	buffname_skill40411_buff_30_3	skill_1304		-1	1		skill40411::buff_30_3	1	0	0			1	0	0	skill40411::buff_30,24	3,0.1
+925	4	830	0	6	4	buffname_skill40411_buff_31_3	skill_1307		-1	1		skill40411::buff_31_3	1	0	0			1	0	0	skill40411::buff_31,24	3,0.1
+926	3	831	0	6	5	buffname_skill40411_buff_20_4	skill_1006		-1	1		skill40411::buff_20_4	1	0	0			1	0	0	skill40411::buff_20,40	3,0.1
+927	3	832	0	6	5	buffname_skill40411_buff_21_4	skill_1003		-1	1		skill40411::buff_21_4	1	0	0			1	0	0	skill40411::buff_21,40	3,0.1
+928	2	831	0	6	5	buffname_skill40411_buff_22_4	skill_1108		-1	1		skill40411::buff_22_4	1	0	0			1	0	0	skill40411::buff_22,40	3,0.1
+929	2	832	0	6	5	buffname_skill40411_buff_23_4	skill_1107		-1	1		skill40411::buff_23_4	1	0	0			1	0	0	skill40411::buff_23,40	3,0.1
+930	1	831	0	6	5	buffname_skill40411_buff_24_4	skill_1209		-1	1		skill40411::buff_24_4	1	0	0			1	0	0	skill40411::buff_24,40	3,0.1
+931	1	832	0	6	5	buffname_skill40411_buff_25_4	skill_1215		-1	1		skill40411::buff_25_4	1	0	0			1	0	0	skill40411::buff_25,40	3,0.1
+932	6	831	0	6	5	buffname_skill40411_buff_26_4	skill_1509		-1	1		skill40411::buff_26_4	1	0	0			1	0	0	skill40411::buff_26,40	3,0.1
+933	6	832	0	6	5	buffname_skill40411_buff_27_4	skill_1504		-1	1		skill40411::buff_27_4	1	0	0			1	0	0	skill40411::buff_27,40	3,0.1
+934	5	831	0	6	5	buffname_skill40411_buff_28_4	skill_1408		-1	1		skill40411::buff_28_4	1	0	0			1	0	0	skill40411::buff_28,40	3,0.1
+935	5	832	0	6	5	buffname_skill40411_buff_29_4	skill_1407		-1	1		skill40411::buff_29_4	1	0	0			1	0	0	skill40411::buff_29,40	3,0.1
+936	4	831	0	6	5	buffname_skill40411_buff_30_4	skill_1304		-1	1		skill40411::buff_30_4	1	0	0			1	0	0	skill40411::buff_30,40	3,0.1
+937	4	832	0	6	5	buffname_skill40411_buff_31_4	skill_1307		-1	1		skill40411::buff_31_4	1	0	0			1	0	0	skill40411::buff_31,40	3,0.1
+938	1	833	0	6	4	buffname_skill40411_buff_44	skill_400506		-1	1		skill40411::buff_44	1	0	0			1	0	0		
+939	5	833	0	6	4	buffname_skill40411_buff_44	skill_400506		-1	1		skill40411::buff_44	1	0	0			1	0	0		
+940	6	833	0	6	4	buffname_skill40411_buff_44	skill_400506		-1	1		skill40411::buff_44	1	0	0			1	0	0		
+941	2	833	0	6	4	buffname_skill40411_buff_45	skill_402109		-1	1		skill40411::buff_45	1	0	0			1	0	0		
+942	3	833	0	6	4	buffname_skill40411_buff_45	skill_402109		-1	1		skill40411::buff_45	1	0	0			1	0	0		
+943	4	833	0	6	4	buffname_skill40411_buff_45	skill_402109		-1	1		skill40411::buff_45	1	0	0			1	0	0		
+752	0	752	0	7	2	buffname_skill40410_buff_03	skill_402817	buffdes_skill40410_buff_03	-1	1		skill40410::buff_03	1	0	0			0	0	0		
+753	0	753	0	7	2	buffname_skill40410_buff_02	skill_402208	buffdes_skill40410_buff_02	-1	1		skill40410::buff_02	1	0	0			0	0	0		
+754	0	754	0	7	2	buffname_skill40410_buff_04	skill_401901	buffdes_skill40410_buff_04	-1	1		skill40410::buff_04	1	0	0			0	0	0		
+755	0	755	0	7	2	buffname_skill40410_buff_05	skill_401225	buffdes_skill40410_buff_05	-1	1		skill40410::buff_05	1	0	0			0	0	0		
+756	0	756	0	7	2	buffname_skill40410_buff_06	skill_402404_2	buffdes_skill40410_buff_06	-1	1		skill40410::buff_06	1	0	0			0	0	0		
+757	0	757	0	7	2	buffname_skill40410_buff_07	skill_404006	buffdes_skill40410_buff_07	-1	1		skill40410::buff_07	1	0	0			0	0	0		
+758	0	758	0	7	2	buffname_skill40410_buff_08	skill_401220	buffdes_skill40410_buff_08	-1	1		skill40410::buff_08	1	0	0			0	0	0		
+759	0	759	0	7	2	buffname_skill40410_buff_09	skill_402804	buffdes_skill40410_buff_09	-1	1		skill40410::buff_09	1	0	0			0	0	0		
+760	0	760	0	7	2	buffname_skill40410_buff_10	skill_402816	buffdes_skill40410_buff_10	-1	1		skill40410::buff_10	1	0	0			0	0	0		
+761	0	761	0	7	2	buffname_skill40410_buff_11	skill_402405	buffdes_skill40410_buff_11	-1	1		skill40410::buff_11	1	0	0			0	0	0		
+762	0	762	0	7	2	buffname_skill40410_buff_12	skill_402824	buffdes_skill40410_buff_12	-1	1		skill40410::buff_12	1	0	0			0	0	0		
+763	0	763	0	7	2	buffname_skill40410_buff_13	skill_402815	buffdes_skill40410_buff_13	-1	1		skill40410::buff_13	1	0	0			0	0	0		
+246	0	246	124	2	5	SkillNameskill10020	skill_10020	SkillDesskill10020	-1	1	11,300;12,300;13,300;32,1200;51,1200	skill10020	0	0	0			0	270	360		
+944	3	838	0	6	5		skill_1003		-1	1		skill40413::buff_22	1	0	0			1	0	0		
+945	3	839	0	6	5		skill_1004		-1	1		skill40413::buff_26	1	0	0			1	0	0		
+946	3	840	0	6	5		skill_1008		-1	1		skill40413::buff_24	1	0	0			1	0	0		
+947	3	841	0	6	5		skill_1008		-1	1		skill40413::buff_25	1	0	0			1	0	0		
+948	3	836	0	6	4		skill_1005		-1	1		skill40413::buff_23	1	0	0			1	0	0		
+949	3	837	0	6	4		skill_1016		-1	1		skill40413::buff_21	1	0	0			1	0	0		
+950	2	838	0	6	5		skill_1110		-1	1		skill40413::buff_11	1	0	0			1	0	0		
+951	2	839	0	6	5		skill_1111		-1	1		skill40413::buff_13	1	0	0			1	0	0		
+952	2	840	0	6	5		skill_1101		-1	1		skill40413::buff_14	1	0	0			1	0	0		
+953	2	841	0	6	5		skill_1104		-1	1		skill40413::buff_35	1	0	0			1	0	0		
+954	2	836	0	6	4		skill_1107		-1	1		skill40413::buff_12	1	0	0			1	0	0		
+955	2	837	0	6	4		skill_1109		-1	1		skill40413::buff_10	1	0	0			1	0	0		
+956	4	838	0	6	5		skill_1305		-1	1		skill40413::buff_01	1	0	0			1	0	0		
+957	4	839	0	6	5		skill_1307		-1	1		skill40413::buff_02	1	0	0			1	0	0		
+958	4	840	0	6	5		skill_1303		-1	1		skill40413::buff_03	1	0	0			1	0	0		
+959	4	836	0	6	4		skill_1313		-1	1		skill40413::buff_05	1	0	0			1	0	0		
+960	4	837	0	6	4		skill_1301		-1	1		skill40413::buff_04	1	0	0			1	0	0		
+961	4	841	0	6	5		skill_1304		-1	1		skill40412::buff_06	1	0	0			1	0	0		
+962	5	838	0	6	5		skill_1407		-1	1		skill40413::buff_15	1	0	0			1	0	0		
+963	5	839	0	6	5		skill_1401		-1	1		skill40413::buff_16	1	0	0			1	0	0		
+964	5	840	0	6	5		skill_1405		-1	1		skill40413::buff_17	1	0	0			1	0	0		
+965	5	835	0	6	4		skill_1404		-1	1		skill40413::buff_19	1	0	0			1	0	0		
+966	5	836	0	6	4		skill_1406		-1	1		skill40413::buff_18	1	0	0			1	0	0		
+967	5	837	0	6	4		skill_1403		-1	1		skill40413::buff_20	1	0	0			1	0	0		
+968	6	838	0	6	5		skill_1504		-1	1		skill40413::buff_27	1	0	0			1	0	0		
+969	6	839	0	6	5		skill_1503		-1	1		skill40413::buff_29	1	0	0			1	0	0		
+970	6	840	0	6	5		skill_1502		-1	1		skill40413::buff_30	1	0	0			1	0	0		
+971	6	841	0	6	5		skill_1508		-1	1		skill40413::buff_32	1	0	0			1	0	0		
+972	6	836	0	6	4		skill_1504		-1	1		skill40413::buff_28	1	0	0			1	0	0		
+973	6	837	0	6	4		skill_1505		-1	1		skill40413::buff_31	1	0	0			1	0	0		
+974	1	838	0	6	5		skill_1209		-1	1		skill40413::buff_33	1	0	0			1	0	0		
+975	1	839	0	6	5		skill_1206		-1	1		skill40413::buff_34	1	0	0			1	0	0		
+976	1	840	0	6	5		skill_1203		-1	1		skill40413::buff_08	1	0	0			1	0	0		
+977	1	841	0	6	5		skill_1204		-1	1		skill40413::buff_09	1	0	0			1	0	0		
+978	1	836	0	6	4		skill_1205		-1	1		skill40413::buff_06	1	0	0			1	0	0		
+979	1	837	0	6	4		skill_1215		-1	1		skill40413::buff_07	1	0	0			1	0	0		

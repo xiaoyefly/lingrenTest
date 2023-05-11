@@ -1,0 +1,12 @@
+﻿流水号	总等级	属性加成	觉醒属性加成	特殊效果	星灵属性转化率	评分类型	值/公式
+int	int	string	string	int	string	int	int
+Id	PropLevelSum	StarChildSumProp	TransformationSumProp	StarChildSumSpecialProp	StarChildInlayRate	CPType	CPValue
+1	24	11,500		0		1	102
+2	48			1		1	100
+3	72		11,1000	1		1	102
+4	84	12,500	12,500	0		1	102
+5	96		11,1000	0	1,1000	1	103
+6	108		12,1000	0	2,1000	1	103
+7	120		13,1000	0	3,1000	1	103
+8	132		11,1000	0	4,1000	1	103
+9	144		11,1500;12,1500;13,1500	0		1	101

@@ -1,0 +1,7 @@
+﻿关卡ID	开放时间	开放时间语言包
+int	string	string
+id	opentime	opentimelanguage
+1268	1,4	UI_DefendAthenaPanel_OpenTime_1
+1269	2,5	UI_DefendAthenaPanel_OpenTime_2
+1270	3,6	UI_DefendAthenaPanel_OpenTime_3
+1271	0	UI_DefendAthenaPanel_OpenTime_4

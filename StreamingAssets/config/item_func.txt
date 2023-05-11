@@ -1,0 +1,356 @@
+﻿流水	按钮显示功能	功能名	功能开启条件	组内排序	是否生效	链接命令	链接参数
+string	int	string	int	int	bool	string	string
+Id	ItemFuncID	Script	FuncID	Order	IsOpen	Link	LinkParm
+1	1	Bag_Itemtips_Use	0	0	1		
+2	2	Bag_Itemtips_Destroy	0	0	1		
+3	3	Bag_Itemtips_Sell	0	0	1		
+4	4	Bag_ItemTips_Identify	0	0	1		
+5	5	Bag_Itemtips_Combine	0	0	1		
+6	6	Bag_Itemtips_AutoRecover	0	0	1		
+7	7	Bag_Itemtips_Refine	39	0	1		
+8	8	Bag_Itemtips_GemLevelUp	40	0	1		
+9	9	Bag_Itemtips_Potion	0	0	1		
+10	10		0	0	1	ClickNpc	
+11	11	Bag_Itemtips_Batch	1	0	1	MsgBox	OperateConfirmGoToNPC;ClickNpc;2;npc_forging_001
+12	12	Bag_Itemtips_Inlay	40	0	1	LinkUI	BagPanel;OpenSoulStone
+13	13	Bag_Itemtips_Strengthen	12	0	1	LinkUI	StrengthenPanel;0
+14	14	Bag_Itemtips_ExchangeSell	46	0	1	LinkUI	TradingPanel;1;1
+15	15	Bag_Itemtips_TradeSell	45	0	1	LinkUI	TradingPanel;0;2
+16	16	Bag_Itemtips_Disassembly	35	0	1	LinkUI	ResolveItemsPanel
+17	17	Bag_Itemtips_MagicProperties	32	0	1	ClickNpc	2;npc_forging_002
+18	18	Bag_Itemtips_NoUse	0	0	0		
+19	19	Bag_Itemtips_NoDestroy	0	0	0		
+20	20	Bag_Itemtips_lianyao	22	0	1	LinkUI	SkillPanel;2;3;[ItemID]
+21	21	Bag_Itemtips_caifeng	22	0	1	LinkUI	SkillPanel;2;4;[ItemID]
+22	22	Bag_Itemtips_ronglian	22	0	1	LinkUI	SkillPanel;2;5;[ItemID]
+23	23	Bag_Itemtips_lianjin	22	0	1	LinkUI	SkillPanel;2;6;[ItemID]
+24	24	Bag_Itemtips_Disassembly	0	0	1		
+25	25	Bag_Itemtips_CallbossActivate	0	0	1	ClickNpc	4;npc_collect_026
+26	26	Bag_Itemtips_Use	0	0	1	ClickNpc	2;npc_10046
+27	27	Bag_Itemtips_Use	0	0	1	LinkUI	RenamePanel;Rename
+28	28	Bag_Itemtips_activate	61	0	1	LinkUI	AdventureBookPanel;1
+29	29	Bag_Itemtips_Use	37	0	1	LinkUI	PetPanel;0
+30	30	Bag_Itemtips_Use	0	0	1	LinkUI	TradingPanel;3;501
+31	31	Bag_Itemtips_Use	37	0	1	LinkUI	PetPanel;0
+32	32	Bag_Itemtips_Use	40	0	1	LinkUI	BagPanel;OpenSoulStone
+33	33	Bag_Itemtips_Putin	0	0	1		
+34	34	Bag_Itemtips_Gift	69	0	1	LinkUI	AdventureBookPanel;3;-1;1;-1
+35	35	Bag_Itemtips_Use	0	0	1	LinkUI	BagPanel;OpenRole
+36	36	Bag_Itemtips_Combine	37	0	1		
+37	37	Bag_Itemtips_Exchange	40	0	1	ClickNpc	2;npc_10206
+38	38	Bag_Itemtips_Egg	92	0	1	LinkUI	PetPanel;3
+39	39	Bag_Itemtips_NpcSell	37	0	1	LinkUI	TradingPanel;3;701;1
+40	40	Bag_Itemtips_Use	38	0	1	LinkUI	SkillPanel;1
+41	41	Bag_Itemtips_Use	78	0	1	ClickNpc	40;npc_100801
+42	42	Bag_Itemtips_Sommon	37	0	1	LinkUI	PetSummonPanel
+43	43	Bag_Itemtips_Use	37	0	1		
+44	44	Bag_Itemtips_PetBook	37	0	1	LinkUI	AdventureBookPanel;2
+45	45	Bag_Itemtips_Baptize	96	0	1	ClickNpc	2;npc_forging_002
+46	46	Bag_Itemtips_Use	37	0	1	LinkUI	PetPanel;3
+47	47	Bag_Itemtips_Quenching	124	0	1	LinkUI	StrengthenPanel;5
+48	48	Bag_Itemtips_Fashion	2006	0	1		
+49	49	Bag_Itemtips_Spirit	40	0	1		
+50	50	Bag_Itemtips_Lottery	211	0	1	LinkUI	MallPanel;1
+51	51	Bag_Itemtips_Compose	0	0	1		
+52	52	Bag_Itemtips_Exchange	0	0	1	ClickNpc	2;npc_10033
+53	53	Bag_Itemtips_Exchange	0	0	1	ClickNpc	2;npc_10036
+54	54	Bag_Itemtips_Exchange	0	0	1	ClickNpc	2;npc_10035
+55	55	Bag_Itemtips_Exchange	0	0	1	ClickNpc	2;npc_10032
+56	56	Bag_Itemtips_Exchange	0	0	1	ClickNpc	2;npc_10034
+57	57	Bag_Itemtips_Exchange	0	0	1	ClickNpc	2;npc_10037
+58	58	Bag_Itemtips_Coloration	44	0	1	ClickNpc	2;npc_10078
+59	59	Bag_Itemtips_Combine	0	0	1	ClickNpc	2;npc_digtreasure
+60	60	Bag_Itemtips_FishingGear	0	0	1		
+61	61	Bag_Itemtips_Use	218	0	1	LinkUI	WelfareActivityPanel;801;9
+62	62	Bag_Itemtips_Compose	0	0	1	LinkUI	StrengthenPanel;2
+63	63	Bag_Itemtips_Exchange	0	0	1	LinkUI	ExchangeShopPanel;1
+64	64	Bag_Itemtips_MultiCombine	0	0	1		
+65	65	Bag_Itemtips_Use	0	0	1	LinkUI	AstrolabePanel;true
+66	66	Bag_Itemtips_Break	37	0	1	ClickNpc	2;npc_10138
+67	67	Bag_Itemtips_SkillStoneLevelUp	124	0	1		
+68	68	Bag_Itemtips_SkillStoneSplit	124	0	1		
+69	69	Bag_Itemtips_Use	0	0	1	LinkUI	ReConstellationPanel
+70	70	Bag_Itemtips_Exchange	0	0	1	LinkUI	ShopPanel;903
+71	71	Bag_Itemtips_Use	37	0	1	LinkUI	PetPanel;2
+72	72	Bag_Itemtips_FashionMake	212	0	1	LinkUI	FashionMakePanel
+73	73	Bag_Itemtips_Evolve	1	0	1		
+74	74	Bag_Itemtips_Use	56	0	1	ClickNpc	2;npc_examination
+75	75	Bag_Itemtips_Use	227	0	1	LinkUI	OpenServerActivityPanel;4006;14
+76	76	Bag_Itemtips_Use	233	0	1	LinkUI	OpenServerActivityPanel;4412;18
+77	77	Bag_Itemtips_Wash	0	0	1	ClickNpc	1;npc_100821
+78	78	Bag_Itemtips_activate	61	0	1	LinkUI	AdventureBookPanel;1;100010;1
+79	79	Bag_Itemtips_activate	61	0	1	LinkUI	AdventureBookPanel;1;100024;1
+80	80	Bag_Itemtips_activate	61	0	1	LinkUI	AdventureBookPanel;1;100043;1
+81	81	Bag_Itemtips_activate	61	0	1	LinkUI	AdventureBookPanel;1;100056;1
+82	82	Bag_Itemtips_activate	61	0	1	LinkUI	AdventureBookPanel;1;100077;1
+83	83	Bag_Itemtips_EquipLvUp	146	0	1		
+84	84	Bag_Itemtips_EquipReturn	147	0	1		
+85	85	Bag_Itemtips_Exchange	0	0	1		
+86	86	Bag_Itemtips_Exchange	238	0	1	LinkUI	OpenServerActivityPanel;4612;21
+87	87	Bag_Itemtips_Use	148	0	1	LinkUI	ReduceTaskPanel
+88	88	Bag_Itemtips_Combine	153	0	1	LinkUI	SpecialItemComposePanel;0;[ItemID]
+89	89	Bag_Itemtips_RingLvUp	0	0	1		
+90	90	Bag_Itemtips_ChangeOath	0	0	1		
+91	91	Bag_Itemtips_CleanMemory	0	0	1		
+92	92	Bag_Itemtips_Exchange	246	0	1	LinkUI	OpenServerActivityPanel;4619;21
+93	93	Bag_Itemtips_DigtreasureShop	0	0	1	LinkUI	ShopPanel;906
+94	94	Bag_Itemtips_Gift	41	0	1	LinkUI	FriendGiftPanel
+95	95	Bag_Itemtips_Use	243	0	1	LinkUI	OpenServerActivityPanel;6002;24
+96	96	Bag_Itemtips_LevelUpStar	155	0	1	LinkUI	StrollEffectTabPanel
+97	97	Bag_Itemtips_Destroy	0	0	1		
+98	98	Bag_Itemtips_PutDecorate	0	0	1		
+99	99	Bag_Itemtips_PutDecoratePreview	0	0	1		
+100	100	Bag_Itemtips_Use	233	0	1	LinkUI	OpenServerActivityPanel;4413;18
+101	101	Bag_Itemtips_Use	250	0	1	LinkUI	BusinessActivityPanel;254;5579;29
+102	102	Bag_Itemtips_Get	0	0	1	LinkUI	TradingPanel;3;905;[ItemID]
+103	103	Bag_Itemtips_Use	0	0	1	LinkUI	GuildRenamePanel
+104	104	Bag_Itemtips_HomeLandMake	0	0	1		
+105	105	Bag_Itemtips_GoHomeLand	0	0	1	HomelandScene	
+106	106	Bag_Itemtips_Make	0	0	1		
+107	107	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;6319;9
+108	108	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;4680;21
+109	109	Bag_Itemtips_Exchange	0	0	1	LinkUI	ShopPanel;909
+110	110	Bag_Itemtips_Soldier	0	0	1	LinkUI	ShopPanel;911
+111	111	Bag_Itemtips_ChargeEnergy	0	0	1	LinkUI	BagPanel;OpenHallow
+112	112	Bag_Itemtips_Use	0	0	1	LinkUI	MercenaryPanel
+113	113	Bag_Itemtips_SoulBaptize	0	0	1	LinkUI	MercenaryPanel
+114	114	Bag_Itemtips_Advance	0	0	1	LinkUI	MercenaryPanel
+115	115	Bag_Itemtips_Recruit	279	0	1	LinkUI	MercenaryPanel;2
+116	116	Bag_Itemtips_Go2Dungeon	0	0	1	LinkUI	DungeonInfoPanel;4;3
+117	117	Bag_Itemtips_Go2TeamDungeon	0	0	1	LinkUI	DungeonInfoPanel;101
+118	118	Bag_Itemtips_Go2Dungeon	0	0	1	LinkUI	DungeonInfoPanel;5;3
+119	119	Bag_Itemtips_Go2Dungeon	0	0	1	LinkUI	DungeonInfoPanel;6;3
+120	120	Bag_Itemtips_Go2TeamDungeon	0	0	1	LinkUI	DungeonInfoPanel;102
+121	121	Bag_Itemtips_FishShop	0	0	1	LinkUI	ShopPanel;910;1
+122	122	Bag_Itemtips_Use	120	0	1	LinkUI	OpenServerActivityPanel;5522;29
+123	123	Bag_Itemtips_Use	257	0	1	LinkUI	OpenServerActivityPanel;5621;29
+124	124	Bag_Itemtips_Use	257	0	1	LinkUI	BusinessActivityPanel;254;9462;63
+125	125	Bag_Itemtips_Use	236	0	1	LinkUI	FestivalActivityPanel;6042;24
+126	126	Bag_Itemtips_Use	233	0	1	LinkUI	OpenServerActivityPanel;4423;18
+127	127	Bag_Itemtips_BadgeEquip	175	0	1		
+128	128	Bag_Itemtips_MarkEquip	175	0	1		
+129	129	Bag_Itemtips_BadgeClear	175	0	1	LinkUI	GuildBadgeBaptizePanel
+130	130	Bag_Itemtips_MarkLvUp	175	0	1	LinkUI	GuildMarkLevelUpPanel
+131	131	Bag_Itemtips_Use	175	0	1	LinkUI	GuildBadgePanel;1
+132	132	Bag_Itemtips_MakeBadge	177	0	1	LinkUI	GuildBadgePanel;0
+133	133	Com_Merge	0	0	1	LinkUI	ItemMergePanel;0;[ItemID]
+134	134	Bag_Itemtips_SkillStoneInscription	179	0	1		
+135	135	Bag_Itemtips_exchangefashion	1808	0	1	LinkUI	ShopPanel;912
+136	136	Bag_Itemtips_exchangefashion	255	0	1	LinkUI	ShopPanel;914
+137	137	Bag_Itemtips_ShineWeapon	188	0	1		
+138	138	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;5510;29
+139	139	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;5664;29
+140	140	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	OpenServerActivityPanel;5513;29
+141	141	Bag_Itemtips_Use	267	0	1	LinkUI	FestivalActivityPanel;6827;37
+142	142	Bag_Itemtips_Use	268	0	1	LinkUI	FestivalActivityPanel;7009;41
+143	143	Bag_Itemtips_Use	267	0	1	LinkUI	FestivalActivityPanel;5539;29
+144	144	Bag_Itemtips_Use	273	0	1	LinkUI	BusinessActivityPanel;254;7604;46
+145	145	Bag_strengthen_achieve_prop	0	0	1	LinkUI	StrengthenBlessEffectPanel
+146	146	Bag_Itemtips_Use	267	0	1	LinkUI	FestivalActivityPanel;23055;21
+147	147	Bag_Itemtips_Exchange	37	0	1	LinkUI	ShopPanel;701
+148	148	Bag_Itemtips_Snow	185	0	1	LinkUI	ConstellationScrimmagePanel
+149	149	Bag_Itemtips_Use	0	0	1	LinkUI	OpenServerActivityPanel;9028;53
+150	150	Bag_Itemtips_Exchange	238	0	1	LinkUI	OpenServerActivityPanel;4609;21
+151	151	Bag_Itemtips_Exchange	238	0	1	LinkUI	FestivalActivityPanel;23046;21
+152	152	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;5575;29
+153	153	Bag_Itemtips_Use	0	0	1	LinkUI	BusinessActivityPanel;254;8010;51
+154	154	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	OpenServerActivityPanel;5588;29
+155	155	Bag_Itemtips_read	278	0	1		
+156	156	Bag_Itemtips_exchangefashion	0	0	1	LinkUI	OpenServerActivityPanel;23035;21
+157	157	Bag_Itemtips_starchild	194	0	1	LinkUI	StarChildPanel;2
+158	158	Bag_Itemtips_Use	37	0	1	LinkUI	FairySingleChainRewardPanel
+159	159	Bag_Itemtips_Exchange	0	0	1	LinkUI	ShopPanel;918
+160	160	Bag_Itemtips_exchangefashion	412	0	1	LinkUI	MallPanel;1;2
+161	161	Bag_Itemtips_exchangefashion	413	0	1	LinkUI	MallPanel;1;1
+162	162	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	OpenServerActivityPanel;5613;29
+163	163	Bag_Itemtips_starforge	285	0	1	LinkUI	StrengthenPanel;4
+164	164	Bag_Itemtips_exchangefashion	290	0	1		
+165	165	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;9004;53
+166	166	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;9004;53
+167	167	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;9004;53
+168	168	Bag_Itemtips_exchangefashion	0	0	1	LinkUI	FestivalActivityPanel;4628;21
+169	169	Bag_Itemtips_Exchange	0	0	1	LinkUI	FestivalActivityPanel;4628;21
+170	170	Bag_Itemtips_Exchange	0	0	1	LinkUI	OpenServerActivityPanel;23038;21
+171	171	Bag_Itemtips_Exchange	246	0	1	LinkUI	OpenServerActivityPanel;5524;21
+172	173	Bag_Itemtips_exchangefashion	255	0	1	LinkUI	ShopPanel;919
+173	174	Bag_Itemtips_Use	0	0	1	LinkUI	OpenServerActivityPanel;14006;65
+174	175	Bag_Itemtips_Exchange2	0	0	1	ClickNpc	2;npc_100802
+175	176	Bag_Itemtips_UpStar	1	0	1		
+176	177	Bag_ExtraBag_Open	0	0	1	LinkUI	WeelPanel;201
+177	178	Bag_ExtraBag_Storage	0	0	1	StoreAllToWeel	201
+178	179	Bag_ExtraBag_Storage	0	0	1	StoreAllToWeel	201
+179	192	Bag_ExtraBag_Open	0	0	1	LinkUI	WeelPanel;202
+180	193	Bag_ExtraBag_Storage	0	0	1	StoreAllToWeel	202
+181	194	Bag_ExtraBag_Storage	0	0	1	StoreAllToWeel	202
+182	180	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;5667;29
+183	181	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;23056;29
+184	182	Bag_Itemtips_Use	233	0	1	LinkUI	FestivalActivityPanel;9484;63
+185	183	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;5574;29
+186	184	Bag_Itemtips_Use	267	0	1	LinkUI	FestivalActivityPanel;5665;29
+187	188	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	OpenServerActivityPanel;5543;21
+188	189	Bag_Itemtips_Eat	0	0	1		
+189	190	Bag_Itemtips_Put	0	0	1		
+190	191	Bag_Itemtips_Cook	297	0	1		
+191	195	Bag_Itemtips_Use	439	0	1	LinkUI	GuildBadgePanel;2
+192	196	Bag_Itemtips_Use	441	0	1	LinkUI	GuildBadgePanel;3
+193	301	Bag_Itemtips_exchangefashion	0	0	1	LinkUI	FestivalActivityPanel;4630;21
+194	302	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;4630;21
+195	303	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;4630;21
+196	304	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;4630;21
+197	305	Bag_Itemtips_Exchange	238	0	1	LinkUI	FestivalActivityPanel;5532;29
+198	306	Bag_Itemtips_Exchange	238	0	1	LinkUI	FestivalActivityPanel;5533;29
+199	307	Bag_Itemtips_Exchange	238	0	1	LinkUI	FestivalActivityPanel;4636;21
+200	308	Bag_Itemtips_exchangefashion	255	0	1	LinkUI	ShopPanel;923
+201	309	Bag_Itemtips_Exchange	120	0	1	LinkUI	OpenServerActivityPanel;5536;29
+202	310	Bag_Itemtips_Exchange	238	0	1	LinkUI	OpenServerActivityPanel;4638;21
+203	311	Bag_Itemtips_exchangefashion	0	0	1	LinkUI	FestivalActivityPanel;4639;21
+204	312	Bag_Itemtips_Use	0	0	1	LinkUI	PeakednessEpicPanel
+205	313	Bag_Itemtips_exchangefashion	420	0	1		
+206	314	Bag_Itemtips_Exchange	423	0	1	LinkUI	FishingCompetitionClubPanle;2
+207	315	Bag_Itemtips_Use	291	0	1	LinkUI	DiggingTreasureActivityMainPanel
+208	316	Bag_Itemtips_Exchange	238	0	1	LinkUI	OpenServerActivityPanel;4656;21
+209	317	Bag_Itemtips_Exchange	238	0	1	LinkUI	FestivalActivityPanel;5542;29
+210	318	Bag_Itemtips_Exchange	238	0	1	LinkUI	FestivalActivityPanel;5543;21
+211	319	Bag_Itemtips_Use	0	0	1	LinkUI	CarnivalWeekWindowPanel;8459;12
+212	320	Bag_Itemtips_exchangefashion	0	0	1	LinkUI	CarnivalWeekWindowPanel;8461;75
+213	321	Bag_Itemtips_exchangefashion	0	0	1	LinkUI	CarnivalWeekWindowPanel;8464;21
+214	322	Bag_Itemtips_Use	0	0	1	LinkUI	PeakednessEpicPanel
+215	323	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	OpenServerActivityPanel;4687;21
+216	324	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;5558;29
+217	325	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;4655;21
+218	326	Bag_Itemtips_Use	294	0	1	LinkUI	FestivalActivityPanel;9417;63
+219	327	Bag_Itemtips_SkillStoneBreakUp	124	0	1		
+220	328	Bag_Itemtips_EquipEngrave	427	0	1	LinkUI	StrengthenPanel;7;7
+221	329	Bag_Itemtips_BreakUp	124	0	1	LinkUI	StrengthenPanel;5
+222	330	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;5587;21
+223	331	Bag_Itemtips_RelicItemUse	433	0	1	LinkUI	SaintRelicInfoPage
+224	332	Bag_Itemtips_RelicLottery	434	0	1	LinkUI	SaintRelicLotteryPanel;201
+225	333	Bag_Itemtips_RelicLottery	434	0	1	LinkUI	SaintRelicLotteryPanel;101
+226	334	Bag_Itemtips_BadgeLevelup	438	0	1	LinkUI	GuildBadgeStrengthenPanel
+227	335	Bag_Itemtips_SoulMedal_Set	436	0	1		
+228	336	Bag_Itemtips_SoulMedal_Remove	436	0	1		
+229	337	Bag_Itemtips_SoulMedal_Upgrade	436	0	1		
+230	338	Bag_Itemtips_SoulMedal_Dismantling	436	0	1		
+231	230	Bag_Itemtips_Use	243	0	1	LinkUI	OpenServerActivityPanel;20007;24
+232	339	Bag_Itemtips_Exchange2	391	0	1	LinkUI	ExpRetrievePanel
+233	340	Bag_Itemtips_LostSpace	429	0	1	LinkUI	BadlandPanel
+234	341	Bag_Itemtips_LostTemple	429	0	1	LinkUI	BadlandRelicPanel
+235	342	Bag_Itemtips_LostTower	429	0	1	LinkUI	BadlandMinaretPanel
+236	343	Bag_Itemtips_BadgeAwake	441	0	1		
+237	344	Bag_Itemtips_Fuse	444	0	1	LinkUI	StrengthenPanel;9
+238	345	Bag_SoulEquip_Upgrade	326	0	1	LinkUI	SoulEquipStrengthenPanel;0
+239	346	Bag_SoulEquip_Rebuild	327	0	0	LinkUI	SoulEquipStrengthenPanel;1
+240	347	Bag_SoulEquip_Destroy	328	0	1	LinkUI	
+241	348	Bag_SoulEquip_Equip	325	0	1		
+242	349	Bag_SoulEquip_Unequip	325	0	1		
+243	350	Bag_Itemtips_Use	243	0	1	LinkUI	FestivalActivityPanel;6015;24
+244	351	Bag_Itemtips_Use	243	0	1	LinkUI	OpenServerActivityPanel;20002;24
+245	352	Bag_Itemtips_exchangefashion	423	0	1	LinkUI	FishingCompetitionClubPanle;2
+246	353	Bag_Itemtips_exchangefashion	0	0	1	LinkUI	CarnivalWeekWindowPanel;8422;21
+247	354	Bag_Itemtips_exchangefashion	0	0	1	LinkUI	CarnivalWeekWindowPanel;8419;75
+248	355	Bag_Itemtips_exchangefashion	0	0	1	LinkUI	CarnivalWeekWindowPanel;8417;73
+249	356	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;5557;29
+250	357	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;5558;29
+251	358	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;4655;21
+252	359	Bag_Itemtips_Use	294	0	1	LinkUI	FestivalActivityPanel;9417;63
+253	360	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;5575;29
+254	361	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;5576;29
+255	362	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;4668;21
+256	363	Bag_Itemtips_Use	267	0	1	LinkUI	FestivalActivityPanel;6315;9
+257	364	Bag_Itemtips_Exchange	238	0	1	LinkUI	OpenServerActivityPanel;5530;29
+258	365	Bag_Itemtips_Exchange	238	0	1	LinkUI	OpenServerActivityPanel;4634;21
+259	366	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;5573;29
+260	367	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;5575;29
+261	368	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;5576;29
+262	369	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;4668;21
+263	370	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;6335;9
+264	371	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;5704;29
+265	372	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;5706;29
+266	373	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;23076;21
+267	374	Bag_Itemtips_Use	236	0	1	LinkUI	FestivalActivityPanel;6035;24
+268	375	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	BusinessActivityPanel;254;5608;29
+269	376	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;5705;29
+270	377	Bag_Itemtips_Use	267	0	1	LinkUI	BusinessActivityPanel;254;23009;21
+271	378	Bag_Itemtips_Use	267	0	1	LinkUI	BusinessActivityPanel;254;6820;37
+272	379	Bag_Itemtips_Exchange	432	0	1	LinkUI	ShopPanel;930
+273	380	Bag_Itemtips_Use	325	0	1	LinkUI	BagPanel;OpenSoulEquip
+274	381	Bag_Itemtips_Use	334	0	1	LinkUI	MercenaryPanel;1
+275	382	Bag_Itemtips_Use	0	0	1	LinkUI	FestivalActivityPanel;22001;77
+276	383	Bag_Itemtips_Use	0	0	1	LinkUI	BusinessActivityPanel;254;4436;18
+277	384	Bag_Itemtips_Use	0	0	1	LinkUI	OpenServerActivityPanel;5597;29
+278	385	Bag_Itemtips_Exchange	455	0	1	LinkUI	ShopPanel;931
+279	386	Bag_Itemtips_Use	233	0	1	LinkUI	OpenServerActivityPanel;4438;18
+280	387	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	OpenServerActivityPanel;8492;21
+281	388	Bag_Itemtips_Use	267	0	1	LinkUI	FestivalActivityPanel;25023;77
+282	389	Bag_Itemtips_Use	268	0	1	LinkUI	FestivalActivityPanel;25024;78
+283	390	Bag_Itemtips_Use	267	0	1	LinkUI	FestivalActivityPanel;5707;29
+284	391	Bag_Itemtips_Use	267	0	1	LinkUI	FestivalActivityPanel;5708;29
+285	392	Bag_Itemtips_Use	267	0	1	LinkUI	FestivalActivityPanel;23077;21
+286	393	Bag_Itemtips_Exchange	455	0	1	LinkUI	ShopPanel;932
+287	394	Bag_Itemtips_Use	466	0	1	LinkUI	SkillPanel;3;OpenCollectPage
+288	395	Bag_Itemtips_exchangefashion	465	0	1	LinkUI	MonthPveCloneActLinkAllPanel;2
+289	396	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	FestivalActivityPanel;5646;29
+290	397	Bag_Itemtips_Use	236	0	1	LinkUI	FestivalActivityPanel;20006;71
+291	398	Bag_Itemtips_Use	226	0	1	LinkUI	OpenServerActivityPanel;5623;29
+292	399	Bag_Itemtips_EnvoyReject	476	0	1		
+293	400	Bag_Itemtips_EnvoyUpgrade	476	0	1		
+294	401	Bag_Itemtips_EnvoyInloy	476	0	1		
+295	402	Bag_Itemtips_EnvoyLearn	476	0	1		
+296	403	Bag_Itemtips_EnvoyResolve	476	0	1		
+297	404	Bag_Itemtips_EnvoyEquipUse	476	0	1		
+298	405	Bag_Itemtips_EnvoyEquipResolve	476	0	1		
+299	406	Bag_Itemtips_EnvoyEquipBapTize	476	0	1		
+300	407	Bag_Itemtips_EnvoyEquipLock	476	0	1		
+301	408	Bag_Itemtips_EnvoyEquipUnLock	476	0	1		
+302	409	Bag_Itemtips_EnvoyEquipUnuse	476	0	1		
+303	410	Bag_ExtraBag_Open	476	0	1	LinkUI	WeelPanel;203
+304	411	Bag_ExtraBag_Storage	476	0	1	StoreAllToWeel	203
+305	412	Bag_Itemtips_EnvoyAdvance	476	0	1	LinkUI	EnvoyMainPanel;0;2
+306	413	Bag_Itemtips_EnvoyLevelUp	476	0	1	LinkUI	EnvoyMainPanel;0;1
+307	414	Bag_Itemtips_Use	476	0	1	LinkUI	EnvoyEquipBaptizePanel
+308	415	Bag_Itemtips_Compound	480	0	1		
+309	416	Bag_Itemtips_Use	480	0	1	LinkUI	FestivalActivityPanel;25302;93
+310	417	Bag_Itemtips_EmblemInlay	476	0	1		
+311	418	Bag_Itemtips_EmblemRemove	476	0	1		
+312	419	Bag_Itemtips_EmblemRisingStar	476	0	1		
+313	420	Bag_Itemtips_EmblemAscend	476	0	1		
+314	421	Bag_Itemtips_EmblemDecompose	476	0	1		
+315	422	Bag_hotel_compete	226	0	1	LinkUI	OpenServerActivityPanel;76012;101
+316	423	DivineStoneUpGrade	493	0	1		
+317	424	DivineStoneDecompose	493	0	1		
+318	425	DivineStoneInstall	493	0	1		
+319	426	DivineStoneReplace	493	0	1		
+320	427	DivineStoneUninstall	493	0	1		
+321	428	Bag_Itemtips_exchangefashion	495	0	1	LinkUI	WelfareActivityPanel;84152;21
+322	429	Bag_Itemtips_Use	499	0	1	ClickNpc	41;npc_apprentice
+323	430	Bag_Itemtips_Use	499	0	1	LinkUI	ApprenticeMainPanel
+324	431	Bag_Itemtips_Use	499	0	1	LinkUI	ApprenticeMainPanel
+325	432	Bag_Itemtips_Use	499	0	1	LinkUI	ApprenticePropertyPanel
+326	433	Bag_ItemTips_BatchIdentify	0	0	1		
+327	434	Bag_Itemtips_Use	499	0	1	LinkUI	ApprenticeMainPanel;1
+328	435	Bag_Itemtips_Use	267	0	1	LinkUI	OpenServerActivityPanel;23099;21
+329	436	Bag_Itemtips_Use	267	0	1	LinkUI	FestivalActivityPanel;23100;21
+330	437	Bag_Itemtips_exchangefashion	233	0	1	LinkUI	BusinessActivityPanel;254;5766;29
+331	438	Bag_Itemtips_Use	0	0	1	LinkUI	BusinessActivityPanel;254;4466;18
+332	439	Bag_Itemtips_Use	236	0	1	LinkUI	FestivalActivityPanel;4785;21
+333	440	Bag_Itemtips_Exchange	226	0	1	LinkUI	OpenServerActivityPanel;1961;21
+334	441	Bag_Itemtips_Exchange	226	0	1	LinkUI	OpenServerActivityPanel;1961;21
+335	442	Bag_Itemtips_Use	201	0	1	LinkUI	BusinessActivityPanel;201;1963;108
+336	443	Bag_Itemtips_Use	494	0	1	LinkUI	ElvesCastleMainPanel
+337	444	Bag_Itemtips_Use	516	0	1	LinkUI	GuardTempleMainPanel;Research
+338	445	Bag_Itemtips_EnvoyEquipUse	522	0	1		
+339	446	Bag_Itemtips_EnvoyEquipUnuse	522	0	1		
+340	447	Elemental_Equip_Advanced	522	0	1		
+341	448	Elemental_Equip_Refine	522	0	1		
+342	449	Bag_Itemtips_Use	522	0	1	LinkUI	
+343	450	Bag_Itemtips_Use	520	0	1	LinkUI	ElementalSpiritMainPanel
+344	451	Bag_Itemtips_Use	520	0	1	LinkUI	ElementalSpiritMainPanel
+345	452	Bag_Itemtips_EmblemInlay	523	0	1		
+346	453	Bag_Itemtips_EnvoyEquipUnuse	523	0	1		
+347	454	Bag_Itemtips_SoulMedal_Upgrade	523	0	1		
+348	455	Bag_Itemtips_SoulMedal_Dismantling	523	0	1		
+349	456	Bag_Itemtips_EnvoyEquipBapTize	523	0	1		
+350	457	Bag_Itemtips_Exchange	525	0	1	LinkUI	TradingPanel;3;935
+351	458	Bag_Itemtips_Use	523	0	1	LinkUI	ShopPanel;936
+352	459	Bag_Itemtips_Use	523	0	1	LinkUI	ElementalSpiritMainPanel;3
+353	460	Bag_Itemtips_Use	522	0	1	LinkUI	ElementalSpiritMainPanel;2

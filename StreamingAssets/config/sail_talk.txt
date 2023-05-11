@@ -1,0 +1,516 @@
+﻿流水ID	对话组	组内ID	语言包	对话NPC
+int	int	int	string	string
+ID	TalkGroup	SubTalkID	TalkContent	TalkNPC
+1	1	1	Sailtalk11	npc_sail_10005
+2	1	2	Sailtalk12	npc_sail_10005
+3	1	3	Sailtalk13	npc_sail_10005
+4	1	4	Sailtalk14	npc_sail_10005
+5	1	5	Sailtalk15	npc_sail_10005
+6	2	1	Sailtalk21	npc_sail_10005
+7	2	2	Sailtalk22	npc_sail_10005
+8	2	3	Sailtalk23	npc_sail_10005
+9	2	4	Sailtalk24	npc_sail_10005
+10	2	5	Sailtalk25	npc_sail_10005
+11	3	1	Sailtalk31	npc_sail_10005
+12	3	2	Sailtalk32	npc_sail_10005
+13	3	3	Sailtalk33	npc_sail_10005
+14	3	4	Sailtalk34	npc_sail_10005
+15	3	5	Sailtalk35	npc_sail_10005
+16	4	1	Sailtalk41	npc_sail_10005
+17	4	2	Sailtalk42	npc_sail_10005
+18	4	3	Sailtalk43	npc_sail_10005
+19	4	4	Sailtalk44	npc_sail_10005
+20	4	5	Sailtalk45	npc_sail_10005
+21	5	1	Sailtalk51	npc_sail_10005
+22	5	2	Sailtalk52	npc_sail_10005
+23	5	3	Sailtalk53	npc_sail_10005
+24	5	4	Sailtalk54	npc_sail_10005
+25	5	5	Sailtalk55	npc_sail_10005
+26	6	1	Sailtalk61	npc_sail_10005
+27	6	2	Sailtalk62	npc_sail_10005
+28	6	3	Sailtalk63	npc_sail_10005
+29	6	4	Sailtalk64	npc_sail_10005
+30	6	5	Sailtalk65	npc_sail_10005
+31	7	1	Sailtalk71	npc_sail_10005
+32	7	2	Sailtalk72	npc_sail_10005
+33	7	3	Sailtalk73	npc_sail_10005
+34	7	4	Sailtalk74	npc_sail_10005
+35	7	5	Sailtalk75	npc_sail_10005
+36	8	1	Sailtalk81	npc_sail_10005
+37	8	2	Sailtalk82	npc_sail_10005
+38	8	3	Sailtalk83	npc_sail_10005
+39	8	4	Sailtalk84	npc_sail_10005
+40	8	5	Sailtalk85	npc_sail_10005
+41	9	1	Sailtalk91	npc_sail_10005
+42	9	2	Sailtalk92	npc_sail_10005
+43	9	3	Sailtalk93	npc_sail_10005
+44	9	4	Sailtalk94	npc_sail_10005
+45	9	5	Sailtalk95	npc_sail_10005
+46	150	1	Sailtalk1501	npc_sail_10005
+47	150	2	Sailtalk1502	npc_sail_10005
+48	151	1	Sailtalk1511	npc_sail_10005
+49	152	1	Sailtalk1521	npc_sail_10005
+50	160	1	Sailtalk1601	npc_sail_10005
+51	160	2	Sailtalk1602	npc_sail_10005
+52	160	3	Sailtalk1603	npc_sail_10005
+53	160	4	Sailtalk1604	npc_sail_10005
+54	161	1	Sailtalk1611	player
+55	161	2	Sailtalk1612	npc_sail_10005
+56	161	3	Sailtalk1613	
+57	1010	1	Sailtalk10101	npc_sail_10005
+58	1010	2	Sailtalk10102	npc_sail_10005
+59	1020	1	Sailtalk10201	npc_sail_10005
+60	1020	2	Sailtalk10202	npc_sail_10005
+61	1030	1	Sailtalk10301	npc_sail_10005
+62	1030	2	Sailtalk10302	npc_sail_10005
+63	1040	1	Sailtalk10401	npc_sail_10005
+64	1040	2	Sailtalk10402	npc_sail_10005
+65	1050	1	Sailtalk10501	npc_sail_10005
+66	1050	2	Sailtalk10502	npc_sail_10005
+67	1060	1	Sailtalk10601	npc_sail_10005
+68	1060	2	Sailtalk10602	npc_sail_10005
+69	1070	1	Sailtalk10701	npc_sail_10005
+70	1070	2	Sailtalk10702	npc_sail_10005
+71	1080	1	Sailtalk10801	npc_sail_10005
+72	1080	2	Sailtalk10802	npc_sail_10005
+73	1090	1	Sailtalk10901	npc_sail_10005
+74	1090	2	Sailtalk10902	npc_sail_10005
+75	1100	1	Sailtalk11001	npc_sail_10005
+76	1100	2	Sailtalk11002	npc_sail_10005
+77	1110	1	Sailtalk11101	npc_sail_10005
+78	1110	2	Sailtalk11102	npc_sail_10005
+79	1120	1	Sailtalk11201	npc_sail_10005
+80	1120	2	Sailtalk11202	npc_sail_10005
+81	1130	1	Sailtalk11301	npc_sail_10005
+82	1130	2	Sailtalk11302	npc_sail_10005
+83	1140	1	Sailtalk11401	npc_sail_10005
+84	1140	2	Sailtalk11402	npc_sail_10005
+85	1150	1	Sailtalk11501	npc_sail_10005
+86	1150	2	Sailtalk11502	npc_sail_10005
+87	1160	1	Sailtalk11601	npc_sail_10005
+88	1160	2	Sailtalk11602	npc_sail_10005
+89	1170	1	Sailtalk11701	npc_sail_10005
+90	1170	2	Sailtalk11702	npc_sail_10005
+91	1180	1	Sailtalk11801	npc_sail_10005
+92	1180	2	Sailtalk11802	npc_sail_10005
+93	1190	1	Sailtalk11901	npc_sail_10005
+94	1190	2	Sailtalk11902	npc_sail_10005
+95	1200	1	Sailtalk12001	npc_sail_10005
+96	1200	2	Sailtalk12002	npc_sail_10005
+97	1210	1	Sailtalk12101	npc_sail_10005
+98	1210	2	Sailtalk12102	npc_sail_10005
+99	1220	1	Sailtalk12201	npc_sail_10005
+100	1220	2	Sailtalk12202	npc_sail_10005
+101	1230	1	Sailtalk12301	npc_sail_10005
+102	1230	2	Sailtalk12302	npc_sail_10005
+103	1240	1	Sailtalk12401	npc_sail_10005
+104	1240	2	Sailtalk12402	npc_sail_10005
+105	1250	1	Sailtalk12501	npc_sail_10005
+106	1250	2	Sailtalk12502	npc_sail_10005
+107	1260	1	Sailtalk12601	npc_sail_10005
+108	1260	2	Sailtalk12602	npc_sail_10005
+109	1270	1	Sailtalk12701	npc_sail_10005
+110	1270	2	Sailtalk12702	npc_sail_10005
+111	1280	1	Sailtalk12801	npc_sail_10005
+112	1280	2	Sailtalk12802	npc_sail_10005
+113	1290	1	Sailtalk12901	npc_sail_10005
+114	1290	2	Sailtalk12902	npc_sail_10005
+115	1300	1	Sailtalk13001	npc_sail_10005
+116	1300	2	Sailtalk13002	npc_sail_10005
+117	1310	1	Sailtalk13101	npc_sail_10005
+118	1310	2	Sailtalk13102	npc_sail_10005
+119	1320	1	Sailtalk13201	npc_sail_10005
+120	1320	2	Sailtalk13202	npc_sail_10005
+121	1330	1	Sailtalk13301	npc_sail_10005
+122	1330	2	Sailtalk13302	npc_sail_10005
+123	1340	1	Sailtalk13401	npc_sail_10005
+124	1340	2	Sailtalk13402	npc_sail_10005
+125	1350	1	Sailtalk13501	npc_sail_10005
+126	1350	2	Sailtalk13502	npc_sail_10005
+127	1360	1	Sailtalk13601	npc_sail_10005
+128	1360	2	Sailtalk13602	npc_sail_10005
+129	1370	1	Sailtalk13701	npc_sail_10005
+130	1370	2	Sailtalk13702	npc_sail_10005
+131	1380	1	Sailtalk13801	npc_sail_10005
+132	1380	2	Sailtalk13802	npc_sail_10005
+133	1390	1	Sailtalk13901	npc_sail_10005
+134	1390	2	Sailtalk13902	npc_sail_10005
+135	1400	1	Sailtalk14001	npc_sail_10005
+136	1400	2	Sailtalk14002	npc_sail_10005
+137	1410	1	Sailtalk14101	npc_sail_10005
+138	1410	2	Sailtalk14102	npc_sail_10005
+139	1420	1	Sailtalk14201	npc_sail_10005
+140	1420	2	Sailtalk14202	npc_sail_10005
+141	1430	1	Sailtalk14301	npc_sail_10005
+142	1430	2	Sailtalk14302	npc_sail_10005
+143	1440	1	Sailtalk14401	npc_sail_10005
+144	1440	2	Sailtalk14402	npc_sail_10005
+145	1450	1	Sailtalk14501	npc_sail_10005
+146	1450	2	Sailtalk14502	npc_sail_10005
+147	1460	1	Sailtalk14601	npc_sail_10005
+148	1460	2	Sailtalk14602	npc_sail_10005
+149	1470	1	Sailtalk14701	npc_sail_10005
+150	1470	2	Sailtalk14702	npc_sail_10005
+151	1480	1	Sailtalk14801	npc_sail_10005
+152	1480	2	Sailtalk14802	npc_sail_10005
+153	1490	1	Sailtalk14901	npc_sail_10005
+154	1490	2	Sailtalk14902	npc_sail_10005
+155	1500	1	Sailtalk15001	npc_sail_10005
+156	1500	2	Sailtalk15002	npc_sail_10005
+157	1510	1	Sailtalk15101	npc_sail_10005
+158	1510	2	Sailtalk15102	npc_sail_10005
+159	1520	1	Sailtalk15201	npc_sail_10005
+160	1520	2	Sailtalk15202	npc_sail_10005
+161	1530	1	Sailtalk15301	npc_sail_10005
+162	1530	2	Sailtalk15302	npc_sail_10005
+163	1540	1	Sailtalk15401	npc_sail_10005
+164	1540	2	Sailtalk15402	npc_sail_10005
+165	1550	1	Sailtalk15501	npc_sail_10005
+166	1550	2	Sailtalk15502	npc_sail_10005
+167	1560	1	Sailtalk15601	npc_sail_10005
+168	1560	2	Sailtalk15602	npc_sail_10005
+169	1570	1	Sailtalk15701	npc_sail_10005
+170	1570	2	Sailtalk15702	npc_sail_10005
+171	1580	1	Sailtalk15801	npc_sail_10005
+172	1580	2	Sailtalk15802	npc_sail_10005
+173	1590	1	Sailtalk15901	npc_sail_10005
+174	1590	2	Sailtalk15902	npc_sail_10005
+175	1600	1	Sailtalk16001	npc_sail_10005
+176	1600	2	Sailtalk16002	npc_sail_10005
+177	1610	1	Sailtalk16101	npc_sail_10005
+178	1610	2	Sailtalk16102	npc_sail_10005
+179	1620	1	Sailtalk16201	npc_sail_10005
+180	1620	2	Sailtalk16202	npc_sail_10005
+181	1630	1	Sailtalk16301	npc_sail_10005
+182	1630	2	Sailtalk16302	npc_sail_10005
+183	1640	1	Sailtalk16401	npc_sail_10005
+184	1640	2	Sailtalk16402	npc_sail_10005
+185	1650	1	Sailtalk16501	npc_sail_10005
+186	1650	2	Sailtalk16502	npc_sail_10005
+187	1660	1	Sailtalk16601	npc_sail_10005
+188	1660	2	Sailtalk16602	npc_sail_10005
+189	1670	1	Sailtalk16701	npc_sail_10005
+190	1670	2	Sailtalk16702	npc_sail_10005
+191	1680	1	Sailtalk16801	npc_sail_10005
+192	1680	2	Sailtalk16802	npc_sail_10005
+193	1690	1	Sailtalk16901	npc_sail_10005
+194	1690	2	Sailtalk16902	npc_sail_10005
+195	1700	1	Sailtalk17001	npc_sail_10005
+196	1700	2	Sailtalk17002	npc_sail_10005
+197	19990	1	Sailtalk199901	npc_sail_10005
+198	19990	2	Sailtalk199902	npc_sail_10005
+199	19990	3	Sailtalk199903	npc_sail_10005
+200	19990	4	Sailtalk199904	npc_sail_10005
+201	19990	5	Sailtalk199905	npc_sail_10005
+202	9990	1	Sailtalk99901	npc_sail_10005
+203	9990	2	Sailtalk99902	npc_sail_10005
+204	9990	3	Sailtalk99903	npc_sail_10005
+205	9990	4	Sailtalk99904	npc_sail_10005
+206	10010	1	Sailtalk100101	npc_sail_10005
+207	10020	1	Sailtalk100201	npc_sail_10005
+208	10030	1	Sailtalk100301	npc_sail_10005
+209	10040	1	Sailtalk100401	npc_sail_10005
+210	10050	1	Sailtalk100501	player
+211	10060	1	Sailtalk100601	player
+212	10070	1	Sailtalk100701	player
+213	10080	1	Sailtalk100801	player
+214	10090	1	Sailtalk100901	player
+215	10100	1	Sailtalk101001	npc_sail_10005
+216	10110	1	Sailtalk101101	npc_sail_10005
+217	10120	1	Sailtalk101201	npc_sail_10005
+218	10130	1	Sailtalk101301	npc_sail_10005
+219	10140	1	Sailtalk101401	npc_sail_10005
+220	10150	1	Sailtalk101501	npc_sail_10005
+221	10160	1	Sailtalk101601	npc_sail_10005
+222	10170	1	Sailtalk101701	npc_sail_10005
+223	10180	1	Sailtalk101801	npc_sail_10005
+224	10190	1	Sailtalk101901	npc_sail_10005
+225	10200	1	Sailtalk102001	npc_sail_10005
+226	10210	1	Sailtalk102101	npc_sail_10005
+227	10220	1	Sailtalk102201	npc_sail_10005
+228	10230	1	Sailtalk102301	npc_sail_10005
+229	10240	1	Sailtalk102401	npc_sail_10005
+230	10250	1	Sailtalk102501	npc_sail_10005
+231	10260	1	Sailtalk102601	npc_sail_10005
+232	10270	1	Sailtalk102701	npc_sail_10005
+233	10280	1	Sailtalk102801	npc_sail_10005
+234	10290	1	Sailtalk102901	npc_sail_10005
+235	10300	1	Sailtalk103001	npc_sail_10005
+236	10310	1	Sailtalk103101	npc_sail_10005
+237	10320	1	Sailtalk103201	npc_sail_10005
+238	10330	1	Sailtalk103301	npc_sail_10005
+239	10340	1	Sailtalk103401	npc_sail_10005
+240	10350	1	Sailtalk103501	npc_sail_10005
+241	20010	1	Sailtalk200101	npc_sail_10006
+242	20020	1	Sailtalk200201	npc_sail_10006
+243	20030	1	Sailtalk200301	npc_sail_10006
+244	20040	1	Sailtalk200401	npc_sail_10006
+245	20050	1	Sailtalk200501	npc_sail_10007
+246	20060	1	Sailtalk200601	
+247	20070	1	Sailtalk200701	
+248	20080	1	Sailtalk200801	
+249	20090	1	Sailtalk200901	npc_sail_10007
+250	20100	1	Sailtalk201001	npc_sail_10005
+251	20110	1	Sailtalk201101	npc_sail_10005
+252	20120	1	Sailtalk201201	npc_sail_10007
+253	20130	1	Sailtalk201301	npc_sail_10007
+254	20140	1	Sailtalk201401	npc_sail_10007
+255	20150	1	Sailtalk201501	npc_sail_10007
+256	20160	1	Sailtalk201601	npc_sail_10007
+257	20170	1	Sailtalk201701	npc_sail_10007
+258	20180	1	Sailtalk201801	npc_sail_10007
+259	20190	1	Sailtalk201901	npc_sail_10005
+260	20200	1	Sailtalk202001	npc_sail_10005
+261	20210	1	Sailtalk202101	npc_sail_10005
+262	20220	1	Sailtalk202201	npc_sail_10005
+263	20230	1	Sailtalk202301	npc_sail_10005
+264	20240	1	Sailtalk202401	npc_sail_10005
+265	20250	1	Sailtalk202501	npc_sail_10005
+266	20260	1	Sailtalk202601	npc_sail_10005
+267	20270	1	Sailtalk202701	npc_sail_10005
+268	20280	1	Sailtalk202801	npc_sail_10005
+269	20290	1	Sailtalk202901	npc_sail_10005
+270	20300	1	Sailtalk203001	npc_sail_10005
+271	20310	1	Sailtalk203101	npc_sail_10005
+272	20320	1	Sailtalk203201	npc_sail_10005
+273	20330	1	Sailtalk203301	npc_sail_10005
+274	20340	1	Sailtalk203401	npc_sail_10005
+275	20350	1	Sailtalk203501	npc_sail_10005
+276	20360	1	Sailtalk203601	npc_sail_10005
+277	20370	1	Sailtalk203701	npc_sail_10008
+278	20380	1	Sailtalk203801	npc_sail_10008
+279	20390	1	Sailtalk203901	npc_sail_10008
+280	20400	1	Sailtalk204001	npc_sail_10008
+281	20410	1	Sailtalk204101	npc_sail_10008
+282	20420	1	Sailtalk204201	npc_sail_10001
+283	20430	1	Sailtalk204301	npc_sail_10001
+284	20440	1	Sailtalk204401	npc_sail_10008
+285	20450	1	Sailtalk204501	npc_sail_10008
+286	20460	1	Sailtalk204601	npc_sail_10008
+287	20470	1	Sailtalk204701	npc_sail_10007
+288	20480	1	Sailtalk204801	npc_sail_10007
+289	20490	1	Sailtalk204901	npc_sail_10005
+290	20500	1	Sailtalk205001	npc_sail_10005
+291	20510	1	Sailtalk205101	
+292	20520	1	Sailtalk205201	npc_sail_10007
+293	20530	1	Sailtalk205301	npc_sail_10007
+294	20540	1	Sailtalk205401	npc_sail_10005
+295	20550	1	Sailtalk205501	npc_sail_10006
+296	20560	1	Sailtalk205601	npc_sail_10006
+297	20570	1	Sailtalk205701	npc_sail_10006
+298	20580	1	Sailtalk205801	npc_sail_10006
+299	20590	1	Sailtalk205901	npc_sail_10006
+300	20600	1	Sailtalk206001	npc_sail_10006
+301	20610	1	Sailtalk206101	npc_sail_10006
+302	20620	1	Sailtalk206201	npc_sail_10005
+303	20630	1	Sailtalk206301	npc_sail_10005
+304	20640	1	Sailtalk206401	npc_sail_10005
+305	20650	1	Sailtalk206501	npc_sail_10005
+306	20660	1	Sailtalk206601	npc_sail_10005
+307	20670	1	Sailtalk206701	npc_sail_10005
+308	20680	1	Sailtalk206801	npc_sail_10005
+309	10011	1	Sailtalk100111	npc_sail_10005
+310	10021	1	Sailtalk100211	npc_sail_10005
+311	10031	1	Sailtalk100311	
+312	10041	1	Sailtalk100411	player
+313	10051	1	Sailtalk100511	
+314	10061	1	Sailtalk100611	
+315	10071	1	Sailtalk100711	
+316	10081	1	Sailtalk100811	
+317	10091	1	Sailtalk100911	
+318	10101	1	Sailtalk101011	npc_sail_10005
+319	10111	1	Sailtalk101111	npc_sail_10005
+320	10121	1	Sailtalk101211	
+321	10131	1	Sailtalk101311	
+322	10141	1	Sailtalk101411	
+323	10151	1	Sailtalk101511	
+324	10161	1	Sailtalk101611	
+325	10171	1	Sailtalk101711	
+326	10181	1	Sailtalk101811	player
+327	10191	1	Sailtalk101911	npc_sail_10005
+328	10211	1	Sailtalk102111	
+329	10221	1	Sailtalk102211	
+330	10231	1	Sailtalk102311	
+331	10241	1	Sailtalk102411	
+332	10251	1	Sailtalk102511	player
+333	10261	1	Sailtalk102611	player
+334	10271	1	Sailtalk102711	player
+335	10281	1	Sailtalk102811	player
+336	10291	1	Sailtalk102911	player
+337	10301	1	Sailtalk103011	
+338	10311	1	Sailtalk103111	
+339	10321	1	Sailtalk103211	
+340	10331	1	Sailtalk103311	
+341	10341	1	Sailtalk103411	
+342	10351	1	Sailtalk103511	
+343	10012	1	Sailtalk100121	player
+344	10022	1	Sailtalk100221	player
+345	10032	1	Sailtalk100321	player
+346	10042	1	Sailtalk100421	npc_sail_10005
+347	10052	1	Sailtalk100521	player
+348	10062	1	Sailtalk100621	player
+349	10072	1	Sailtalk100721	player
+350	10082	1	Sailtalk100821	player
+351	10092	1	Sailtalk100921	player
+352	10102	1	Sailtalk101021	player
+353	10112	1	Sailtalk101121	player
+354	10122	1	Sailtalk101221	
+355	10132	1	Sailtalk101321	player
+356	10142	1	Sailtalk101421	player
+357	10152	1	Sailtalk101521	
+358	10162	1	Sailtalk101621	
+359	10172	1	Sailtalk101721	
+360	10182	1	Sailtalk101821	
+361	10192	1	Sailtalk101921	player
+362	10202	1	Sailtalk102021	player
+363	10212	1	Sailtalk102121	
+364	10222	1	Sailtalk102221	
+365	10232	1	Sailtalk102321	
+366	10242	1	Sailtalk102421	
+367	10252	1	Sailtalk102521	player
+368	10262	1	Sailtalk102621	player
+369	10272	1	Sailtalk102721	player
+370	10282	1	Sailtalk102821	player
+371	10292	1	Sailtalk102921	
+372	10302	1	Sailtalk103021	
+373	10312	1	Sailtalk103121	
+374	10322	1	Sailtalk103221	
+375	10332	1	Sailtalk103321	
+376	10342	1	Sailtalk103421	
+377	10352	1	Sailtalk103521	
+378	20011	1	Sailtalk200111	player
+379	20021	1	Sailtalk200211	player
+380	20031	1	Sailtalk200311	player
+381	20041	1	Sailtalk200411	player
+382	20051	1	Sailtalk200511	npc_sail_10007
+383	20061	1	Sailtalk200611	
+384	20071	1	Sailtalk200711	
+385	20081	1	Sailtalk200811	
+386	20091	1	Sailtalk200911	player
+387	20101	1	Sailtalk201011	
+388	20111	1	Sailtalk201111	
+389	20121	1	Sailtalk201211	
+390	20131	1	Sailtalk201311	
+391	20141	1	Sailtalk201411	
+392	20151	1	Sailtalk201511	
+393	20161	1	Sailtalk201611	
+394	20171	1	Sailtalk201711	
+395	20181	1	Sailtalk201811	
+396	20191	1	Sailtalk201911	player
+397	20201	1	Sailtalk202011	
+398	20211	1	Sailtalk202111	
+399	20221	1	Sailtalk202211	
+400	20231	1	Sailtalk202311	
+401	20241	1	Sailtalk202411	
+402	20251	1	Sailtalk202511	
+403	20261	1	Sailtalk202611	
+404	20271	1	Sailtalk202711	
+405	20281	1	Sailtalk202811	
+406	20291	1	Sailtalk202911	
+407	20301	1	Sailtalk203011	
+408	20311	1	Sailtalk203111	
+409	20321	1	Sailtalk203211	
+410	20331	1	Sailtalk203311	
+411	20341	1	Sailtalk203411	
+412	20351	1	Sailtalk203511	
+413	20361	1	Sailtalk203611	
+414	20371	1	Sailtalk203711	
+415	20381	1	Sailtalk203811	
+416	20391	1	Sailtalk203911	
+417	20401	1	Sailtalk204011	
+418	20411	1	Sailtalk204111	
+419	20421	1	Sailtalk204211	
+420	20431	1	Sailtalk204311	
+421	20441	1	Sailtalk204411	
+422	20451	1	Sailtalk204511	
+423	20461	1	Sailtalk204611	
+424	20471	1	Sailtalk204711	player
+425	20481	1	Sailtalk204811	player
+426	20491	1	Sailtalk204911	
+427	20501	1	Sailtalk205011	
+428	20511	1	Sailtalk205111	
+429	20521	1	Sailtalk205211	
+430	20531	1	Sailtalk205311	
+431	20541	1	Sailtalk205411	
+432	20551	1	Sailtalk205511	
+433	20561	1	Sailtalk205611	
+434	20571	1	Sailtalk205711	
+435	20581	1	Sailtalk205811	
+436	20591	1	Sailtalk205911	
+437	20601	1	Sailtalk206011	
+438	20611	1	Sailtalk206111	
+439	20621	1	Sailtalk206211	
+440	20631	1	Sailtalk206311	
+441	20641	1	Sailtalk206411	
+442	20651	1	Sailtalk206511	
+443	20661	1	Sailtalk206611	
+444	20671	1	Sailtalk206711	
+445	20681	1	Sailtalk206811	
+446	20012	1	Sailtalk200121	npc_sail_10006
+447	20022	1	Sailtalk200221	npc_sail_10006
+448	20032	1	Sailtalk200321	npc_sail_10006
+449	20042	1	Sailtalk200421	player
+450	20052	1	Sailtalk200521	
+451	20062	1	Sailtalk200621	
+452	20072	1	Sailtalk200721	
+453	20082	1	Sailtalk200821	
+454	20092	1	Sailtalk200921	
+455	20102	1	Sailtalk201021	
+456	20112	1	Sailtalk201121	
+457	20122	1	Sailtalk201221	player
+458	20132	1	Sailtalk201321	player
+459	20142	1	Sailtalk201421	player
+460	20152	1	Sailtalk201521	player
+461	20162	1	Sailtalk201621	player
+462	20172	1	Sailtalk201721	player
+463	20182	1	Sailtalk201821	player
+464	20192	1	Sailtalk201921	player
+465	20202	1	Sailtalk202021	
+466	20212	1	Sailtalk202121	
+467	20222	1	Sailtalk202221	
+468	20232	1	Sailtalk202321	
+469	20242	1	Sailtalk202421	
+470	20252	1	Sailtalk202521	
+471	20262	1	Sailtalk202621	
+472	20272	1	Sailtalk202721	
+473	20282	1	Sailtalk202821	
+474	20292	1	Sailtalk202921	
+475	20302	1	Sailtalk203021	
+476	20312	1	Sailtalk203121	
+477	20322	1	Sailtalk203221	
+478	20332	1	Sailtalk203321	
+479	20342	1	Sailtalk203421	
+480	20352	1	Sailtalk203521	
+481	20362	1	Sailtalk203621	
+482	20372	1	Sailtalk203721	
+483	20382	1	Sailtalk203821	
+484	20392	1	Sailtalk203921	
+485	20402	1	Sailtalk204021	
+486	20412	1	Sailtalk204121	
+487	20422	1	Sailtalk204221	
+488	20432	1	Sailtalk204321	
+489	20442	1	Sailtalk204421	npc_sail_10008
+490	20452	1	Sailtalk204521	
+491	20462	1	Sailtalk204621	
+492	20472	1	Sailtalk204721	
+493	20482	1	Sailtalk204821	
+494	20492	1	Sailtalk204921	
+495	20502	1	Sailtalk205021	
+496	20512	1	Sailtalk205121	
+497	20522	1	Sailtalk205221	
+498	20532	1	Sailtalk205321	
+499	20542	1	Sailtalk205421	
+500	20552	1	Sailtalk205521	
+501	20562	1	Sailtalk205621	
+502	20572	1	Sailtalk205721	
+503	20582	1	Sailtalk205821	
+504	20592	1	Sailtalk205921	
+505	20602	1	Sailtalk206021	
+506	20612	1	Sailtalk206121	
+507	20622	1	Sailtalk206221	
+508	20632	1	Sailtalk206321	
+509	20642	1	Sailtalk206421	
+510	20652	1	Sailtalk206521	
+511	20662	1	Sailtalk206621	
+512	20672	1	Sailtalk206721	
+513	20682	1	Sailtalk206821	

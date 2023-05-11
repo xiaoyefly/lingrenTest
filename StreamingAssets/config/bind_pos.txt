@@ -1,0 +1,233 @@
+﻿绑点ID	绑点骨骼名称	比例偏离值
+int	string	vector3
+Id	BoneName	RateOffset
+1	Dummy001	
+2	Gethit01	
+3	Bone006	
+4	Bone002	
+5	eff001	
+6	origin	0,1,0
+7	Bip001 R Hand	
+8	Bip001 L Hand	
+9	Bone002	
+10	Bone001	
+11	Bone010	
+12	Bone014	
+13	Dummy003	
+14	origin	0,0.5,0
+15	Bip001 Spine1	
+16	Bone013	
+17	Bone044	
+18	Bone046	
+19	Bip001	
+20	Bone035	
+21	Bip001 HeadNub	
+22	Bip001 Spine	
+23	Bone041	
+24	Bip001 R Finger1	
+25	Bip001 Head	
+26	Bone034	
+27	Bip001 L Clavicle	
+28	Bone030	
+29	Bone060	
+30	Bone075	
+31	Bone045	
+32	Bone016	
+33	Bone017	
+34	Dummy004	
+35	Bip001 L Foot	
+36	Bip001 R Foot	
+37	Bone005	
+38	Bone008	
+39	Bip001 L Finger0	
+40	Bip001 R Toe0	
+41	bone003	
+42	Bone078	
+43	Dummy002	
+44	Bone300	
+45	Bip001 R Finger11	
+46	Bone038	
+47	Bone019	
+48	Bone003	
+49	Bone011	
+50	Dummybacklink01	
+51	Bone300	
+52	Dummy002	
+53	origin	0,0.1,1
+54	Bip001 L Finger11	
+55	origin	0,0,0
+56	Bip001 R Finger1Nub	
+57	Bip001 L Finger1Nub	
+58	Bone026	
+59	Bone018	
+60	Bone012	
+61	Bone015	
+62	Bone022	
+63	Bip001 L Toe0	
+64	Bip001 R Toe0	
+65	origin	0,0.1,0
+66	origin	0,0.1,0
+67	Bip001 L Finger21	
+68	Bip001 R Finger0Nub	
+69	Bone021	
+70	Bone007	
+71	Bone009	
+72	origin	0,-0.1,0
+73	Bip001 L Finger0	
+74	Bip001 R Finger0	
+75	Bone040	
+76	Bone025	
+77	Bone014	
+78	Bone007	
+79	Bone029	
+80	Bip001 L Finger01	
+81	Bone056	
+82	Bone048	
+83	origin	0,1.8,0
+84	Bip001 L Toe0Nub	
+85	Bip001 R Toe0Nub	
+86	Bone020	
+87	Bone037	
+88	Bone015	
+89	Bone001	
+90	Bone039	
+91	Bip001 R Finger2	
+92	Bip001 L Finger2	
+93	Bip001 Prop10	
+94	Bone004	
+95	Bip001 Neck	
+96	Dummy004	
+97	Dummy005	
+98	Bip002	
+99	Bip001 L Finger0	
+100	Bip001 R Finger0	
+101	Bip002 L Finger0	
+102	Bip002 R Finger0	
+103	Bip002 L Toe0	
+104	Bip002 R Toe0	
+105	Bip001 L Thigh	
+106	Bip001 R Thigh	
+107	Bip001 L Calf	
+108	Bip001 R Calf	
+109	Bip001 Pelvis	
+110	Bip001 L Forearm	
+111	Bip001 R Forearm	
+112	Bone009	
+113	Bone026	
+114	Bone031	
+115	Bip001 L UpperArm	
+116	Bip001 R UpperArm	
+117	Bone066	
+118	Bone080	
+119	Bone059	
+120	Bone081	
+121	Bone043	
+122	Bone028	
+123	Bone517	
+124	Bone522	
+125	Bone023	
+126	Bone050	
+127	Bone503	
+128	Bip002 L UpperArm	
+129	Bone070	
+130	Bone122	
+131	Bone068	
+132	Bone036	
+133	Bone303	
+134	Bone301	
+135	Bone057	
+136	Bone047	
+137	Bone049	
+138	Bone051	
+139	Bone052	
+140	Bone053	
+141	Bone032	
+142	Bone033	
+143	Bip001 R Finger2	
+144	Bone011(mirrored)	
+145	Bip001 Prop1	
+146	Bone18	
+147	Bone092	
+148	Gethit001	
+149	Dummybiplink001	
+150	Bone055	
+151	Bip001 Prop2	
+152	Bone080	
+153	Bip001 R Finger01	
+154	Bip001 Head	
+155	Bone030	
+156	Bone013	
+157	Bone024	
+158	Bip001 Spine1	
+159	Bone006	
+160	Bone012	
+161	bone010	
+162	bone011	
+163	Dummy_tx_001	
+164	Dummy_weapon01	
+165	Dummy_weapon02	
+166	Dummy_weapon03	
+167	Dummy_weapon04	
+168	Dummy006	
+169	Dummy007	
+170	Dummy008	
+171	body	
+172	ride001	
+173	Dummy038	
+174	Bone01	
+175	Bip001 R Clavicle	
+176	Bone058	
+177	Bone042	
+178	Bone054	
+179	Head	
+180	Bip001 Spine2	
+181	Bone020	
+182	Bip001 R UpperArm	
+183	Bip001 L UpperArm	
+184	Bone067	
+185	Bone069	
+186	Bone548	
+187	Bone550	
+188	Bone065	
+189	Bone098	
+190	Bone085	
+191	Bone111	
+192	Bone105	
+193	Bone099	
+194	Bone087	
+195	Bone072	
+196	Bone064	
+197	Bone112	
+198	Bone106	
+199	Bone229	
+200	Bone243	
+201	Bone139	
+202	Bone161	
+203	Bone162	
+204	Bone107	
+205	Bone108	
+206	Bone063	
+207	Bone549	
+208	Bone101	
+209	Bone523	
+210	Bone147	
+211	Bone545	
+212	Bone100	
+213	Bone095	
+214	Bone168	
+215	Bone307	
+216	Bone061	
+217	Bone074	
+218	Bone195	
+219	Dummyshoulderlink01	
+220	Bone027	
+221	Bip001 L HorseLink	
+222	Bip001 R HorseLink	
+223	Bone062	
+224	Bone004	
+225	Bone088	
+226	Bone142	
+227	Bone102	
+228	Bone090	
+229	Bone232	
+230	Bone030	

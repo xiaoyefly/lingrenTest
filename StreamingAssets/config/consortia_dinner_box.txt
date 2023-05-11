@@ -1,0 +1,4 @@
+﻿顺序	宝箱ID	掉落ID
+int	string	int
+Id	Rewardid	Dropid
+1	box_900002_001	20002

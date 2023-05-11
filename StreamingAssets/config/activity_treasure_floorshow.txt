@@ -1,0 +1,7 @@
+﻿ID	活动id	页签id	层数区间小	层数区间大	拼图图片	拼图奖励展示	随机挖宝类型概率调用组	随机格子刷新组概率调用组	背景ui图片	道具消耗调用	宝箱选择界面奖励展示	答题选择界面奖励展示
+int	int	int	int	int	string	string	int	int	string	int	string	string
+Id	ActiveId	Tabel	FloorMin	FloorMax	TreasureJigsawPic	TreasureJigsawShow	TreasureTypeZoneId	TreasureFreshZoneId	BackGroud	CostZoneId	TreasureBoxShow	QuestionShow
+1	13006	1	1	2	treasure_jigsawbox	item91000000885	1	1	jb_a3_bg	1	item90000000202	item90000000203
+2	13006	1	3	20	treasure_jigsawbox	item91000000885	2	1	jb_a3_bg	2	item90000000202	item90000000203
+3	13006	1	21	30	treasure_jigsawbox	item91000000885	2	1	jb_a3_bg	2	item90000000202	item90000000203
+4	13006	1	31	999	treasure_jigsawbox	item91000000885	2	1	jb_a3_bg	2	item90000000202	item90000000203

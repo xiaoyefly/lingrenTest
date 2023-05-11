@@ -1,0 +1,5 @@
+﻿阵列页签	阵列名字	阵列图
+int	string	string
+Page	Name	Backgroud
+1	UI_HeroKillStar_PageName_0	herokillstar_extrabackgroud1
+2	UI_HeroKillStar_PageName_1	herokillstar_extrabackgroud2

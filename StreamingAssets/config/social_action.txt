@@ -1,0 +1,17 @@
+﻿ID	排序优先级	动作类型	社交类型	动作Icon	动作名字	播放动作前置处理类型	离目标的距离（米）	需要目标时目标类型	对应角色	是否是巨人变身
+int	int	int	int	string	string	int	float	int	int	int
+Id	Order	ActionType	SocialType	Icon	Name	PreActionType	Distance	TargetType	Role	IsChangeBody
+1	1	1	1	social_dance01	social_dance01	1	0.000000	0	0	0
+2	2	1	1	social_waveurhand01	sjactor_huishou01	1	0.000000	0	0	0
+3	3	1	1	social_angry01	sjactor_shengqi01	1	0.000000	0	0	0
+4	4	1	1	social_showlove01	sjactor_shiai01	2	2.000000	0	0	0
+5	5	1	1	social_presentflower01	sjactor_songhua01	2	0.800000	0	0	0
+7	7	1	1	social_possum01	social_zs01	1	0.000000	0	0	0
+8	8	1	1	social_wabao01	sjactor_xunbao01	1	0.000000	0	0	0
+9	9	1	1	social_zuoxia01	sjactor_zuoxia01	1	0.000000	0	0	0
+10	10	1	1	social_saodi01	sjactor_saodi01	1	0.000000	0	0	0
+11	11	1	2	dsocial_bixin01	dsjactor_bixin01	2	0.100000	2	0	0
+12	12	2	2	social_zuoxia01	dsjactor_bixin02	2	0.100000	2	0	0
+13	13	1	2	dsocial_gongzhubao01	dsjactor_gongzhubao01	2	0.100000	2	0	0
+14	14	2	2	social_saodi01	dsjactor_gongzhubao02	2	0.100000	2	0	0
+15	15	1	1	icon_transfiguration	dsjactor_changebody	1	0.100000	0	0	1

@@ -1,0 +1,6 @@
+﻿小游戏ID	小游戏类型	小游戏失败掉落	小游戏胜利掉落	NPC背景	NPC形象	气泡	规则说明面板	对话选项	玩法美术资源	参数
+int	int	int	int	string	string	string	string	string	string	int
+EventID	Tpye	LoseDrop	WinDrop	NPCBgImage	NPCImg	BubbleImg	RuleBoardImg	ChatBarImg	GameImg	Value
+1	1	17603	17602	richman_04_bg	richman_04_hella	richman_04_bubble	richman_frame_bg,richman_frame_title	richman_btn_down		30
+2	2	17603	17602	richman_04_bg	richman_04_hella	richman_04_bubble	richman_frame_bg,richman_frame_title	richman_btn_up	richman_04_coin	0
+3	3	17603	17602	richman_04_bg	richman_04_hella	richman_04_bubble	richman_frame_bg,richman_frame_title	richman_btn_up	richman_04_coin,richman_04_cup	0

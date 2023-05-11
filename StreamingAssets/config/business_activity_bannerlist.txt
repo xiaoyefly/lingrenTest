@@ -1,0 +1,18 @@
+﻿流水ID	功能类型	活动id	时间类型	开始时间	结束时间	第几天开始	持续时间	跳转Url链接	跳转链接	跳转链接面板名	banner条图片
+int	int	int	int	string	string	int	int	string	string	string	string
+ID	Function	ActiveId	TimeType	StartTime	EndTime	StartDay	Duration	LinkUrl	Link	LinkPanelName	BannerImg
+1	213	0	0			0	0		OpenFirstRecharge	FirstRechargePanel	adv_01
+2	224	902	2	2020-10-24-00:00:00	2020-06-09-00:00:00	0	0	https://www.baidu.com/			adv_02
+3	225	703	2	2020-06-02-00:00:00	2020-06-03-00:00:00	0	0		LinkUI:WelfareActivityPanel;703;8	WelfareActivityPanel	adv_01
+4	243	6010	0			0	0				adv_02
+5	213	0	1			1	172800	https://www.baidu.com/			adv_01
+6	213	0	3			1	172800	https://www.baidu.com/			adv_02
+7	37	6807	2	2020-06-11-00:00:00	2020-06-24-23:59:59	1	0		OpenFirstRecharge	FirstRechargePanel	adv_01
+8	41	7005	2	2020-06-11-00:00:00	2020-06-24-23:59:59	1	0	https://www.baidu.com/			adv_01
+9	42	7105	1			1	172800		LinkUI:WelfareActivityPanel;703;8	WelfareActivityPanel	adv_01
+10	29	5526	3			1	172800				adv_01
+11	21	4629	0			0	0	https://www.baidu.com/			adv_01
+12	213	1960	1			0	-1		OpenFirstRecharge	FirstRechargePanel	adv_01
+13	225	1960	1			0	-1		LinkUI:WelfareActivityPanel;703;8	WelfareActivityPanel	adv_02
+14	37	1960	1			0	-1		OpenFirstRecharge	FirstRechargePanel	adv_02
+15	42	1960	1			0	-1		LinkUI:WelfareActivityPanel;703;8	WelfareActivityPanel	adv_01

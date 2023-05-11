@@ -1,0 +1,8 @@
+﻿流水ID	组ID	普通掉落	是否加入小游戏	宝箱掉落ID
+int	int	int	int	int
+ID	GroupID	NomalDropID	IsEvent	ChestDropID
+26	26	17601	0	17601
+27	27	17600	1	17604
+28	28	17600	1	17604
+29	29	17600	1	17604
+30	30	17600	1	17604

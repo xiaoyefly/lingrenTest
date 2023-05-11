@@ -1,0 +1,12 @@
+﻿流水id	类型	Npc图片	条件参数	标题	第2行话	展示语言包	条件参数百分比语言包	按钮上方参数语言包	跳转链接
+int	int	string	int	string	string	string	string	string	string
+Id	Type	NpcPic	ShowPar	ShowLanguageTitle	ShowLanguage1	ShowLanguage2	ShowLanguagePar	ShowLanguageButton	LinkUI
+1	1	halfyear03_npc02	-1	AAHonoursPage_ShowLanguageTitle01	AAHonoursPage_ShowLanguage101			AAHonoursPage_ShowLanguageButton01	
+2	2	halfyear03_npc01	-1	AAHonoursPage_ShowLanguageTitle02	AAHonoursPage_ShowLanguage02	AAHonoursPage_ShowLanguageButton02			
+3	3	halfyear03_npc04	-1	AAHonoursPage_ShowLanguageTitle02	AAHonoursPage_ShowLanguage03			AAHonoursPage_ShowLanguageButton03	
+4	4	halfyear03_npc03	-1	AAHonoursPage_ShowLanguageTitle02	AAHonoursPage_ShowLanguage04				
+5	5	halfyear03_npc01	-1	AAHonoursPage_ShowLanguageTitle02	AAHonoursPage_ShowLanguage05				
+6	6	halfyear03_npc04	-1	AAHonoursPage_ShowLanguageTitle02	AAHonoursPage_ShowLanguage06				
+7	7	halfyear03_npc02	-1	AAHonoursPage_ShowLanguageTitle02	AAHonoursPage_ShowLanguage07				
+8	8	halfyear03_npc03	-1	AAHonoursPage_ShowLanguageTitle02	AAHonoursPage_ShowLanguage08				
+9	9	halfyear03_npc04	-1		AAHonoursPage_End				LinkUI:OpenServerActivityPanel;7803;48

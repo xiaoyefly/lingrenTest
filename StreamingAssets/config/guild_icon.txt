@@ -1,0 +1,15 @@
+﻿序号	公会图标
+int	string
+Id	Icon
+1	guildicon1
+2	guildicon2
+3	guildicon3
+4	guildicon4
+5	guildicon5
+6	guildicon6
+7	guildicon7
+8	guildicon8
+9	guildicon9
+10	guildicon10
+11	guildicon11
+12	guildicon12

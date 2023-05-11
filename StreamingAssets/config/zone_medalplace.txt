@@ -1,0 +1,6 @@
+﻿勋章墙位置ID	获取途径	获取途径描述
+int	string	string
+MedalPlaceId	MedalPlaceUnLockWay	MedalPlaceUnLockWayStr
+1	medal_place_unlockway1	medal_place_unlockway_str1
+2	medal_place_unlockway2	medal_place_unlockway_str2
+3	medal_place_unlockway3	medal_place_unlockway_str3

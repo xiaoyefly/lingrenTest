@@ -1,0 +1,6 @@
+﻿开放场景ID	场景最大人数	刷怪点坐标集
+int	int	string
+Id	PlayerLimit	MonsterPos
+50	200	
+51	200	
+52	200	

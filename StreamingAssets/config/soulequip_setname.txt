@@ -1,0 +1,9 @@
+﻿套装id	套装名	同名套装
+int	string	string
+Id	SetName	Mapping
+1001	SoulEquipSet_1001	1007
+1002	SoulEquipSet_1002	1008
+1003	SoulEquipSet_1003	1009
+1004	SoulEquipSet_1004	1010
+1005	SoulEquipSet_1005	1011
+1006	SoulEquipSet_1006	1012

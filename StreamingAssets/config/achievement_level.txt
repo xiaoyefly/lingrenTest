@@ -1,0 +1,9 @@
+﻿成就等级	升级成就点	获得属性列表	段位图片	段位等级名字	段位类型
+int	int	string	string	string	int
+Level	NeedPoints	PropId	Picture	TierName	TierType
+0	0		icon_qingtong	TierName1	1
+1	50	100001	icon_baiyin	TierName2	2
+2	150	100002	icon_huangjin	TierName3	3
+3	300	100003	icon_bojin	TierName4	4
+4	500	100004	icon_zuanshi	TierName5	5
+5	700	100005	icon_wangzhe	TierName6	6

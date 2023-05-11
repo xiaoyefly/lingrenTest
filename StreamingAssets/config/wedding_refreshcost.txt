@@ -1,0 +1,5 @@
+﻿重置次数	重置花费
+int	string
+RefreshTimes	RefreshCost
+0	1,0
+1	3,500

@@ -1,0 +1,10 @@
+﻿条件ID	当前界面	前置界面
+int	string	string
+Id	CurrentPanel	PrePanel
+1	GrowUpPanel	
+2	GuildBadgePanel	
+3	EquipQuenchingMainPage	
+4	StrengthenStarForgePage	
+5	StrengthenComposePage	
+6	EquipBagPage	
+7	FashionPanel	

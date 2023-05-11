@@ -1,0 +1,5 @@
+﻿GM编号	GM命令	GM等级
+int	string	int
+Id	Command	Level
+1	prop	1
+2	move	1

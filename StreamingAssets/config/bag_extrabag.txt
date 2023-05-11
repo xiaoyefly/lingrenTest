@@ -1,0 +1,6 @@
+﻿包中包id	包中包道具类型	包中包名称	默认放入描述	错误提示	帮助标题	帮助说明	放入道具类型	放入道具列表	背包容量
+int	int	string	string	string	string	string	string	string	int
+Id	ExtraBagType	ExtraBagName	AutoPutDes	ErrorTips	Extrabag_HelpTitle	Extrabag_HelpBody	ItemInnerType	ItemList	BagSpace
+1	201	ExtraBagName_Fish	ExtraBagAutoPutDes_Fish	ExtraBagErrorTips_Fish	Extrabag_HelpTitle_Fish	Extrabag_HelpBody_Fish	6100,16002,16003,16004,39001	item90000000146,item90000000147,item90000000148,item90000000149,item90000000150,item90000000151,item90000000152	200
+12	202	ExtraBagName_Food	ExtraBagAutoPutDes_Food	ExtraBagErrorTips_Food	Extrabag_HelpTitle_Food	Extrabag_HelpBody_Food	2013,2014		200
+13	203	ExtraBagName_Envoy	ExtraBagAutoPutDes_Envoy	ExtraBagErrorTips_Envoy	Extrabag_HelpTitle_Envoy	Extrabag_HelpBody_Envoy	1084,1086		200

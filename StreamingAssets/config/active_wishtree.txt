@@ -1,0 +1,4 @@
+﻿活动id	每日许愿可选数量	许愿时间	实现愿望时间
+int	int	string	int
+ActiveId	Num	WishTime	RealizeWishTime
+2	2	6,0	1

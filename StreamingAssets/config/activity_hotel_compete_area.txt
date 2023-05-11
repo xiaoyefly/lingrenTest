@@ -1,0 +1,10 @@
+﻿流水	活动ID	区域ID	解锁条件	解锁材料	区域名称	区域描述	区域Icon
+int	int	int	string	string	string	string	string
+Id	Activity	Area	AreaCondition	Item	AreaName	AreaDes	Icon
+1	7612	1			HotelAreaName_1	HotelAreaDes_1	icon_hotelcompete_qiantai
+2	7612	2	1,1	item144420000002,4;item144420000001,60	HotelAreaName_2	HotelAreaDes_2	icon_hotelcompete_chufang
+3	7612	3	2,1	item144420000002,10;item144420000001,80	HotelAreaName_3	HotelAreaDes_3	icon_hotelcompete_keting
+4	7612	4	3,1	item144420000002,25;item144420000001,100	HotelAreaName_4	HotelAreaDes_4	icon_hotelcompete_batai
+5	7612	5	4,1	item144420000002,40;item144420000001,120	HotelAreaName_5	HotelAreaDes_5	icon_hotelcompete_kefang
+6	7612	6	5,1	item144420000002,60;item144420000001,150	HotelAreaName_6	HotelAreaDes_6	icon_hotelcompete_taofang
+7	7612	7	6,1	item144420000002,80;item144420000001,180	HotelAreaName_7	HotelAreaDes_7	icon_hotelcompete_haohua

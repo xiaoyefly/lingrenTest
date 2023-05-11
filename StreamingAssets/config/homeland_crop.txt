@@ -1,0 +1,8 @@
+﻿农作物id	收获数量	获得家园经验	成熟时长	植物模型显示状态	首次解锁系统赠送
+int	int	int	int	string	int
+CropId	HarvestCount	HomeLandExp	GrowthTime	GrowthTimeStatus	FirstPresent
+4001	2	1	60	0.3;1	5
+4002	2	2	120	0.3;1	5
+4004	2	2	300	0.3;1	5
+4003	2	2	900	0.3;1	5
+4005	2	2	1800	0.3;1	5

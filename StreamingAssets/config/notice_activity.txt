@@ -1,0 +1,4 @@
+﻿funcID	提前时间弹出	提示文字	提示按钮文字	链接命令	链接参数
+int	int	string	string	string	string
+Id	NoticeTime	NoticeDes	NoticeButtonDes	Link	LinkParm
+141	60	NoticeDes141	NoticeButtonDes141	ClickNpc	2;npc_examination

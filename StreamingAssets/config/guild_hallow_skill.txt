@@ -1,0 +1,32 @@
+﻿流水ID	类型	技能名	技能等级	参数	需求圣器等级	详细信息提示	下级提示	技能图标
+int	int	string	int	string	int	string	string	string
+Id	Type	SkillName	SkillLevel	Parameter	NeedHallowLevel	SkillDesc	NextSkillDesc	SkillIcon
+1001	1	HallowSkillName1001	1	1000	2	HallowSkillDesc1001	NextSkillDesc1001	hallowskill_1001
+1002	1	HallowSkillName1001	2	2000	5	HallowSkillDesc1001	NextSkillDesc1001	hallowskill_1001
+1003	1	HallowSkillName1001	3	3000	9	HallowSkillDesc1001	NextSkillDesc1001	hallowskill_1001
+2001	2	HallowSkillName2001	1	2500	1	HallowSkillDesc2001	NextSkillDesc2001	hallowskill_1002
+2002	2	HallowSkillName2001	2	5000	4	HallowSkillDesc2001	NextSkillDesc2001	hallowskill_1002
+2003	2	HallowSkillName2001	3	7500	7	HallowSkillDesc2001	NextSkillDesc2001	hallowskill_1002
+3001	3	HallowSkillName3001	1	2	3	HallowSkillDesc3001	NextSkillDesc3001	hallowskill_1003
+3002	3	HallowSkillName3001	2	2	6	HallowSkillDesc3002	NextSkillDesc3002	hallowskill_1003
+3003	3	HallowSkillName3001	3	2	8	HallowSkillDesc3003	NextSkillDesc3003	hallowskill_1003
+4001	4	HallowSkillName4001	1	1,5	2	HallowSkillDesc4001	NextSkillDesc4002	hallowskill_1004
+4002	4	HallowSkillName4001	2	1,5	3	HallowSkillDesc4002	NextSkillDesc4003	hallowskill_1004
+4003	4	HallowSkillName4001	3	1,5	4	HallowSkillDesc4003	NextSkillDesc4004	hallowskill_1004
+4004	4	HallowSkillName4001	4	1,5	5	HallowSkillDesc4004	NextSkillDesc4005	hallowskill_1004
+4005	4	HallowSkillName4001	5	1,5	6	HallowSkillDesc4005	NextSkillDesc4006	hallowskill_1004
+4006	4	HallowSkillName4001	6	1,5	7	HallowSkillDesc4006		hallowskill_1004
+5001	5	HallowSkillName5001	1	item1003,10	1	HallowSkillDesc5001	NextSkillDesc5001	hallowskill_1005
+5002	5	HallowSkillName5001	2	item1003,15	2	HallowSkillDesc5002	NextSkillDesc5002	hallowskill_1005
+5003	5	HallowSkillName5001	3	item1003,20	3	HallowSkillDesc5003	NextSkillDesc5003	hallowskill_1005
+5004	5	HallowSkillName5001	4	item1003,25	4	HallowSkillDesc5004	NextSkillDesc5004	hallowskill_1005
+5005	5	HallowSkillName5001	5	item1003,30	5	HallowSkillDesc5005	NextSkillDesc5005	hallowskill_1005
+5006	5	HallowSkillName5001	6	item1003,35	6	HallowSkillDesc5006	NextSkillDesc5006	hallowskill_1005
+5007	5	HallowSkillName5001	7	item1003,40	7	HallowSkillDesc5007	NextSkillDesc5007	hallowskill_1005
+5008	5	HallowSkillName5001	8	item1003,45	8	HallowSkillDesc5008	NextSkillDesc5008	hallowskill_1005
+5009	5	HallowSkillName5001	9	item1003,50	9	HallowSkillDesc5009		hallowskill_1005
+6001	6	HallowSkillName6001	1		1	HallowSkillDesc6001	NextSkillDesc6001	skill_60761
+6002	6	HallowSkillName6001	2		3	HallowSkillDesc6002	NextSkillDesc6002	skill_60761
+6003	6	HallowSkillName6001	3		5	HallowSkillDesc6003	NextSkillDesc6003	skill_60761
+6004	6	HallowSkillName6001	4		7	HallowSkillDesc6004	NextSkillDesc6004	skill_60761
+6005	6	HallowSkillName6001	5		9	HallowSkillDesc6005		skill_60761

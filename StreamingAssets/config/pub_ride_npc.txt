@@ -1,0 +1,25 @@
+﻿NPC编号	动作集	名称	名称位置	是否场景显示名字	描述	激活条件	坐骑品质	模型编号	能否攻击	圆柱高度	圆柱半径	转向速度	模型缩放	手里模型缩放	预警范围	出生程序特效	死亡程序特效	使用坐骑类型	坐骑绑点	绑特效	骑乘动作集
+string	int	string	string	bool	string	string	int	string	bool	float	float	float	float	float	string	int	int	int	int	int	string
+Id	ActionSet	Name	NamePos	IsShow	RideDes	ActiveCondition	RideRare	Avatar	CantAttack	CollideHeight	CollideRadius	RotationSpeed	AvatarZoom	AvatarZoomPickGrail	WarningRange	BornProgramEffect	DeadProgramEffect	RideType	BindPos	BindEffect	RideActionSet
+ride_pub_001	300004	Box001	0,2,0	1			0	b001|body|b001_body_t1	1	2.000000	1.000000	0.000000	2.000000	0.000000		0	0	0	0	0	27
+ride_pub_ofk_001	4000020	Ride_Pub_Ofk_001	0,2,0	1			0	r011|body|r011_body_t2	1	2.500000	0.500000	0.000000	1.000000	0.000000		0	0	0	0	0	27
+ride_pub_300011_01	4001007	Ride_Pub_001	0,2,0	1			0	g518|body|g518_body_t1	1	2.000000	1.000000	10.000000	1.000000	0.000000	16;4	0	0	0	0	0	28
+ride_pub_300012_01	4001007	Ride_Pub_001	0,2,0	1			0	g518|body|g518_body_t1	1	2.000000	1.000000	10.000000	1.000000	0.000000	16;4	0	0	0	0	0	28
+ride_pub_300015_01	4001007	Ride_Pub_001	0,2,0	1			0	g518|body|g518_body_t1	1	2.000000	1.000000	10.000000	1.000000	0.000000	16;4	0	0	0	0	0	28
+ride_pub_300121_01	4001007	name_ride_pub_300121_01	0,2,0	1			0	g008|body|g008_body_t1	1	2.000000	1.000000	0.000000	0.500000	0.000000	16;4	0	0	0	34	0	28
+guild_seat_01	4001008	guild_seat_01	0,1,0	0			0	g033|body|g033_body_t1	0	1.000000	0.500000	5.000000	1.000000	0.000000		110003	110004	0	0	0	30
+grail_01	25	grail_01		0			0	g534|body|g534_body_t1	0	3.000000	1.000000	5.000000	1.500000	0.800000		0	0	1	44	10000022	26
+wood_01	25	wood_01	0,2,0	1			0	g540|body|g540_body_t1	0	0.500000	0.500000	5.000000	1.000000	0.800000		0	0	1	44	0	26
+stone_01	25	stone_01	0,2,0	1			0	g133|body|g133_body_t1	0	1.700000	0.500000	5.000000	0.300000	0.300000		0	0	1	44	0	26
+ride_pub_stone_01	25	Ride_Pub_Stone_01	0,2,0	0			0	g042|body|g042_body_t1	0	1.000000	0.500000	5.000000	0.300000	0.300000		0	0	1	44	0	26
+ride_pub_stone_02	25		0,2,0	0			0	g042|body|g042_body_t1	0	1.000000	0.500000	5.000000	0.300000	0.300000		0	0	1	44	0	26
+ride_pub_seat_01	4001008	guild_seat_01	0,1,0	0			0	g033|body|g033_body_t1	0	1.000000	0.500000	5.000000	1.000000	0.000000		0	0	0	0	0	30
+ride_pub_seat_fire	4001008	guild_seat_01	0,1,0	0			0	g033|body|g033_body_t1	0	1.000000	0.500000	5.000000	1.000000	0.000000		0	0	0	0	0	30
+ride_pub_seat_air01	4001008	guild_seat_01	0,1,0	0			0	EmptyAvatar	0	1.000000	0.000000	5.000000	1.000000	0.000000		0	0	0	65	0	30
+ride_pub_seat_air02	4001008	guild_seat_01	0,1,0	0			0	EmptyAvatar	0	1.000000	0.000000	5.000000	1.000000	0.000000		0	0	0	66	0	30
+wood_02	25	wood_01	0,2,0	1			0	g540|body|g540_body_t1	0	0.500000	0.500000	5.000000	1.000000	0.800000		0	0	1	44	0	26
+star_01	25	ItemName_106030101171	0,2,0	1			0		0	0.500000	0.500000	5.000000	1.000000	0.800000		0	0	1	44	10168	26
+stone_02	25	stone_01	0,2,0	1			0	g133|body|g133_body_t1	0	0.500000	0.500000	5.000000	0.400000	0.400000		0	0	1	44	0	26
+task_pangpangshen	25		0,2,0	1			0	g104|body|g104_body_t1	0	0.500000	0.500000	5.000000	1.000000	1.000000		0	0	1	44	0	26
+task_yaocao	25		0,2,0	1			0	g101|body|g101_body_t1	0	0.500000	0.500000	5.000000	1.000000	1.000000		0	0	1	44	0	26
+guildleague_bluebomb_101	25	bomb01	0,2,0	0			0	g026|body|g026_body_t1	0	1.000000	0.500000	5.000000	1.000000	1.000000		0	0	1	44	0	26

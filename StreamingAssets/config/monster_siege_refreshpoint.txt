@@ -1,0 +1,7 @@
+﻿刷怪点Id	场景原型Id	坐标集	刷怪点名称	刷怪点资源
+int	int	string	string	string
+Id	SceneProtoId	Coordinate	PointName	PointRes
+1	2	-46.2,1.2,-49.0,45.7	monster_siegepoint1	icon_monster_door
+2	2	71.9,-1.4,-26.9,321.0	monster_siegepoint2	icon_monster_door
+3	2	39.8,10.6,72.1,222.8	monster_siegepoint3	icon_monster_door
+4	2	-42.7,3.7,17.8,130.0	monster_siegepoint4	icon_monster_door

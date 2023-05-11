@@ -1,0 +1,37 @@
+﻿活动id	展示图	展示图语言包	展示道具展示	抽取描述	展示宝箱	展示宝箱语言包	宝箱显示标签	宝箱规则描述	宝箱前面特效	宝箱后面特效
+int	string	string	string	string	string	string	string	string	int	int
+ActivityId	ActivityDisplayDrawing	ActivityDisplayDrawingDesc	ItemId	LuckySixCumulativeDesc	DiamondPoolShow	DiamondPoolShowDesc	DiamondPoolShowTabel	DiamondPoolDesc	FrontEffect	BackEffect
+6305	bg_xiaobai	UI_DisplayDrawing_Desc_8201	item101020503055	UI_Cumulative_Desc_8201	recharge_icon06	UI_Show_Desc_8201	UI_DiamondPool_ShowTabel	UI_ActiveLuckySix_HelpBody20200310	10120	10119
+6307	bg_jiqiren	UI_DisplayDrawing_Desc_8201	item101020503086	UI_Cumulative_Desc_8201	recharge_icon06	UI_Show_Desc_8201	UI_DiamondPool_ShowTabel	UI_ActiveLuckySix_HelpBody20200310	10120	10119
+6308	bg_jiqiren	UI_DisplayDrawing_Desc_8201	item101020503086	UI_Cumulative_Desc_8201	recharge_icon06	UI_Show_Desc_8201	UI_DiamondPool_ShowTabel	UI_ActiveLuckySix_HelpBody20200310	10120	10119
+6309	bg_jiqiren	UI_DisplayDrawing_Desc_8201	item101020503086	UI_Cumulative_Desc_8201					0	0
+6310	bg_xiangsufeng	UI_DisplayDrawing_Desc_8202	item100500000117	UI_Cumulative_Desc_8201					0	0
+6311	bg_wizard	UI_DisplayDrawing_Desc_8203	item130000940506	UI_Cumulative_Desc_8203					0	0
+6312	bg_xiangsufeng	UI_DisplayDrawing_Desc_8202	item100500000117	UI_Cumulative_Desc_8201					0	0
+6313	bg_buzhihuo	UI_DisplayDrawing_Desc_8202	item101020503097	UI_Cumulative_Desc_8202					0	0
+6314	bg_jiqimao	UI_DisplayDrawing_Desc_8201	item101020507345	UI_Cumulative_Desc_8201					0	0
+6315	bg_wizard_1	UI_DisplayDrawing_Desc_8203	item130000940509	UI_Cumulative_Desc_8203					0	0
+6316	bg_dalishi	UI_DisplayDrawing_Desc_8202	item101020514004	UI_Cumulative_Desc_8203					0	0
+6317	bg_dalishi	UI_DisplayDrawing_Desc_8202	item101020514004	UI_Cumulative_Desc_8203					0	0
+6318	bg_wizard_4	UI_DisplayDrawing_Desc_8202	item101020514007	UI_Cumulative_Desc_8203					0	0
+6319	bg_wizard_1	UI_DisplayDrawing_Desc_8202	item130000940509	UI_Cumulative_Desc_8203					0	0
+6320	bg_wizard_7	UI_DisplayDrawing_Desc_8205	item101020514008	UI_Cumulative_Desc_8203					0	0
+6321	bg_wizard_8	UI_DisplayDrawing_Desc_8206	item101020514010	UI_Cumulative_Desc_8203					0	0
+6322	bg_wizard_8	UI_DisplayDrawing_Desc_8207	item101020514011	UI_Cumulative_Desc_8203					0	0
+6323	bg_sakura	UI_DisplayDrawing_Desc_8208	item130000040518	UI_Cumulative_Desc_8203					0	0
+6324	bg_fengxi	UI_DisplayDrawing_Desc_8209	item101020514014	UI_Cumulative_Desc_8203					0	0
+6325	bg_sujiuer	UI_DisplayDrawing_Desc_8209	item101020514015	UI_Cumulative_Desc_8203					0	0
+6326	bg_wizard_12	UI_DisplayDrawing_Desc_8210	item101020514013	UI_Cumulative_Desc_8203					0	0
+6327	bg_wizard_6	UI_DisplayDrawing_Desc_8205	item101020514009	UI_Cumulative_Desc_8203					0	0
+6328	bg_wizard_15	UI_DisplayDrawing_Desc_8206	item101020514017	UI_Cumulative_Desc_8201					0	0
+6329	bg_dawa	UI_DisplayDrawing_Desc_8211	item8101020514021	UI_Cumulative_Desc_8201					0	0
+6330	bg_wizard_4	UI_DisplayDrawing_Desc_8202	item8101020514007	UI_Cumulative_Desc_8201					0	0
+6331	bg_wizard_4	UI_DisplayDrawing_Desc_8202	item8101020514007	UI_Cumulative_Desc_8201					0	0
+6332	bg_wizard_4	UI_DisplayDrawing_Desc_8202	item8101020514007	UI_Cumulative_Desc_8201					0	0
+6333	bg_wizard_4	UI_DisplayDrawing_Desc_8202	item8101020514007	UI_Cumulative_Desc_8201					0	0
+6334	bg_wizard_21	UI_DisplayDrawing_Desc_8202	item101020514028	UI_Cumulative_Desc_8201					0	0
+6335	bg_wizard_4	UI_DisplayDrawing_Desc_8202	item8101020514007	UI_Cumulative_Desc_8201					0	0
+6336	bg_wizard_16	UI_DisplayDrawing_Desc_8202	item91000001193	UI_Cumulative_Desc_8201					0	0
+6337	bg_wizard_4	UI_DisplayDrawing_Desc_8202	item8101020514007	UI_Cumulative_Desc_8201					0	0
+6338	bg_wizard_4	UI_DisplayDrawing_Desc_8202	item8101020514007	UI_Cumulative_Desc_8201					0	0
+6339	bg_wizard_4	UI_DisplayDrawing_Desc_8202	item8101020514007	UI_Cumulative_Desc_8201					0	0

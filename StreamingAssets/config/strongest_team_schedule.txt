@@ -1,0 +1,8 @@
+﻿阶段id	开始时间（距离抽检检测点天数）	活动开始时间	活动结束时间	时间显示语言包	最小需求人数	最大需求人数	进入战斗时间点	竞猜开始时间	竞猜结束时间	单局最大场次	单场准备读秒	单场战斗时间	两场间隔时间	竞猜正确奖励	竞猜错误奖励	战斗胜利奖励	战斗失败奖励
+int	int	string	string	string	int	int	string	string	string	int	int	int	int	string	string	string	string
+Id	OpenDay	StartTime	FinishTime	TimeShowText	ParticipantMin	ParticipantMax	BattleTime	GuessingStartTime	GuessingFinishTime	Format	PrepareTime	BattleDuration	IntervalTime	GuessingWin	GuessingLoss	WinerReward	LosserReward
+1	0	00:00:30	23:59:59	TimeShowText1;TimeShowText2;TimeShowText3	3	7				0	0	0	0				
+2	7	21:00:00	21:40:00	TimeShowText1;TimeShowText2;TimeShowText3	3	5	21:10:00	00:00:00	21:10:00	3	3	180	10	item100000000005,5	item100000000005,2	item1014,50	item1014,50
+3	14	21:00:00	21:20:00	TimeShowText1;TimeShowText2;TimeShowText3	3	5	21:10:00	00:00:00	21:10:00	3	3	180	10	item100000000005,5	item100000000005,2	item1014,100	item1014,100
+4	14	21:20:00	21:40:00	TimeShowText1;TimeShowText2;TimeShowText3	3	5	21:25:00	21:20:00	21:25:00	3	3	180	10	item100000000005,10	item100000000005,5	item1014,200	item1014,200
+5	21	21:00:00	21:40:00	TimeShowText1;TimeShowText2;TimeShowText3	3	5	21:10:00	00:00:00	21:10:00	5	3	180	10	item1014,200	item1014,100	item1014,300	item1014,300

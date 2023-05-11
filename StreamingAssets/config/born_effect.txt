@@ -1,0 +1,10 @@
+﻿出场效果Id	出场动画资源	推镜头的距离	推镜头喊话	推镜头触发距离	推镜头时间	是否可跳过	是否隐藏
+int	string	float	string	float	float	bool	bool
+Id	AppearAnimation	TipCameraPushDistance	TipCameraPushMessage	CameraPushTriggerDis	CameraPushTime	IsSkip	IsHide
+1	30003_b004_01	3.000000	MonsterMessage10210003	10.000000	4.000000	1	1
+2	30003_b004_02	3.000000	MonsterMessage10210003	10.000000	4.000000	1	1
+3	30002_b003_01	3.000000	MonsterMessage10210003	10.000000	4.000000	1	1
+4	30001_b001_01	3.000000	MonsterMessage10210003	10.000000	4.000000	1	1
+5	35001_b008_01	3.000000	MonsterMessage10210003	10.000000	4.000000	1	1
+6	35001_b009_01	3.000000	MonsterMessage10210003	10.000000	4.000000	1	1
+7	30004_b012_01	3.000000	MonsterMessage10210003	10.000000	6.000000	1	1

@@ -1,0 +1,9 @@
+﻿流水号	宝箱组	buff组	固定位buff组	陷阱组
+int	int	int	int	int
+Id	ChestGroup	BuffGroup	SpecialBuffGroup	TrackGroup
+1	5560	5560	1	5560
+2	6170	6170	1	6170
+3	7180	7180	1	7180
+4	8190	8190	1	8190
+5	8190	8190	1	8190
+6	8190	8190	1	8190

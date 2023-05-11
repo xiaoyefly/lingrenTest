@@ -1,0 +1,75 @@
+﻿特质ID	特质品质	特质种类	生效条件	加成效果	特质评分	特质名称	总特质描述	洗练特质描述
+int	int	int	string	string	int	string	string	string
+SpecialityId	Rare	Type	Condition	Addition	Score	Name	TotalDes	Des
+101	2	1	4,2,3	1,1,2000	0	SpeName_101	SpeTotalDes_101	SpeDes_101
+102	3	1	4,3,3	1,1,3000	0	SpeName_102	SpeTotalDes_102	SpeDes_102
+103	4	1	4,4,5	1,1,4000	0	SpeName_103	SpeTotalDes_103	SpeDes_103
+104	5	1	4,5,5	1,1,6000	0	SpeName_104	SpeTotalDes_104	SpeDes_104
+201	2	1	4,2,3	1,4,200	0	SpeName_201	SpeTotalDes_201	SpeDes_201
+202	3	1	4,3,3	1,4,300	0	SpeName_202	SpeTotalDes_202	SpeDes_202
+203	4	1	4,4,5	1,4,400	0	SpeName_203	SpeTotalDes_203	SpeDes_203
+204	5	1	4,5,5	1,4,600	0	SpeName_204	SpeTotalDes_204	SpeDes_204
+301	2	1	4,2,3	1,3,200	0	SpeName_301	SpeTotalDes_301	SpeDes_301
+302	3	1	4,3,3	1,3,300	0	SpeName_302	SpeTotalDes_302	SpeDes_302
+303	4	1	4,4,5	1,3,400	0	SpeName_303	SpeTotalDes_303	SpeDes_303
+304	5	1	4,5,5	1,3,600	0	SpeName_304	SpeTotalDes_304	SpeDes_304
+401	2	1	4,2,3	1,34,500	0	SpeName_401	SpeTotalDes_401	SpeDes_401
+402	3	1	4,3,3	1,34,750	0	SpeName_402	SpeTotalDes_402	SpeDes_402
+403	4	1	4,4,5	1,34,1000	0	SpeName_403	SpeTotalDes_403	SpeDes_403
+404	5	1	4,5,5	1,34,1500	0	SpeName_404	SpeTotalDes_404	SpeDes_404
+501	2	1	1,2,3	1,12,350	0	SpeName_501	SpeTotalDes_501	SpeDes_501
+502	3	1	1,3,3	1,12,500	0	SpeName_502	SpeTotalDes_502	SpeDes_502
+503	4	1	1,4,5	1,12,650	0	SpeName_503	SpeTotalDes_503	SpeDes_503
+504	5	1	1,5,5	1,12,1000	0	SpeName_504	SpeTotalDes_504	SpeDes_504
+601	2	1	1,2,3	1,11,350	0	SpeName_601	SpeTotalDes_601	SpeDes_601
+602	3	1	1,3,3	1,11,500	0	SpeName_602	SpeTotalDes_602	SpeDes_602
+603	4	1	1,4,5	1,11,650	0	SpeName_603	SpeTotalDes_603	SpeDes_603
+604	5	1	1,5,5	1,11,1000	0	SpeName_604	SpeTotalDes_604	SpeDes_604
+701	2	1	1,2,3	1,13,350	0	SpeName_701	SpeTotalDes_701	SpeDes_701
+702	3	1	1,3,3	1,13,500	0	SpeName_702	SpeTotalDes_702	SpeDes_702
+703	4	1	1,4,5	1,13,650	0	SpeName_703	SpeTotalDes_703	SpeDes_703
+704	5	1	1,5,5	1,13,1000	0	SpeName_704	SpeTotalDes_704	SpeDes_704
+801	2	1	1,2,3	1,32,500	0	SpeName_801	SpeTotalDes_801	SpeDes_801
+802	3	1	1,3,3	1,32,750	0	SpeName_802	SpeTotalDes_802	SpeDes_802
+803	4	1	1,4,5	1,32,1000	0	SpeName_803	SpeTotalDes_803	SpeDes_803
+804	5	1	1,5,5	1,32,1500	0	SpeName_804	SpeTotalDes_804	SpeDes_804
+901	2	1	2,2,3	1,30,500	0	SpeName_901	SpeTotalDes_901	SpeDes_901
+902	3	1	2,3,3	1,30,750	0	SpeName_902	SpeTotalDes_902	SpeDes_902
+903	4	1	2,4,5	1,30,1000	0	SpeName_903	SpeTotalDes_903	SpeDes_903
+904	5	1	2,5,5	1,30,1500	0	SpeName_904	SpeTotalDes_904	SpeDes_904
+1001	2	1	2,2,3	1,33,500	0	SpeName_1001	SpeTotalDes_1001	SpeDes_1001
+1002	3	1	2,3,3	1,33,750	0	SpeName_1002	SpeTotalDes_1002	SpeDes_1002
+1003	4	1	2,4,5	1,33,1000	0	SpeName_1003	SpeTotalDes_1003	SpeDes_1003
+1004	5	1	2,5,5	1,33,1500	0	SpeName_1004	SpeTotalDes_1004	SpeDes_1004
+1101	2	1	2,2,3	1,35,500	0	SpeName_1101	SpeTotalDes_1101	SpeDes_1101
+1102	3	1	2,3,3	1,35,750	0	SpeName_1102	SpeTotalDes_1102	SpeDes_1102
+1103	4	1	2,4,5	1,35,1000	0	SpeName_1103	SpeTotalDes_1103	SpeDes_1103
+1104	5	1	2,5,5	1,35,1500	0	SpeName_1104	SpeTotalDes_1104	SpeDes_1104
+1201	2	1	2,2,3	1,31,500	0	SpeName_1201	SpeTotalDes_1201	SpeDes_1201
+1202	3	1	2,3,3	1,31,750	0	SpeName_1202	SpeTotalDes_1202	SpeDes_1202
+1203	4	1	2,4,5	1,31,1000	0	SpeName_1203	SpeTotalDes_1203	SpeDes_1203
+1204	5	1	2,5,5	1,31,1500	0	SpeName_1204	SpeTotalDes_1204	SpeDes_1204
+1401	2	3		3,skill530009::buff_01	1500	buffname_skill530009_buff_01	buffdes_skill530009_buff_01	buffdes_skill530009_buff_01
+1402	3	3		3,skill530009::buff_02	1500	buffname_skill530009_buff_02	buffdes_skill530009_buff_02	buffdes_skill530009_buff_02
+1403	4	3		3,skill530009::buff_03	1500	buffname_skill530009_buff_03	buffdes_skill530009_buff_03	buffdes_skill530009_buff_03
+1404	5	3		3,skill530009::buff_04	1500	buffname_skill530009_buff_04	buffdes_skill530009_buff_04	buffdes_skill530009_buff_04
+1501	2	4		3,commonbuff::buff_Common_STUN	1500	SpeName_1501	SpeTotalDes_1501	SpeDes_1501
+1502	3	4		3,commonbuff::buff_Common_STUN	1500	SpeName_1502	SpeTotalDes_1502	SpeDes_1502
+1503	4	4		3,commonbuff::buff_Common_STUN	1500	SpeName_1503	SpeTotalDes_1503	SpeDes_1503
+1504	5	4		3,commonbuff::buff_Common_STUN	1500	SpeName_1504	SpeTotalDes_1504	SpeDes_1504
+1601	5	5		3,skill530001::buff_01	1500	buffname_skill530001_buff_01	buffdes_skill530001_buff_01	buffdes_skill530001_buff_01
+1602	5	5		3,skill530001::buff_02	1500	buffname_skill530001_buff_02	buffdes_skill530001_buff_02	buffdes_skill530001_buff_02
+1701	5	5		3,skill530002::buff_01	1500	buffname_skill530002_buff_01	buffdes_skill530002_buff_01	buffdes_skill530002_buff_01
+1702	5	5		3,skill530002::buff_02	1500	buffname_skill530002_buff_02	buffdes_skill530002_buff_02	buffdes_skill530002_buff_02
+1801	5	5		3,skill530003::buff_01	1500	buffname_skill530003_buff_01	buffdes_skill530003_buff_01	buffdes_skill530003_buff_01
+1802	5	5		3,skill530003::buff_02	1500	buffname_skill530003_buff_02	buffdes_skill530003_buff_03	buffdes_skill530003_buff_03
+1901	5	5		3,skill530004::buff_01	1500	buffname_skill530004_buff_01	buffdes_skill530004_buff_01	buffdes_skill530004_buff_01
+1902	5	5		3,skill530004::buff_02	1500	buffname_skill530004_buff_02	buffdes_skill530004_buff_02	buffdes_skill530004_buff_02
+2001	5	5		3,skill530005::buff_01	1500	buffname_skill530005_buff_01	buffdes_skill530005_buff_01	buffdes_skill530005_buff_01
+2002	5	5		3,skill530005::buff_02	1500	buffname_skill530005_buff_02	buffdes_skill530005_buff_02	buffdes_skill530005_buff_02
+2101	5	5		3,skill530006::buff_01	1500	buffname_skill530006_buff_01	buffdes_skill530006_buff_01	buffdes_skill530006_buff_01
+2102	5	5		3,skill530006::buff_02	1500	buffname_skill530006_buff_02	buffdes_skill530006_buff_02	buffdes_skill530006_buff_02
+2201	5	5		3,skill530007::buff_01	1500	buffname_skill530007_buff_01	buffdes_skill530007_buff_01	buffdes_skill530007_buff_01
+2202	5	5		3,skill530007::buff_02	1500	buffname_skill530007_buff_02	buffdes_skill530007_buff_02	buffdes_skill530007_buff_02
+2301	5	5		3,skill530008::buff_01	1500	buffname_skill530008_buff_01	buffdes_skill530008_buff_01	buffdes_skill530008_buff_01
+2302	5	5		3,skill530008::buff_02	1500	buffname_skill530008_buff_02	buffdes_skill530008_buff_02	buffdes_skill530008_buff_02

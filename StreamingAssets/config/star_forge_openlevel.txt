@@ -1,0 +1,11 @@
+﻿部位ID	部位开启等级	装备孔位通关副本限制	部位是否开放	未开启提示信息
+int	int	int	int	string
+Id	OpenLevel	CustomAstrict	Unlock	LockTips
+2	40	1103	1	LockTipsStr_02
+3	50	1104	1	LockTipsStr_03
+4	60	1102	1	LockTipsStr_04
+5	70	1106	1	LockTipsStr_05
+6	75	1105	1	LockTipsStr_06
+7	80	1111	1	LockTipsStr_07
+8	85	1113	1	LockTipsStr_08
+9	90	1113	1	LockTipsStr_08

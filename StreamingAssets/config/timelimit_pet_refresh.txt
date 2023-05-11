@@ -1,0 +1,5 @@
+﻿流水	BOSS库ID	BOSSid	刷新场景ID
+int	int	string	int
+Id	BossDrop	MonsterId	SceneId
+1	1000001	monster10000127	1
+2	1000001	monster10000127	3

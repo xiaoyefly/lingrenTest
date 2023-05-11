@@ -1,0 +1,6 @@
+﻿流水	活动ID	品质	代金币收益增加比例	直接增加的代金币数量	基础放置冷却时间	专属放置冷却时间
+int	int	int	int	int	int	int
+Id	Activity	Quality	LuckyMoney	LuckyQuality	Time	OwnerTime
+1	7612	3	100	100	5400	5400
+2	7612	4	200	300	6300	6300
+3	7612	5	300	500	7200	7200

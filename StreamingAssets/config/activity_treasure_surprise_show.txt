@@ -1,0 +1,6 @@
+﻿流水	活动id	页签id	秘宝类型	秘宝名字	秘宝描述	秘宝图片	骰子数量
+int	int	int	int	string	string	string	int
+Id	ActiveId	Tabel	TreasureType	TreasureName	TreasureDesc	TreasurePic	DiceNum
+1	13006	1	1	UI_Treasure_SurprizeName1	UI_Treasure_SurprizeDesc1	item_100000000067	2
+2	13006	1	2	UI_Treasure_SurprizeName2	UI_Treasure_SurprizeDesc2	item_100300002108	2
+3	13006	1	3	UI_Treasure_SurprizeName3	UI_Treasure_SurprizeDesc3	item_100300002108	2

@@ -1,0 +1,13 @@
+﻿军衔等级	升级需求经验	军衔名称	军衔等级ICON	军衔等级奖励
+int	int	string	string	string
+MilitaryRank	NeedExp	MilitaryRankName	IconRes	MilitaryRankReward
+1	0	MilitaryRank1	icon_camp_star01	item1039,100
+2	300	MilitaryRank2	icon_camp_star02	item1039,200
+3	900	MilitaryRank3	icon_camp_star03	item1039,300
+4	1800	MilitaryRank4	icon_camp_star04	item1039,400
+5	3000	MilitaryRank5	icon_camp_star05	item1039,500
+6	4500	MilitaryRank6	icon_camp_star06	item1039,600
+7	6300	MilitaryRank7	icon_camp_star07	item1039,700
+8	8400	MilitaryRank8	icon_camp_star08	item1039,800
+9	10800	MilitaryRank9	icon_camp_star09	item1039,900
+10	13500	MilitaryRank10	icon_camp_star10	item1039,1000

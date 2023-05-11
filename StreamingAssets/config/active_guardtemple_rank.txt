@@ -1,0 +1,6 @@
+﻿排行ID	分类名字	归属大标签	排行榜开放时间点	展示道具
+int	string	int	string	string
+Id	RankName	Label	OpenTime	ShowItem
+1	Guard_rank_1	1	2023-04-04-05:00:00	
+2	Guard_rank_2	2	2023-04-04-05:00:00	
+3	Guard_rank_3	3	2023-04-04-05:00:00	

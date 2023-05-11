@@ -1,0 +1,7 @@
+﻿ID	活动名语言包	描述1	描述2	奖励展示	界面特效
+int	string	string	string	string	int
+ID	ActivityName	ActivityDEC1	ActivityDEC2	RewardShow	EffectID
+1	FishingActivityName01	FishingActivityDEC101	FishingActivityDEC201	item250006001002,1;item250006002002,1;item250006003002,1;item250006004002,1	41100031
+2	FishingActivityName02	FishingActivityDEC102	FishingActivityDEC202	item250000000000,1;item101020504900,1;item107999900003,1	41100031
+3	FishingActivityName03	FishingActivityDEC103	FishingActivityDEC203	item250000000000,1;item107999900001,1;item107210043001,1	41100031
+4	FishingActivityName04	FishingActivityDEC104	FishingActivityDEC204	item250000000000,1;item100000000013,1;item8101020503061,1	41100031

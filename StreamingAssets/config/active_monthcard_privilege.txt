@@ -1,0 +1,4 @@
+﻿月卡特权签到双倍领取	当前天数描述
+int	string
+CheckinRewardDouble	CollectionDesc
+1	

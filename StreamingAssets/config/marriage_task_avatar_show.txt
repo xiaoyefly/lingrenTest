@@ -1,0 +1,9 @@
+﻿任务ID	NPCID	模型	位置	旋转	缩放
+int	string	string	vector3	vector3	float
+TaskID	NpcID	Avatar	pos	angle	scale
+480010	npc_10075	n023|body|n023_body_t1	0,-0.0270,0.694	0,0,0	0.644000
+480020	npc_10041	n022|body|n022_body_t1	0,-0.52,1.303	0,0,0	1.000000
+480030	npc_10209	n021|body|n021_body_t1	0,-0.4860,1.188	0,0,0	1.000000
+480040	npc_10002	n904|body|n904_body_t1	0,-0.4860,1.188	0,0,0	0.644000
+480050	npc_10043	n905|body|n905_body_t1	0,-0.4860,1.188	0,0,0	0.964000
+480060	npc_10159	n906|body|n906_body_t2	0,-0.638,2	0,0,0	0.850000

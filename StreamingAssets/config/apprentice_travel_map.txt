@@ -1,0 +1,9 @@
+﻿地图ID	地图名字	解锁条件	地图名字位置	地图按钮资源	地图按钮资源位置	地图子界面详细资源	地图子界面详细资源长宽	地图子界面图片位置偏移	地图底图	勋章剪影资源ID
+int	string	string	string	string	string	string	vector2	vector2	string	string
+MapId	MapName	UnlockCondition	MapNamePosition	MapPicture	MapPicturePosition	MapDetailPicture	MapDetailPictureSize	MapDetailPicturePosition	BaseMap	UnlockMedal
+1001	MapName1001	-1	0,-15	bg_world1_area1	-160,-351,454,440	bg_world1_area1_map1	1024,1024	20,0	bgmap	bj01_grass
+1002	MapName1002	1001,1500	95,50	bg_world1_area3	-51,-578,454,440	bg_world1_area3_map1	1024,1024		bgmap	bj01_water
+1003	MapName1003	1002,3000	50,-35	bg_world1_area5	-336,-458,454,440	bg_world1_area5_map1	1024,1024	-20,-20	bgmap	bj01_track
+1004	MapName1004	1003,3000	0,0	bg_world2_area1	-577,-292,454,440	bg_world2_area1_map1	1024,1024		bgmap	bj01_fire
+1005	MapName1005	1004,3000	0,0	bg_world2_area2	-723,-190,454,440	bg_world2_area2_map1	1024,1024		bgmap	bj01_botany
+1006	MapName1006	1005,3000	20,20	bg_world2_area3	-678,13,454,440	bg_world2_area3_map1	1024,1024		bgmap	bj01_ice

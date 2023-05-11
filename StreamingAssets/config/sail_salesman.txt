@@ -1,0 +1,7 @@
+﻿商人ID	商人名称	商人模型	模型展示缩放	模型展示位置偏移	模型初始展示角度	待机语言包	待机动作组	待机动作ID	砍价成功语言包	砍价成功动作组	砍价成功动作ID	砍价失败语言包	砍价失败动作组	砍价失败动作ID	激怒语言包	激怒动作组	激怒动作ID
+int	string	string	float	vector3	vector3	string	int	int	string	int	int	string	int	int	string	int	int
+ID	SalesmanName	SalesmanShow	ShowZoom	ShowPos	ShowAngle	NormalTalk	NormalMoveGroup	NormalMoveID	HappyTalk	HappyMoveGroup	HappyMoveID	RefuseTalk	RefuseMoveGroup	RefuseMoveID	AngryTalk	AngryMoveGroup	AngryMoveID
+1	SalesmanName001	npc_sail_10001	1.950000	0,0,0	0,0,0	SalesmanNormal001	10001003	1	SalesmanHappy001	10001003	616	SalesmanRefuse001	10001003	617	SalesmanAngry001	10001003	602
+2	SalesmanName002	npc_sail_10002	1.950000	0,0,0	0,0,0	SalesmanNormal002	10002003	1	SalesmanHappy002	10002003	616	SalesmanRefuse002	10002003	617	SalesmanAngry002	10002003	602
+3	SalesmanName003	npc_sail_10003	1.950000	0,0,0	0,0,0	SalesmanNormal003	10003003	1	SalesmanHappy003	10003003	616	SalesmanRefuse003	10003003	617	SalesmanAngry003	10003003	602
+4	SalesmanName004	npc_sail_10004	1.950000	0,0,0	0,0,0	SalesmanNormal004	10004003	1	SalesmanHappy004	10004003	616	SalesmanRefuse004	10004003	617	SalesmanAngry004	10004003	602

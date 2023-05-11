@@ -1,0 +1,4 @@
+﻿活动ID	拼图序号	任务库
+int	string	string
+Id	PuzzleId	taskId
+1963	1,2,3,4	3910001,3910002,3910003,3910004

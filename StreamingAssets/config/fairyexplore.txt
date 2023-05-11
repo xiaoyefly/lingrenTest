@@ -1,0 +1,9 @@
+﻿探险地点	地点名称	背景	限定魔灵显示	限定魔灵	探险奖励预览	探险CD	休息CD	开放等级	探险日志
+int	string	string	string	string	string	int	int	int	int
+Id	Name	Background	LimitPetShow	LimitPet	ExploreRewardPreview	ExploreCD	RestCD	OpenLevel	JournalText
+1	UI_Pet_ExplorePlace1	baobaobeijing01	baby_101,baby_121	baby_101,baby_105,baby_121,baby_125	item1000,0;item103010121003,0	28740	0	15	10000
+2	UI_Pet_ExplorePlace2	baobaobeijing02	baby_121,baby_131,baby_135	baby_121,baby_125,baby_131,baby_134,baby_135,baby_136	item1000,0;item100000000006,0	28740	0	25	10001
+3	UI_Pet_ExplorePlace3	baobaobeijing03	baby_111,baby_131	baby_111,baby_115,baby_131,baby_134	item1000,0;item101040101015,0	35940	0	30	10002
+4	UI_Pet_ExplorePlace4	baobaobeijing04	baby_121,baby_131,baby_135	baby_121,baby_125,baby_131,baby_134,baby_135,baby_136	item1000,0;item107999900001,0	35940	0	35	10003
+5	UI_Pet_ExplorePlace5	baobaobeijing05	baby_101,baby_111	baby_101,baby_105,baby_111,baby_115	item1000,0;item103010111017,0	43140	0	40	10004
+6	UI_Pet_ExplorePlace6	baobaobeijing06	baby_101,baby_111,baby_135	baby_101,baby_105,baby_111,baby_115,baby_135,baby_136	item1000,0;item101040101001,0	43140	0	45	10005

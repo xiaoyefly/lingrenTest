@@ -1,0 +1,5 @@
+﻿流水ID	购买次数区间（≥）	购买消耗
+int	int	int
+ID	PaySection	PayCost
+1	0	0
+2	1	1500

@@ -1,0 +1,72 @@
+﻿NPC编号	对象类型	箱子类型	名称	名称位置	模型编号	采集物图标	骰子时间	生存时间	圆柱高度	圆柱半径	模型缩放	动作集	是否需要读条	读条配置（流ID）	距离宝箱前多远的地方（米）	是否站在前面打开（否，1是）	打开动作ID	常驻美术特效
+string	string	int	string	string	string	string	int	int	float	float	float	int	int	int	float	int	int	string
+Id	script	BoxType	Name	NamePos	Avatar	BoxIcon	DiceLeftTime	LifeTime	CollideHeight	CollideRadius	AvatarZoom	ActionSet	NeedLoading	OpenFlowId	ForwardStand	IsForwardOpen	OpenActionID	PermanentEffect
+box_20001_001	BoxNpc	1	Boxname_20001_001	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	2.000000	0.500000	2.000000	5	1	0	1.000000	0	100	
+box_20001_002	BoxNpc	1	Boxname_20001_002	0,2.2,0	chest004|body|chest004_body_t1		0	1800000	2.000000	0.500000	2.000000	5	1	0	1.000000	0	100	
+box_20001_002_1	BoxNpc	12	Boxname_FakePerfectBox	0,2.2,0	chest004|body|chest004_body_t1		0	1800000	2.000000	0.500000	2.000000	5	1	0	1.000000	0	100	
+box_20001_003	BoxNpc	1	Boxname_20001_003	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	2.000000	0.500000	2.000000	5	1	0	1.000000	0	100	
+box_20001_004	BoxNpc	1	Boxname_20001_004	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	2.000000	0.500000	2.000000	5	1	0	1.000000	0	100	
+box_20001_101	BoxNpc	6	Boxname_20001_101	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	2.000000	0.500000	1.000000	5	1	0	1.000000	0	100	
+box_900011_001	BoxNpc	2	Box001	0,2.2,0	chest004|body|chest004_body_t1		10000	1800000	2.000000	1.000000	2.000000	5	1	0	2.000000	1	100	
+box_900011_002	BoxNpc	2	Box002	0,1.2,0	m001|body|m001_body_t1		10000	1800000	1.000000	0.500000	1.000000	5	1	0	1.000000	0	100	
+box_900011_003	BoxNpc	9	Box003	0,2.2,0	chest009|body|chest009_body_t1		0	300000	2.000000	1.000000	2.000000	5	1	0	2.000000	1	100	
+box_900011_004	BoxNpc	1	Box004	0,1.2,0	chest001|body|chest001_body_t1		0	1800000	1.000000	0.500000	1.000000	5	1	0	1.000000	0	100	
+box_900011_005	BoxNpc	3	Box005	0,1.2,0	chest010|body|chest010_body_t1		0	300000	2.000000	0.500000	2.000000	5	1	0	2.000000	1	100	
+box_900011_006	BoxNpc	2	Box006	0,2.2,0	chest004|body|chest004_body_t1		10000	1800000	2.000000	1.000000	2.000000	5	1	0	2.000000	1	100	
+box_900011_007	BoxNpc	2	Box007	0,2.2,0	chest004|body|chest004_body_t1		10000	1800000	2.000000	1.000000	2.000000	5	1	0	2.000000	1	100	
+box_900011_008	BoxNpc	2	Box008	0,2.2,0	chest004|body|chest004_body_t1		10000	1800000	2.000000	1.000000	2.000000	5	1	0	2.000000	1	100	
+box_900011_009	BoxNpc	2	Box009	0,2.2,0	chest004|body|chest004_body_t1		10000	1800000	2.000000	1.000000	2.000000	5	1	0	2.000000	1	100	
+box_900011_101	BoxNpc	4	Box101	0,2.2,0	chest001|body|chest001_body_t1		0	0	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_900011_102	BoxNpc	4	Box102	0,2.2,0	chest001|body|chest001_body_t1		0	0	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_900011_103	BoxNpc	4	Box103	0,2.2,0	chest001|body|chest001_body_t1		0	0	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_900011_104	BoxNpc	4	Box104	0,2.2,0	chest001|body|chest001_body_t1		0	0	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_900011_105	BoxNpc	4	Box105	0,2.2,0	chest001|body|chest001_body_t1		0	0	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_900011_106	BoxNpc	4	Box106	0,2.2,0	chest001|body|chest001_body_t1		0	0	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_900011_107	BoxNpc	4	Box107	0,2.2,0	chest001|body|chest001_body_t1		0	0	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_900011_108	BoxNpc	4	Box108	0,2.2,0	chest001|body|chest001_body_t1		0	0	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_900011_137	BoxNpc	4	Box137	0,2.2,0	chest001|body|chest001_body_t1		0	0	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_900011_118	BoxNpc	4	Box118	0,2.2,0	chest001|body|chest001_body_t1		0	0	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_common_001	BoxNpc	5	Boxname_common_001	0,2.2,0	chest008|body|chest008_body_t1		0	1800000	1.000000	0.500000	1.000000	5	1	0	1.000000	0	100	
+box_common_002	BoxNpc	5	Boxname_common_002	0,2.2,0	chest008|body|chest008_body_t1		0	1800000	1.000000	0.500000	1.000000	5	1	0	1.000000	0	100	
+box_callboss_001	BoxNpc	7	Boxname_callboss_001	0,2.2,0	chest010|body|chest010_body_t1		0	1800000	2.000000	0.500000	2.000000	5	1	0	1.000000	0	100	
+box_digroad_001	BoxNpc	1		0,2.2,0	chest007|body|chest007_body_t1		0	0	2.000000	0.500000	2.000000	5	1	0	1.000000	0	100	
+box_900002_001	BoxNpc	8	box_900002_001	0,2.2,0	chest002|body|chest002_body_t1		0	40000	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_900011_200	BoxNpc	2	Box200	0,2.2,0	chest004|body|chest004_body_t1		10000	1800000	2.000000	1.000000	2.000000	5	1	0	1.000000	0	100	
+box_900011_201	BoxNpc	2	Box201	0,2.2,0	chest004|body|chest004_body_t1		10000	1800000	2.000000	1.000000	2.000000	5	1	0	1.000000	0	100	
+box_900011_202	BoxNpc	2	Box202	0,2.2,0	chest004|body|chest004_body_t1		10000	1800000	2.000000	1.000000	2.000000	5	1	0	1.000000	0	100	
+box_900011_203	BoxNpc	2	Box203	0,2.2,0	chest004|body|chest004_body_t1		10000	1800000	2.000000	1.000000	2.000000	5	1	0	1.000000	0	100	
+box_900011_204	BoxNpc	2	Box204	0,2.2,0	chest004|body|chest004_body_t1		10000	1800000	2.000000	1.000000	2.000000	5	1	0	1.000000	0	100	
+box_900002_002	BoxNpc	8	box_900002_001	0,1.7,0	chest002|body|chest002_body_t1		0	60000	1.300000	0.500000	1.300000	5	1	0	1.000000	0	100	
+box_900002_003	BoxNpc	8	box_900002_001	0,2.4,0	chest002|body|chest002_body_t1		0	60000	2.000000	0.500000	2.000000	5	1	0	1.000000	0	100	
+box_900011_100	BoxNpc	1	box_900011_001	0,2.2,0	chest001|body|chest001_body_t1		0	1800000	1.200000	1.000000	1.300000	5	1	55	1.000000	1	101	
+box_fishboss_001	BoxNpc	10	Boxname_fishboss_001	0,2.2,0	chest010|body|chest010_body_t1		0	1800000	1.200000	0.500000	1.100000	5	1	0	1.000000	0	100	
+box_guildwar_100	BoxNpc	11	Boxname_guildwar_001	0,2.2,0	chest002|body|chest002_body_t1		0	0	1.000000	0.500000	0.800000	5	1	70	1.000000	0	100	
+box_1800_001	BoxNpc	1	name_box_1800_001	0,2.2,0	chest004|body|chest004_body_t1		0	1800000	2.000000	1.000000	2.000000	5	1	0	1.000000	0	100	
+box_1801_001	BoxNpc	1	name_box_1801_001	0,2.2,0	chest004|body|chest004_body_t1		0	1800000	2.000000	1.000000	2.000000	5	1	0	1.000000	0	100	
+box_1802_001	BoxNpc	1	name_box_1802_001	0,2.2,0	chest004|body|chest004_body_t1		0	1800000	2.000000	1.000000	2.000000	5	1	0	1.000000	0	100	
+box_weddingbuffet_001	WeddingTableNpc	14		0,2.2,0	g060|body|g060_body_t1		0	0	2.000000	3.000000	1.000000	5	1	0	1.000000	0	100	
+box_weddingsweet_001	BoxNpc	13	name_box_weddingsweet	0,2.2,0	g061|body|g061_body_t1		0	30000	2.000000	0.500000	2.000000	5	1	0	1.000000	0	100	
+box_weddingfireworks_001	BoxNpc	13	name_box_weddingfireworks	0,2.2,0	g049|body|g049_body_t3		0	30000	2.000000	0.500000	2.000000	5	1	0	1.000000	0	100	
+box_snowmanboss_001	BoxNpc	15	Boxname_fishboss_001	0,2.2,0	chest010|body|chest010_body_t1		0	1800000	1.200000	0.500000	1.100000	5	1	0	1.000000	0	100	
+box_weddingbuffet_001	WeddingTableNpc	14		0,2.2,0	g060|body|g060_body_t1		0	0	2.000000	3.000000	1.000000	5	1	0	1.000000	0	100	
+meal_001	MealTableNpc	16			g067|body|g067_body_t1		0	0	2.000000	3.000000	1.000000	5	1	0	1.000000	0	100	
+box_FishingCompetitionBoss	BoxNpc	17	name_box_FishingCompetitionBoss	0,1.2,0	chest010|body|chest010_body_t1		0	300000	2.000000	0.500000	2.000000	5	1	0	2.000000	1	100	
+box_FishingCompetitionChest1	BoxNpc	18	name_box_FishingCompetitionChest1	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_FishingCompetitionChest2	BoxNpc	18	name_box_FishingCompetitionChest2	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_FishingCompetitionChest3	BoxNpc	18	name_box_FishingCompetitionChest3	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_FishingCompetitionChest4	BoxNpc	18	name_box_FishingCompetitionChest4	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_FishingCompetitionChest5	BoxNpc	18	name_box_FishingCompetitionChest5	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_FishingCompetitionChest6	BoxNpc	18	name_box_FishingCompetitionChest6	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_FishingCompetitionChest7	BoxNpc	18	name_box_FishingCompetitionChest7	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_FishingCompetitionChest8	BoxNpc	18	name_box_FishingCompetitionChest8	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_FishingCompetitionChest9	BoxNpc	18	name_box_FishingCompetitionChest9	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+box_FishingCompetitionChest10	BoxNpc	18	name_box_FishingCompetitionChest10	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	1.000000	0.500000	0.800000	5	1	0	1.000000	0	100	
+holybattle_key	HolyBattleKeyNpc	19	name_box_holybattle_key	0,2.2,0			0	240000	1.000000	0.500000	1.000000	5	0	0	1.000000	0	100	4200022
+holybattle_box01	HolyBattleNormalNpc	20	name_box_holybattle_box01	0,2.2,0	chest001|body|chest001_body_t1		0	0	0.800000	1.000000	0.800000	5	1	99	1.000000	0	100	
+holybattle_box02	HolyBattleNormalNpc	20	name_box_holybattle_box02	0,2.2,0	chest008|body|chest008_body_t1		0	0	1.000000	1.000000	1.000000	5	1	100	1.000000	0	100	
+holybattle_box03	HolyBattleNormalNpc	20	name_box_holybattle_box03	0,2.2,0	chest004|body|chest004_body_t1		0	0	1.500000	1.000000	1.500000	5	1	101	1.000000	0	100	
+holybattle_box04	HolyBattleNormalNpc	21	name_box_holybattle_box04	0,2.2,0	chest008|body|chest008_body_t1		0	0	1.000000	1.000000	1.000000	5	1	99	1.000000	0	100	
+npc_hdshilian_fakebox001	BoxNpc	22	Boxname_20001_001	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	2.000000	0.500000	2.000000	5	1	0	1.000000	0	100	
+npc_hdshilian_fakebox002	BoxNpc	22	Boxname_20001_001	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	2.000000	0.500000	2.000000	5	1	0	1.000000	0	100	
+npc_hdshilian_fakebox003	BoxNpc	22	Boxname_20001_001	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	2.000000	0.500000	2.000000	5	1	0	1.000000	0	100	
+npc_hdshilian_fakebox004	BoxNpc	22	Boxname_20001_001	0,2.2,0	chest002|body|chest002_body_t1		0	1800000	2.000000	0.500000	2.000000	5	1	0	1.000000	0	100	

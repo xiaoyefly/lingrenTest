@@ -1,0 +1,10 @@
+﻿功能id	货币类型	商店	货币对应功能显示标签	每日上限	上限值	货币上限信息Tips标题
+int	int	int	string	int	int	string
+FuncId	Currency	ShopId	FuncTitleName	DailyLimit	MaxNum	TitleName
+25	16	904	Help_Func_Name_25	200	600	Help_DailyGain_Title
+26	16	904	Help_Func_Name_26	80	600	Help_DailyGain_Title
+30	16	904	Help_Func_Name_30	200	600	Help_DailyGain_Title
+31	16	904	Help_Func_Name_31	80	600	Help_DailyGain_Title
+111	16	904	Help_Func_Name_111	80	600	Help_DailyGain_Title
+145	16	904	Help_Func_Name_145	80	600	Help_DailyGain_Title
+160	16	904	Help_Func_Name_160	200	600	Help_DailyGain_Title

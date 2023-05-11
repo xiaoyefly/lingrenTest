@@ -1,0 +1,11 @@
+﻿流水id	角色	变身模型	解锁套装id	变身解锁描述
+int	string	string	int	string
+Id	HeroId	PetID	FashionSuitId	UnlockDes
+1	hero101	pet_b714	40011709	UnlockDes1
+2	hero102	pet_b714	40021709	UnlockDes1
+3	hero103	pet_b714	40031709	UnlockDes1
+4	hero104	pet_b714	40041709	UnlockDes1
+5	hero105	pet_b714	40051709	UnlockDes1
+6	hero106	pet_b714	40061709	UnlockDes1
+7	hero107	pet_b714	40071709	UnlockDes1
+8	hero108	pet_b714	40081709	UnlockDes1

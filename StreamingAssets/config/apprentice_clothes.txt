@@ -1,0 +1,11 @@
+﻿外观ID	备注	外观品质	外观icon	外观名称	外观介绍	外观类型
+int	string	int	string	string	string	int
+Clothes	Itemname	Rare	RelativeItem	Name	Describe	Type
+1001	item127000064001	4	equip_127000064001	apprenticeclothesname1001	apprenticeclothesdescribe1001	2
+1002	item127000064002	4	equip_127000064002	apprenticeclothesname1002	apprenticeclothesdescribe1002	2
+1003	item127000064003	4	equip_127000064003	apprenticeclothesname1003	apprenticeclothesdescribe1003	2
+2001	item127000064004	4	equip_127000064004	apprenticeclothesname2001	apprenticeclothesdescribe2001	3
+2002	item127000064005	4	equip_127000064005	apprenticeclothesname2002	apprenticeclothesdescribe2002	3
+2003	item127000064006	4	equip_127000064006	apprenticeclothesname2003	apprenticeclothesdescribe2003	3
+3001	item127000066001	4	equip_127000066001	apprenticeclothesname3001	apprenticeclothesdescribe3001	2
+3002	item127000066002	4	equip_127000066002	apprenticeclothesname3002	apprenticeclothesdescribe3002	3

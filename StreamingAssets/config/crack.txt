@@ -1,0 +1,9 @@
+﻿任务编号	裂隙类型	下一层	目标库	任务道具奖励	队长额外奖励	进行中标题	进行中内容
+int	int	int	string	int	int	string	string
+Id	CrackType	NextCrack	TargetBox	DropList	LeaderDropList	ExecuteTaskName	ExecuteTaskContent
+1	1	2	1	0	0	CrackTaskName100001	CrackTaskContent100001
+2	2	3	1	0	0	CrackTaskName100002	CrackTaskContent100002
+3	2	4	1	0	0	CrackTaskName100003	CrackTaskContent100003
+4	2	5	1	0	0	CrackTaskName100004	CrackTaskContent100004
+5	3	6	3	0	0	CrackTaskName100005	CrackTaskContent100005
+6	4	0	2	0	0	CrackTaskName100011	CrackTaskContent100011

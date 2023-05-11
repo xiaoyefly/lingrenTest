@@ -1,0 +1,9 @@
+﻿流水ID	标识id	活动名称	时间类型	开始时间	结束时间	活动时间	第几天开始	持续时间	常规标签资源	未开始标签资源	标签位置	跳转Url链接	跳转链接
+int	int	string	int	string	string	string	int	int	string	string	string	string	string
+ID	ActiveId	ActivityName	TimeType	StartTime	EndTime	ActiveTime	StartDay	Duration	LabelPic	LabelPic01	LabelPosition	LinkUrl	Link
+1	7	ActivityName1	2	2023-01-29-00:00:00	2023-02-28-00:00:00	01-29,02-28	0	0	label_01	label_01	-400,220		LinkUI:GuardTempleMainPanel
+2	8	ActivityName2	2	2023-01-29-00:00:00	2023-02-28-00:00:00	01-29,02-28	0	0	label_01	label_01	-300,50		LinkUI:MercenaryPanel;2
+3	9	Activity_Name_22026	2	2023-02-10-00:00:00	2023-02-28-00:00:00	02-10,02-28	0	0	label_01	label_01	-100,-200		LinkUI:OpenServerActivityPanel;22027;12
+4	10	ActivityName4	2	2023-02-10-00:00:00	2023-02-28-00:00:00	02-10,02-28	0	0	label_01	label_01	200,260		LinkUI:StarTracePanel
+5	11	Activity_Name_22029	2	2023-01-12-00:00:00	2023-01-28-00:00:00	01-12,01-28	0	0	label_01	label_01	500,129		LinkUI:OpenServerActivityPanel;22030;12
+6	12	Activity_Name_22032	2	2023-01-29-00:00:00	2023-02-28-00:00:00	01-29,02-28	0	0	label_01	label_01	300,-80		LinkUI:OpenServerActivityPanel;22033;12

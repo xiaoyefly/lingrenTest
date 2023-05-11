@@ -1,0 +1,179 @@
+﻿流水id	模型组id	角色ID	展示类型	高模外观	模型展示缩放	模型展示位置偏移	模型初始展示角度	特效id	模型动作集	动作id	模型名字	是否调用程序旋转	轴点位置	轴点角度	转动一圈时间	是否显示影子	影子光源角度位置
+int	int	string	int	string	float	vector3	vector3	string	int	int	string	bool	vector3	vector3	float	bool	vector3
+Id	ZoneId	HeroId	Type	HighAvatar	ShowZoom	ShowPos	ShowAngle	Effect	ActionSet	Action	ModelName	IsCustomRotate	RotateCenter	RotateAxis	RotateDuration	EnableShadow	ShadowLightPos
+1	1	hero101	1	c001h|weapon|c001h_weapon004_t1	1.300000	0.1,0.5,0	0		1002001	30	UI_FirstRecharge_ModelName1				0.000000		
+2	1	hero102	1	c002h|weapon|c002h_weapon004_t1	2.900000	0,0.2,0	0		1001001	30	UI_FirstRecharge_ModelName2				0.000000		
+3	1	hero103	1	c003h|weapon|c003h_weapon004_t1	1.000000	-0.1,0.5,0	0		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+4	1	hero104	1	c004h|weapon|c004h_weapon004_t1	2.000000	0,0.4,0	0		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+5	1	hero105	1	c005h|weapon|c005h_weapon004_t1	3.300000	0,0.6,0	0		1003001	30	UI_FirstRecharge_ModelName5				0.000000		
+6	1	hero106	1	c006h|weapon|c006h_weapon006_t1	1.000000	0,0.6,0	0		1007001	30	UI_FirstRecharge_ModelName6				0.000000		
+7	1	hero107	1	c003h|weapon|c003h_weapon004_t1	1.000000	0,0.5,0	0		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+8	1	hero108	1	c004h|weapon|c004h_weapon004_t1	2.000000	0,0.4,0	0		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+17	3	hero101	1	wing|backd005_t1	1.200000	0.15,0.55,0	10,210,0		1002001	30	UI_FirstRecharge_ModelName7				0.000000		
+18	3	hero102	1	wing|backd005_t1	1.200000	0.15,0.55,0	10,210,0		1001001	30	UI_FirstRecharge_ModelName7				0.000000		
+19	3	hero103	1	wing|backd005_t1	1.200000	0.15,0.55,0	10,210,0		1000001	30	UI_FirstRecharge_ModelName7				0.000000		
+20	3	hero104	1	wing|backd005_t1	1.200000	0.15,0.55,0	10,210,0		1000001	30	UI_FirstRecharge_ModelName7				0.000000		
+21	3	hero105	1	wing|backd005_t1	1.200000	0.15,0.55,0	10,210,0		1003001	30	UI_FirstRecharge_ModelName7				0.000000		
+22	3	hero106	1	wing|backd005_t1	1.200000	0.15,0.55,0	10,210,0		1007001	30	UI_FirstRecharge_ModelName7				0.000000		
+23	3	hero107	1	wing|backd005_t1	1.200000	0.15,0.55,0	10,210,0		1000001	30	UI_FirstRecharge_ModelName7				0.000000		
+24	3	hero108	1	wing|backd005_t1	1.200000	0.15,0.55,0	10,210,0		1000001	30	UI_FirstRecharge_ModelName7				0.000000		
+25	4	hero101	1	c001h|weapon|c001h_weapon014_t1	1.400000	0.1,0.5,0	0		0	0					0.000000		
+26	4	hero102	1	c002h|weapon|c002h_weapon002_t1	3.200000	0,0.2,0	0		0	0					0.000000		
+27	4	hero103	1	c003h|weapon|c003h_weapon003_t1	1.000000	-0.1,0.5,0	0		0	0					0.000000		
+28	4	hero104	1	c004h|weapon|c004h_weapon003_t1	2.000000	0,0.4,0	0		0	0					0.000000		
+29	4	hero105	1	c005h|weapon|c005h_weapon002_t1	3.300000	0,0.6,0	0		0	0					0.000000		
+30	4	hero106	1	c006h|weapon|c006h_weapon003_t1	1.000000	0,-0,0	0		0	0					0.000000		
+31	4	hero107	1	c003h|weapon|c003h_weapon003_t1	1.000000	0,0.5,0	0		0	0					0.000000		
+32	4	hero108	1	c004h|weapon|c004h_weapon003_t1	2.000000	0,0.4,0	0		0	0					0.000000		
+33	5	hero101	2	pet_176,2,1	0.500000	0,-0.2,0	0		0	0	UI_FirstRecharge_ModelName17				0.000000	1	100,286,200
+34	5	hero102	2	pet_176,2,1	0.500000	0,-0.2,0	0		0	0	UI_FirstRecharge_ModelName17				0.000000	1	100,286,200
+35	5	hero103	2	pet_176,2,1	0.500000	0,-0.2,0	0		0	0	UI_FirstRecharge_ModelName17				0.000000	1	100,286,200
+36	5	hero104	2	pet_176,2,1	0.500000	0,-0.2,0	0		0	0	UI_FirstRecharge_ModelName17				0.000000	1	100,286,200
+37	5	hero105	2	pet_176,2,1	0.500000	0,-0.2,0	0		0	0	UI_FirstRecharge_ModelName17				0.000000	1	100,286,200
+38	5	hero106	2	pet_176,2,1	0.500000	0,-0.2,0	0		0	0	UI_FirstRecharge_ModelName17				0.000000	1	100,286,200
+39	5	hero107	2	pet_176,2,1	0.500000	0,-0.2,0	0		0	0	UI_FirstRecharge_ModelName17				0.000000	1	100,286,200
+40	5	hero108	2	pet_176,2,1	0.500000	0,-0.2,0	0		0	0	UI_FirstRecharge_ModelName17				0.000000	1	100,286,200
+41	6	hero101	2	pet_124,2,1	1.200000	0,-0.1,0	0		0	0	UI_FirstRecharge_ModelName8				0.000000	1	100,286,200
+42	6	hero102	2	pet_124,2,1	1.200000	0,-0.1,0	0		0	0	UI_FirstRecharge_ModelName8				0.000000	1	100,286,200
+43	6	hero103	2	pet_124,2,1	1.200000	0,-0.1,0	0		0	0	UI_FirstRecharge_ModelName8				0.000000	1	100,286,200
+44	6	hero104	2	pet_124,2,1	1.200000	0,-0.1,0	0		0	0	UI_FirstRecharge_ModelName8				0.000000	1	100,286,200
+45	6	hero105	2	pet_124,2,1	1.200000	0,-0.1,0	0		0	0	UI_FirstRecharge_ModelName8				0.000000	1	100,286,200
+46	6	hero106	2	pet_124,2,1	1.200000	0,-0.1,0	0		0	0	UI_FirstRecharge_ModelName8				0.000000	1	100,286,200
+47	6	hero107	2	pet_124,2,1	1.200000	0,-0.1,0	0		0	0	UI_FirstRecharge_ModelName8				0.000000	1	100,286,200
+48	6	hero108	2	pet_124,2,1	1.200000	0,-0.1,0	0		0	0	UI_FirstRecharge_ModelName8				0.000000	1	100,286,200
+49	7	hero101	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName9				0.000000	1	100,286,200
+50	7	hero102	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName9				0.000000	1	100,286,200
+51	7	hero103	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName9				0.000000	1	100,286,200
+52	7	hero104	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName9				0.000000	1	100,286,200
+53	7	hero105	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName9				0.000000	1	100,286,200
+54	7	hero106	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName9				0.000000	1	100,286,200
+55	7	hero107	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName9				0.000000	1	100,286,200
+56	7	hero108	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName9				0.000000	1	100,286,200
+57	8	hero101	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName10				0.000000	1	100,286,200
+58	8	hero102	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName10				0.000000	1	100,286,200
+59	8	hero103	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName10				0.000000	1	100,286,200
+60	8	hero104	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName10				0.000000	1	100,286,200
+61	8	hero105	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName10				0.000000	1	100,286,200
+62	8	hero106	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName10				0.000000	1	100,286,200
+63	8	hero107	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName10				0.000000	1	100,286,200
+64	8	hero108	4	box_common_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName10				0.000000	1	100,286,200
+65	9	hero101	4	box_900011_003	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName11				0.000000	1	100,286,200
+66	9	hero102	4	box_900011_003	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName11				0.000000	1	100,286,200
+67	9	hero103	4	box_900011_003	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName11				0.000000	1	100,286,200
+68	9	hero104	4	box_900011_003	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName11				0.000000	1	100,286,200
+69	9	hero105	4	box_900011_003	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName11				0.000000	1	100,286,200
+70	9	hero106	4	box_900011_003	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName11				0.000000	1	100,286,200
+71	9	hero107	4	box_900011_003	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName11				0.000000	1	100,286,200
+72	9	hero108	4	box_900011_003	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName11				0.000000	1	100,286,200
+73	10	hero101	4	npc_digtreasure	0.800000	0,0,0	0,-12,0		0	0	UI_FirstRecharge_ModelName12				0.000000	1	100,286,200
+74	10	hero102	4	npc_digtreasure	0.800000	0,0,0	0,-12,0		0	0	UI_FirstRecharge_ModelName12				0.000000	1	100,286,200
+75	10	hero103	4	npc_digtreasure	0.800000	0,0,0	0,-12,0		0	0	UI_FirstRecharge_ModelName12				0.000000	1	100,286,200
+76	10	hero104	4	npc_digtreasure	0.800000	0,0,0	0,-12,0		0	0	UI_FirstRecharge_ModelName12				0.000000	1	100,286,200
+77	10	hero105	4	npc_digtreasure	0.800000	0,0,0	0,-12,0		0	0	UI_FirstRecharge_ModelName12				0.000000	1	100,286,200
+78	10	hero106	4	npc_digtreasure	0.800000	0,0,0	0,-12,0		0	0	UI_FirstRecharge_ModelName12				0.000000	1	100,286,200
+79	10	hero107	4	npc_digtreasure	0.800000	0,0,0	0,-12,0		0	0	UI_FirstRecharge_ModelName12				0.000000	1	100,286,200
+80	10	hero108	4	npc_digtreasure	0.800000	0,0,0	0,-12,0		0	0	UI_FirstRecharge_ModelName12				0.000000	1	100,286,200
+81	11	hero101	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName13				0.000000	1	100,286,200
+82	11	hero102	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName13				0.000000	1	100,286,200
+83	11	hero103	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName13				0.000000	1	100,286,200
+84	11	hero104	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName13				0.000000	1	100,286,200
+85	11	hero105	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName13				0.000000	1	100,286,200
+86	11	hero106	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName13				0.000000	1	100,286,200
+87	11	hero107	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName13				0.000000	1	100,286,200
+88	11	hero108	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName13				0.000000	1	100,286,200
+89	12	hero101	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName14				0.000000	1	100,286,200
+90	12	hero102	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName14				0.000000	1	100,286,200
+91	12	hero103	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName14				0.000000	1	100,286,200
+92	12	hero104	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName14				0.000000	1	100,286,200
+93	12	hero105	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName14				0.000000	1	100,286,200
+94	12	hero106	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName14				0.000000	1	100,286,200
+95	12	hero107	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName14				0.000000	1	100,286,200
+96	12	hero108	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName14				0.000000	1	100,286,200
+97	13	hero101	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName15				0.000000	1	100,286,200
+98	13	hero102	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName15				0.000000	1	100,286,200
+99	13	hero103	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName15				0.000000	1	100,286,200
+100	13	hero104	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName15				0.000000	1	100,286,200
+101	13	hero105	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName15				0.000000	1	100,286,200
+102	13	hero106	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName15				0.000000	1	100,286,200
+103	13	hero107	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName15				0.000000	1	100,286,200
+104	13	hero108	4	box_callboss_001	0.900000	0,0.1,0	0,-12,0		0	0	UI_FirstRecharge_ModelName15				0.000000	1	100,286,200
+105	14	hero101	4	npc_forging_001	0.800000	-0.1,0.2,0	0,-12,0		0	0	UI_FirstRecharge_ModelName16				0.000000	1	100,286,200
+106	14	hero102	4	npc_forging_001	0.800000	-0.1,0.2,0	0,-12,0		0	0	UI_FirstRecharge_ModelName16				0.000000	1	100,286,200
+107	14	hero103	4	npc_forging_001	0.800000	-0.1,0.2,0	0,-12,0		0	0	UI_FirstRecharge_ModelName16				0.000000	1	100,286,200
+108	14	hero104	4	npc_forging_001	0.800000	-0.1,0.2,0	0,-12,0		0	0	UI_FirstRecharge_ModelName16				0.000000	1	100,286,200
+109	14	hero105	4	npc_forging_001	0.800000	-0.1,0.2,0	0,-12,0		0	0	UI_FirstRecharge_ModelName16				0.000000	1	100,286,200
+110	14	hero106	4	npc_forging_001	0.800000	-0.1,0.2,0	0,-12,0		0	0	UI_FirstRecharge_ModelName16				0.000000	1	100,286,200
+111	14	hero107	4	npc_forging_001	0.800000	-0.1,0.2,0	0,-12,0		0	0	UI_FirstRecharge_ModelName16				0.000000	1	100,286,200
+112	14	hero108	4	npc_forging_001	0.800000	-0.1,0.2,0	0,-12,0		0	0	UI_FirstRecharge_ModelName16				0.000000	1	100,286,200
+113	15	hero101	1	c001h|weapon|c001h_weapon901_t1	1.600000	0,0.45,1.46	-27.7,14,-174.5		1002001	30	UI_FirstRecharge_ModelName1				0.000000		
+114	16	hero101	1	c001h|weapon|c001h_weapon901_t2	1.600000	0,0.45,1.46	-27.7,14,-174.5		1002001	30	UI_FirstRecharge_ModelName1				0.000000		
+115	17	hero101	1	c001h|weapon|c001h_weapon901_t3	1.600000	0,0.45,1.46	-27.7,14,-174.5		1002001	30	UI_FirstRecharge_ModelName1				0.000000		
+116	18	hero101	1	c001h|weapon|c001h_weapon901_t4	1.600000	0,0.45,1.46	-27.7,14,-174.5		1002001	30	UI_FirstRecharge_ModelName1				0.000000		
+117	19	hero101	1	c001h|weapon|c001h_weapon901_t5	1.600000	0,0.45,1.46	-27.7,14,-174.5		1002001	30	UI_FirstRecharge_ModelName1				0.000000		
+118	15	hero102	1	c002h|weapon|c002h_weapon901_t1	2.800000	0,0.22,2.2	0,-576,0		1001001	30	UI_FirstRecharge_ModelName2				0.000000		
+119	16	hero102	1	c002h|weapon|c002h_weapon901_t2	2.800000	0,0.22,2.2	0,-576,0		1001001	30	UI_FirstRecharge_ModelName2				0.000000		
+120	17	hero102	1	c002h|weapon|c002h_weapon901_t3	2.800000	0,0.22,2.2	0,-576,0		1001001	30	UI_FirstRecharge_ModelName2				0.000000		
+121	18	hero102	1	c002h|weapon|c002h_weapon901_t4	2.800000	0,0.22,2.2	0,-576,0		1001001	30	UI_FirstRecharge_ModelName2				0.000000		
+122	19	hero102	1	c002h|weapon|c002h_weapon901_t5	2.800000	0,0.22,2.2	0,-576,0		1001001	30	UI_FirstRecharge_ModelName2				0.000000		
+123	15	hero103	1	c003h|weapon|c003h_weapon901_t1	1.300000	0,0.30,0	-63,30.2,-3.8		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+124	16	hero103	1	c003h|weapon|c003h_weapon901_t2	1.300000	0,0.30,0	-63,30.2,-3.8		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+125	17	hero103	1	c003h|weapon|c003h_weapon901_t3	1.300000	0,0.30,0	-63,30.2,-3.8		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+126	18	hero103	1	c003h|weapon|c003h_weapon901_t4	1.300000	0,0.30,0	-63,30.2,-3.8		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+127	19	hero103	1	c003h|weapon|c003h_weapon901_t5	1.300000	0,0.30,0	-63,30.2,-3.8		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+128	15	hero104	1	c004h|weapon|c004h_weapon901_t1	2.500000	0,0.25,1.47	27,-740,10.3		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+129	16	hero104	1	c004h|weapon|c004h_weapon901_t2	2.500000	0,0.25,1.47	27,-740,10.3		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+130	17	hero104	1	c004h|weapon|c004h_weapon901_t3	2.500000	0,0.25,1.47	27,-740,10.3		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+131	18	hero104	1	c004h|weapon|c004h_weapon901_t4	2.500000	0,0.25,1.47	27,-740,10.3		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+132	19	hero104	1	c004h|weapon|c004h_weapon901_t5	2.500000	0,0.25,1.47	27,-740,10.3		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+133	15	hero105	1	c005h|weapon|c005h_weapon901_t1	3.700000	0,0.58,3.11	0,-536,0		1003001	30	UI_FirstRecharge_ModelName5				0.000000		
+134	16	hero105	1	c005h|weapon|c005h_weapon901_t2	3.700000	0,0.58,3.11	0,-536,0		1003001	30	UI_FirstRecharge_ModelName5				0.000000		
+135	17	hero105	1	c005h|weapon|c005h_weapon901_t3	3.700000	0,0.58,3.11	0,-536,0		1003001	30	UI_FirstRecharge_ModelName5				0.000000		
+136	18	hero105	1	c005h|weapon|c005h_weapon901_t4	3.700000	0,0.58,3.11	0,-536,0		1003001	30	UI_FirstRecharge_ModelName5				0.000000		
+137	19	hero105	1	c005h|weapon|c005h_weapon901_t5	3.700000	0,0.58,3.11	0,-536,0		1003001	30	UI_FirstRecharge_ModelName5				0.000000		
+138	15	hero106	1	c006h|weapon|c006h_weapon901_t1	1.300000	0,0.58,2.72	0,-540,0		1007001	30	UI_FirstRecharge_ModelName6				0.000000		
+139	16	hero106	1	c006h|weapon|c006h_weapon901_t2	1.300000	0,0.58,2.72	0,-540,0		1007001	30	UI_FirstRecharge_ModelName6				0.000000		
+140	17	hero106	1	c006h|weapon|c006h_weapon901_t3	1.300000	0,0.58,2.72	0,-540,0		1007001	30	UI_FirstRecharge_ModelName6				0.000000		
+141	18	hero106	1	c006h|weapon|c006h_weapon901_t4	1.300000	0,0.58,2.72	0,-540,0		1007001	30	UI_FirstRecharge_ModelName6				0.000000		
+142	19	hero106	1	c006h|weapon|c006h_weapon901_t5	1.300000	0,0.58,2.72	0,-540,0		1007001	30	UI_FirstRecharge_ModelName6				0.000000		
+143	15	hero107	1	c003h|weapon|c003h_weapon901_t1	1.300000	0,0.30,0	-63,30.2,-3.8		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+144	16	hero107	1	c003h|weapon|c003h_weapon901_t2	1.300000	0,0.30,0	-63,30.2,-3.8		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+145	17	hero107	1	c003h|weapon|c003h_weapon901_t3	1.300000	0,0.30,0	-63,30.2,-3.8		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+146	18	hero107	1	c003h|weapon|c003h_weapon901_t4	1.300000	0,0.30,0	-63,30.2,-3.8		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+147	19	hero107	1	c003h|weapon|c003h_weapon901_t5	1.300000	0,0.30,0	-63,30.2,-3.8		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+148	15	hero108	1	c004h|weapon|c004h_weapon901_t1	2.500000	0,0.25,1.47	27,-740,10.3		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+149	16	hero108	1	c004h|weapon|c004h_weapon901_t2	2.500000	0,0.25,1.47	27,-740,10.3		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+150	17	hero108	1	c004h|weapon|c004h_weapon901_t3	2.500000	0,0.25,1.47	27,-740,10.3		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+151	18	hero108	1	c004h|weapon|c004h_weapon901_t4	2.500000	0,0.25,1.47	27,-740,10.3		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+152	19	hero108	1	c004h|weapon|c004h_weapon901_t5	2.500000	0,0.25,1.47	27,-740,10.3		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+153	20	hero101	5	c001h|weapon|c001h_weapon004_t1	1.300000	0.1,0.5,0	0		1002001	30	UI_FirstRecharge_ModelName1				0.000000		
+154	20	hero102	5	c002h|weapon|c002h_weapon004_t1	2.900000	0,0.2,0	0		1001001	30	UI_FirstRecharge_ModelName2				0.000000		
+155	20	hero103	5	c003h|weapon|c003h_weapon004_t1	1.000000	-0.1,0.5,0	0		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+156	20	hero104	5	c004h|weapon|c004h_weapon004_t1	2.000000	0,0.4,0	0		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+157	20	hero105	5	c005h|weapon|c005h_weapon004_t1	3.300000	0,0.6,0	0		1003001	30	UI_FirstRecharge_ModelName5				0.000000		
+158	20	hero106	5	c006h|weapon|c006h_weapon006_t1	1.000000	0,0.6,0	0		1007001	30	UI_FirstRecharge_ModelName6				0.000000		
+159	20	hero107	5	c003h|weapon|c003h_weapon004_t1	1.000000	0,0.5,0	0		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+160	20	hero108	5	c004h|weapon|c004h_weapon004_t1	2.000000	0,0.4,0	0		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+161	21	hero101	6	fashion_100419	1.400000	0.1,0.5,0	0		0	0					0.000000		
+162	21	hero102	6	fashion_100420	3.200000	0,0.2,0	0		0	0					0.000000		
+163	21	hero103	6	fashion_100421	1.000000	-0.1,0.5,0	0		0	0					0.000000		
+164	21	hero104	6	fashion_100422	2.000000	0,0.4,0	0		0	0					0.000000		
+165	21	hero105	6	fashion_100423	3.300000	0,0.6,0	0		0	0					0.000000		
+166	21	hero106	6	fashion_100424	1.000000	0,-0,0	0		0	0					0.000000		
+167	21	hero107	6	fashion_100425	1.000000	0,0.5,0	0		0	0					0.000000		
+168	21	hero108	6	fashion_100426	2.000000	0,0.4,0	0		0	0					0.000000		
+169	22	hero101	2	pet_338,2,1	0.500000	0,-0.2,0	0		0	0	UI_RechargeReward_AvatarRewardDesc111				0.000000	1	100,286,200
+170	22	hero102	2	pet_338,2,1	0.500000	0,-0.2,0	0		0	0	UI_RechargeReward_AvatarRewardDesc111				0.000000	1	100,286,200
+171	22	hero103	2	pet_338,2,1	0.500000	0,-0.2,0	0		0	0	UI_RechargeReward_AvatarRewardDesc111				0.000000	1	100,286,200
+172	22	hero104	2	pet_338,2,1	0.500000	0,-0.2,0	0		0	0	UI_RechargeReward_AvatarRewardDesc111				0.000000	1	100,286,200
+173	22	hero105	2	pet_338,2,1	0.500000	0,-0.2,0	0		0	0	UI_RechargeReward_AvatarRewardDesc111				0.000000	1	100,286,200
+174	22	hero106	2	pet_338,2,1	0.500000	0,-0.2,0	0		0	0	UI_RechargeReward_AvatarRewardDesc111				0.000000	1	100,286,200
+175	22	hero107	2	pet_338,2,1	0.500000	0,-0.2,0	0		0	0	UI_RechargeReward_AvatarRewardDesc111				0.000000	1	100,286,200
+176	22	hero108	2	pet_338,2,1	0.500000	0,-0.2,0	0		0	0	UI_RechargeReward_AvatarRewardDesc111				0.000000	1	100,286,200
+177	23	hero101	1	c001h|weapon|c001h_weapon901_t6	1.600000	0,0.45,1.46	-27.7,14,-174.5		1002001	30	UI_FirstRecharge_ModelName1				0.000000		
+178	23	hero102	1	c002h|weapon|c002h_weapon901_t6	2.800000	0,0.22,2.2	0,-576,0		1001001	30	UI_FirstRecharge_ModelName2				0.000000		
+179	23	hero103	1	c003h|weapon|c003h_weapon901_t6	1.300000	0,0.30,0	-63,30.2,-3.8		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+180	23	hero104	1	c004h|weapon|c004h_weapon901_t6	2.500000	0,0.25,1.47	27,-740,10.3		1000001	30	UI_FirstRecharge_ModelName4				0.000000		
+181	23	hero105	1	c005h|weapon|c005h_weapon901_t6	3.700000	0,0.58,3.11	0,-536,0		1003001	30	UI_FirstRecharge_ModelName5				0.000000		
+182	23	hero106	1	c006h|weapon|c006h_weapon901_t6	1.300000	0,0.58,2.72	0,-540,0		1007001	30	UI_FirstRecharge_ModelName6				0.000000		
+183	23	hero107	1	c003h|weapon|c003h_weapon901_t6	1.300000	0,0.30,0	-63,30.2,-3.8		1000001	30	UI_FirstRecharge_ModelName3				0.000000		
+184	23	hero108	1	c004h|weapon|c004h_weapon901_t6	2.500000	0,0.25,1.47	27,-740,10.3		1000001	30	UI_FirstRecharge_ModelName4				0.000000		

@@ -1,0 +1,313 @@
+﻿序列号	Npc编号	交互类型	优先级	参数	触发半径	自动弹出	交互框	交互框1图标	交互框2图标	交互框3图标	交互命名	交互框1定制化特效	交互框2定制化特效	交互框3定制化特效	交互框缩放比例	是否隐藏主界面其他显示
+int	string	string	int	string	float	int	int	string	string	string	string	int	int	int	float	int
+Id	NpcId	InteractiveType	Priority	InteractiveParam	TriggerRadius	AutoPop	InteractiveBox	InteractiveIcon1	InteractiveIcon2	InteractiveIcon3	InteractiveName	InteractiveIconEffect1	InteractiveIconEffect2	InteractiveIconEffect3	InteractiveScale	NeedHideOther
+201	npc_10001	talk	1		3.000000	1	1	icon_caiji			InteractiveTalk	0	0	0	0.000000	0
+202	npc_collect_001	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+203	npc_10012	item	1	item106030101007,1	3.000000	1	2	item_106030101007	item_106030101007	item_106030101007	InteractiveUseItem	0	0	0	0.000000	0
+204	npc_10029	item	1	item106030101018,1	3.000000	1	2	item_106030101018	item_106030101018	item_106030101018	InteractiveUseItem	0	0	0	0.000000	0
+205	ride_pub_300011_01	ride	2		3.000000	1	1	icon_shangma			InteractiveRide	0	0	0	0.000000	0
+206	ride_pub_300012_01	ride	2		3.000000	1	1	icon_shangma			InteractiveRide	0	0	0	0.000000	0
+402	ride_pub_300121_01	ride	2		3.000000	1	1	icon_shangma			InteractiveRide	0	0	0	0.000000	0
+207	npc_300021_001	collection	2		3.000000	1	1	icon_caiji			InteractivePush	0	0	0	0.000000	0
+208	npc_300021_002	collection	2		3.000000	1	1	icon_caiji			InteractivePush	0	0	0	0.000000	0
+209	npc_300021_003	collection	2		3.000000	1	1	icon_caiji			InteractivePush	0	0	0	0.000000	0
+210	npc_300021_004	collection	2		3.000000	1	1	icon_caiji			InteractivePush	0	0	0	0.000000	0
+100	lalilo_001	destination	2		0.000000	0	1	icon_caiji			InteractiveUseItem	0	0	0	0.000000	0
+211	npc_collect_002	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+213	npc_collect_004	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+214	npc_collect_003	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+215	npc_collect_005	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+216	npc_collect_006	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+217	npc_collect_007	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+218	npc_collect_008	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+219	npc_10012	item	1	item106030101025,1	3.000000	1	2	item_106030101025	item_106030101025	item_106030101025	InteractiveUseItem	0	0	0	0.000000	0
+220	cannon_npc_001	cannon	1		5.000000	1	1	icon_dapao			InteractiveFire	0	0	0	0.000000	0
+221	cannon_npc_002	cannon	2		5.000000	1	1	icon_dapao			InteractiveFire	0	0	0	0.000000	0
+222	cannon_npc_003	cannon	2		5.000000	1	1	icon_dapao			InteractiveFire	0	0	0	0.000000	0
+223	cannon_npc_004	cannon	2		5.000000	1	1	icon_dapao			InteractiveFire	0	0	0	0.000000	0
+224	cannon_npc_005	cannon	2		5.000000	1	1	icon_dapao			InteractiveFire	0	0	0	0.000000	0
+225	cannon_npc_006	cannon	2		5.000000	1	1	icon_dapao			InteractiveFire	0	0	0	0.000000	0
+226	cannon_npc_007	cannon	2		5.000000	1	1	icon_dapao			InteractiveFire	0	0	0	0.000000	0
+227	npc_collect_009	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+228	npc_collect_010	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+229	npc_collect_011	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+230	npc_collect_012	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+231	npc_collect_013	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+232	npc_collect_014	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+233	npc_collect_015	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+234	npc_300022_001	collection	2		3.000000	1	1	icon_caiji			InteractivePush	0	0	0	0.000000	0
+235	npc_300022_002	collection	2		3.000000	1	1	icon_caiji			InteractivePush	0	0	0	0.000000	0
+236	npc_300022_003	collection	2		3.000000	1	1	icon_caiji			InteractivePush	0	0	0	0.000000	0
+237	npc_300022_004	collection	2		3.000000	1	1	icon_caiji			InteractivePush	0	0	0	0.000000	0
+238	callboss_trigger_01	item	1	item106100111001,1	3.000000	1	2	item_106100111001	item_106100111001	item_106100111001	InteractiveActivate	0	0	0	0.000000	0
+239	callboss_trigger_02	item	1	item106100111002,1	3.000000	1	2	item_106100111002	item_106100111002	item_106100111002	InteractiveActivate	0	0	0	0.000000	0
+240	npc_collect_021	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+241	npc_collect_016	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+242	npc_collect_017	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+243	npc_collect_018	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+244	npc_collect_019	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+245	npc_collect_020	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+246	npc_collect_017	item	1	item106030101082,1	3.000000	1	2	item_106030101082	item_106030101082	item_106030101082	InteractiveUseItem	0	0	0	0.000000	0
+247	npc_10066	item	1	item106030101090,1	3.000000	1	2	item_106030101090	item_106030101090	item_106030101090	InteractiveUseItem	0	0	0	0.000000	0
+248	npc_10065	item	1	item106030101090,1	3.000000	1	2	item_106030101090	item_106030101090	item_106030101090	InteractiveUseItem	0	0	0	0.000000	0
+249	npc_10064	item	1	item106030101095,1	3.000000	1	2	item_106030101095	item_106030101095	item_106030101095	InteractiveUseItem	0	0	0	0.000000	0
+250	npc_10063	item	1	item106030101092,1	3.000000	1	2	item_106030101092	item_106030101092	item_106030101092	InteractiveUseItem	0	0	0	0.000000	0
+251	npc_20022	item	1	item106030101101,1	3.000000	1	2	item_106030101101	item_106030101101	item_106030101101	InteractiveFeed	0	0	0	0.000000	0
+252	npc_collect_022	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+253	npc_collect_023	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+254	npc_collect_025	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+255	npc_collect_024	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+256	npc_10093	item	1	item106030101121,1	3.000000	1	1	icon_caiji			InteractiveUseItem	0	0	0	0.000000	0
+257	npc_300020_001	collection	2		3.000000	1	1	icon_caiji			InteractivePush	0	0	0	0.000000	0
+258	npc_clone_001	collection	2		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+259	npc_task_400012_1	collection	2		6.000000	1	1	icon_caiji			InteractiveWakeup	0	0	0	0.000000	0
+260	ride_pub_battlefield_10_flag	ride	2		3.000000	1	1	icon_shangma			InteractiveRide	0	0	0	0.000000	0
+261	guild_seat_01	ride	2		2.000000	1	1	icon_shangma			InteractiveSit	0	0	0	0.000000	0
+262	npc_350021_001	collection	2		3.000000	1	1	icon_caiji			InteractivePush	0	0	0	0.000000	0
+263	trigger_grail_altar_001	trigger	2		4.000000	1	1	icon_caiji			InteractiveFangzhi	0	0	0	0.000000	0
+264	grail_01	ride	2		4.000000	1	1	icon_shangma			InteractivePick	0	0	0	0.000000	0
+265	npc_collect_027	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+266	npc_collect_028	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+1036	npc_collect_029	collection	1		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+267	npc_10505	item	1	item106030101141,1	3.000000	1	1	item_108100103302	item_108100103302	item_108100103302	InteractiveUseItem	0	0	0	0.000000	0
+268	npc_10506	item	1	item106030101141,1	3.000000	1	1	item_108100103302	item_108100103302	item_108100103302	InteractiveUseItem	0	0	0	0.000000	0
+269	npc_350021_002	collection	2		3.000000	1	1	icon_caiji			InteractivePush	0	0	0	0.000000	0
+270	npc_300051_001	collection	2		3.000000	1	1	icon_caiji			InteractiveOpendoor	0	0	0	0.000000	0
+271	npc_300051_002	collection	2		3.000000	1	1	icon_caiji			InteractiveOpendoor	0	0	0	0.000000	0
+272	npc_300052_001	collection	2		3.000000	1	1	icon_caiji			InteractiveOpendoor	0	0	0	0.000000	0
+273	npc_300052_002	collection	2		3.000000	1	1	icon_caiji			InteractiveOpendoor	0	0	0	0.000000	0
+274	npc_10026	item	1	item106030101039,1	3.000000	1	1	item_106030101039	item_106030101039	item_106030101039	InteractiveUseItem	0	0	0	0.000000	0
+275	npc_10020	item	1	item106030101093,2	3.000000	1	1	item106030101093	item106030101093	item106030101093	InteractiveUseItem	0	0	0	0.000000	0
+276	npc_10010_climb	climb	2		3.000000	1	2	icon_shangma	icon_shangma	icon_shangma	InteractiveClimb	0	0	0	0.000000	0
+277	box_900011_100	clicknpc	1	55	3.000000	1	2	icon_caiji	icon_caiji	icon_caiji	InteractiveBox	0	0	0	0.000000	0
+278	toss_01	toss	1	1	1.500000	1	2	icon_jianqi	icon_jianqi	icon_jianqi	InteractiveToss	0	0	0	0.000000	0
+279	npc_bbq	collection	2		3.000000	1	2	icon_caiji	icon_caiji	icon_caiji	InteractiveBBQ	0	0	0	0.000000	0
+280	wood_01	clicknpc	2		2.000000	1	2	icon_banyun	icon_banyun	icon_banyun	InteractiveCarry	0	0	0	0.000000	0
+281	wood_02	clicknpc	2		2.000000	1	2	icon_banyun	icon_banyun	icon_banyun	InteractiveCarry	0	0	0	0.000000	0
+282	npc_10144	clicknpc	2		2.000000	1	2	icon_caiji	icon_caiji	icon_caiji	InteractiveEgg	0	0	0	0.000000	0
+283	stone_01	clicknpc	2		2.000000	1	1	icon_banyun			InteractiveCarry	0	0	0	0.000000	0
+284	toss_02	toss	1	2	2.000000	1	1	icon_caiji			InteractiveToss2	0	0	0	0.000000	0
+285	toss_03	toss	1	3	2.000000	1	1	icon_caiji			InteractiveToss2	0	0	0	0.000000	0
+286	toss_04	toss	1	4	2.000000	1	1	icon_caiji			InteractiveToss2	0	0	0	0.000000	0
+288	monster10101011	collectcorpse	1		8.000000	1	2	icon_xihun	icon_xihun	icon_xihun	InteractiveSoulStone	0	0	0	0.000000	0
+289	monster10101014	collectcorpse	1		8.000000	1	2	icon_xihun	icon_xihun	icon_xihun	InteractiveSoulStone	0	0	0	0.000000	0
+290	npc_noticeboard_001	clicknpc	2		3.000000	1	1	btn_npc_chat			InteractiveSee	0	0	0	0.000000	0
+291	npc_noticeboard_002	clicknpc	2		3.000000	1	1	btn_npc_chat			InteractiveSee	0	0	0	0.000000	0
+292	npc_noticeboard_003	clicknpc	2		3.000000	1	1	btn_npc_chat			InteractiveSee	0	0	0	0.000000	0
+293	ride_pub_seat_air01	clicknpc	2		3.000000	1	1	icon_shangma			InteractiveSit	0	0	0	0.000000	0
+294	ride_pub_seat_air02	clicknpc	2		3.000000	1	1	icon_shangma			InteractiveSit	0	0	0	0.000000	0
+295	npc_fishingground_010101	fish	1	10010101	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+296	npc_fishingground_010201	fish	1	10010102	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+297	npc_fishingground_010301	fish	1	10010103	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+298	npc_fishingground_020101	fish	1	10010201	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+299	npc_fishingground_020201	fish	1	10010202	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+300	npc_fishingground_020301	fish	1	10010203	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+301	npc_fishingground_030101	fish	1	10010301	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+302	npc_fishingground_030201	fish	1	10010302	10.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+303	npc_fishingground_030301	fish	1	10010303	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+304	npc_guildleague_energystone	collection	1		4.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+305	npc_guildleague_disturbdevice	collection	1		5.000000	1	1	icon_caiji			InteractiveStart	0	0	0	0.000000	0
+306	guildleague_bigcannon	collection	1		5.000000	1	1	icon_caiji			InteractiveStart	0	0	0	0.000000	0
+307	guildleague_smallcannon	clicknpc	1		4.000000	1	1	icon_caiji			InteractiveReload	0	0	0	0.000000	0
+308	guildleague_bluebomb_101	ride	1		4.000000	1	1	icon_shangma			InteractivePick	0	0	0	0.000000	0
+309	guildleague_bluebomb_102	ride	1		4.000000	1	1	icon_shangma			InteractivePick	0	0	0	0.000000	0
+310	guildleague_bluebomb_201	ride	1		4.000000	1	1	icon_shangma			InteractivePick	0	0	0	0.000000	0
+311	guildleague_bluebomb_202	ride	1		4.000000	1	1	icon_shangma			InteractivePick	0	0	0	0.000000	0
+312	guildleague_redbomb_101	ride	1		4.000000	1	1	icon_shangma			InteractivePick	0	0	0	0.000000	0
+313	guildleague_redbomb_102	ride	1		4.000000	1	1	icon_shangma			InteractivePick	0	0	0	0.000000	0
+314	guildleague_redbomb_201	ride	1		4.000000	1	1	icon_shangma			InteractivePick	0	0	0	0.000000	0
+315	guildleague_redbomb_202	ride	1		4.000000	1	1	icon_shangma			InteractivePick	0	0	0	0.000000	0
+316	npc_guildleague_flag	collection	1		3.000000	1	1	icon_caiji			InteractiveOccupy	0	0	0	0.000000	0
+317	npc_hallowg001	collection	1		5.000000	1	1	icon_caiji			InteractiveConvert	0	0	0	0.000000	0
+318	npc_hallowg002	collection	1		5.000000	1	1	icon_caiji			InteractiveConvert	0	0	0	0.000000	0
+319	npc_hallowg003	collection	1		5.000000	1	1	icon_caiji			InteractiveConvert	0	0	0	0.000000	0
+320	npc_hallowg004	collection	1		5.000000	1	1	icon_caiji			InteractiveConvert	0	0	0	0.000000	0
+321	npc_hallowg005	collection	1		5.000000	1	1	icon_caiji			InteractiveConvert	0	0	0	0.000000	0
+322	npc_10007	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+323	npc_10019	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+324	npc_10020	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+325	npc_100821	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+326	npc_10075	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+327	npc_10002	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+328	npc_10043	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+329	npc_10042	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+330	npc_10037	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+331	npc_10032	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+332	npc_10034	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+333	npc_10035	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+334	npc_10033	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+335	npc_10036	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+336	npc_10044	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+337	npc_forging_001	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+338	npc_19000	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+339	npc_10138	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+340	npc_multi	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+341	npc_10139	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+342	npc_10085	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+343	npc_10023	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+344	npc_10027	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+345	npc_10028	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+346	npc_002_mohade	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+347	npc_10501	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+348	npc_10502	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+349	npc_10503	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+350	npc_10508	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+351	npc_10509	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+352	npc_10190	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+353	npc_10189	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+354	npc_10197	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+355	npc_10196	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+356	npc_10007	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+357	npc_10019	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+358	npc_10020	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+359	npc_100821	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+360	npc_10075	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+361	npc_10002	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+362	npc_10043	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+363	npc_10042	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+364	npc_10037	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+365	npc_10032	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+366	npc_10034	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+367	npc_10035	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+368	npc_10033	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+369	npc_10036	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+370	npc_10044	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+371	npc_forging_001	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+372	npc_19000	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+373	npc_10138	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+374	npc_multi	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+375	npc_10139	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+376	npc_10085	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+377	npc_10023	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+378	npc_10027	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+379	npc_10028	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+380	npc_002_mohade	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+381	npc_10501	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+382	npc_10502	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+383	npc_10503	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+384	npc_10508	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+385	npc_10509	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+386	npc_10190	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+387	npc_10189	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+388	npc_10197	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+389	npc_10196	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+390	npc_30008_silenceball	collection	2		3.000000	1	1	icon_caiji			InteractiveDecontaminate	0	0	0	0.000000	0
+391	npc_35005_statue_boss1	collection	2		3.000000	1	1	icon_caiji			InteractiveChallenge	0	0	0	0.000000	0
+392	npc_35005_statue_boss2	collection	2		3.000000	1	1	icon_caiji			InteractiveChallenge	0	0	0	0.000000	0
+393	toss_05	toss	1	5	2.000000	1	1	icon_caiji			InteractiveToss2	0	0	0	0.000000	0
+394	npc_10222	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+395	npc_10227	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+396	npc_10224	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+397	npc_10222	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+398	npc_10227	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+399	npc_10224	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+400	npc_400040_light	talk	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+401	toss_06	toss	1	6	3.000000	1	1	icon_caiji			InteractiveToss2	0	0	0	0.000000	0
+403	holybattle_key	collection	1		3.000000	1	1	icon_caiji			InteractivePick	0	0	0	0.000000	0
+404	ride_pub_300015_01	ride	2		3.000000	1	1	icon_shangma			InteractiveRide	0	0	0	0.000000	0
+405	npc_109005	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+406	npc_109021	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+407	npc_109008	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+408	npc_109020	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+409	npc_103207	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+410	npc_110041	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+411	npc_110034	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+412	npc_110029	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+413	npc_110048	talkbtn	2		3.000000	1	1	btn_npc_chat			InteractiveTalkbtn	0	0	0	0.000000	0
+414	npc_109005	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+415	npc_109021	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+416	npc_109008	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+417	npc_109020	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+418	npc_103207	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+419	npc_110041	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+420	npc_110034	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+421	npc_110029	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+422	npc_110048	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+1000	mine_npc001	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveMine	0	0	0	0.000000	0
+1001	mine_npc002	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveLeach	0	0	0	0.000000	0
+1002	mine_npc003	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveMine	0	0	0	0.000000	0
+1003	mine_npc004	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveLeach	0	0	0	0.000000	0
+1004	mine_npc005	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveMine	0	0	0	0.000000	0
+1005	mine_npc006	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveLeach	0	0	0	0.000000	0
+1006	mine_npc007	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveMine	0	0	0	0.000000	0
+1007	mine_npc008	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveLeach	0	0	0	0.000000	0
+1008	mine_npc009	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveMine	0	0	0	0.000000	0
+1009	mine_npc010	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveLeach	0	0	0	0.000000	0
+1010	mine_npc011	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveMine	0	0	0	0.000000	0
+1011	mine_npc012	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveLeach	0	0	0	0.000000	0
+1012	mine_npc013	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveLeach	0	0	0	0.000000	0
+1013	mine_npc014	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveLeach	0	0	0	0.000000	0
+1032	mine_npc015	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveLeach	0	0	0	0.000000	0
+1033	mine_npc016	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveLeach	0	0	0	0.000000	0
+1037	mine_npc017	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveLeach	0	0	0	0.000000	0
+1038	mine_npc018	skillmine	2		3.000000	1	1	icon_caikuang			InteractiveLeach	0	0	0	0.000000	0
+1014	collect_npc001	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveMedic	0	0	0	0.000000	0
+1015	collect_npc002	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+1016	collect_npc003	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveMedic	0	0	0	0.000000	0
+1017	collect_npc004	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+1018	collect_npc005	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveMedic	0	0	0	0.000000	0
+1019	collect_npc006	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+1020	collect_npc007	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveMedic	0	0	0	0.000000	0
+1021	collect_npc008	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+1022	collect_npc009	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveMedic	0	0	0	0.000000	0
+1023	collect_npc010	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+1024	collect_npc011	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveMedic	0	0	0	0.000000	0
+1025	collect_npc012	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+1026	collect_npc013	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+1027	collect_npc014	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+1034	collect_npc015	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+1035	collect_npc016	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+1039	collect_npc017	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+1040	collect_npc018	skillcollect	2		3.000000	1	1	icon_caiji			InteractiveGather	0	0	0	0.000000	0
+1028	npc_35004_timetrigger_01	collection	2		3.000000	1	1	icon_caiji			InteractiveDecontaminate	0	0	0	0.000000	0
+1029	npc_35004_timetrigger_02	collection	2		3.000000	1	1	icon_caiji			InteractiveDecontaminate	0	0	0	0.000000	0
+1030	npc_35005_statue_boss3	collection	2		3.000000	1	1	icon_caiji			InteractiveChallenge	0	0	0	0.000000	0
+1031	npc_35005_statue_boss4	collection	2		3.000000	1	1	icon_caiji			InteractiveChallenge	0	0	0	0.000000	0
+2001	npc_homland_housedoor	enterhlland	1		2.000000	1	1	icon_jinmen			InteractiveExit	0	0	0	0.000000	0
+2002	npc_homland_landdoor	enterhlhouse	1		2.000000	1	1	icon_jinmen			InteractiveEnter	0	0	0	0.000000	0
+2003	npc_homelane_door	talkbtn	1		2.000000	1	1	icon_jinmen			InteractiveEnter	0	0	0	0.000000	0
+3001	meal_001	havemeal	1		3.000000	1	1	icon_jianqi			InteractiveEat	0	0	0	0.000000	0
+3002	meal_002	havemeal	1		3.000000	1	1	icon_jianqi			InteractiveEat	0	0	0	0.000000	0
+3003	meal_003	havemeal	1		3.000000	1	1	icon_jianqi			InteractiveEat	0	0	0	0.000000	0
+4001	keypoint_crystal	collection	1		5.000000	1	1	icon_caiji			InteractiveDug	0	0	0	0.000000	0
+5001	npc_battle_01	battlebuff	1	skill120009::buff_qte	50.000000	1	3			icon_battledef	InteractiveBattlebtn	0	0	41100039	0.000000	1
+5002	npc_battle_qinling	battlebuff	1	skill120021_end::buff_qte	50.000000	1	3	icon_note	icon_note	icon_note	InteractiveBattlebtn2	0	0	0	0.000000	1
+6001	apprentic_1001	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6002	apprentic_1002	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6003	apprentic_1003	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6004	apprentic_1004	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6005	apprentic_2001	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6006	apprentic_2002	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6007	apprentic_2003	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6008	apprentic_2004	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6009	apprentic_3001	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6010	apprentic_3002	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6011	apprentic_3003	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6012	apprentic_3004	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6013	apprentic_4001	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6014	apprentic_4002	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6015	apprentic_4003	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6016	apprentic_4004	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6017	apprentic_5001	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6018	apprentic_5002	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6019	apprentic_5003	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6020	apprentic_5004	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6021	apprentic_6001	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6022	apprentic_6002	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6023	apprentic_6003	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6024	apprentic_6004	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6025	apprentic_7001	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6026	apprentic_7002	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6027	apprentic_7003	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6028	apprentic_7004	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6029	apprentic_8001	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6030	apprentic_8002	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6031	apprentic_8003	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6032	apprentic_8004	gift	2		3.000000	1	1	btn_npc_present			InteractiveGiftbtn	0	0	0	0.000000	0
+6033	npc_fishingground_040101	fish	1	10010401	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+6034	npc_fishingground_040201	fish	1	10010402	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+6035	npc_fishingground_050101	fish	1	10010501	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+6036	npc_fishingground_050201	fish	1	10010502	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+6038	npc_fishingground_060101	fish	1	10010601	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+6039	npc_fishingground_060201	fish	1	10010602	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0
+6040	npc_fishingground_060301	fish	1	10010603	12.000000	1	1	icon_shangma			InteractiveFishing	0	0	0	0.000000	0

@@ -1,0 +1,13 @@
+﻿交互ID	交互类型	交互框图标	交互命名	交互框图标2	交互命名2	绑定位置	绑定偏移	过程动作集	过程动作ID	延迟时间	最终动作	最终动作ID	解锁任务	禁止其他玩家交互
+int	int	string	string	string	string	string	string	int	int	float	int	int	string	int
+Id	Type	InteractiveIcon	InteractiveName	Interactive2Icon	Interactive2Name	BindBone	BindOffset	StartActionSet	StartActionId	DelayTime	EndActionSet	EndActionId	UnlockTask	OtherCantInteract
+1	2	icon_caiji	hl_interactive_paiqiu	icon_caiji	hl_interactive_paiqiu			1	624	0.100000	0	0		0
+2	1	icon_shangma	hl_interactive_zuoxia	icon_up	hl_interactive_qilai			0	0	0.000000	34	1		0
+3	1	icon_shangma	hl_interactive_tangxia	icon_up	hl_interactive_qilai			0	0	0.000000	37	1		0
+4	1	icon_shangma	hl_interactive_tangxia	icon_up	hl_interactive_qilai			0	0	0.000000	37	1		0
+5	2	icon_clean	hl_interactive_qingli	icon_clean	hl_interactive_qingli			0	0	0.000000	0	0		0
+6	3	icon_caiji	hl_interactive_pengren	icon_caiji	hl_interactive_pengren			0	0	0.000000	0	0		0
+7	2	icon_caiji	hl_interactive_tui	icon_caiji	hl_interactive_tui			1	624	0.100000	0	0		0
+8	2	icon_clean	hl_interactive_qingli	icon_clean	hl_interactive_qingli			0	0	0.000000	0	0		1
+9	2	icon_clean	hl_interactive_qingli	icon_clean	hl_interactive_qingli			0	0	0.000000	0	0	640020,1	1
+10	2	icon_clean	hl_interactive_qingli	icon_clean	hl_interactive_qingli			0	0	0.000000	0	0	640020,2	1

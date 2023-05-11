@@ -1,0 +1,15 @@
+﻿属性编号	属性名称	显示方式	值类型	评分系数
+int	string	int	int	float
+Id	PropName	ShowType	PropValueType	PropBaseValue
+1	TalentPropName_1	0	1	1.500000
+2	TalentPropName_2	0	1	1.000000
+3	TalentPropName_3	0	1	1.000000
+4	TalentPropName_4	0	1	1.000000
+5	TalentPropName_5	0	1	1.000000
+6	TalentPropName_6	0	1	1.000000
+7	TalentPropName_7	1	1	1.000000
+8	TalentPropName_8	1	1	1.000000
+9	TalentPropName_9	1	1	1.000000
+10	TalentPropName_10	1	1	1.000000
+11	TalentPropName_11	1	1	1.000000
+12	TalentPropName_12	1	1	1.000000

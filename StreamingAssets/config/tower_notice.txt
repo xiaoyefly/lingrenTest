@@ -1,0 +1,12 @@
+﻿流水	方案id	效果类型	类型值	语言包id
+int	int	int	int	string
+Id	PlanId	Type	Value	LanguageId
+1	1	1	30	Tips3002
+2	1	1	50	Tips3003
+3	1	2	35	Tips3004
+4	1	2	60	Tips3005
+5	2	1	30	Tips3006
+6	2	1	55	Tips3007
+7	2	1	80	Tips3008
+8	2	2	45	Tips3009
+9	2	2	70	Tips3010

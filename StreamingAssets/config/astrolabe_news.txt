@@ -1,0 +1,6 @@
+﻿类型	抬头	内容	带颜色抬头	带颜色的内容
+int	string	string	string	string
+Type	Title	Des	ColoredTitle	ColoredDes
+1	Astrolabe_News_Title_01	Astrolabe_News_01	Astrolabe_News_ColorTitle_01	Astrolabe_ColorNews_01
+2	Astrolabe_News_Title_02	Astrolabe_News_02	Astrolabe_News_ColorTitle_02	Astrolabe_ColorNews_02
+3	Astrolabe_News_Title_03	Astrolabe_News_03	Astrolabe_News_ColorTitle_03	Astrolabe_ColorNews_03

@@ -1,0 +1,4 @@
+﻿场景ID	小地图倍数	小地图左右偏移	小地图上下偏移	开启等级	区域组	地图名字	是否可立即复活	复活数值消耗	复活道具消耗	最小等级	最大等级	每条线最大人数限制	背景音
+int	float	int	int	int	int	string	int	string	string	int	int	int	int
+Id	MapMultiple	MapDeviationX	MapDeviationY	OpenLevel	Group	MapName	IsRelive	ReliveNumCost	ReliveItemCost	MixLevel	MaxLevel	LinePeopleMaxNum	BgSound
+10001	1.000000	1	1	0	-1	MapName10001	1			20	99	-1	2

@@ -1,0 +1,23 @@
+﻿段位	需要积分	段位奖励	段位图标	段位特效	段位名字	赛季奖励需要战斗次数
+int	int	string	string	int	string	int
+Id	LevelScore	LevelReward	LevelIcon	Effect	LevelName	SeasonRewardBattleNum
+1	0		kingtower_bronze	40000201	KingTowerLevelName1	0
+2	40	item107200042001,3;item1000,100000;item9003,15	kingtower_silver	40000201	KingTowerLevelName2	0
+3	120	item107200042001,5;item1000,150000;item9003,15	kingtower_silver	40000201	KingTowerLevelName3	0
+4	240	item107200042001,7;item1000,200000;item9003,15	kingtower_silver	40000201	KingTowerLevelName4	0
+5	480	item107200043001,3;item1000,250000;item9003,12	kingtower_gold	40000201	KingTowerLevelName5	0
+6	720	item107200043001,5;item1000,250000;item9003,12	kingtower_gold	40000201	KingTowerLevelName6	0
+7	960	item107200043001,7;item1000,250000;item9003,12	kingtower_gold	40000201	KingTowerLevelName7	0
+8	1200	item107200051001,1;item1000,300000;item9003,10	kingtower_platinum	40000202	KingTowerLevelName8	0
+9	1440	item107200051001,2;item1000,300000;item9003,10	kingtower_platinum	40000202	KingTowerLevelName9	0
+10	1780	item107200051001,3;item1000,300000;item9003,10	kingtower_platinum	40000202	KingTowerLevelName10	0
+11	2040	item107200051001,4;item1001,1000;item9003,9	kingtower_diamond	40000203	KingTowerLevelName11	0
+12	2240	item107200051001,5;item1001,1500;item9003,9	kingtower_diamond	40000203	KingTowerLevelName12	0
+13	2350	item107200051001,5;item1001,2000;item9003,9	kingtower_diamond	40000203	KingTowerLevelName13	0
+14	2440	item107200052001,1;item1001,2500;item9003,8	kingtower_star	40000204	KingTowerLevelName14	0
+15	2560	item107200052001,2;item1001,2500;item9003,8	kingtower_star	40000204	KingTowerLevelName15	0
+16	2630	item107200052001,3;item1001,2500;4;item9003,8	kingtower_star	40000204	KingTowerLevelName16	0
+17	2760	item107200052001,4;item1001,2500;item9003,5	kingtower_extreme	40000205	KingTowerLevelName17	0
+18	2860	item107200052001,5;item1001,2500;item9003,5	kingtower_extreme	40000205	KingTowerLevelName18	0
+19	2940	item107200052001,5;item1001,3000;item9003,5	kingtower_extreme	40000205	KingTowerLevelName19	0
+20	3080	item107200052001,5;item1001,4000;item9003,3	kingtower_king	40000206	KingTowerLevelName20	0

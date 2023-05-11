@@ -1,0 +1,16 @@
+﻿事件库ID	选项名称	图标
+int	string	string
+ID	ChooseName	Icon
+1	SailChooseName001	btn_dungeon
+2	SailChooseName002	btn_homeland_shop
+3	SailChooseName003	btn_tujian
+4	SailChooseName004	
+5	SailChooseName005	
+6	SailChooseName006	
+7	SailChooseName007	
+8	SailChooseName008	
+9	SailChooseName009	
+10	SailChooseName010	
+11	SailChooseName011	icon_startrace_team
+12	SailChooseName012	btn_springfestival
+13	SailChooseName013	

@@ -1,0 +1,15 @@
+﻿ID	专精名字	名字颜色	专精描述	专精图标	专精技能	解锁等级	天赋页解锁等级	天赋属性	评分类型	值/公式
+int	string	int	string	string	string	int	string	string	int	int
+TalentId	TalentName	TalentColor	TalentDes	TalentIcon	TalentSkill	UnlockLevel	UnlockNeedLevel	TalentProperties	CPType	CPValue
+1011	talentname1011	1	talentdes1011	skill_1203	skill1203	15	1:15;2:41;3:51;4:61;5:69;6:91;7:101	51,-2000;109,150000;11,7000;13,2500	2	0
+1012	talentname1012	2	talentdes1012	skill_1204	skill1204	25	1:15;2:41;3:51;4:61;5:69;6:91;7:101	13,1000;51,5000	2	0
+1021	talentname1021	2	talentdes1021	skill_1111	skill1111	25	1:15;2:41;3:51;4:61;5:69;6:91;7:101	51,4000;11,1500	2	0
+1022	talentname1022	1	talentdes1022	skill_1101	skill1101	15	1:15;2:41;3:51;4:61;5:69;6:91;7:101	51,4500;67,1000	2	0
+1031	talentname1031	1	talentdes1031	skill_1004	skill1004	25	1:15;2:41;3:51;4:61;5:69;6:91;7:101	51,3000;29,3000;11,1000	2	0
+1032	talentname1032	2	talentdes1032	skill_1008	skill1008	15	1:15;2:41;3:51;4:61;5:69;6:91;7:101	51,5000	2	0
+1041	talentname1041	1	talentdes1041	skill_1308	skill1308	25	1:15;2:41;3:51;4:61;5:69;6:91;7:101	112,3000;11,3000	2	0
+1042	talentname1042	2	talentdes1042	skill_1313	skill1313	15	1:15;2:41;3:51;4:61;5:69;6:91;7:101	75,1000;51,4500	2	0
+1051	talentname1051	1	talentdes1051	skill_1403	skill1403	15	1:15;2:41;3:51;4:61;5:69;6:91;7:101	51,4500;64,60;11,1500;154,1500	2	0
+1052	talentname1052	2	talentdes1052	skill_1404	skill1404	25	1:15;2:41;3:51;4:61;5:69;6:91;7:101	51,6000	2	0
+1061	talentname1061	2	talentdes1061	skill_1507	skill1509	25	1:15;2:41;3:51;4:61;5:69;6:91;7:101	11,7000;109,150000;51,1000	2	0
+1062	talentname1062	1	talentdes1062	skill_1508	skill1510	15	1:15;2:41;3:51;4:61;5:69;6:91;7:101	51,5500;11,1000	2	0

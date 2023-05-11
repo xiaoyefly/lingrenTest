@@ -1,0 +1,68 @@
+﻿气泡ID	气泡资源	气泡字体颜色	名字	描述	时间类型	展示生效起始时间	使用时间（S）/结束时间	对应item	地区渠道号
+int	string	string	string	string	int	string	string	string	string
+BubbleId	BubbleResource	BubbleFontColor	BubbleName	BubbleDes	TimeType	ShowTime	LifeTime	Item	SDKAreaTypes
+101	bubble01	100,97,92	BubbleName_101	BubbleDes_101	0	-1	-1	item140000021001	
+102	bubble02	0,100,0	BubbleName_102	BubbleDes_102	0	-1	2592000	item140000021002	
+103	bubble03	100,97,92	BubbleName_103	BubbleDes_103	0	-1	-1	item140000021003	
+104	bubble04	210,105,30	BubbleName_104	BubbleDes_104	0	-1	-1	item140000021004	
+105	bubble05	0,80,180	BubbleName_105	BubbleDes_105	0	-1	-1	item140000021005	
+106	bubble06	1,1,1	BubbleName_106	BubbleDes_106	0	-1	-1	item140000021006	
+107	bubble07	100,97,92	BubbleName_107	BubbleDes_107	0	-1	1209600	item140000021007	
+108	bubble08	139,69,19	BubbleName_108	BubbleDes_108	0	-1	-1	item140000021008	
+109	bubble09	128,0,0	BubbleName_109	BubbleDes_109	0	-1	-1	item140000021009	
+110	bubble010	1,1,1	BubbleName_110	BubbleDes_110	0	-1	-1	item140000021010	
+111	bubble07	100,97,92	BubbleName_111	BubbleDes_111	0	-1	-1	item140000021011	
+112	bubble012	95,87,171	BubbleName_112	BubbleDes_112	0	-1	594000	item140000021012	
+113	bubble013	143,95,63	BubbleName_113	BubbleDes_113	0	-1	594000	item140000021013	
+114	bubble014	143,95,63	BubbleName_114	BubbleDes_114	0	-1	-1	item140000021014	1;2;3;4;6
+115	bubble015	143,95,63	BubbleName_115	BubbleDes_115	0	-1	-1	item140000021015	1;2;3;4;6
+116	bubble016	143,95,63	BubbleName_116	BubbleDes_116	0	-1	-1	item140000021016	
+117	bubble017	143,95,63	BubbleName_117	BubbleDes_117	0	-1	-1	item140000021017	1;2;3;4;6
+118	bubble018	0,100,0	BubbleName_118	BubbleDes_118	0	-1	-1	item140000021018	
+119	bubble019	143,95,63	BubbleName_119	BubbleDes_119	0	-1	-1	item140000021019	1;2;3;4;5;6
+120	bubble020	143,95,63	BubbleName_120	BubbleDes_120	0	-1	-1	item140000021020	1;2;3;4;5;6
+121	bubble30	143,95,63	BubbleName_0030	BubbleDes_0030	0	-1	2592000	item140000021037	
+122	bubble31	143,95,63	BubbleName_0031	BubbleDes_0031	0	-1	2592000	item140000021038	
+124	bubble32	143,95,63	BubbleName_0032	BubbleDes_0032	0	-1	2592000	item140000021039	
+125	bubble33	143,95,63	BubbleName_125	BubbleDes_125	0	-1	2592000	item140000021040	
+126	bubble34	143,95,63	BubbleName_126	BubbleDes_126	0	-1	2592000	item140000021041	
+127	bubble35	250,98,113	BubbleName_127	BubbleDes_127	0	-1	-1	item140000021044	5
+128	bubble36	250,98,113	BubbleName_128	BubbleDes_128	0	-1	-1	item140000021045	5
+201	bubble018	0,100,0	BubbleName_201	BubbleDes_201	0	-1	259200	item140000021026	4
+202	bubble01	255255255	BubbleName_202	BubbleDes_202	0	-1	259200	item140000021027	4
+203	bubble010	1,1,1	BubbleName_203	BubbleDes_203	0	-1	259200	item140000021028	4
+204	bubble07	100,97,92	BubbleName_204	BubbleDes_204	0	-1	259200	item94000000154	4
+205	bubble06	1,1,1	BubbleName_205	BubbleDes_205	0	-1	259200	item94000000155	4
+206	bubble02	0,100,0	BubbleName_206	BubbleDes_206	0	-1	-1	item94000000157	4
+123	bubble013_1	143,95,63	BubbleName_123	BubbleDes_123	0	-1	-1	item140000021023	4
+207	bubble26	143,95,63	BubbleName_207	BubbleDes_207	0	-1	-1	item94000000161	4
+208	bubble03	100,97,92	BubbleName_208	BubbleDes_208	0	-1	259200	item94000000176	4
+209	bubble08	139,69,19	BubbleName_209	BubbleDes_209	0	-1	259200	item94000000177	4
+210	bubble09	128,0,0	BubbleName_210	BubbleDes_210	0	-1	259200	item94000000178	4
+211	bubble26	143,95,63	BubbleName_211	BubbleDes_211	0	-1	2592000	item95000000158	3;5
+212	bubble27	1,1,1	BubbleName_212	BubbleDes_212	0	-1	-1	item140000021031	1;2;4;5
+213	bubble28	241,139,15	BubbleName_213	BubbleDes_213	0	-1	-1	item140000021032	1;2;4;5
+214	bubble29	61,79,50	BubbleName_214	BubbleDes_214	0	-1	-1	item140000021034	1;2;3;5
+301	bubble021	70,52,34	BubbleName_301	BubbleDes_301	0	-1	-1	item140000021029	4
+302	bubble022	70,52,34	BubbleName_302	BubbleDes_302	0	-1	-1	item140000021030	4
+303	bubble701	46,44,43	BubbleName_701	BubbleDes_701	0	-1	-1	item140000021033	1
+306	bubble704	107,121,160	BubbleName_704	BubbleDes_704	0	-1	-1	item140000021042	1
+307	bubble705	250,98,113	BubbleName_705	BubbleDes_705	0	-1	-1	item140000021043	1
+308	bubble702	35,62,131	BubbleName_702	BubbleDes_702	1	2021-07-15-00:00:00	2021-07-28-23:59:59	item140000021035	1
+309	bubble703	250,98,113	BubbleName_703	BubbleDes_703	1	2021-07-15-00:00:00	2021-07-28-23:59:59	item140000021036	1
+310	bubble706	253,216,5	BubbleName_706	BubbleDes_706	0	-1	-1	item140000021046	1
+311	bubble707	61,109,183	BubbleName_707	BubbleDes_707	0	-1	-1	item140000021047	1
+312	bubble708	38,64,61	BubbleName_708	BubbleDes_708	0	-1	-1	item140000021048	1
+313	bubble709	61,109,183	BubbleName_709	BubbleDes_709	0	-1	-1	item140000021049	1
+314	bubble710	100,97,92	BubbleName_710	BubbleDes_710	0	-1	-1	item140000021050	5
+315	bubble711	210,105,30	BubbleName_711	BubbleDes_711	0	-1	-1	item140000021051	4
+316	bubble712	61,79,50	BubbleName_712	BubbleDes_712	0	-1	-1	item140000021052	4
+317	bubble713	210,105,30	BubbleName_713	BubbleDes_713	0	-1	-1	item140000021053	4
+318	bubble714	61,79,50	BubbleName_714	BubbleDes_714	0	-1	-1	item140000021054	1
+319	bubble715	210,105,30	BubbleName_715	BubbleDes_715	0	-1	-1	item140000021055	1
+320	bubble37	253,216,5	BubbleName_237	BubbleDes_237	0	-1	-1	item140000021056	5
+321	bubble716	210,105,30	BubbleName_716	BubbleDes_716	0	-1	-1	item140000021057	
+322	bubble717	210,105,30	BubbleName_717	BubbleDes_717	0	-1	-1	item140000021058	
+323	bubble718	210,105,30	BubbleName_718	BubbleDes_718	0	-1	-1	item140000021059	
+324	bubble38	253,216,5	BubbleName_238	BubbleDes_238	0	-1	-1	item140000021060	
+325	bubble39	253,216,5	BubbleName_239	BubbleDes_239	0	-1	-1	item140000021061	

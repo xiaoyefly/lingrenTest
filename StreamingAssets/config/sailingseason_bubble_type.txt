@@ -1,0 +1,7 @@
+﻿事件ID	语言包	区域依赖
+int	string	int
+MessageId	MessageWord	RegionRely
+101	sailing_message_type1	0
+102	sailing_message_type2	0
+103	sailing_message_type3	0
+104	sailing_message_type4	0

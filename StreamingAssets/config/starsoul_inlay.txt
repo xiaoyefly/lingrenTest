@@ -1,0 +1,7 @@
+﻿星灵孔位编号	属性转化比例	星灵孔位编号
+int	int	string
+InlayId	ChangeRate	InlayName
+1	10000	InlayName_1
+2	8000	InlayName_2
+3	6000	InlayName_3
+4	4000	InlayName_4

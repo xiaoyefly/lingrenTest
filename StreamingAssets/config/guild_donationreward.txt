@@ -1,0 +1,5 @@
+﻿流水	顺序	捐献次数	奖励	描述
+int	int	int	string	string
+Order	ID	Num	Reward	Des
+1	1	5	item103010111017,2;item1001,1000;item1000,50000;item4013,1;item100100000001,1;item144321000001,1;item90000001001,1	UI_GuildContribute_Reward1
+2	2	8	item103010111017,5;item1001,3000;item1000,150000;item4013,1;item100100000002,1;item144321000001,2;item90000001002,1	UI_GuildContribute_Reward2

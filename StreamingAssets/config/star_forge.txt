@@ -1,0 +1,483 @@
+﻿流水ID	职业ID	装备部位ID	装备星铸等级	装备孔位等级限制	升级到当前等级消耗道具	基础属性加成	显示属性值	显示属性加成值	总览中显示的技能描述	技能增强显示条件	孔位图标	更换技能特效未实装显示文字	视频跳转链接	技能视频预览	技能视频预览（url）	技能视频预览框显示描述
+int	int	int	int	int	string	string	string	string	string	string	string	string	string	string	string	string
+Id	JobId	WeaponId	WeaponLevel	EquipStage	ExpendItems	BasicsAttr	ShowAttr	ShowAddAttr	PandectSkillDes	SkillShow_Str	StageIcon	ChangeKillEffect_Str	SkillShow_Web	SkillShow	SkillShow_Url	SkillShowStr
+1	1	2	1	40	item102020061001,10	1,400	1,400			eqp_bf22_fighter01::buff01_lv1,8,eqp_bf22_fighter01::buff01_effect,10	starforge01_icon					
+2	1	2	2	40	item102020061001,20	1,700	1,400	1,300		eqp_bf22_fighter01::buff01_lv1,8,eqp_bf22_fighter01::buff01_effect,10	starforge01_icon					
+3	1	2	3	40	item102020061001,25	1,1000	1,700	1,300		eqp_bf22_fighter01::buff01_lv1,8,eqp_bf22_fighter01::buff01_effect,10	starforge01_icon					
+4	1	2	4	40	item102020061003,1;item102020061001,30	1,2000;30,100	1,1000;30,0	1,1000;30,100		eqp_bf22_fighter01::buff01_lv1,8,eqp_bf22_fighter01::buff01_effect,10	starforge02_icon					
+5	1	2	5	40	item102020061002,10	1,2300;30,150	1,2000;30,100	1,300;30,50		eqp_bf22_fighter01::buff01_lv1,8,eqp_bf22_fighter01::buff01_effect,10	starforge02_icon					
+6	1	2	6	40	item102020061002,25	1,3000;30,200	1,2300;30,150	1,700;30,50		eqp_bf22_fighter01::buff01_lv1,8,eqp_bf22_fighter01::buff01_effect,10	starforge03_icon					
+7	1	2	7	40	item102020061003,2;item102020061002,50	1,4400;30,300	1,3000;30,200	1,1400;30,100		eqp_bf22_fighter01::buff01_lv1,8,eqp_bf22_fighter01::buff01_effect,10	starforge03_icon					
+8	1	2	8	40	item102020061003,2;item102020061002,75	1,5300;30,350	1,4400;30,300	1,900;30,50	buffname_fighter01_01	eqp_bf22_fighter01::buff01_lv1,8,eqp_bf22_fighter01::buff01_effect,10	skill_1205					
+9	1	2	9	40	item102020061003,3;item102020061006,1;item102020061002,80	1,6000;30,400	1,5300;30,350	1,700;30,50	buffname_fighter01_02	eqp_bf22_fighter01::buff01_lv2,9,eqp_bf22_fighter01::buff01_effect,10	skill_1205					
+10	1	2	10	40	item102020061004,1;item102020061003,5;item102020061006,2	1,6700;30,500	1,6000;30,400	1,700;30,100	buffname_fighter01_03	eqp_bf22_fighter01::buff01_lv3,10,eqp_bf22_fighter01::buff01_effect,10	skill1205_starforge			hero_101_skill1205.mp4		buffname_eqp_bf22_fighter01;eqp_bf22_fighter01::buff01_effect;Lock_StarForge_Level_Rome_10
+11	1	3	1	50	item102020061001,20	3,50	3,50			eqp_bf22_fighter02::buff01_lv1,8,eqp_bf22_fighter02::buff01_effect,10	starforge01_icon					
+12	1	3	2	50	item102020061001,25	3,75	3,50	3,25		eqp_bf22_fighter02::buff01_lv1,8,eqp_bf22_fighter02::buff01_effect,10	starforge01_icon					
+13	1	3	3	50	item102020061001,30	3,100	3,75	3,25		eqp_bf22_fighter02::buff01_lv1,8,eqp_bf22_fighter02::buff01_effect,10	starforge01_icon					
+14	1	3	4	50	item102020061003,1;item102020061001,55	3,180;51,100	3,100;51,0	3,80;51,100		eqp_bf22_fighter02::buff01_lv1,8,eqp_bf22_fighter02::buff01_effect,10	starforge02_icon					
+15	1	3	5	50	item102020061002,20	3,250;51,150	3,180;51,100	3,70;51,50		eqp_bf22_fighter02::buff01_lv1,8,eqp_bf22_fighter02::buff01_effect,10	starforge02_icon					
+16	1	3	6	50	item102020061002,45	3,350;51,200	3,250;51,150	3,100;51,50		eqp_bf22_fighter02::buff01_lv1,8,eqp_bf22_fighter02::buff01_effect,10	starforge03_icon					
+17	1	3	7	50	item102020061003,2;item102020061002,65	3,500;51,300	3,350;51,200	3,150;51,100		eqp_bf22_fighter02::buff01_lv1,8,eqp_bf22_fighter02::buff01_effect,10	starforge03_icon					
+18	1	3	8	50	item102020061003,2;item102020061002,80	3,580;51,350	3,500;51,300	3,80;51,50	buffname_fighter02_01	eqp_bf22_fighter02::buff01_lv1,8,eqp_bf22_fighter02::buff01_effect,10	skill_1214					
+19	1	3	9	50	item102020061003,3;item102020061006,2;item102020061002,90	3,680;51,400	3,580;51,350	3,100;51,50	buffname_fighter02_02	eqp_bf22_fighter02::buff01_lv2,9,eqp_bf22_fighter02::buff01_effect,10	skill_1214					
+20	1	3	10	50	item102020061004,1;item102020061003,6;item102020061006,2	3,840;51,500	3,680;51,400	3,160;51,100	buffname_fighter02_03	eqp_bf22_fighter02::buff01_lv3,10,eqp_bf22_fighter02::buff01_effect,10	skill1214_starforge			hero_101_skill1214.mp4		buffname_eqp_bf22_fighter02;eqp_bf22_fighter02::buff01_effect;Lock_StarForge_Level_Rome_10
+21	1	4	1	60	item102020061001,30	4,50	4,50			eqp_bf22_fighter03::buff01_lv1,8,eqp_bf22_fighter03::buff01_effect,10	starforge01_icon					
+22	1	4	2	60	item102020061001,40	4,70	4,50	4,20		eqp_bf22_fighter03::buff01_lv1,8,eqp_bf22_fighter03::buff01_effect,10	starforge01_icon					
+23	1	4	3	60	item102020061001,45	4,90	4,70	4,20		eqp_bf22_fighter03::buff01_lv1,8,eqp_bf22_fighter03::buff01_effect,10	starforge01_icon					
+24	1	4	4	60	item102020061003,1;item102020061001,120	4,180;52,100	4,90;52,0	4,90;52,100		eqp_bf22_fighter03::buff01_lv1,8,eqp_bf22_fighter03::buff01_effect,10	starforge02_icon					
+25	1	4	5	60	item102020061002,30	4,250;52,150	4,180;52,100	4,70;52,50		eqp_bf22_fighter03::buff01_lv1,8,eqp_bf22_fighter03::buff01_effect,10	starforge02_icon					
+26	1	4	6	60	item102020061002,55	4,330;52,200	4,250;52,150	4,80;52,50		eqp_bf22_fighter03::buff01_lv1,8,eqp_bf22_fighter03::buff01_effect,10	starforge03_icon					
+27	1	4	7	60	item102020061003,2;item102020061002,75	4,450;52,300	4,330;52,200	4,120;52,100		eqp_bf22_fighter03::buff01_lv1,8,eqp_bf22_fighter03::buff01_effect,10	starforge03_icon					
+28	1	4	8	60	item102020061003,2;item102020061002,150	4,550;52,350	4,450;52,300	4,100;52,50	buffname_fighter03_01	eqp_bf22_fighter03::buff01_lv1,8,eqp_bf22_fighter03::buff01_effect,10	skill_1209					
+29	1	4	9	60	item102020061003,3;item102020061002,180;item102020061006,2	4,700;52,400	4,550;52,350	4,150;52,50	buffname_fighter03_02	eqp_bf22_fighter03::buff01_lv2,9,eqp_bf22_fighter03::buff01_effect,10	skill_1209					
+30	1	4	10	60	item102020061004,2;item102020061003,8;item102020061006,4	4,850;52,500	4,700;52,400	4,150;52,100	buffname_fighter03_03	eqp_bf22_fighter03::buff01_lv3,10,eqp_bf22_fighter03::buff01_effect,10	skill1209_starforge			hero_101_skill1209.mp4		buffname_eqp_bf22_fighter03;eqp_bf22_fighter03::buff01_effect;Lock_StarForge_Level_Rome_10
+31	1	5	1	70	item102020061001,60	1,800	1,800			eqp_bf22_fighter04::buff01_lv1,8,eqp_bf22_fighter04::buff01_effect,10	starforge01_icon					
+32	1	5	2	70	item102020061001,90	1,1300	1,800	1,500		eqp_bf22_fighter04::buff01_lv1,8,eqp_bf22_fighter04::buff01_effect,10	starforge01_icon					
+33	1	5	3	70	item102020061001,120	1,1800	1,1300	1,500		eqp_bf22_fighter04::buff01_lv1,8,eqp_bf22_fighter04::buff01_effect,10	starforge01_icon					
+34	1	5	4	70	item102020061001,140;item102020061003,2	1,2800;31,100	1,1800;31,0	1,1000;31,100		eqp_bf22_fighter04::buff01_lv1,8,eqp_bf22_fighter04::buff01_effect,10	starforge02_icon					
+35	1	5	5	70	item102020061002,60	1,4000;31,150	1,2800;31,100	1,1200;31,50		eqp_bf22_fighter04::buff01_lv1,8,eqp_bf22_fighter04::buff01_effect,10	starforge02_icon					
+36	1	5	6	70	item102020061002,80	1,5100;31,200	1,4000;31,150	1,1100;31,50		eqp_bf22_fighter04::buff01_lv1,8,eqp_bf22_fighter04::buff01_effect,10	starforge03_icon					
+37	1	5	7	70	item102020061002,130;item102020061003,3	1,6600;31,300	1,5100;31,200	1,1500;31,100		eqp_bf22_fighter04::buff01_lv1,8,eqp_bf22_fighter04::buff01_effect,10	starforge03_icon					
+38	1	5	8	70	item102020061002,180;item102020061003,3	1,7500;31,350	1,6600;31,300	1,900;31,50	buffname_fighter04_01	eqp_bf22_fighter04::buff01_lv1,8,eqp_bf22_fighter04::buff01_effect,10	skill_1215					
+39	1	5	9	70	item102020061002,210;item102020061003,4;item102020061006,3	1,9500;31,400	1,7500;31,350	1,2000;31,50	buffname_fighter04_02	eqp_bf22_fighter04::buff01_lv2,9,eqp_bf22_fighter04::buff01_effect,10	skill_1215					
+40	1	5	10	70	item102020061004,3;item102020061003,10;item102020061006,6	1,12000;31,500	1,9500;31,400	1,2500;31,100	buffname_fighter04_03	eqp_bf22_fighter04::buff01_lv3,10,eqp_bf22_fighter04::buff01_effect,10	skill1215_starforge			hero_101_skill1215.mp4		buffname_eqp_bf22_fighter04;eqp_bf22_fighter04::buff01_effect;Lock_StarForge_Level_Rome_10
+41	1	6	1	75	item102020061001,80	3,100	3,100			eqp_bf22_fighter05::buff01_lv1,8,eqp_bf22_fighter05::buff01_effect,10	starforge01_icon					
+42	1	6	2	75	item102020061001,120	3,170	3,100	3,70		eqp_bf22_fighter05::buff01_lv1,8,eqp_bf22_fighter05::buff01_effect,10	starforge01_icon					
+43	1	6	3	75	item102020061001,120	3,240	3,170	3,70		eqp_bf22_fighter05::buff01_lv1,8,eqp_bf22_fighter05::buff01_effect,10	starforge01_icon					
+44	1	6	4	75	item102020061001,180;item102020061003,2	3,450;33,100	3,240;33,0	3,210;33,100		eqp_bf22_fighter05::buff01_lv1,8,eqp_bf22_fighter05::buff01_effect,10	starforge02_icon					
+45	1	6	5	75	item102020061002,90	3,630;33,150	3,450;33,100	3,180;33,50		eqp_bf22_fighter05::buff01_lv1,8,eqp_bf22_fighter05::buff01_effect,10	starforge02_icon					
+46	1	6	6	75	item102020061002,100	3,800;33,200	3,630;33,150	3,170;33,50		eqp_bf22_fighter05::buff01_lv1,8,eqp_bf22_fighter05::buff01_effect,10	starforge03_icon					
+47	1	6	7	75	item102020061002,150;item102020061003,4	3,1000;33,300	3,800;33,200	3,200;33,100		eqp_bf22_fighter05::buff01_lv1,8,eqp_bf22_fighter05::buff01_effect,10	starforge03_icon					
+48	1	6	8	75	item102020061002,220;item102020061003,4	3,1200;33,350	3,1000;33,300	3,200;33,50	buffname_fighter05_01	eqp_bf22_fighter05::buff01_lv1,8,eqp_bf22_fighter05::buff01_effect,10	skill_1201					
+49	1	6	9	75	item102020061002,260;item102020061003,5;item102020061006,4	3,1400;33,400	3,1200;33,350	3,200;33,50	buffname_fighter05_02	eqp_bf22_fighter05::buff01_lv2,9,eqp_bf22_fighter05::buff01_effect,10	skill_1201					
+50	1	6	10	75	item102020061004,4;item102020061003,12;item102020061006,8	3,1600;33,500	3,1400;33,400	3,200;33,100	buffname_fighter05_03	eqp_bf22_fighter05::buff01_lv3,10,eqp_bf22_fighter05::buff01_effect,10	skill1201_starforge			hero_101_skill1201.mp4		buffname_eqp_bf22_fighter05;eqp_bf22_fighter05::buff01_effect;Lock_StarForge_Level_Rome_10
+51	1	7	1	80	item102020061001,80	4,100	4,100			eqp_bf22_fighter06::buff01_lv1,8,eqp_bf22_fighter06::buff01_effect,10	starforge01_icon					
+52	1	7	2	80	item102020061001,120	4,170	4,100	4,70		eqp_bf22_fighter06::buff01_lv1,8,eqp_bf22_fighter06::buff01_effect,10	starforge01_icon					
+53	1	7	3	80	item102020061001,130	4,240	4,170	4,70		eqp_bf22_fighter06::buff01_lv1,8,eqp_bf22_fighter06::buff01_effect,10	starforge01_icon					
+54	1	7	4	80	item102020061001,180;item102020061003,2	4,450;34,100	4,240;34,0	4,210;34,100		eqp_bf22_fighter06::buff01_lv1,8,eqp_bf22_fighter06::buff01_effect,10	starforge02_icon					
+55	1	7	5	80	item102020061002,90	4,630;34,150	4,450;34,100	4,180;34,50		eqp_bf22_fighter06::buff01_lv1,8,eqp_bf22_fighter06::buff01_effect,10	starforge02_icon					
+56	1	7	6	80	item102020061002,130	4,800;34,200	4,630;34,150	4,170;34,50		eqp_bf22_fighter06::buff01_lv1,8,eqp_bf22_fighter06::buff01_effect,10	starforge03_icon					
+57	1	7	7	80	item102020061002,165;item102020061003,4	4,1000;34,300	4,800;34,200	4,200;34,100		eqp_bf22_fighter06::buff01_lv1,8,eqp_bf22_fighter06::buff01_effect,10	starforge03_icon					
+58	1	7	8	80	item102020061002,260;item102020061003,5	4,1200;34,350	4,1000;34,300	4,200;34,50	buffname_fighter06_01	eqp_bf22_fighter06::buff01_lv1,8,eqp_bf22_fighter06::buff01_effect,10	skill_1206					
+59	1	7	9	80	item102020061002,330;item102020061003,6;item102020061006,4	4,1400;34,400	4,1200;34,350	4,200;34,50	buffname_fighter06_02	eqp_bf22_fighter06::buff01_lv2,9,eqp_bf22_fighter06::buff01_effect,10	skill_1206					
+60	1	7	10	80	item102020061004,4;item102020061003,12;item102020061006,8	4,1600;34,500	4,1400;34,400	4,200;34,100	buffname_fighter06_03	eqp_bf22_fighter06::buff01_lv3,10,eqp_bf22_fighter06::buff01_effect,10	skill1206_starforge			hero_101_skill1206.mp4		buffname_eqp_bf22_fighter06;eqp_bf22_fighter06::buff01_effect;Lock_StarForge_Level_Rome_10
+61	1	8	1	85	item102020061001,120	3,120	3,120			eqp_bf22_fighter07::buff01_lv1,8,eqp_bf22_fighter07::buff01_effect,10	starforge01_icon					
+62	1	8	2	85	item102020061001,180	3,200	3,120	3,80		eqp_bf22_fighter07::buff01_lv1,8,eqp_bf22_fighter07::buff01_effect,10	starforge01_icon					
+63	1	8	3	85	item102020061001,195	3,280	3,200	3,80		eqp_bf22_fighter07::buff01_lv1,8,eqp_bf22_fighter07::buff01_effect,10	starforge01_icon					
+64	1	8	4	85	item102020061001,270;item102020061003,3	3,530;173,200	3,280;173,0	3,250;173,200		eqp_bf22_fighter07::buff01_lv1,8,eqp_bf22_fighter07::buff01_effect,10	starforge02_icon					
+65	1	8	5	85	item102020061002,120	3,740;173,300	3,530;173,200	3,210;173,100		eqp_bf22_fighter07::buff01_lv1,8,eqp_bf22_fighter07::buff01_effect,10	starforge02_icon					
+66	1	8	6	85	item102020061002,170	3,940;173,400	3,740;173,300	3,200;173,100		eqp_bf22_fighter07::buff01_lv1,8,eqp_bf22_fighter07::buff01_effect,10	starforge03_icon					
+67	1	8	7	85	item102020061002,210;item102020061003,5	3,1180;173,600	3,940;173,400	3,240;173,200		eqp_bf22_fighter07::buff01_lv1,8,eqp_bf22_fighter07::buff01_effect,10	starforge03_icon					
+68	1	8	8	85	item102020061002,340;item102020061003,6	3,1420;173,700	3,1180;173,600	3,240;173,100	buffname_fighter07_01	eqp_bf22_fighter07::buff01_lv1,8,eqp_bf22_fighter07::buff01_effect,10	skill_1204					
+69	1	8	9	85	item102020061002,430;item102020061003,7;item102020061006,5	3,1660;173,800	3,1420;173,700	3,240;173,100	buffname_fighter07_02	eqp_bf22_fighter07::buff01_lv2,9,eqp_bf22_fighter07::buff01_effect,10	skill_1204					
+70	1	8	10	85	item102020061003,14;item102020061004,5;item102020061006,10	3,1900;173,1000	3,1660;173,800	3,240;173,200	buffname_fighter07_03	eqp_bf22_fighter07::buff01_lv3,10,eqp_bf22_fighter07::buff01_effect,10	skill1204_starforge			hero_101_skill1204.mp4		buffname_eqp_bf22_fighter07;eqp_bf22_fighter07::buff01_effect;Lock_StarForge_Level_Rome_10
+71	1	9	1	90	item102020061001,150	3,120	3,120			eqp_bf22_fighter08::buff01_lv1,8,eqp_bf22_fighter08::buff01_effect,10	starforge01_icon					
+72	1	9	2	90	item102020061001,210	3,200	3,120	3,80		eqp_bf22_fighter08::buff01_lv1,8,eqp_bf22_fighter08::buff01_effect,10	starforge01_icon					
+73	1	9	3	90	item102020061001,235	3,280	3,200	3,80		eqp_bf22_fighter08::buff01_lv1,8,eqp_bf22_fighter08::buff01_effect,10	starforge01_icon					
+74	1	9	4	90	item102020061001,480;item102020061003,3	3,530;32,200	3,280;32,0	3,250;32,200		eqp_bf22_fighter08::buff01_lv1,8,eqp_bf22_fighter08::buff01_effect,10	starforge02_icon					
+75	1	9	5	90	item102020061002,150	3,740;32,300	3,530;32,200	3,210;32,100		eqp_bf22_fighter08::buff01_lv1,8,eqp_bf22_fighter08::buff01_effect,10	starforge02_icon					
+76	1	9	6	90	item102020061002,230	3,940;32,400	3,740;32,300	3,200;32,100		eqp_bf22_fighter08::buff01_lv1,8,eqp_bf22_fighter08::buff01_effect,10	starforge03_icon					
+77	1	9	7	90	item102020061002,280;item102020061003,6	3,1180;32,600	3,940;32,400	3,240;32,200		eqp_bf22_fighter08::buff01_lv1,8,eqp_bf22_fighter08::buff01_effect,10	starforge03_icon					
+78	1	9	8	90	item102020061002,420;item102020061003,7	3,1420;32,700	3,1180;32,600	3,240;32,100	buffname_fighter08_01	eqp_bf22_fighter08::buff01_lv1,8,eqp_bf22_fighter08::buff01_effect,10	skill_1203					
+79	1	9	9	90	item102020061002,510;item102020061003,8;item102020061006,6	3,1660;32,800	3,1420;32,700	3,240;32,100	buffname_fighter08_02	eqp_bf22_fighter08::buff01_lv2,9,eqp_bf22_fighter08::buff01_effect,10	skill_1203					
+80	1	9	10	90	item102020061003,16;item102020061004,5;item102020061006,12	3,1900;32,1000	3,1660;32,800	3,240;32,200	buffname_fighter08_03	eqp_bf22_fighter08::buff01_lv3,10,eqp_bf22_fighter08::buff01_effect,10	skill1203_starforge			hero_101_skill1203.mp4		buffname_eqp_bf22_fighter08;eqp_bf22_fighter08::buff01_effect;Lock_StarForge_Level_Rome_10
+81	2	2	1	40	item102020061001,10	1,400	1,400			eqp_bf22_mage01::buff01_lv1,8,eqp_bf22_mage01::buff01_effect,10	starforge01_icon					
+82	2	2	2	40	item102020061001,20	1,700	1,400	1,300		eqp_bf22_mage01::buff01_lv1,8,eqp_bf22_mage01::buff01_effect,10	starforge01_icon					
+83	2	2	3	40	item102020061001,25	1,1000	1,700	1,300		eqp_bf22_mage01::buff01_lv1,8,eqp_bf22_mage01::buff01_effect,10	starforge01_icon					
+84	2	2	4	40	item102020061003,1;item102020061001,30	1,2000;30,100	1,1000;30,0	1,1000;30,100		eqp_bf22_mage01::buff01_lv1,8,eqp_bf22_mage01::buff01_effect,10	starforge02_icon					
+85	2	2	5	40	item102020061002,10	1,2300;30,150	1,2000;30,100	1,300;30,50		eqp_bf22_mage01::buff01_lv1,8,eqp_bf22_mage01::buff01_effect,10	starforge02_icon					
+86	2	2	6	40	item102020061002,25	1,3000;30,200	1,2300;30,150	1,700;30,50		eqp_bf22_mage01::buff01_lv1,8,eqp_bf22_mage01::buff01_effect,10	starforge03_icon					
+87	2	2	7	40	item102020061003,2;item102020061002,50	1,4400;30,300	1,3000;30,200	1,1400;30,100		eqp_bf22_mage01::buff01_lv1,8,eqp_bf22_mage01::buff01_effect,10	starforge03_icon					
+88	2	2	8	40	item102020061003,2;item102020061002,75	1,5300;30,350	1,4400;30,300	1,900;30,50	buffname_mage01_01	eqp_bf22_mage01::buff01_lv1,8,eqp_bf22_mage01::buff01_effect,10	skill_1116					
+89	2	2	9	40	item102020061003,3;item102020061006,1;item102020061002,80	1,6000;30,400	1,5300;30,350	1,700;30,50	buffname_mage01_02	eqp_bf22_mage01::buff01_lv2,9,eqp_bf22_mage01::buff01_effect,10	skill_1116					
+90	2	2	10	40	item102020061004,1;item102020061003,5;item102020061006,2	1,6700;30,500	1,6000;30,400	1,700;30,100	buffname_mage01_03	eqp_bf22_mage01::buff01_lv3,10,eqp_bf22_mage01::buff01_effect,10	skill1116_starforge			hero_102_skill1116.mp4		buffname_eqp_bf22_mage01;eqp_bf22_mage01::buff01_effect;Lock_StarForge_Level_Rome_10
+91	2	3	1	50	item102020061001,20	3,50	3,50			eqp_bf22_mage02::buff01_lv1,8,eqp_bf22_mage02::buff01_effect,10	starforge01_icon					
+92	2	3	2	50	item102020061001,25	3,75	3,50	3,25		eqp_bf22_mage02::buff01_lv1,8,eqp_bf22_mage02::buff01_effect,10	starforge01_icon					
+93	2	3	3	50	item102020061001,30	3,100	3,75	3,25		eqp_bf22_mage02::buff01_lv1,8,eqp_bf22_mage02::buff01_effect,10	starforge01_icon					
+94	2	3	4	50	item102020061003,1;item102020061001,55	3,180;51,100	3,100;51,0	3,80;51,100		eqp_bf22_mage02::buff01_lv1,8,eqp_bf22_mage02::buff01_effect,10	starforge02_icon					
+95	2	3	5	50	item102020061002,20	3,250;51,150	3,180;51,100	3,70;51,50		eqp_bf22_mage02::buff01_lv1,8,eqp_bf22_mage02::buff01_effect,10	starforge02_icon					
+96	2	3	6	50	item102020061002,45	3,350;51,200	3,250;51,150	3,100;51,50		eqp_bf22_mage02::buff01_lv1,8,eqp_bf22_mage02::buff01_effect,10	starforge03_icon					
+97	2	3	7	50	item102020061003,2;item102020061002,65	3,500;51,300	3,350;51,200	3,150;51,100		eqp_bf22_mage02::buff01_lv1,8,eqp_bf22_mage02::buff01_effect,10	starforge03_icon					
+98	2	3	8	50	item102020061003,2;item102020061002,80	3,580;51,350	3,500;51,300	3,80;51,50	buffname_mage02_01	eqp_bf22_mage02::buff01_lv1,8,eqp_bf22_mage02::buff01_effect,10	skill_1109					
+99	2	3	9	50	item102020061003,3;item102020061006,2;item102020061002,90	3,680;51,400	3,580;51,350	3,100;51,50	buffname_mage02_02	eqp_bf22_mage02::buff01_lv2,9,eqp_bf22_mage02::buff01_effect,10	skill_1109					
+100	2	3	10	50	item102020061004,1;item102020061003,6;item102020061006,2	3,840;51,500	3,680;51,400	3,160;51,100	buffname_mage02_03	eqp_bf22_mage02::buff01_lv3,10,eqp_bf22_mage02::buff01_effect,10	skill1109_starforge			hero_102_skill1109.mp4		buffname_eqp_bf22_mage02;eqp_bf22_mage02::buff01_effect;Lock_StarForge_Level_Rome_10
+101	2	4	1	60	item102020061001,30	4,50	4,50			eqp_bf22_mage03::buff01_lv1,8,eqp_bf22_mage03::buff01_effect,10	starforge01_icon					
+102	2	4	2	60	item102020061001,40	4,70	4,50	4,20		eqp_bf22_mage03::buff01_lv1,8,eqp_bf22_mage03::buff01_effect,10	starforge01_icon					
+103	2	4	3	60	item102020061001,45	4,90	4,70	4,20		eqp_bf22_mage03::buff01_lv1,8,eqp_bf22_mage03::buff01_effect,10	starforge01_icon					
+104	2	4	4	60	item102020061003,1;item102020061001,120	4,180;52,100	4,90;52,0	4,90;52,100		eqp_bf22_mage03::buff01_lv1,8,eqp_bf22_mage03::buff01_effect,10	starforge02_icon					
+105	2	4	5	60	item102020061002,30	4,250;52,150	4,180;52,100	4,70;52,50		eqp_bf22_mage03::buff01_lv1,8,eqp_bf22_mage03::buff01_effect,10	starforge02_icon					
+106	2	4	6	60	item102020061002,55	4,330;52,200	4,250;52,150	4,80;52,50		eqp_bf22_mage03::buff01_lv1,8,eqp_bf22_mage03::buff01_effect,10	starforge03_icon					
+107	2	4	7	60	item102020061003,2;item102020061002,75	4,450;52,300	4,330;52,200	4,120;52,100		eqp_bf22_mage03::buff01_lv1,8,eqp_bf22_mage03::buff01_effect,10	starforge03_icon					
+108	2	4	8	60	item102020061003,2;item102020061002,150	4,550;52,350	4,450;52,300	4,100;52,50	buffname_mage03_01	eqp_bf22_mage03::buff01_lv1,8,eqp_bf22_mage03::buff01_effect,10	skill_1110					
+109	2	4	9	60	item102020061003,3;item102020061002,180;item102020061006,2	4,700;52,400	4,550;52,350	4,150;52,50	buffname_mage03_02	eqp_bf22_mage03::buff01_lv2,9,eqp_bf22_mage03::buff01_effect,10	skill_1110					
+110	2	4	10	60	item102020061004,2;item102020061003,8;item102020061006,4	4,850;52,500	4,700;52,400	4,150;52,100	buffname_mage03_03	eqp_bf22_mage03::buff01_lv3,10,eqp_bf22_mage03::buff01_effect,10	skill1110_starforge			hero_102_skill1110.mp4		buffname_eqp_bf22_mage03;eqp_bf22_mage03::buff01_effect;Lock_StarForge_Level_Rome_10
+111	2	5	1	70	item102020061001,60	1,800	1,800			eqp_bf22_mage04::buff01_lv1,8,eqp_bf22_mage04::buff01_effect,10	starforge01_icon					
+112	2	5	2	70	item102020061001,90	1,1300	1,800	1,500		eqp_bf22_mage04::buff01_lv1,8,eqp_bf22_mage04::buff01_effect,10	starforge01_icon					
+113	2	5	3	70	item102020061001,120	1,1800	1,1300	1,500		eqp_bf22_mage04::buff01_lv1,8,eqp_bf22_mage04::buff01_effect,10	starforge01_icon					
+114	2	5	4	70	item102020061001,140;item102020061003,2	1,2800;31,100	1,1800;31,0	1,1000;31,100		eqp_bf22_mage04::buff01_lv1,8,eqp_bf22_mage04::buff01_effect,10	starforge02_icon					
+115	2	5	5	70	item102020061002,60	1,4000;31,150	1,2800;31,100	1,1200;31,50		eqp_bf22_mage04::buff01_lv1,8,eqp_bf22_mage04::buff01_effect,10	starforge02_icon					
+116	2	5	6	70	item102020061002,80	1,5100;31,200	1,4000;31,150	1,1100;31,50		eqp_bf22_mage04::buff01_lv1,8,eqp_bf22_mage04::buff01_effect,10	starforge03_icon					
+117	2	5	7	70	item102020061002,130;item102020061003,3	1,6600;31,300	1,5100;31,200	1,1500;31,100		eqp_bf22_mage04::buff01_lv1,8,eqp_bf22_mage04::buff01_effect,10	starforge03_icon					
+118	2	5	8	70	item102020061002,180;item102020061003,3	1,7500;31,350	1,6600;31,300	1,900;31,50	buffname_mage04_01	eqp_bf22_mage04::buff01_lv1,8,eqp_bf22_mage04::buff01_effect,10	skill_1104					
+119	2	5	9	70	item102020061002,210;item102020061003,4;item102020061006,3	1,9500;31,400	1,7500;31,350	1,2000;31,50	buffname_mage04_02	eqp_bf22_mage04::buff01_lv2,9,eqp_bf22_mage04::buff01_effect,10	skill_1104					
+120	2	5	10	70	item102020061004,3;item102020061003,10;item102020061006,6	1,12000;31,500	1,9500;31,400	1,2500;31,100	buffname_mage04_03	eqp_bf22_mage04::buff01_lv3,10,eqp_bf22_mage04::buff01_effect,10	skill1104_starforge			hero_102_skill1104.mp4		buffname_eqp_bf22_mage04;eqp_bf22_mage04::buff01_effect;Lock_StarForge_Level_Rome_10
+121	2	6	1	75	item102020061001,80	3,100	3,100			eqp_bf22_mage05::buff01_lv1,8,eqp_bf22_mage05::buff01_effect,10	starforge01_icon					
+122	2	6	2	75	item102020061001,120	3,170	3,100	3,70		eqp_bf22_mage05::buff01_lv1,8,eqp_bf22_mage05::buff01_effect,10	starforge01_icon					
+123	2	6	3	75	item102020061001,120	3,240	3,170	3,70		eqp_bf22_mage05::buff01_lv1,8,eqp_bf22_mage05::buff01_effect,10	starforge01_icon					
+124	2	6	4	75	item102020061001,180;item102020061003,2	3,450;33,100	3,240;33,0	3,210;33,100		eqp_bf22_mage05::buff01_lv1,8,eqp_bf22_mage05::buff01_effect,10	starforge02_icon					
+125	2	6	5	75	item102020061002,90	3,630;33,150	3,450;33,100	3,180;33,50		eqp_bf22_mage05::buff01_lv1,8,eqp_bf22_mage05::buff01_effect,10	starforge02_icon					
+126	2	6	6	75	item102020061002,100	3,800;33,200	3,630;33,150	3,170;33,50		eqp_bf22_mage05::buff01_lv1,8,eqp_bf22_mage05::buff01_effect,10	starforge03_icon					
+127	2	6	7	75	item102020061002,150;item102020061003,4	3,1000;33,300	3,800;33,200	3,200;33,100		eqp_bf22_mage05::buff01_lv1,8,eqp_bf22_mage05::buff01_effect,10	starforge03_icon					
+128	2	6	8	75	item102020061002,220;item102020061003,4	3,1200;33,350	3,1000;33,300	3,200;33,50	buffname_mage05_01	eqp_bf22_mage05::buff01_lv1,8,eqp_bf22_mage05::buff01_effect,10	skill_1108					
+129	2	6	9	75	item102020061002,260;item102020061003,5;item102020061006,4	3,1400;33,400	3,1200;33,350	3,200;33,50	buffname_mage05_02	eqp_bf22_mage05::buff01_lv2,9,eqp_bf22_mage05::buff01_effect,10	skill_1108					
+130	2	6	10	75	item102020061004,4;item102020061003,12;item102020061006,8	3,1600;33,500	3,1400;33,400	3,200;33,100	buffname_mage05_03	eqp_bf22_mage05::buff01_lv3,10,eqp_bf22_mage05::buff01_effect,10	skill1108_starforge			hero_102_skill1108.mp4		buffname_eqp_bf22_mage05;eqp_bf22_mage05::buff01_effect;Lock_StarForge_Level_Rome_10
+131	2	7	1	80	item102020061001,80	4,100	4,100			eqp_bf22_mage06::buff01_lv1,8,eqp_bf22_mage06::buff01_effect,10	starforge01_icon					
+132	2	7	2	80	item102020061001,120	4,170	4,100	4,70		eqp_bf22_mage06::buff01_lv1,8,eqp_bf22_mage06::buff01_effect,10	starforge01_icon					
+133	2	7	3	80	item102020061001,130	4,240	4,170	4,70		eqp_bf22_mage06::buff01_lv1,8,eqp_bf22_mage06::buff01_effect,10	starforge01_icon					
+134	2	7	4	80	item102020061001,180;item102020061003,2	4,450;34,100	4,240;34,0	4,210;34,100		eqp_bf22_mage06::buff01_lv1,8,eqp_bf22_mage06::buff01_effect,10	starforge02_icon					
+135	2	7	5	80	item102020061002,90	4,630;34,150	4,450;34,100	4,180;34,50		eqp_bf22_mage06::buff01_lv1,8,eqp_bf22_mage06::buff01_effect,10	starforge02_icon					
+136	2	7	6	80	item102020061002,130	4,800;34,200	4,630;34,150	4,170;34,50		eqp_bf22_mage06::buff01_lv1,8,eqp_bf22_mage06::buff01_effect,10	starforge03_icon					
+137	2	7	7	80	item102020061002,165;item102020061003,4	4,1000;34,300	4,800;34,200	4,200;34,100		eqp_bf22_mage06::buff01_lv1,8,eqp_bf22_mage06::buff01_effect,10	starforge03_icon					
+138	2	7	8	80	item102020061002,260;item102020061003,5	4,1200;34,350	4,1000;34,300	4,200;34,50	buffname_mage06_01	eqp_bf22_mage06::buff01_lv1,8,eqp_bf22_mage06::buff01_effect,10	skill_1107					
+139	2	7	9	80	item102020061002,330;item102020061003,6;item102020061006,4	4,1400;34,400	4,1200;34,350	4,200;34,50	buffname_mage06_02	eqp_bf22_mage06::buff01_lv2,9,eqp_bf22_mage06::buff01_effect,10	skill_1107					
+140	2	7	10	80	item102020061004,4;item102020061003,12;item102020061006,8	4,1600;34,500	4,1400;34,400	4,200;34,100	buffname_mage06_03	eqp_bf22_mage06::buff01_lv3,10,eqp_bf22_mage06::buff01_effect,10	skill1107_starforge			hero_102_skill1107.mp4		buffname_eqp_bf22_mage06;eqp_bf22_mage06::buff01_effect;Lock_StarForge_Level_Rome_10
+141	2	8	1	85	item102020061001,120	3,120	3,120			eqp_bf22_mage07::buff01_lv1,8,eqp_bf22_mage07::buff01_effect,10	starforge01_icon					
+142	2	8	2	85	item102020061001,180	3,200	3,120	3,80		eqp_bf22_mage07::buff01_lv1,8,eqp_bf22_mage07::buff01_effect,10	starforge01_icon					
+143	2	8	3	85	item102020061001,195	3,280	3,200	3,80		eqp_bf22_mage07::buff01_lv1,8,eqp_bf22_mage07::buff01_effect,10	starforge01_icon					
+144	2	8	4	85	item102020061001,270;item102020061003,3	3,530;173,200	3,280;173,0	3,250;173,200		eqp_bf22_mage07::buff01_lv1,8,eqp_bf22_mage07::buff01_effect,10	starforge02_icon					
+145	2	8	5	85	item102020061002,120	3,740;173,300	3,530;173,200	3,210;173,100		eqp_bf22_mage07::buff01_lv1,8,eqp_bf22_mage07::buff01_effect,10	starforge02_icon					
+146	2	8	6	85	item102020061002,170	3,940;173,400	3,740;173,300	3,200;173,100		eqp_bf22_mage07::buff01_lv1,8,eqp_bf22_mage07::buff01_effect,10	starforge03_icon					
+147	2	8	7	85	item102020061002,210;item102020061003,5	3,1180;173,600	3,940;173,400	3,240;173,200		eqp_bf22_mage07::buff01_lv1,8,eqp_bf22_mage07::buff01_effect,10	starforge03_icon					
+148	2	8	8	85	item102020061002,340;item102020061003,6	3,1420;173,700	3,1180;173,600	3,240;173,100	buffname_mage07_01	eqp_bf22_mage07::buff01_lv1,8,eqp_bf22_mage07::buff01_effect,10	skill_1101					
+149	2	8	9	85	item102020061002,430;item102020061003,7;item102020061006,5	3,1660;173,800	3,1420;173,700	3,240;173,100	buffname_mage07_02	eqp_bf22_mage07::buff01_lv2,9,eqp_bf22_mage07::buff01_effect,10	skill_1101					
+150	2	8	10	85	item102020061003,14;item102020061004,5;item102020061006,10	3,1900;173,1000	3,1660;173,800	3,240;173,200	buffname_mage07_03	eqp_bf22_mage07::buff01_lv3,10,eqp_bf22_mage07::buff01_effect,10	skill1101_starforge			hero_102_skill1101.mp4		buffname_eqp_bf22_mage07;eqp_bf22_mage07::buff01_effect;Lock_StarForge_Level_Rome_10
+151	2	9	1	90	item102020061001,150	3,120	3,120			eqp_bf22_mage08::buff01_lv1,8,eqp_bf22_mage08::buff01_effect,10	starforge01_icon					
+152	2	9	2	90	item102020061001,210	3,200	3,120	3,80		eqp_bf22_mage08::buff01_lv1,8,eqp_bf22_mage08::buff01_effect,10	starforge01_icon					
+153	2	9	3	90	item102020061001,235	3,280	3,200	3,80		eqp_bf22_mage08::buff01_lv1,8,eqp_bf22_mage08::buff01_effect,10	starforge01_icon					
+154	2	9	4	90	item102020061001,480;item102020061003,3	3,530;32,200	3,280;32,0	3,250;32,200		eqp_bf22_mage08::buff01_lv1,8,eqp_bf22_mage08::buff01_effect,10	starforge02_icon					
+155	2	9	5	90	item102020061002,150	3,740;32,300	3,530;32,200	3,210;32,100		eqp_bf22_mage08::buff01_lv1,8,eqp_bf22_mage08::buff01_effect,10	starforge02_icon					
+156	2	9	6	90	item102020061002,230	3,940;32,400	3,740;32,300	3,200;32,100		eqp_bf22_mage08::buff01_lv1,8,eqp_bf22_mage08::buff01_effect,10	starforge03_icon					
+157	2	9	7	90	item102020061002,280;item102020061003,6	3,1180;32,600	3,940;32,400	3,240;32,200		eqp_bf22_mage08::buff01_lv1,8,eqp_bf22_mage08::buff01_effect,10	starforge03_icon					
+158	2	9	8	90	item102020061002,420;item102020061003,7	3,1420;32,700	3,1180;32,600	3,240;32,100	buffname_mage08_01	eqp_bf22_mage08::buff01_lv1,8,eqp_bf22_mage08::buff01_effect,10	skill_1111					
+159	2	9	9	90	item102020061002,510;item102020061003,8;item102020061006,6	3,1660;32,800	3,1420;32,700	3,240;32,100	buffname_mage08_02	eqp_bf22_mage08::buff01_lv2,9,eqp_bf22_mage08::buff01_effect,10	skill_1111					
+160	2	9	10	90	item102020061003,16;item102020061004,5;item102020061006,12	3,1900;32,1000	3,1660;32,800	3,240;32,200	buffname_mage08_03	eqp_bf22_mage08::buff01_lv3,10,eqp_bf22_mage08::buff01_effect,10	skill1111_starforge			hero_102_skill1111.mp4		buffname_eqp_bf22_mage08;eqp_bf22_mage08::buff01_effect;Lock_StarForge_Level_Rome_10
+161	3	2	1	40	item102020061001,10	1,400	1,400			eqp_bf22_archer01::buff01_lv1,8,eqp_bf22_archer01::buff01_effect,10	starforge01_icon					
+162	3	2	2	40	item102020061001,20	1,700	1,400	1,300		eqp_bf22_archer01::buff01_lv1,8,eqp_bf22_archer01::buff01_effect,10	starforge01_icon					
+163	3	2	3	40	item102020061001,25	1,1000	1,700	1,300		eqp_bf22_archer01::buff01_lv1,8,eqp_bf22_archer01::buff01_effect,10	starforge01_icon					
+164	3	2	4	40	item102020061003,1;item102020061001,30	1,2000;30,100	1,1000;30,0	1,1000;30,100		eqp_bf22_archer01::buff01_lv1,8,eqp_bf22_archer01::buff01_effect,10	starforge02_icon					
+165	3	2	5	40	item102020061002,10	1,2300;30,150	1,2000;30,100	1,300;30,50		eqp_bf22_archer01::buff01_lv1,8,eqp_bf22_archer01::buff01_effect,10	starforge02_icon					
+166	3	2	6	40	item102020061002,25	1,3000;30,200	1,2300;30,150	1,700;30,50		eqp_bf22_archer01::buff01_lv1,8,eqp_bf22_archer01::buff01_effect,10	starforge03_icon					
+167	3	2	7	40	item102020061003,2;item102020061002,50	1,4400;30,300	1,3000;30,200	1,1400;30,100		eqp_bf22_archer01::buff01_lv1,8,eqp_bf22_archer01::buff01_effect,10	starforge03_icon					
+168	3	2	8	40	item102020061003,2;item102020061002,75	1,5300;30,350	1,4400;30,300	1,900;30,50	buffname_archer01_01	eqp_bf22_archer01::buff01_lv1,8,eqp_bf22_archer01::buff01_effect,10	skill_1006					
+169	3	2	9	40	item102020061003,3;item102020061006,1;item102020061002,80	1,6000;30,400	1,5300;30,350	1,700;30,50	buffname_archer01_02	eqp_bf22_archer01::buff01_lv2,9,eqp_bf22_archer01::buff01_effect,10	skill_1006					
+170	3	2	10	40	item102020061004,1;item102020061003,5;item102020061006,2	1,6700;30,500	1,6000;30,400	1,700;30,100	buffname_archer01_03	eqp_bf22_archer01::buff01_lv3,10,eqp_bf22_archer01::buff01_effect,10	skill1006_starforge			hero_103_skill1006.mp4		buffname_eqp_bf22_archer01;eqp_bf22_archer01::buff01_effect;Lock_StarForge_Level_Rome_10
+171	3	3	1	50	item102020061001,20	3,50	3,50			eqp_bf22_archer02::buff01_lv1,8,eqp_bf22_archer02::buff01_effect,10	starforge01_icon					
+172	3	3	2	50	item102020061001,25	3,75	3,50	3,25		eqp_bf22_archer02::buff01_lv1,8,eqp_bf22_archer02::buff01_effect,10	starforge01_icon					
+173	3	3	3	50	item102020061001,30	3,100	3,75	3,25		eqp_bf22_archer02::buff01_lv1,8,eqp_bf22_archer02::buff01_effect,10	starforge01_icon					
+174	3	3	4	50	item102020061003,1;item102020061001,55	3,180;51,100	3,100;51,0	3,80;51,100		eqp_bf22_archer02::buff01_lv1,8,eqp_bf22_archer02::buff01_effect,10	starforge02_icon					
+175	3	3	5	50	item102020061002,20	3,250;51,150	3,180;51,100	3,70;51,50		eqp_bf22_archer02::buff01_lv1,8,eqp_bf22_archer02::buff01_effect,10	starforge02_icon					
+176	3	3	6	50	item102020061002,45	3,350;51,200	3,250;51,150	3,100;51,50		eqp_bf22_archer02::buff01_lv1,8,eqp_bf22_archer02::buff01_effect,10	starforge03_icon					
+177	3	3	7	50	item102020061003,2;item102020061002,65	3,500;51,300	3,350;51,200	3,150;51,100		eqp_bf22_archer02::buff01_lv1,8,eqp_bf22_archer02::buff01_effect,10	starforge03_icon					
+178	3	3	8	50	item102020061003,2;item102020061002,80	3,580;51,350	3,500;51,300	3,80;51,50	buffname_archer02_01	eqp_bf22_archer02::buff01_lv1,8,eqp_bf22_archer02::buff01_effect,10	skill_1001					
+179	3	3	9	50	item102020061003,3;item102020061006,2;item102020061002,90	3,680;51,400	3,580;51,350	3,100;51,50	buffname_archer02_02	eqp_bf22_archer02::buff01_lv2,9,eqp_bf22_archer02::buff01_effect,10	skill_1001					
+180	3	3	10	50	item102020061004,1;item102020061003,6;item102020061006,2	3,840;51,500	3,680;51,400	3,160;51,100	buffname_archer02_03	eqp_bf22_archer02::buff01_lv3,10,eqp_bf22_archer02::buff01_effect,10	skill1001_starforge			hero_103_skill1001.mp4		buffname_eqp_bf22_archer02;eqp_bf22_archer02::buff01_effect;Lock_StarForge_Level_Rome_10
+181	3	4	1	60	item102020061001,30	4,50	4,50			eqp_bf22_archer03::buff01_lv1,8,eqp_bf22_archer03::buff01_effect,10	starforge01_icon					
+182	3	4	2	60	item102020061001,40	4,70	4,50	4,20		eqp_bf22_archer03::buff01_lv1,8,eqp_bf22_archer03::buff01_effect,10	starforge01_icon					
+183	3	4	3	60	item102020061001,45	4,90	4,70	4,20		eqp_bf22_archer03::buff01_lv1,8,eqp_bf22_archer03::buff01_effect,10	starforge01_icon					
+184	3	4	4	60	item102020061003,1;item102020061001,120	4,180;52,100	4,90;52,0	4,90;52,100		eqp_bf22_archer03::buff01_lv1,8,eqp_bf22_archer03::buff01_effect,10	starforge02_icon					
+185	3	4	5	60	item102020061002,30	4,250;52,150	4,180;52,100	4,70;52,50		eqp_bf22_archer03::buff01_lv1,8,eqp_bf22_archer03::buff01_effect,10	starforge02_icon					
+186	3	4	6	60	item102020061002,55	4,330;52,200	4,250;52,150	4,80;52,50		eqp_bf22_archer03::buff01_lv1,8,eqp_bf22_archer03::buff01_effect,10	starforge03_icon					
+187	3	4	7	60	item102020061003,2;item102020061002,75	4,450;52,300	4,330;52,200	4,120;52,100		eqp_bf22_archer03::buff01_lv1,8,eqp_bf22_archer03::buff01_effect,10	starforge03_icon					
+188	3	4	8	60	item102020061003,2;item102020061002,150	4,550;52,350	4,450;52,300	4,100;52,50	buffname_archer03_01	eqp_bf22_archer03::buff01_lv1,8,eqp_bf22_archer03::buff01_effect,10	skill_1002					
+189	3	4	9	60	item102020061003,3;item102020061002,180;item102020061006,2	4,700;52,400	4,550;52,350	4,150;52,50	buffname_archer03_02	eqp_bf22_archer03::buff01_lv2,9,eqp_bf22_archer03::buff01_effect,10	skill_1002					
+190	3	4	10	60	item102020061004,2;item102020061003,8;item102020061006,4	4,850;52,500	4,700;52,400	4,150;52,100	buffname_archer03_03	eqp_bf22_archer03::buff01_lv3,10,eqp_bf22_archer03::buff01_effect,10	skill1002_starforge			hero_103_skill1002.mp4		buffname_eqp_bf22_archer03;eqp_bf22_archer03::buff01_effect;Lock_StarForge_Level_Rome_10
+191	3	5	1	70	item102020061001,60	1,800	1,800			eqp_bf22_archer04::buff01_lv1,8,eqp_bf22_archer04::buff01_effect,10	starforge01_icon					
+192	3	5	2	70	item102020061001,90	1,1300	1,800	1,500		eqp_bf22_archer04::buff01_lv1,8,eqp_bf22_archer04::buff01_effect,10	starforge01_icon					
+193	3	5	3	70	item102020061001,120	1,1800	1,1300	1,500		eqp_bf22_archer04::buff01_lv1,8,eqp_bf22_archer04::buff01_effect,10	starforge01_icon					
+194	3	5	4	70	item102020061001,140;item102020061003,2	1,2800;31,100	1,1800;31,0	1,1000;31,100		eqp_bf22_archer04::buff01_lv1,8,eqp_bf22_archer04::buff01_effect,10	starforge02_icon					
+195	3	5	5	70	item102020061002,60	1,4000;31,150	1,2800;31,100	1,1200;31,50		eqp_bf22_archer04::buff01_lv1,8,eqp_bf22_archer04::buff01_effect,10	starforge02_icon					
+196	3	5	6	70	item102020061002,80	1,5100;31,200	1,4000;31,150	1,1100;31,50		eqp_bf22_archer04::buff01_lv1,8,eqp_bf22_archer04::buff01_effect,10	starforge03_icon					
+197	3	5	7	70	item102020061002,130;item102020061003,3	1,6600;31,300	1,5100;31,200	1,1500;31,100		eqp_bf22_archer04::buff01_lv1,8,eqp_bf22_archer04::buff01_effect,10	starforge03_icon					
+198	3	5	8	70	item102020061002,180;item102020061003,3	1,7500;31,350	1,6600;31,300	1,900;31,50	buffname_archer04_01	eqp_bf22_archer04::buff01_lv1,8,eqp_bf22_archer04::buff01_effect,10	skill_1016					
+199	3	5	9	70	item102020061002,210;item102020061003,4;item102020061006,3	1,9500;31,400	1,7500;31,350	1,2000;31,50	buffname_archer04_02	eqp_bf22_archer04::buff01_lv2,9,eqp_bf22_archer04::buff01_effect,10	skill_1016					
+200	3	5	10	70	item102020061004,3;item102020061003,10;item102020061006,6	1,12000;31,500	1,9500;31,400	1,2500;31,100	buffname_archer04_03	eqp_bf22_archer04::buff01_lv3,10,eqp_bf22_archer04::buff01_effect,10	skill1016_starforge			hero_103_skill1016.mp4		buffname_eqp_bf22_archer04;eqp_bf22_archer04::buff01_effect;Lock_StarForge_Level_Rome_10
+201	3	6	1	75	item102020061001,80	3,100	3,100			eqp_bf22_archer05::buff01_lv1,8,eqp_bf22_archer05::buff01_effect,10	starforge01_icon					
+202	3	6	2	75	item102020061001,120	3,170	3,100	3,70		eqp_bf22_archer05::buff01_lv1,8,eqp_bf22_archer05::buff01_effect,10	starforge01_icon					
+203	3	6	3	75	item102020061001,120	3,240	3,170	3,70		eqp_bf22_archer05::buff01_lv1,8,eqp_bf22_archer05::buff01_effect,10	starforge01_icon					
+204	3	6	4	75	item102020061001,180;item102020061003,2	3,450;33,100	3,240;33,0	3,210;33,100		eqp_bf22_archer05::buff01_lv1,8,eqp_bf22_archer05::buff01_effect,10	starforge02_icon					
+205	3	6	5	75	item102020061002,90	3,630;33,150	3,450;33,100	3,180;33,50		eqp_bf22_archer05::buff01_lv1,8,eqp_bf22_archer05::buff01_effect,10	starforge02_icon					
+206	3	6	6	75	item102020061002,100	3,800;33,200	3,630;33,150	3,170;33,50		eqp_bf22_archer05::buff01_lv1,8,eqp_bf22_archer05::buff01_effect,10	starforge03_icon					
+207	3	6	7	75	item102020061002,150;item102020061003,4	3,1000;33,300	3,800;33,200	3,200;33,100		eqp_bf22_archer05::buff01_lv1,8,eqp_bf22_archer05::buff01_effect,10	starforge03_icon					
+208	3	6	8	75	item102020061002,220;item102020061003,4	3,1200;33,350	3,1000;33,300	3,200;33,50	buffname_archer05_01	eqp_bf22_archer05::buff01_lv1,8,eqp_bf22_archer05::buff01_effect,10	skill_1003					
+209	3	6	9	75	item102020061002,260;item102020061003,5;item102020061006,4	3,1400;33,400	3,1200;33,350	3,200;33,50	buffname_archer05_02	eqp_bf22_archer05::buff01_lv2,9,eqp_bf22_archer05::buff01_effect,10	skill_1003					
+210	3	6	10	75	item102020061004,4;item102020061003,12;item102020061006,8	3,1600;33,500	3,1400;33,400	3,200;33,100	buffname_archer05_03	eqp_bf22_archer05::buff01_lv3,10,eqp_bf22_archer05::buff01_effect,10	skill1003_starforge			hero_103_skill1003.mp4		buffname_eqp_bf22_archer05;eqp_bf22_archer05::buff01_effect;Lock_StarForge_Level_Rome_10
+211	3	7	1	80	item102020061001,80	4,100	4,100			eqp_bf22_archer06::buff01_lv1,8,eqp_bf22_archer06::buff01_effect,10	starforge01_icon					
+212	3	7	2	80	item102020061001,120	4,170	4,100	4,70		eqp_bf22_archer06::buff01_lv1,8,eqp_bf22_archer06::buff01_effect,10	starforge01_icon					
+213	3	7	3	80	item102020061001,130	4,240	4,170	4,70		eqp_bf22_archer06::buff01_lv1,8,eqp_bf22_archer06::buff01_effect,10	starforge01_icon					
+214	3	7	4	80	item102020061001,180;item102020061003,2	4,450;34,100	4,240;34,0	4,210;34,100		eqp_bf22_archer06::buff01_lv1,8,eqp_bf22_archer06::buff01_effect,10	starforge02_icon					
+215	3	7	5	80	item102020061002,90	4,630;34,150	4,450;34,100	4,180;34,50		eqp_bf22_archer06::buff01_lv1,8,eqp_bf22_archer06::buff01_effect,10	starforge02_icon					
+216	3	7	6	80	item102020061002,130	4,800;34,200	4,630;34,150	4,170;34,50		eqp_bf22_archer06::buff01_lv1,8,eqp_bf22_archer06::buff01_effect,10	starforge03_icon					
+217	3	7	7	80	item102020061002,165;item102020061003,4	4,1000;34,300	4,800;34,200	4,200;34,100		eqp_bf22_archer06::buff01_lv1,8,eqp_bf22_archer06::buff01_effect,10	starforge03_icon					
+218	3	7	8	80	item102020061002,260;item102020061003,5	4,1200;34,350	4,1000;34,300	4,200;34,50	buffname_archer06_01	eqp_bf22_archer06::buff01_lv1,8,eqp_bf22_archer06::buff01_effect,10	skill_1005					
+219	3	7	9	80	item102020061002,330;item102020061003,6;item102020061006,4	4,1400;34,400	4,1200;34,350	4,200;34,50	buffname_archer06_02	eqp_bf22_archer06::buff01_lv2,9,eqp_bf22_archer06::buff01_effect,10	skill_1005					
+220	3	7	10	80	item102020061004,4;item102020061003,12;item102020061006,8	4,1600;34,500	4,1400;34,400	4,200;34,100	buffname_archer06_03	eqp_bf22_archer06::buff01_lv3,10,eqp_bf22_archer06::buff01_effect,10	skill1005_starforge			hero_103_skill1005.mp4		buffname_eqp_bf22_archer06;eqp_bf22_archer06::buff01_effect;Lock_StarForge_Level_Rome_10
+221	3	8	1	85	item102020061001,120	3,120	3,120			eqp_bf22_archer07::buff01_lv1,8,eqp_bf22_archer07::buff01_effect,10	starforge01_icon					
+222	3	8	2	85	item102020061001,180	3,200	3,120	3,80		eqp_bf22_archer07::buff01_lv1,8,eqp_bf22_archer07::buff01_effect,10	starforge01_icon					
+223	3	8	3	85	item102020061001,195	3,280	3,200	3,80		eqp_bf22_archer07::buff01_lv1,8,eqp_bf22_archer07::buff01_effect,10	starforge01_icon					
+224	3	8	4	85	item102020061001,270;item102020061003,3	3,530;173,200	3,280;173,0	3,250;173,200		eqp_bf22_archer07::buff01_lv1,8,eqp_bf22_archer07::buff01_effect,10	starforge02_icon					
+225	3	8	5	85	item102020061002,120	3,740;173,300	3,530;173,200	3,210;173,100		eqp_bf22_archer07::buff01_lv1,8,eqp_bf22_archer07::buff01_effect,10	starforge02_icon					
+226	3	8	6	85	item102020061002,170	3,940;173,400	3,740;173,300	3,200;173,100		eqp_bf22_archer07::buff01_lv1,8,eqp_bf22_archer07::buff01_effect,10	starforge03_icon					
+227	3	8	7	85	item102020061002,210;item102020061003,5	3,1180;173,600	3,940;173,400	3,240;173,200		eqp_bf22_archer07::buff01_lv1,8,eqp_bf22_archer07::buff01_effect,10	starforge03_icon					
+228	3	8	8	85	item102020061002,340;item102020061003,6	3,1420;173,700	3,1180;173,600	3,240;173,100	buffname_archer07_01	eqp_bf22_archer07::buff01_lv1,8,eqp_bf22_archer07::buff01_effect,10	skill_1004					
+229	3	8	9	85	item102020061002,430;item102020061003,7;item102020061006,5	3,1660;173,800	3,1420;173,700	3,240;173,100	buffname_archer07_02	eqp_bf22_archer07::buff01_lv2,9,eqp_bf22_archer07::buff01_effect,10	skill_1004					
+230	3	8	10	85	item102020061003,14;item102020061004,5;item102020061006,10	3,1900;173,1000	3,1660;173,800	3,240;173,200	buffname_archer07_03	eqp_bf22_archer07::buff01_lv3,10,eqp_bf22_archer07::buff01_effect,10	skill1004_starforge			hero_103_skill1004.mp4		buffname_eqp_bf22_archer07;eqp_bf22_archer07::buff01_effect;Lock_StarForge_Level_Rome_10
+231	3	9	1	90	item102020061001,150	3,120	3,120			eqp_bf22_archer08::buff01_lv1,8,eqp_bf22_archer08::buff01_effect,10	starforge01_icon					
+232	3	9	2	90	item102020061001,210	3,200	3,120	3,80		eqp_bf22_archer08::buff01_lv1,8,eqp_bf22_archer08::buff01_effect,10	starforge01_icon					
+233	3	9	3	90	item102020061001,235	3,280	3,200	3,80		eqp_bf22_archer08::buff01_lv1,8,eqp_bf22_archer08::buff01_effect,10	starforge01_icon					
+234	3	9	4	90	item102020061001,480;item102020061003,3	3,530;32,200	3,280;32,0	3,250;32,200		eqp_bf22_archer08::buff01_lv1,8,eqp_bf22_archer08::buff01_effect,10	starforge02_icon					
+235	3	9	5	90	item102020061002,150	3,740;32,300	3,530;32,200	3,210;32,100		eqp_bf22_archer08::buff01_lv1,8,eqp_bf22_archer08::buff01_effect,10	starforge02_icon					
+236	3	9	6	90	item102020061002,230	3,940;32,400	3,740;32,300	3,200;32,100		eqp_bf22_archer08::buff01_lv1,8,eqp_bf22_archer08::buff01_effect,10	starforge03_icon					
+237	3	9	7	90	item102020061002,280;item102020061003,6	3,1180;32,600	3,940;32,400	3,240;32,200		eqp_bf22_archer08::buff01_lv1,8,eqp_bf22_archer08::buff01_effect,10	starforge03_icon					
+238	3	9	8	90	item102020061002,420;item102020061003,7	3,1420;32,700	3,1180;32,600	3,240;32,100	buffname_archer08_01	eqp_bf22_archer08::buff01_lv1,8,eqp_bf22_archer08::buff01_effect,10	skill_1008					
+239	3	9	9	90	item102020061002,510;item102020061003,8;item102020061006,6	3,1660;32,800	3,1420;32,700	3,240;32,100	buffname_archer08_02	eqp_bf22_archer08::buff01_lv2,9,eqp_bf22_archer08::buff01_effect,10	skill_1008					
+240	3	9	10	90	item102020061003,16;item102020061004,5;item102020061006,12	3,1900;32,1000	3,1660;32,800	3,240;32,200	buffname_archer08_03	eqp_bf22_archer08::buff01_lv3,10,eqp_bf22_archer08::buff01_effect,10	skill1008_starforge			hero_103_skill1008.mp4		buffname_eqp_bf22_archer08;eqp_bf22_archer08::buff01_effect;Lock_StarForge_Level_Rome_10
+241	4	2	1	40	item102020061001,10	1,400	1,400			eqp_bf22_priest01::buff01_lv1,8,eqp_bf22_priest01::buff01_effect,10	starforge01_icon					
+242	4	2	2	40	item102020061001,20	1,700	1,400	1,300		eqp_bf22_priest01::buff01_lv1,8,eqp_bf22_priest01::buff01_effect,10	starforge01_icon					
+243	4	2	3	40	item102020061001,25	1,1000	1,700	1,300		eqp_bf22_priest01::buff01_lv1,8,eqp_bf22_priest01::buff01_effect,10	starforge01_icon					
+244	4	2	4	40	item102020061003,1;item102020061001,30	1,2000;30,100	1,1000;30,0	1,1000;30,100		eqp_bf22_priest01::buff01_lv1,8,eqp_bf22_priest01::buff01_effect,10	starforge02_icon					
+245	4	2	5	40	item102020061002,10	1,2300;30,150	1,2000;30,100	1,300;30,50		eqp_bf22_priest01::buff01_lv1,8,eqp_bf22_priest01::buff01_effect,10	starforge02_icon					
+246	4	2	6	40	item102020061002,25	1,3000;30,200	1,2300;30,150	1,700;30,50		eqp_bf22_priest01::buff01_lv1,8,eqp_bf22_priest01::buff01_effect,10	starforge03_icon					
+247	4	2	7	40	item102020061003,2;item102020061002,50	1,4400;30,300	1,3000;30,200	1,1400;30,100		eqp_bf22_priest01::buff01_lv1,8,eqp_bf22_priest01::buff01_effect,10	starforge03_icon					
+248	4	2	8	40	item102020061003,2;item102020061002,75	1,5300;30,350	1,4400;30,300	1,900;30,50	buffname_priest01_01	eqp_bf22_priest01::buff01_lv1,8,eqp_bf22_priest01::buff01_effect,10	skill_1301					
+249	4	2	9	40	item102020061003,3;item102020061006,1;item102020061002,80	1,6000;30,400	1,5300;30,350	1,700;30,50	buffname_priest01_02	eqp_bf22_priest01::buff01_lv2,9,eqp_bf22_priest01::buff01_effect,10	skill_1301					
+250	4	2	10	40	item102020061004,1;item102020061003,5;item102020061006,2	1,6700;30,500	1,6000;30,400	1,700;30,100	buffname_priest01_03	eqp_bf22_priest01::buff01_lv3,10,eqp_bf22_priest01::buff01_effect,10	skill1301_starforge			hero_104_skill1301.mp4		buffname_eqp_bf22_priest01;eqp_bf22_priest01::buff01_effect;Lock_StarForge_Level_Rome_10
+251	4	3	1	50	item102020061001,20	3,50	3,50			eqp_bf22_priest02::buff01_lv1,8,eqp_bf22_priest02::buff01_effect,10	starforge01_icon					
+252	4	3	2	50	item102020061001,25	3,75	3,50	3,25		eqp_bf22_priest02::buff01_lv1,8,eqp_bf22_priest02::buff01_effect,10	starforge01_icon					
+253	4	3	3	50	item102020061001,30	3,100	3,75	3,25		eqp_bf22_priest02::buff01_lv1,8,eqp_bf22_priest02::buff01_effect,10	starforge01_icon					
+254	4	3	4	50	item102020061003,1;item102020061001,55	3,180;51,100	3,100;51,0	3,80;51,100		eqp_bf22_priest02::buff01_lv1,8,eqp_bf22_priest02::buff01_effect,10	starforge02_icon					
+255	4	3	5	50	item102020061002,20	3,250;51,150	3,180;51,100	3,70;51,50		eqp_bf22_priest02::buff01_lv1,8,eqp_bf22_priest02::buff01_effect,10	starforge02_icon					
+256	4	3	6	50	item102020061002,45	3,350;51,200	3,250;51,150	3,100;51,50		eqp_bf22_priest02::buff01_lv1,8,eqp_bf22_priest02::buff01_effect,10	starforge03_icon					
+257	4	3	7	50	item102020061003,2;item102020061002,65	3,500;51,300	3,350;51,200	3,150;51,100		eqp_bf22_priest02::buff01_lv1,8,eqp_bf22_priest02::buff01_effect,10	starforge03_icon					
+258	4	3	8	50	item102020061003,2;item102020061002,80	3,580;51,350	3,500;51,300	3,80;51,50	buffname_priest02_01	eqp_bf22_priest02::buff01_lv1,8,eqp_bf22_priest02::buff01_effect,10	skill_1304					
+259	4	3	9	50	item102020061003,3;item102020061006,2;item102020061002,90	3,680;51,400	3,580;51,350	3,100;51,50	buffname_priest02_02	eqp_bf22_priest02::buff01_lv2,9,eqp_bf22_priest02::buff01_effect,10	skill_1304					
+260	4	3	10	50	item102020061004,1;item102020061003,6;item102020061006,2	3,840;51,500	3,680;51,400	3,160;51,100	buffname_priest02_03	eqp_bf22_priest02::buff01_lv3,10,eqp_bf22_priest02::buff01_effect,10	skill1304_starforge			hero_104_skill1304.mp4		buffname_eqp_bf22_priest02;eqp_bf22_priest02::buff01_effect;Lock_StarForge_Level_Rome_10
+261	4	4	1	60	item102020061001,30	4,50	4,50			eqp_bf22_priest03::buff01_lv1,8,eqp_bf22_priest03::buff01_effect,10	starforge01_icon					
+262	4	4	2	60	item102020061001,40	4,70	4,50	4,20		eqp_bf22_priest03::buff01_lv1,8,eqp_bf22_priest03::buff01_effect,10	starforge01_icon					
+263	4	4	3	60	item102020061001,45	4,90	4,70	4,20		eqp_bf22_priest03::buff01_lv1,8,eqp_bf22_priest03::buff01_effect,10	starforge01_icon					
+264	4	4	4	60	item102020061003,1;item102020061001,120	4,180;52,100	4,90;52,0	4,90;52,100		eqp_bf22_priest03::buff01_lv1,8,eqp_bf22_priest03::buff01_effect,10	starforge02_icon					
+265	4	4	5	60	item102020061002,30	4,250;52,150	4,180;52,100	4,70;52,50		eqp_bf22_priest03::buff01_lv1,8,eqp_bf22_priest03::buff01_effect,10	starforge02_icon					
+266	4	4	6	60	item102020061002,55	4,330;52,200	4,250;52,150	4,80;52,50		eqp_bf22_priest03::buff01_lv1,8,eqp_bf22_priest03::buff01_effect,10	starforge03_icon					
+267	4	4	7	60	item102020061003,2;item102020061002,75	4,450;52,300	4,330;52,200	4,120;52,100		eqp_bf22_priest03::buff01_lv1,8,eqp_bf22_priest03::buff01_effect,10	starforge03_icon					
+268	4	4	8	60	item102020061003,2;item102020061002,150	4,550;52,350	4,450;52,300	4,100;52,50	buffname_priest03_01	eqp_bf22_priest03::buff01_lv1,8,eqp_bf22_priest03::buff01_effect,10	skill_1307					
+269	4	4	9	60	item102020061003,3;item102020061002,180;item102020061006,2	4,700;52,400	4,550;52,350	4,150;52,50	buffname_priest03_02	eqp_bf22_priest03::buff01_lv2,9,eqp_bf22_priest03::buff01_effect,10	skill_1307					
+270	4	4	10	60	item102020061004,2;item102020061003,8;item102020061006,4	4,850;52,500	4,700;52,400	4,150;52,100	buffname_priest03_03	eqp_bf22_priest03::buff01_lv3,10,eqp_bf22_priest03::buff01_effect,10	skill1307_starforge			hero_104_skill1307.mp4		buffname_eqp_bf22_priest03;eqp_bf22_priest03::buff01_effect;Lock_StarForge_Level_Rome_10
+271	4	5	1	70	item102020061001,60	1,800	1,800			eqp_bf22_priest04::buff01_lv1,8,eqp_bf22_priest04::buff01_effect,10	starforge01_icon					
+272	4	5	2	70	item102020061001,90	1,1300	1,800	1,500		eqp_bf22_priest04::buff01_lv1,8,eqp_bf22_priest04::buff01_effect,10	starforge01_icon					
+273	4	5	3	70	item102020061001,120	1,1800	1,1300	1,500		eqp_bf22_priest04::buff01_lv1,8,eqp_bf22_priest04::buff01_effect,10	starforge01_icon					
+274	4	5	4	70	item102020061001,140;item102020061003,2	1,2800;31,100	1,1800;31,0	1,1000;31,100		eqp_bf22_priest04::buff01_lv1,8,eqp_bf22_priest04::buff01_effect,10	starforge02_icon					
+275	4	5	5	70	item102020061002,60	1,4000;31,150	1,2800;31,100	1,1200;31,50		eqp_bf22_priest04::buff01_lv1,8,eqp_bf22_priest04::buff01_effect,10	starforge02_icon					
+276	4	5	6	70	item102020061002,80	1,5100;31,200	1,4000;31,150	1,1100;31,50		eqp_bf22_priest04::buff01_lv1,8,eqp_bf22_priest04::buff01_effect,10	starforge03_icon					
+277	4	5	7	70	item102020061002,130;item102020061003,3	1,6600;31,300	1,5100;31,200	1,1500;31,100		eqp_bf22_priest04::buff01_lv1,8,eqp_bf22_priest04::buff01_effect,10	starforge03_icon					
+278	4	5	8	70	item102020061002,180;item102020061003,3	1,7500;31,350	1,6600;31,300	1,900;31,50	buffname_priest04_01	eqp_bf22_priest04::buff01_lv1,8,eqp_bf22_priest04::buff01_effect,10	skill_1305					
+279	4	5	9	70	item102020061002,210;item102020061003,4;item102020061006,3	1,9500;31,400	1,7500;31,350	1,2000;31,50	buffname_priest04_02	eqp_bf22_priest04::buff01_lv2,9,eqp_bf22_priest04::buff01_effect,10	skill_1305					
+280	4	5	10	70	item102020061004,3;item102020061003,10;item102020061006,6	1,12000;31,500	1,9500;31,400	1,2500;31,100	buffname_priest04_03	eqp_bf22_priest04::buff01_lv3,10,eqp_bf22_priest04::buff01_effect,10	skill1305_starforge			hero_104_skill1305.mp4		buffname_eqp_bf22_priest04;eqp_bf22_priest04::buff01_effect;Lock_StarForge_Level_Rome_10
+281	4	6	1	75	item102020061001,80	3,100	3,100			eqp_bf22_priest05::buff01_lv1,8,eqp_bf22_priest05::buff01_effect,10	starforge01_icon					
+282	4	6	2	75	item102020061001,120	3,170	3,100	3,70		eqp_bf22_priest05::buff01_lv1,8,eqp_bf22_priest05::buff01_effect,10	starforge01_icon					
+283	4	6	3	75	item102020061001,120	3,240	3,170	3,70		eqp_bf22_priest05::buff01_lv1,8,eqp_bf22_priest05::buff01_effect,10	starforge01_icon					
+284	4	6	4	75	item102020061001,180;item102020061003,2	3,450;33,100	3,240;33,0	3,210;33,100		eqp_bf22_priest05::buff01_lv1,8,eqp_bf22_priest05::buff01_effect,10	starforge02_icon					
+285	4	6	5	75	item102020061002,90	3,630;33,150	3,450;33,100	3,180;33,50		eqp_bf22_priest05::buff01_lv1,8,eqp_bf22_priest05::buff01_effect,10	starforge02_icon					
+286	4	6	6	75	item102020061002,100	3,800;33,200	3,630;33,150	3,170;33,50		eqp_bf22_priest05::buff01_lv1,8,eqp_bf22_priest05::buff01_effect,10	starforge03_icon					
+287	4	6	7	75	item102020061002,150;item102020061003,4	3,1000;33,300	3,800;33,200	3,200;33,100		eqp_bf22_priest05::buff01_lv1,8,eqp_bf22_priest05::buff01_effect,10	starforge03_icon					
+288	4	6	8	75	item102020061002,220;item102020061003,4	3,1200;33,350	3,1000;33,300	3,200;33,50	buffname_priest05_01	eqp_bf22_priest05::buff01_lv1,8,eqp_bf22_priest05::buff01_effect,10	skill_1302					
+289	4	6	9	75	item102020061002,260;item102020061003,5;item102020061006,4	3,1400;33,400	3,1200;33,350	3,200;33,50	buffname_priest05_02	eqp_bf22_priest05::buff01_lv2,9,eqp_bf22_priest05::buff01_effect,10	skill_1302					
+290	4	6	10	75	item102020061004,4;item102020061003,12;item102020061006,8	3,1600;33,500	3,1400;33,400	3,200;33,100	buffname_priest05_03	eqp_bf22_priest05::buff01_lv3,10,eqp_bf22_priest05::buff01_effect,10	skill1302_starforge			hero_104_skill1302.mp4		buffname_eqp_bf22_priest05;eqp_bf22_priest05::buff01_effect;Lock_StarForge_Level_Rome_10
+291	4	7	1	80	item102020061001,80	4,100	4,100			eqp_bf22_priest06::buff01_lv1,8,eqp_bf22_priest06::buff01_effect,10	starforge01_icon					
+292	4	7	2	80	item102020061001,120	4,170	4,100	4,70		eqp_bf22_priest06::buff01_lv1,8,eqp_bf22_priest06::buff01_effect,10	starforge01_icon					
+293	4	7	3	80	item102020061001,130	4,240	4,170	4,70		eqp_bf22_priest06::buff01_lv1,8,eqp_bf22_priest06::buff01_effect,10	starforge01_icon					
+294	4	7	4	80	item102020061001,180;item102020061003,2	4,450;34,100	4,240;34,0	4,210;34,100		eqp_bf22_priest06::buff01_lv1,8,eqp_bf22_priest06::buff01_effect,10	starforge02_icon					
+295	4	7	5	80	item102020061002,90	4,630;34,150	4,450;34,100	4,180;34,50		eqp_bf22_priest06::buff01_lv1,8,eqp_bf22_priest06::buff01_effect,10	starforge02_icon					
+296	4	7	6	80	item102020061002,130	4,800;34,200	4,630;34,150	4,170;34,50		eqp_bf22_priest06::buff01_lv1,8,eqp_bf22_priest06::buff01_effect,10	starforge03_icon					
+297	4	7	7	80	item102020061002,165;item102020061003,4	4,1000;34,300	4,800;34,200	4,200;34,100		eqp_bf22_priest06::buff01_lv1,8,eqp_bf22_priest06::buff01_effect,10	starforge03_icon					
+298	4	7	8	80	item102020061002,260;item102020061003,5	4,1200;34,350	4,1000;34,300	4,200;34,50	buffname_priest06_01	eqp_bf22_priest06::buff01_lv1,8,eqp_bf22_priest06::buff01_effect,10	skill_1303					
+299	4	7	9	80	item102020061002,330;item102020061003,6;item102020061006,4	4,1400;34,400	4,1200;34,350	4,200;34,50	buffname_priest06_02	eqp_bf22_priest06::buff01_lv2,9,eqp_bf22_priest06::buff01_effect,10	skill_1303					
+300	4	7	10	80	item102020061004,4;item102020061003,12;item102020061006,8	4,1600;34,500	4,1400;34,400	4,200;34,100	buffname_priest06_03	eqp_bf22_priest06::buff01_lv3,10,eqp_bf22_priest06::buff01_effect,10	skill1303_starforge			hero_104_skill1303.mp4		buffname_eqp_bf22_priest06;eqp_bf22_priest06::buff01_effect;Lock_StarForge_Level_Rome_10
+301	4	8	1	85	item102020061001,120	3,120	3,120			eqp_bf22_priest07::buff01_lv1,8,eqp_bf22_priest07::buff01_effect,10	starforge01_icon					
+302	4	8	2	85	item102020061001,180	3,200	3,120	3,80		eqp_bf22_priest07::buff01_lv1,8,eqp_bf22_priest07::buff01_effect,10	starforge01_icon					
+303	4	8	3	85	item102020061001,195	3,280	3,200	3,80		eqp_bf22_priest07::buff01_lv1,8,eqp_bf22_priest07::buff01_effect,10	starforge01_icon					
+304	4	8	4	85	item102020061001,270;item102020061003,3	3,530;173,200	3,280;173,0	3,250;173,200		eqp_bf22_priest07::buff01_lv1,8,eqp_bf22_priest07::buff01_effect,10	starforge02_icon					
+305	4	8	5	85	item102020061002,120	3,740;173,300	3,530;173,200	3,210;173,100		eqp_bf22_priest07::buff01_lv1,8,eqp_bf22_priest07::buff01_effect,10	starforge02_icon					
+306	4	8	6	85	item102020061002,170	3,940;173,400	3,740;173,300	3,200;173,100		eqp_bf22_priest07::buff01_lv1,8,eqp_bf22_priest07::buff01_effect,10	starforge03_icon					
+307	4	8	7	85	item102020061002,210;item102020061003,5	3,1180;173,600	3,940;173,400	3,240;173,200		eqp_bf22_priest07::buff01_lv1,8,eqp_bf22_priest07::buff01_effect,10	starforge03_icon					
+308	4	8	8	85	item102020061002,340;item102020061003,6	3,1420;173,700	3,1180;173,600	3,240;173,100	buffname_priest07_01	eqp_bf22_priest07::buff01_lv1,8,eqp_bf22_priest07::buff01_effect,10	skill_1313					
+309	4	8	9	85	item102020061002,430;item102020061003,7;item102020061006,5	3,1660;173,800	3,1420;173,700	3,240;173,100	buffname_priest07_02	eqp_bf22_priest07::buff01_lv2,9,eqp_bf22_priest07::buff01_effect,10	skill_1313					
+310	4	8	10	85	item102020061003,14;item102020061004,5;item102020061006,10	3,1900;173,1000	3,1660;173,800	3,240;173,200	buffname_priest07_03	eqp_bf22_priest07::buff01_lv3,10,eqp_bf22_priest07::buff01_effect,10	skill1313_starforge			hero_104_skill1313.mp4		buffname_eqp_bf22_priest07;eqp_bf22_priest07::buff01_effect;Lock_StarForge_Level_Rome_10
+311	4	9	1	90	item102020061001,150	3,120	3,120			eqp_bf22_priest08::buff01_lv1,8,eqp_bf22_priest08::buff01_effect,10	starforge01_icon					
+312	4	9	2	90	item102020061001,210	3,200	3,120	3,80		eqp_bf22_priest08::buff01_lv1,8,eqp_bf22_priest08::buff01_effect,10	starforge01_icon					
+313	4	9	3	90	item102020061001,235	3,280	3,200	3,80		eqp_bf22_priest08::buff01_lv1,8,eqp_bf22_priest08::buff01_effect,10	starforge01_icon					
+314	4	9	4	90	item102020061001,480;item102020061003,3	3,530;32,200	3,280;32,0	3,250;32,200		eqp_bf22_priest08::buff01_lv1,8,eqp_bf22_priest08::buff01_effect,10	starforge02_icon					
+315	4	9	5	90	item102020061002,150	3,740;32,300	3,530;32,200	3,210;32,100		eqp_bf22_priest08::buff01_lv1,8,eqp_bf22_priest08::buff01_effect,10	starforge02_icon					
+316	4	9	6	90	item102020061002,230	3,940;32,400	3,740;32,300	3,200;32,100		eqp_bf22_priest08::buff01_lv1,8,eqp_bf22_priest08::buff01_effect,10	starforge03_icon					
+317	4	9	7	90	item102020061002,280;item102020061003,6	3,1180;32,600	3,940;32,400	3,240;32,200		eqp_bf22_priest08::buff01_lv1,8,eqp_bf22_priest08::buff01_effect,10	starforge03_icon					
+318	4	9	8	90	item102020061002,420;item102020061003,7	3,1420;32,700	3,1180;32,600	3,240;32,100	buffname_priest08_01	eqp_bf22_priest08::buff01_lv1,8,eqp_bf22_priest08::buff01_effect,10	skill_1308					
+319	4	9	9	90	item102020061002,510;item102020061003,8;item102020061006,6	3,1660;32,800	3,1420;32,700	3,240;32,100	buffname_priest08_02	eqp_bf22_priest08::buff01_lv2,9,eqp_bf22_priest08::buff01_effect,10	skill_1308					
+320	4	9	10	90	item102020061003,16;item102020061004,5;item102020061006,12	3,1900;32,1000	3,1660;32,800	3,240;32,200	buffname_priest08_03	eqp_bf22_priest08::buff01_lv3,10,eqp_bf22_priest08::buff01_effect,10	skill1308_starforge			hero_104_skill1308.mp4		buffname_eqp_bf22_priest08;eqp_bf22_priest08::buff01_effect;Lock_StarForge_Level_Rome_10
+321	5	2	1	40	item102020061001,10	1,400	1,400			eqp_bf22_assassin01::buff01_lv1,8,eqp_bf22_assassin01::buff01_effect,10	starforge01_icon					
+322	5	2	2	40	item102020061001,20	1,700	1,400	1,300		eqp_bf22_assassin01::buff01_lv1,8,eqp_bf22_assassin01::buff01_effect,10	starforge01_icon					
+323	5	2	3	40	item102020061001,25	1,1000	1,700	1,300		eqp_bf22_assassin01::buff01_lv1,8,eqp_bf22_assassin01::buff01_effect,10	starforge01_icon					
+324	5	2	4	40	item102020061003,1;item102020061001,30	1,2000;30,100	1,1000;30,0	1,1000;30,100		eqp_bf22_assassin01::buff01_lv1,8,eqp_bf22_assassin01::buff01_effect,10	starforge02_icon					
+325	5	2	5	40	item102020061002,10	1,2300;30,150	1,2000;30,100	1,300;30,50		eqp_bf22_assassin01::buff01_lv1,8,eqp_bf22_assassin01::buff01_effect,10	starforge02_icon					
+326	5	2	6	40	item102020061002,25	1,3000;30,200	1,2300;30,150	1,700;30,50		eqp_bf22_assassin01::buff01_lv1,8,eqp_bf22_assassin01::buff01_effect,10	starforge03_icon					
+327	5	2	7	40	item102020061003,2;item102020061002,50	1,4400;30,300	1,3000;30,200	1,1400;30,100		eqp_bf22_assassin01::buff01_lv1,8,eqp_bf22_assassin01::buff01_effect,10	starforge03_icon					
+328	5	2	8	40	item102020061003,2;item102020061002,75	1,5300;30,350	1,4400;30,300	1,900;30,50	buffname_assassin01_01	eqp_bf22_assassin01::buff01_lv1,8,eqp_bf22_assassin01::buff01_effect,10	skill_1408					
+329	5	2	9	40	item102020061003,3;item102020061006,1;item102020061002,80	1,6000;30,400	1,5300;30,350	1,700;30,50	buffname_assassin01_02	eqp_bf22_assassin01::buff01_lv2,9,eqp_bf22_assassin01::buff01_effect,10	skill_1408					
+330	5	2	10	40	item102020061004,1;item102020061003,5;item102020061006,2	1,6700;30,500	1,6000;30,400	1,700;30,100	buffname_assassin01_03	eqp_bf22_assassin01::buff01_lv3,10,eqp_bf22_assassin01::buff01_effect,10	skill1408_starforge			hero_105_skill1408.mp4		buffname_eqp_bf22_assassin01;eqp_bf22_assassin01::buff01_effect;Lock_StarForge_Level_Rome_10
+331	5	3	1	50	item102020061001,20	3,50	3,50			eqp_bf22_assassin02::buff01_lv1,8,eqp_bf22_assassin02::buff01_effect,10	starforge01_icon					
+332	5	3	2	50	item102020061001,25	3,75	3,50	3,25		eqp_bf22_assassin02::buff01_lv1,8,eqp_bf22_assassin02::buff01_effect,10	starforge01_icon					
+333	5	3	3	50	item102020061001,30	3,100	3,75	3,25		eqp_bf22_assassin02::buff01_lv1,8,eqp_bf22_assassin02::buff01_effect,10	starforge01_icon					
+334	5	3	4	50	item102020061003,1;item102020061001,55	3,180;51,100	3,100;51,0	3,80;51,100		eqp_bf22_assassin02::buff01_lv1,8,eqp_bf22_assassin02::buff01_effect,10	starforge02_icon					
+335	5	3	5	50	item102020061002,20	3,250;51,150	3,180;51,100	3,70;51,50		eqp_bf22_assassin02::buff01_lv1,8,eqp_bf22_assassin02::buff01_effect,10	starforge02_icon					
+336	5	3	6	50	item102020061002,45	3,350;51,200	3,250;51,150	3,100;51,50		eqp_bf22_assassin02::buff01_lv1,8,eqp_bf22_assassin02::buff01_effect,10	starforge03_icon					
+337	5	3	7	50	item102020061003,2;item102020061002,65	3,500;51,300	3,350;51,200	3,150;51,100		eqp_bf22_assassin02::buff01_lv1,8,eqp_bf22_assassin02::buff01_effect,10	starforge03_icon					
+338	5	3	8	50	item102020061003,2;item102020061002,80	3,580;51,350	3,500;51,300	3,80;51,50	buffname_assassin02_01	eqp_bf22_assassin02::buff01_lv1,8,eqp_bf22_assassin02::buff01_effect,10	skill_1407					
+339	5	3	9	50	item102020061003,3;item102020061006,2;item102020061002,90	3,680;51,400	3,580;51,350	3,100;51,50	buffname_assassin02_02	eqp_bf22_assassin02::buff01_lv2,9,eqp_bf22_assassin02::buff01_effect,10	skill_1407					
+340	5	3	10	50	item102020061004,1;item102020061003,6;item102020061006,2	3,840;51,500	3,680;51,400	3,160;51,100	buffname_assassin02_03	eqp_bf22_assassin02::buff01_lv3,10,eqp_bf22_assassin02::buff01_effect,10	skill1407_starforge			hero_105_skill1407.mp4		buffname_eqp_bf22_assassin02;eqp_bf22_assassin02::buff01_effect;Lock_StarForge_Level_Rome_10
+341	5	4	1	60	item102020061001,30	4,50	4,50			eqp_bf22_assassin03::buff01_lv1,8,eqp_bf22_assassin03::buff01_effect,10	starforge01_icon					
+342	5	4	2	60	item102020061001,40	4,70	4,50	4,20		eqp_bf22_assassin03::buff01_lv1,8,eqp_bf22_assassin03::buff01_effect,10	starforge01_icon					
+343	5	4	3	60	item102020061001,45	4,90	4,70	4,20		eqp_bf22_assassin03::buff01_lv1,8,eqp_bf22_assassin03::buff01_effect,10	starforge01_icon					
+344	5	4	4	60	item102020061003,1;item102020061001,120	4,180;52,100	4,90;52,0	4,90;52,100		eqp_bf22_assassin03::buff01_lv1,8,eqp_bf22_assassin03::buff01_effect,10	starforge02_icon					
+345	5	4	5	60	item102020061002,30	4,250;52,150	4,180;52,100	4,70;52,50		eqp_bf22_assassin03::buff01_lv1,8,eqp_bf22_assassin03::buff01_effect,10	starforge02_icon					
+346	5	4	6	60	item102020061002,55	4,330;52,200	4,250;52,150	4,80;52,50		eqp_bf22_assassin03::buff01_lv1,8,eqp_bf22_assassin03::buff01_effect,10	starforge03_icon					
+347	5	4	7	60	item102020061003,2;item102020061002,75	4,450;52,300	4,330;52,200	4,120;52,100		eqp_bf22_assassin03::buff01_lv1,8,eqp_bf22_assassin03::buff01_effect,10	starforge03_icon					
+348	5	4	8	60	item102020061003,2;item102020061002,150	4,550;52,350	4,450;52,300	4,100;52,50	buffname_assassin03_01	eqp_bf22_assassin03::buff01_lv1,8,eqp_bf22_assassin03::buff01_effect,10	skill_1401					
+349	5	4	9	60	item102020061003,3;item102020061002,180;item102020061006,2	4,700;52,400	4,550;52,350	4,150;52,50	buffname_assassin03_02	eqp_bf22_assassin03::buff01_lv2,9,eqp_bf22_assassin03::buff01_effect,10	skill_1401					
+350	5	4	10	60	item102020061004,2;item102020061003,8;item102020061006,4	4,850;52,500	4,700;52,400	4,150;52,100	buffname_assassin03_03	eqp_bf22_assassin03::buff01_lv3,10,eqp_bf22_assassin03::buff01_effect,10	skill1401_starforge			hero_105_skill1401.mp4		buffname_eqp_bf22_assassin03;eqp_bf22_assassin03::buff01_effect;Lock_StarForge_Level_Rome_10
+351	5	5	1	70	item102020061001,60	1,800	1,800			eqp_bf22_assassin04::buff01_lv1,8,eqp_bf22_assassin04::buff01_effect,10	starforge01_icon					
+352	5	5	2	70	item102020061001,90	1,1300	1,800	1,500		eqp_bf22_assassin04::buff01_lv1,8,eqp_bf22_assassin04::buff01_effect,10	starforge01_icon					
+353	5	5	3	70	item102020061001,120	1,1800	1,1300	1,500		eqp_bf22_assassin04::buff01_lv1,8,eqp_bf22_assassin04::buff01_effect,10	starforge01_icon					
+354	5	5	4	70	item102020061001,140;item102020061003,2	1,2800;31,100	1,1800;31,0	1,1000;31,100		eqp_bf22_assassin04::buff01_lv1,8,eqp_bf22_assassin04::buff01_effect,10	starforge02_icon					
+355	5	5	5	70	item102020061002,60	1,4000;31,150	1,2800;31,100	1,1200;31,50		eqp_bf22_assassin04::buff01_lv1,8,eqp_bf22_assassin04::buff01_effect,10	starforge02_icon					
+356	5	5	6	70	item102020061002,80	1,5100;31,200	1,4000;31,150	1,1100;31,50		eqp_bf22_assassin04::buff01_lv1,8,eqp_bf22_assassin04::buff01_effect,10	starforge03_icon					
+357	5	5	7	70	item102020061002,130;item102020061003,3	1,6600;31,300	1,5100;31,200	1,1500;31,100		eqp_bf22_assassin04::buff01_lv1,8,eqp_bf22_assassin04::buff01_effect,10	starforge03_icon					
+358	5	5	8	70	item102020061002,180;item102020061003,3	1,7500;31,350	1,6600;31,300	1,900;31,50	buffname_assassin04_01	eqp_bf22_assassin04::buff01_lv1,8,eqp_bf22_assassin04::buff01_effect,10	skill_1402					
+359	5	5	9	70	item102020061002,210;item102020061003,4;item102020061006,3	1,9500;31,400	1,7500;31,350	1,2000;31,50	buffname_assassin04_02	eqp_bf22_assassin04::buff01_lv2,9,eqp_bf22_assassin04::buff01_effect,10	skill_1402					
+360	5	5	10	70	item102020061004,3;item102020061003,10;item102020061006,6	1,12000;31,500	1,9500;31,400	1,2500;31,100	buffname_assassin04_03	eqp_bf22_assassin04::buff01_lv3,10,eqp_bf22_assassin04::buff01_effect,10	skill1402_starforge			hero_105_skill1305.mp4		buffname_eqp_bf22_assassin04;eqp_bf22_assassin04::buff01_effect;Lock_StarForge_Level_Rome_10
+361	5	6	1	75	item102020061001,80	3,100	3,100			eqp_bf22_assassin05::buff01_lv1,8,eqp_bf22_assassin05::buff01_effect,10	starforge01_icon					
+362	5	6	2	75	item102020061001,120	3,170	3,100	3,70		eqp_bf22_assassin05::buff01_lv1,8,eqp_bf22_assassin05::buff01_effect,10	starforge01_icon					
+363	5	6	3	75	item102020061001,120	3,240	3,170	3,70		eqp_bf22_assassin05::buff01_lv1,8,eqp_bf22_assassin05::buff01_effect,10	starforge01_icon					
+364	5	6	4	75	item102020061001,180;item102020061003,2	3,450;33,100	3,240;33,0	3,210;33,100		eqp_bf22_assassin05::buff01_lv1,8,eqp_bf22_assassin05::buff01_effect,10	starforge02_icon					
+365	5	6	5	75	item102020061002,90	3,630;33,150	3,450;33,100	3,180;33,50		eqp_bf22_assassin05::buff01_lv1,8,eqp_bf22_assassin05::buff01_effect,10	starforge02_icon					
+366	5	6	6	75	item102020061002,100	3,800;33,200	3,630;33,150	3,170;33,50		eqp_bf22_assassin05::buff01_lv1,8,eqp_bf22_assassin05::buff01_effect,10	starforge03_icon					
+367	5	6	7	75	item102020061002,150;item102020061003,4	3,1000;33,300	3,800;33,200	3,200;33,100		eqp_bf22_assassin05::buff01_lv1,8,eqp_bf22_assassin05::buff01_effect,10	starforge03_icon					
+368	5	6	8	75	item102020061002,220;item102020061003,4	3,1200;33,350	3,1000;33,300	3,200;33,50	buffname_assassin05_01	eqp_bf22_assassin05::buff01_lv1,8,eqp_bf22_assassin05::buff01_effect,10	skill_1405					
+369	5	6	9	75	item102020061002,260;item102020061003,5;item102020061006,4	3,1400;33,400	3,1200;33,350	3,200;33,50	buffname_assassin05_02	eqp_bf22_assassin05::buff01_lv2,9,eqp_bf22_assassin05::buff01_effect,10	skill_1405					
+370	5	6	10	75	item102020061004,4;item102020061003,12;item102020061006,8	3,1600;33,500	3,1400;33,400	3,200;33,100	buffname_assassin05_03	eqp_bf22_assassin05::buff01_lv3,10,eqp_bf22_assassin05::buff01_effect,10	skill1405_starforge			hero_105_skill1405.mp4		buffname_eqp_bf22_assassin05;eqp_bf22_assassin05::buff01_effect;Lock_StarForge_Level_Rome_10
+371	5	7	1	80	item102020061001,80	4,100	4,100			eqp_bf22_assassin06::buff01_lv1,8,eqp_bf22_assassin06::buff01_effect,10	starforge01_icon					
+372	5	7	2	80	item102020061001,120	4,170	4,100	4,70		eqp_bf22_assassin06::buff01_lv1,8,eqp_bf22_assassin06::buff01_effect,10	starforge01_icon					
+373	5	7	3	80	item102020061001,130	4,240	4,170	4,70		eqp_bf22_assassin06::buff01_lv1,8,eqp_bf22_assassin06::buff01_effect,10	starforge01_icon					
+374	5	7	4	80	item102020061001,180;item102020061003,2	4,450;34,100	4,240;34,0	4,210;34,100		eqp_bf22_assassin06::buff01_lv1,8,eqp_bf22_assassin06::buff01_effect,10	starforge02_icon					
+375	5	7	5	80	item102020061002,90	4,630;34,150	4,450;34,100	4,180;34,50		eqp_bf22_assassin06::buff01_lv1,8,eqp_bf22_assassin06::buff01_effect,10	starforge02_icon					
+376	5	7	6	80	item102020061002,130	4,800;34,200	4,630;34,150	4,170;34,50		eqp_bf22_assassin06::buff01_lv1,8,eqp_bf22_assassin06::buff01_effect,10	starforge03_icon					
+377	5	7	7	80	item102020061002,165;item102020061003,4	4,1000;34,300	4,800;34,200	4,200;34,100		eqp_bf22_assassin06::buff01_lv1,8,eqp_bf22_assassin06::buff01_effect,10	starforge03_icon					
+378	5	7	8	80	item102020061002,260;item102020061003,5	4,1200;34,350	4,1000;34,300	4,200;34,50	buffname_assassin06_01	eqp_bf22_assassin06::buff01_lv1,8,eqp_bf22_assassin06::buff01_effect,10	skill_1406					
+379	5	7	9	80	item102020061002,330;item102020061003,6;item102020061006,4	4,1400;34,400	4,1200;34,350	4,200;34,50	buffname_assassin06_02	eqp_bf22_assassin06::buff01_lv2,9,eqp_bf22_assassin06::buff01_effect,10	skill_1406					
+380	5	7	10	80	item102020061004,4;item102020061003,12;item102020061006,8	4,1600;34,500	4,1400;34,400	4,200;34,100	buffname_assassin06_03	eqp_bf22_assassin06::buff01_lv3,10,eqp_bf22_assassin06::buff01_effect,10	skill1406_starforge			hero_105_skill1406.mp4		buffname_eqp_bf22_assassin06;eqp_bf22_assassin06::buff01_effect;Lock_StarForge_Level_Rome_10
+381	5	8	1	85	item102020061001,120	3,120	3,120			eqp_bf22_assassin07::buff01_lv1,8,eqp_bf22_assassin07::buff01_effect,10	starforge01_icon					
+382	5	8	2	85	item102020061001,180	3,200	3,120	3,80		eqp_bf22_assassin07::buff01_lv1,8,eqp_bf22_assassin07::buff01_effect,10	starforge01_icon					
+383	5	8	3	85	item102020061001,195	3,280	3,200	3,80		eqp_bf22_assassin07::buff01_lv1,8,eqp_bf22_assassin07::buff01_effect,10	starforge01_icon					
+384	5	8	4	85	item102020061001,270;item102020061003,3	3,530;173,200	3,280;173,0	3,250;173,200		eqp_bf22_assassin07::buff01_lv1,8,eqp_bf22_assassin07::buff01_effect,10	starforge02_icon					
+385	5	8	5	85	item102020061002,120	3,740;173,300	3,530;173,200	3,210;173,100		eqp_bf22_assassin07::buff01_lv1,8,eqp_bf22_assassin07::buff01_effect,10	starforge02_icon					
+386	5	8	6	85	item102020061002,170	3,940;173,400	3,740;173,300	3,200;173,100		eqp_bf22_assassin07::buff01_lv1,8,eqp_bf22_assassin07::buff01_effect,10	starforge03_icon					
+387	5	8	7	85	item102020061002,210;item102020061003,5	3,1180;173,600	3,940;173,400	3,240;173,200		eqp_bf22_assassin07::buff01_lv1,8,eqp_bf22_assassin07::buff01_effect,10	starforge03_icon					
+388	5	8	8	85	item102020061002,340;item102020061003,6	3,1420;173,700	3,1180;173,600	3,240;173,100	buffname_assassin07_01	eqp_bf22_assassin07::buff01_lv1,8,eqp_bf22_assassin07::buff01_effect,10	skill_1403					
+389	5	8	9	85	item102020061002,430;item102020061003,7;item102020061006,5	3,1660;173,800	3,1420;173,700	3,240;173,100	buffname_assassin07_02	eqp_bf22_assassin07::buff01_lv2,9,eqp_bf22_assassin07::buff01_effect,10	skill_1403					
+390	5	8	10	85	item102020061003,14;item102020061004,5;item102020061006,10	3,1900;173,1000	3,1660;173,800	3,240;173,200	buffname_assassin07_03	eqp_bf22_assassin07::buff01_lv3,10,eqp_bf22_assassin07::buff01_effect,10	skill1403_starforge			hero_105_skill1403.mp4		buffname_eqp_bf22_assassin07;eqp_bf22_assassin07::buff01_effect;Lock_StarForge_Level_Rome_10
+391	5	9	1	90	item102020061001,150	3,120	3,120			eqp_bf22_assassin08::buff01_lv1,8,eqp_bf22_assassin08::buff01_effect,10	starforge01_icon					
+392	5	9	2	90	item102020061001,210	3,200	3,120	3,80		eqp_bf22_assassin08::buff01_lv1,8,eqp_bf22_assassin08::buff01_effect,10	starforge01_icon					
+393	5	9	3	90	item102020061001,235	3,280	3,200	3,80		eqp_bf22_assassin08::buff01_lv1,8,eqp_bf22_assassin08::buff01_effect,10	starforge01_icon					
+394	5	9	4	90	item102020061001,480;item102020061003,3	3,530;32,200	3,280;32,0	3,250;32,200		eqp_bf22_assassin08::buff01_lv1,8,eqp_bf22_assassin08::buff01_effect,10	starforge02_icon					
+395	5	9	5	90	item102020061002,150	3,740;32,300	3,530;32,200	3,210;32,100		eqp_bf22_assassin08::buff01_lv1,8,eqp_bf22_assassin08::buff01_effect,10	starforge02_icon					
+396	5	9	6	90	item102020061002,230	3,940;32,400	3,740;32,300	3,200;32,100		eqp_bf22_assassin08::buff01_lv1,8,eqp_bf22_assassin08::buff01_effect,10	starforge03_icon					
+397	5	9	7	90	item102020061002,280;item102020061003,6	3,1180;32,600	3,940;32,400	3,240;32,200		eqp_bf22_assassin08::buff01_lv1,8,eqp_bf22_assassin08::buff01_effect,10	starforge03_icon					
+398	5	9	8	90	item102020061002,420;item102020061003,7	3,1420;32,700	3,1180;32,600	3,240;32,100	buffname_assassin08_01	eqp_bf22_assassin08::buff01_lv1,8,eqp_bf22_assassin08::buff01_effect,10	skill_1404					
+399	5	9	9	90	item102020061002,510;item102020061003,8;item102020061006,6	3,1660;32,800	3,1420;32,700	3,240;32,100	buffname_assassin08_02	eqp_bf22_assassin08::buff01_lv2,9,eqp_bf22_assassin08::buff01_effect,10	skill_1404					
+400	5	9	10	90	item102020061003,16;item102020061004,5;item102020061006,12	3,1900;32,1000	3,1660;32,800	3,240;32,200	buffname_assassin08_03	eqp_bf22_assassin08::buff01_lv3,10,eqp_bf22_assassin08::buff01_effect,10	skill1404_starforge			hero_105_skill1404.mp4		buffname_eqp_bf22_assassin08;eqp_bf22_assassin08::buff01_effect;Lock_StarForge_Level_Rome_10
+401	6	2	1	40	item102020061001,10	1,400	1,400			eqp_bf22_dragoon01::buff01_lv1,8,eqp_bf22_dragoon01::buff01_effect,10	starforge01_icon					
+402	6	2	2	40	item102020061001,20	1,700	1,400	1,300		eqp_bf22_dragoon01::buff01_lv1,8,eqp_bf22_dragoon01::buff01_effect,10	starforge01_icon					
+403	6	2	3	40	item102020061001,25	1,1000	1,700	1,300		eqp_bf22_dragoon01::buff01_lv1,8,eqp_bf22_dragoon01::buff01_effect,10	starforge01_icon					
+404	6	2	4	40	item102020061003,1;item102020061001,30	1,2000;30,100	1,1000;30,0	1,1000;30,100		eqp_bf22_dragoon01::buff01_lv1,8,eqp_bf22_dragoon01::buff01_effect,10	starforge02_icon					
+405	6	2	5	40	item102020061002,10	1,2300;30,150	1,2000;30,100	1,300;30,50		eqp_bf22_dragoon01::buff01_lv1,8,eqp_bf22_dragoon01::buff01_effect,10	starforge02_icon					
+406	6	2	6	40	item102020061002,25	1,3000;30,200	1,2300;30,150	1,700;30,50		eqp_bf22_dragoon01::buff01_lv1,8,eqp_bf22_dragoon01::buff01_effect,10	starforge03_icon					
+407	6	2	7	40	item102020061003,2;item102020061002,50	1,4400;30,300	1,3000;30,200	1,1400;30,100		eqp_bf22_dragoon01::buff01_lv1,8,eqp_bf22_dragoon01::buff01_effect,10	starforge03_icon					
+408	6	2	8	40	item102020061003,2;item102020061002,75	1,5300;30,350	1,4400;30,300	1,900;30,50	buffname_dragoon01_01	eqp_bf22_dragoon01::buff01_lv1,8,eqp_bf22_dragoon01::buff01_effect,10	skill_1509					
+409	6	2	9	40	item102020061003,3;item102020061006,1;item102020061002,80	1,6000;30,400	1,5300;30,350	1,700;30,50	buffname_dragoon01_02	eqp_bf22_dragoon01::buff01_lv2,9,eqp_bf22_dragoon01::buff01_effect,10	skill_1509					
+410	6	2	10	40	item102020061004,1;item102020061003,5;item102020061006,2	1,6700;30,500	1,6000;30,400	1,700;30,100	buffname_dragoon01_03	eqp_bf22_dragoon01::buff01_lv3,10,eqp_bf22_dragoon01::buff01_effect,10	skill1508_starforge			hero_106_skill1508.mp4		buffname_eqp_bf22_dragoon01;eqp_bf22_dragoon01::buff01_effect;Lock_StarForge_Level_Rome_10
+411	6	3	1	50	item102020061001,20	3,50	3,50			eqp_bf22_dragoon02::buff01_lv1,8,eqp_bf22_dragoon02::buff01_effect,10	starforge01_icon					
+412	6	3	2	50	item102020061001,25	3,75	3,50	3,25		eqp_bf22_dragoon02::buff01_lv1,8,eqp_bf22_dragoon02::buff01_effect,10	starforge01_icon					
+413	6	3	3	50	item102020061001,30	3,100	3,75	3,25		eqp_bf22_dragoon02::buff01_lv1,8,eqp_bf22_dragoon02::buff01_effect,10	starforge01_icon					
+414	6	3	4	50	item102020061003,1;item102020061001,55	3,180;51,100	3,100;51,0	3,80;51,100		eqp_bf22_dragoon02::buff01_lv1,8,eqp_bf22_dragoon02::buff01_effect,10	starforge02_icon					
+415	6	3	5	50	item102020061002,20	3,250;51,150	3,180;51,100	3,70;51,50		eqp_bf22_dragoon02::buff01_lv1,8,eqp_bf22_dragoon02::buff01_effect,10	starforge02_icon					
+416	6	3	6	50	item102020061002,45	3,350;51,200	3,250;51,150	3,100;51,50		eqp_bf22_dragoon02::buff01_lv1,8,eqp_bf22_dragoon02::buff01_effect,10	starforge03_icon					
+417	6	3	7	50	item102020061003,2;item102020061002,65	3,500;51,300	3,350;51,200	3,150;51,100		eqp_bf22_dragoon02::buff01_lv1,8,eqp_bf22_dragoon02::buff01_effect,10	starforge03_icon					
+418	6	3	8	50	item102020061003,2;item102020061002,80	3,580;51,350	3,500;51,300	3,80;51,50	buffname_dragoon02_01	eqp_bf22_dragoon02::buff01_lv1,8,eqp_bf22_dragoon02::buff01_effect,10	skill_1504					
+419	6	3	9	50	item102020061003,3;item102020061006,2;item102020061002,90	3,680;51,400	3,580;51,350	3,100;51,50	buffname_dragoon02_02	eqp_bf22_dragoon02::buff01_lv2,9,eqp_bf22_dragoon02::buff01_effect,10	skill_1504					
+420	6	3	10	50	item102020061004,1;item102020061003,6;item102020061006,2	3,840;51,500	3,680;51,400	3,160;51,100	buffname_dragoon02_03	eqp_bf22_dragoon02::buff01_lv3,10,eqp_bf22_dragoon02::buff01_effect,10	skill1505_starforge			hero_106_skill1505.mp4		buffname_eqp_bf22_dragoon02;eqp_bf22_dragoon02::buff01_effect;Lock_StarForge_Level_Rome_10
+421	6	4	1	60	item102020061001,30	4,50	4,50			eqp_bf22_dragoon03::buff01_lv1,8,eqp_bf22_dragoon03::buff01_effect,10	starforge01_icon					
+422	6	4	2	60	item102020061001,40	4,70	4,50	4,20		eqp_bf22_dragoon03::buff01_lv1,8,eqp_bf22_dragoon03::buff01_effect,10	starforge01_icon					
+423	6	4	3	60	item102020061001,45	4,90	4,70	4,20		eqp_bf22_dragoon03::buff01_lv1,8,eqp_bf22_dragoon03::buff01_effect,10	starforge01_icon					
+424	6	4	4	60	item102020061003,1;item102020061001,120	4,180;52,100	4,90;52,0	4,90;52,100		eqp_bf22_dragoon03::buff01_lv1,8,eqp_bf22_dragoon03::buff01_effect,10	starforge02_icon					
+425	6	4	5	60	item102020061002,30	4,250;52,150	4,180;52,100	4,70;52,50		eqp_bf22_dragoon03::buff01_lv1,8,eqp_bf22_dragoon03::buff01_effect,10	starforge02_icon					
+426	6	4	6	60	item102020061002,55	4,330;52,200	4,250;52,150	4,80;52,50		eqp_bf22_dragoon03::buff01_lv1,8,eqp_bf22_dragoon03::buff01_effect,10	starforge03_icon					
+427	6	4	7	60	item102020061003,2;item102020061002,75	4,450;52,300	4,330;52,200	4,120;52,100		eqp_bf22_dragoon03::buff01_lv1,8,eqp_bf22_dragoon03::buff01_effect,10	starforge03_icon					
+428	6	4	8	60	item102020061003,2;item102020061002,150	4,550;52,350	4,450;52,300	4,100;52,50	buffname_dragoon03_01	eqp_bf22_dragoon03::buff01_lv1,8,eqp_bf22_dragoon03::buff01_effect,10	skill_1503					
+429	6	4	9	60	item102020061003,3;item102020061002,180;item102020061006,2	4,700;52,400	4,550;52,350	4,150;52,50	buffname_dragoon03_02	eqp_bf22_dragoon03::buff01_lv2,9,eqp_bf22_dragoon03::buff01_effect,10	skill_1503					
+430	6	4	10	60	item102020061004,2;item102020061003,8;item102020061006,4	4,850;52,500	4,700;52,400	4,150;52,100	buffname_dragoon03_03	eqp_bf22_dragoon03::buff01_lv3,10,eqp_bf22_dragoon03::buff01_effect,10	skill1503_starforge			hero_106_skill1503.mp4		buffname_eqp_bf22_dragoon03;eqp_bf22_dragoon03::buff01_effect;Lock_StarForge_Level_Rome_10
+431	6	5	1	70	item102020061001,60	1,800	1,800			eqp_bf22_dragoon04::buff01_lv1,8,eqp_bf22_dragoon04::buff01_effect,10	starforge01_icon					
+432	6	5	2	70	item102020061001,90	1,1300	1,800	1,500		eqp_bf22_dragoon04::buff01_lv1,8,eqp_bf22_dragoon04::buff01_effect,10	starforge01_icon					
+433	6	5	3	70	item102020061001,120	1,1800	1,1300	1,500		eqp_bf22_dragoon04::buff01_lv1,8,eqp_bf22_dragoon04::buff01_effect,10	starforge01_icon					
+434	6	5	4	70	item102020061001,140;item102020061003,2	1,2800;31,100	1,1800;31,0	1,1000;31,100		eqp_bf22_dragoon04::buff01_lv1,8,eqp_bf22_dragoon04::buff01_effect,10	starforge02_icon					
+435	6	5	5	70	item102020061002,60	1,4000;31,150	1,2800;31,100	1,1200;31,50		eqp_bf22_dragoon04::buff01_lv1,8,eqp_bf22_dragoon04::buff01_effect,10	starforge02_icon					
+436	6	5	6	70	item102020061002,80	1,5100;31,200	1,4000;31,150	1,1100;31,50		eqp_bf22_dragoon04::buff01_lv1,8,eqp_bf22_dragoon04::buff01_effect,10	starforge03_icon					
+437	6	5	7	70	item102020061002,130;item102020061003,3	1,6600;31,300	1,5100;31,200	1,1500;31,100		eqp_bf22_dragoon04::buff01_lv1,8,eqp_bf22_dragoon04::buff01_effect,10	starforge03_icon					
+438	6	5	8	70	item102020061002,180;item102020061003,3	1,7500;31,350	1,6600;31,300	1,900;31,50	buffname_dragoon04_01	eqp_bf22_dragoon04::buff01_lv1,8,eqp_bf22_dragoon04::buff01_effect,10	skill_1501					
+439	6	5	9	70	item102020061002,210;item102020061003,4;item102020061006,3	1,9500;31,400	1,7500;31,350	1,2000;31,50	buffname_dragoon04_02	eqp_bf22_dragoon04::buff01_lv2,9,eqp_bf22_dragoon04::buff01_effect,10	skill_1501					
+440	6	5	10	70	item102020061004,3;item102020061003,10;item102020061006,6	1,12000;31,500	1,9500;31,400	1,2500;31,100	buffname_dragoon04_03	eqp_bf22_dragoon04::buff01_lv3,10,eqp_bf22_dragoon04::buff01_effect,10	skill1502_starforge			hero_106_skill1502.mp4		buffname_eqp_bf22_dragoon04;eqp_bf22_dragoon04::buff01_effect;Lock_StarForge_Level_Rome_10
+441	6	6	1	75	item102020061001,80	3,100	3,100			eqp_bf22_dragoon05::buff01_lv1,8,eqp_bf22_dragoon05::buff01_effect,10	starforge01_icon					
+442	6	6	2	75	item102020061001,120	3,170	3,100	3,70		eqp_bf22_dragoon05::buff01_lv1,8,eqp_bf22_dragoon05::buff01_effect,10	starforge01_icon					
+443	6	6	3	75	item102020061001,120	3,240	3,170	3,70		eqp_bf22_dragoon05::buff01_lv1,8,eqp_bf22_dragoon05::buff01_effect,10	starforge01_icon					
+444	6	6	4	75	item102020061001,180;item102020061003,2	3,450;33,100	3,240;33,0	3,210;33,100		eqp_bf22_dragoon05::buff01_lv1,8,eqp_bf22_dragoon05::buff01_effect,10	starforge02_icon					
+445	6	6	5	75	item102020061002,90	3,630;33,150	3,450;33,100	3,180;33,50		eqp_bf22_dragoon05::buff01_lv1,8,eqp_bf22_dragoon05::buff01_effect,10	starforge02_icon					
+446	6	6	6	75	item102020061002,100	3,800;33,200	3,630;33,150	3,170;33,50		eqp_bf22_dragoon05::buff01_lv1,8,eqp_bf22_dragoon05::buff01_effect,10	starforge03_icon					
+447	6	6	7	75	item102020061002,150;item102020061003,4	3,1000;33,300	3,800;33,200	3,200;33,100		eqp_bf22_dragoon05::buff01_lv1,8,eqp_bf22_dragoon05::buff01_effect,10	starforge03_icon					
+448	6	6	8	75	item102020061002,220;item102020061003,4	3,1200;33,350	3,1000;33,300	3,200;33,50	buffname_dragoon05_01	eqp_bf22_dragoon05::buff01_lv1,8,eqp_bf22_dragoon05::buff01_effect,10	skill_1502					
+449	6	6	9	75	item102020061002,260;item102020061003,5;item102020061006,4	3,1400;33,400	3,1200;33,350	3,200;33,50	buffname_dragoon05_02	eqp_bf22_dragoon05::buff01_lv2,9,eqp_bf22_dragoon05::buff01_effect,10	skill_1502					
+450	6	6	10	75	item102020061004,4;item102020061003,12;item102020061006,8	3,1600;33,500	3,1400;33,400	3,200;33,100	buffname_dragoon05_03	eqp_bf22_dragoon05::buff01_lv3,10,eqp_bf22_dragoon05::buff01_effect,10	skill1504_starforge			hero_106_skill1504.mp4		buffname_eqp_bf22_dragoon05;eqp_bf22_dragoon05::buff01_effect;Lock_StarForge_Level_Rome_10
+451	6	7	1	80	item102020061001,80	4,100	4,100			eqp_bf22_dragoon06::buff01_lv1,8,eqp_bf22_dragoon06::buff01_effect,10	starforge01_icon					
+452	6	7	2	80	item102020061001,120	4,170	4,100	4,70		eqp_bf22_dragoon06::buff01_lv1,8,eqp_bf22_dragoon06::buff01_effect,10	starforge01_icon					
+453	6	7	3	80	item102020061001,130	4,240	4,170	4,70		eqp_bf22_dragoon06::buff01_lv1,8,eqp_bf22_dragoon06::buff01_effect,10	starforge01_icon					
+454	6	7	4	80	item102020061001,180;item102020061003,2	4,450;34,100	4,240;34,0	4,210;34,100		eqp_bf22_dragoon06::buff01_lv1,8,eqp_bf22_dragoon06::buff01_effect,10	starforge02_icon					
+455	6	7	5	80	item102020061002,90	4,630;34,150	4,450;34,100	4,180;34,50		eqp_bf22_dragoon06::buff01_lv1,8,eqp_bf22_dragoon06::buff01_effect,10	starforge02_icon					
+456	6	7	6	80	item102020061002,130	4,800;34,200	4,630;34,150	4,170;34,50		eqp_bf22_dragoon06::buff01_lv1,8,eqp_bf22_dragoon06::buff01_effect,10	starforge03_icon					
+457	6	7	7	80	item102020061002,165;item102020061003,4	4,1000;34,300	4,800;34,200	4,200;34,100		eqp_bf22_dragoon06::buff01_lv1,8,eqp_bf22_dragoon06::buff01_effect,10	starforge03_icon					
+458	6	7	8	80	item102020061002,260;item102020061003,5	4,1200;34,350	4,1000;34,300	4,200;34,50	buffname_dragoon06_01	eqp_bf22_dragoon06::buff01_lv1,8,eqp_bf22_dragoon06::buff01_effect,10	skill_1506					
+459	6	7	9	80	item102020061002,330;item102020061003,6;item102020061006,4	4,1400;34,400	4,1200;34,350	4,200;34,50	buffname_dragoon06_02	eqp_bf22_dragoon06::buff01_lv2,9,eqp_bf22_dragoon06::buff01_effect,10	skill_1506					
+460	6	7	10	80	item102020061004,4;item102020061003,12;item102020061006,8	4,1600;34,500	4,1400;34,400	4,200;34,100	buffname_dragoon06_03	eqp_bf22_dragoon06::buff01_lv3,10,eqp_bf22_dragoon06::buff01_effect,10	skill1506_starforge			hero_106_skill1506.mp4		buffname_eqp_bf22_dragoon06;eqp_bf22_dragoon06::buff01_effect;Lock_StarForge_Level_Rome_10
+461	6	8	1	85	item102020061001,120	3,120	3,120			eqp_bf22_dragoon07::buff01_lv1,8,eqp_bf22_dragoon07::buff01_effect,10	starforge01_icon					
+462	6	8	2	85	item102020061001,180	3,200	3,120	3,80		eqp_bf22_dragoon07::buff01_lv1,8,eqp_bf22_dragoon07::buff01_effect,10	starforge01_icon					
+463	6	8	3	85	item102020061001,195	3,280	3,200	3,80		eqp_bf22_dragoon07::buff01_lv1,8,eqp_bf22_dragoon07::buff01_effect,10	starforge01_icon					
+464	6	8	4	85	item102020061001,270;item102020061003,3	3,530;173,200	3,280;173,0	3,250;173,200		eqp_bf22_dragoon07::buff01_lv1,8,eqp_bf22_dragoon07::buff01_effect,10	starforge02_icon					
+465	6	8	5	85	item102020061002,120	3,740;173,300	3,530;173,200	3,210;173,100		eqp_bf22_dragoon07::buff01_lv1,8,eqp_bf22_dragoon07::buff01_effect,10	starforge02_icon					
+466	6	8	6	85	item102020061002,170	3,940;173,400	3,740;173,300	3,200;173,100		eqp_bf22_dragoon07::buff01_lv1,8,eqp_bf22_dragoon07::buff01_effect,10	starforge03_icon					
+467	6	8	7	85	item102020061002,210;item102020061003,5	3,1180;173,600	3,940;173,400	3,240;173,200		eqp_bf22_dragoon07::buff01_lv1,8,eqp_bf22_dragoon07::buff01_effect,10	starforge03_icon					
+468	6	8	8	85	item102020061002,340;item102020061003,6	3,1420;173,700	3,1180;173,600	3,240;173,100	buffname_dragoon07_01	eqp_bf22_dragoon07::buff01_lv1,8,eqp_bf22_dragoon07::buff01_effect,10	skill_1508					
+469	6	8	9	85	item102020061002,430;item102020061003,7;item102020061006,5	3,1660;173,800	3,1420;173,700	3,240;173,100	buffname_dragoon07_02	eqp_bf22_dragoon07::buff01_lv2,9,eqp_bf22_dragoon07::buff01_effect,10	skill_1508					
+470	6	8	10	85	item102020061003,14;item102020061004,5;item102020061006,10	3,1900;173,1000	3,1660;173,800	3,240;173,200	buffname_dragoon07_03	eqp_bf22_dragoon07::buff01_lv3,10,eqp_bf22_dragoon07::buff01_effect,10	skill1510_starforge			hero_106_skill1510.mp4		buffname_eqp_bf22_dragoon07;eqp_bf22_dragoon07::buff01_effect;Lock_StarForge_Level_Rome_10
+471	6	9	1	90	item102020061001,150	3,120	3,120			eqp_bf22_dragoon08::buff01_lv1,8,eqp_bf22_dragoon08::buff01_effect,10	starforge01_icon					
+472	6	9	2	90	item102020061001,210	3,200	3,120	3,80		eqp_bf22_dragoon08::buff01_lv1,8,eqp_bf22_dragoon08::buff01_effect,10	starforge01_icon					
+473	6	9	3	90	item102020061001,235	3,280	3,200	3,80		eqp_bf22_dragoon08::buff01_lv1,8,eqp_bf22_dragoon08::buff01_effect,10	starforge01_icon					
+474	6	9	4	90	item102020061001,480;item102020061003,3	3,530;32,200	3,280;32,0	3,250;32,200		eqp_bf22_dragoon08::buff01_lv1,8,eqp_bf22_dragoon08::buff01_effect,10	starforge02_icon					
+475	6	9	5	90	item102020061002,150	3,740;32,300	3,530;32,200	3,210;32,100		eqp_bf22_dragoon08::buff01_lv1,8,eqp_bf22_dragoon08::buff01_effect,10	starforge02_icon					
+476	6	9	6	90	item102020061002,230	3,940;32,400	3,740;32,300	3,200;32,100		eqp_bf22_dragoon08::buff01_lv1,8,eqp_bf22_dragoon08::buff01_effect,10	starforge03_icon					
+477	6	9	7	90	item102020061002,280;item102020061003,6	3,1180;32,600	3,940;32,400	3,240;32,200		eqp_bf22_dragoon08::buff01_lv1,8,eqp_bf22_dragoon08::buff01_effect,10	starforge03_icon					
+478	6	9	8	90	item102020061002,420;item102020061003,7	3,1420;32,700	3,1180;32,600	3,240;32,100	buffname_dragoon08_01	eqp_bf22_dragoon08::buff01_lv1,8,eqp_bf22_dragoon08::buff01_effect,10	skill_1507					
+479	6	9	9	90	item102020061002,510;item102020061003,8;item102020061006,6	3,1660;32,800	3,1420;32,700	3,240;32,100	buffname_dragoon08_02	eqp_bf22_dragoon08::buff01_lv2,9,eqp_bf22_dragoon08::buff01_effect,10	skill_1507					
+480	6	9	10	90	item102020061003,16;item102020061004,5;item102020061006,12	3,1900;32,1000	3,1660;32,800	3,240;32,200	buffname_dragoon08_03	eqp_bf22_dragoon08::buff01_lv3,10,eqp_bf22_dragoon08::buff01_effect,10	skill1509_starforge			hero_106_skill1509.mp4		buffname_eqp_bf22_dragoon08;eqp_bf22_dragoon08::buff01_effect;Lock_StarForge_Level_Rome_10

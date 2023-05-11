@@ -1,0 +1,8 @@
+﻿地表id	地表资源
+int	string
+FloorId	FloorIcon
+1	icon_abyssland_blueland
+2	icon_abyssland_fireland
+3	icon_abyssland_grassland
+4	icon_abyssland_iceland
+5	icon_abyssland_river

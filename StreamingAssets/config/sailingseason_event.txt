@@ -1,0 +1,91 @@
+﻿事件ID	事件类型	底图icon	事件icon	事件动效	是否穿云	基础体力消耗	基础奖励	事件标题	事件描述
+int	int	string	string	string	int	string	string	string	string
+EventId	EventType	BaseIcon	EventIcon	EventEffect	ThCould	BasisEnergy	BasisReward	EventTitle	EventDes
+1100	1		icon_sailingseason_eventtreasure_mini		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1100	EventDes_1100
+1101	1	icon_sailingseason_landnromal	icon_sailingseason_eventtreasure_mini		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1101	EventDes_1101
+1102	1	icon_sailingseason_landspiral	icon_sailingseason_eventtreasure_mini		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1102	EventDes_1102
+1103	1	icon_sailingseason_landfire	icon_sailingseason_eventtreasure_mini		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1103	EventDes_1103
+1104	1	icon_sailingseason_landshadow	icon_sailingseason_eventtreasure_mini		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1104	EventDes_1104
+1105	1	icon_sailingseason_landdead	icon_sailingseason_eventtreasure_mini		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1105	EventDes_1105
+1106	1	icon_sailingseason_landundersea	icon_sailingseason_eventtreasure_mini		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1106	EventDes_1106
+1107	1	icon_sailingseason_landdesert	icon_sailingseason_eventtreasure_mini		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1107	EventDes_1107
+1108	1	icon_sailingseason_landfiresea	icon_sailingseason_eventtreasure_mini		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1108	EventDes_1108
+1109	1	icon_sailingseason_landblack	icon_sailingseason_eventtreasure_mini		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1109	EventDes_1109
+1200	2		icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1200	EventDes_1200
+1201	2	icon_sailingseason_landnromal	icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1201	EventDes_1201
+1202	2	icon_sailingseason_landspiral	icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1202	EventDes_1202
+1203	2	icon_sailingseason_landfire	icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1203	EventDes_1203
+1204	2	icon_sailingseason_landshadow	icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1204	EventDes_1204
+1205	2	icon_sailingseason_landdead	icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1205	EventDes_1205
+1206	2	icon_sailingseason_landundersea	icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1206	EventDes_1206
+1207	2	icon_sailingseason_landdesert	icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1207	EventDes_1207
+1208	2	icon_sailingseason_landfiresea	icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1208	EventDes_1208
+1209	2	icon_sailingseason_landblack	icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1209	EventDes_1209
+1210	2		icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1210	EventDes_1210
+1211	2		icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1211	EventDes_1211
+1212	2		icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1212	EventDes_1212
+1213	2		icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1213	EventDes_1213
+1214	2		icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1214	EventDes_1214
+1215	2		icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1230	EventDes_1230
+1216	2		icon_sailingseason_eventchoose_mini		0	item1042,20	item1040,12;item1041,12;item1000,1200	EventTitle_1216	EventDes_1216
+1300	3		icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1300	EventDes_1300
+1301	3	icon_sailingseason_landnromal	icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1301	EventDes_1301
+1302	3	icon_sailingseason_landspiral	icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1302	EventDes_1302
+1303	3	icon_sailingseason_landfire	icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1303	EventDes_1303
+1304	3	icon_sailingseason_landshadow	icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1304	EventDes_1304
+1305	3	icon_sailingseason_landdead	icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1305	EventDes_1305
+1306	3	icon_sailingseason_landundersea	icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1306	EventDes_1306
+1307	3	icon_sailingseason_landdesert	icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1307	EventDes_1307
+1308	3	icon_sailingseason_landfiresea	icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1308	EventDes_1308
+1309	3	icon_sailingseason_landblack	icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1309	EventDes_1309
+1310	3		icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1310	EventDes_1310
+1311	3		icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1311	EventDes_1311
+1312	3		icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1312	EventDes_1312
+1313	3		icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1313	EventDes_1313
+1314	3		icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1314	EventDes_1314
+1315	3		icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1330	EventDes_1330
+1316	3	icon_sailingseason_landundersea	icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1316	EventDes_1316
+1317	3	icon_sailingseason_landdesert	icon_sailingseason_eventpve_mini		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1317	EventDes_1317
+1400	4		icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1400	EventDes_1400
+1401	4	icon_sailingseason_landnromal	icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1401	EventDes_1401
+1402	4	icon_sailingseason_landspiral	icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1402	EventDes_1402
+1403	4	icon_sailingseason_landfire	icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1403	EventDes_1403
+1404	4	icon_sailingseason_landshadow	icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1404	EventDes_1404
+1405	4	icon_sailingseason_landdead	icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1405	EventDes_1405
+1406	4	icon_sailingseason_landundersea	icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1406	EventDes_1406
+1407	4	icon_sailingseason_landdesert	icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1407	EventDes_1407
+1408	4	icon_sailingseason_landfiresea	icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1408	EventDes_1408
+1409	4	icon_sailingseason_landblack	icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1409	EventDes_1409
+1410	4		icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1410	EventDes_1410
+1411	4		icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1411	EventDes_1411
+1412	4		icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1412	EventDes_1412
+1413	4		icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1413	EventDes_1413
+1414	4		icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1414	EventDes_1414
+1415	4		icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1430	EventDes_1430
+1416	4		icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1416	EventDes_1416
+1417	4		icon_sailingseason_eventpvp_mini		1	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1417	EventDes_1417
+1500	5		icon_sailingseason_island1_mini		1	item1042,20		EventTitle_1500	EventDes_1500
+1501	5		icon_sailingseason_island2_mini		1	item1042,20		EventTitle_1501	EventDes_1501
+1502	5		icon_sailingseason_island3_mini		1	item1042,20		EventTitle_1502	EventDes_1502
+1503	5		icon_sailingseason_island4_mini		1	item1042,20		EventTitle_1503	EventDes_1503
+1504	5		icon_sailingseason_island5_mini		1	item1042,20		EventTitle_1504	EventDes_1504
+1505	5		icon_sailingseason_island6_mini		1	item1042,20		EventTitle_1505	EventDes_1505
+1506	5		icon_sailingseason_island7_mini		1	item1042,20		EventTitle_1506	EventDes_1506
+1507	5		icon_sailingseason_island8_mini		1	item1042,20		EventTitle_1507	EventDes_1507
+1600	1		icon_sailingseason_eventmystery		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1601	EventDes_1601
+1601	1		icon_sailingseason_eventmystery		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1601	EventDes_1601
+1602	2		icon_sailingseason_eventmystery		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1602	EventDes_1602
+1603	3		icon_sailingseason_eventmystery		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1603	EventDes_1603
+1604	4		icon_sailingseason_eventmystery		0	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1604	EventDes_1604
+1605	1		icon_sail_endevent		1	item1042,20	item1040,80;item1041,80;item1000,8000	EventTitle_1605	EventDes_1605
+1606	1		icon_sailingseason_event_ld_nezha		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1601	EventDes_1601
+1614	1		icon_sailingseason_event_sd_nezha		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1601	EventDes_1601
+1607	2		icon_sailingseason_event_sd_nezha		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1602	EventDes_1602
+1608	3		icon_sailingseason_event_sd_nezha		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1603	EventDes_1603
+1615	3		icon_sailingseason_event_sd_nezha		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1603	EventDes_1603
+1609	4		icon_sailingseason_event_sd_nezha		0	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1604	EventDes_1604
+1610	1		icon_sailingseason_event_tk_nezha		0	item1042,20	item1040,10;item1041,10;item1000,1000	EventTitle_1601	EventDes_1601
+1611	2		icon_sailingseason_event_tk_nezha		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1602	EventDes_1602
+1612	3		icon_sailingseason_event_tk_nezha		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1603	EventDes_1603
+1616	3		icon_sailingseason_event_tk_nezha		0	item1042,20	item1040,20;item1041,20;item1000,2000	EventTitle_1603	EventDes_1603
+1613	4		icon_sailingseason_event_tk_nezha		0	item1042,20	item1040,30;item1041,30;item1000,3000	EventTitle_1604	EventDes_1604

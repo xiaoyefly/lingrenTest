@@ -1,0 +1,68 @@
+﻿小地图ID	区域ID	自动生成	小地图代表的坐标	小地图背景	小地图名字	下一个小地图	锚点图标	锚点介绍	格子数量	事件的数量
+int	int	string	vector2	string	string	int	string	string	int	string
+Id	RegionID	Automap	MinimapPosition	MinimapBack	MinimapTitle	MinimapNext	Icon	IconDes	PaneAmount	EventAmount
+10101	101	0	-573,301	bj_sea02	Sail_Minimap_10101	10102	deco_anchor	Sail_Icon_Des1_1	34	1001,16;1002,18
+10102	101	0	-359,309	bj_sea02	Sail_Minimap_10102	10103	frame_route	Sail_Icon_Des1_2	34	1001,16;1002,18
+10103	101	0	-163,412	bj_sea02	Sail_Minimap_10103	10201	frame_route	Sail_Icon_Des1_3	34	1001,16;1002,18
+10201	102	0	56,270	bj_sea02	Sail_Minimap_10201	10202	deco_anchor	Sail_Icon_Des2_1	34	1001,16;1002,18
+10202	102	0	-81,165	bj_sea02	Sail_Minimap_10202	10203	frame_route	Sail_Icon_Des2_2	34	1001,16;1002,18
+10203	102	0	-227,83	bj_sea02	Sail_Minimap_10203	10204	frame_route	Sail_Icon_Des2_3	34	1001,16;1002,18
+10204	102	0	-436,29	bj_sea02	Sail_Minimap_10204	10301	frame_route	Sail_Icon_Des2_4	34	1001,16;1002,18
+10301	103	0	-614,-208	bj_sea03	Sail_Minimap_10301	10302	deco_anchor	Sail_Icon_Des3_1	34	1001,16;1002,18
+10302	103	0	-763,-261	bj_sea03	Sail_Minimap_10302	10303	frame_route	Sail_Icon_Des3_2	34	1001,16;1002,18
+10303	103	0	-825,-373	bj_sea03	Sail_Minimap_10303	10304	frame_route	Sail_Icon_Des3_3	34	1001,16;1002,18
+10304	103	0	-724,-474	bj_sea03	Sail_Minimap_10304	10305	frame_route	Sail_Icon_Des3_4	34	1001,16;1002,18
+10305	103	0	-529,-408	bj_sea03	Sail_Minimap_10305	10401	frame_route	Sail_Icon_Des3_5	34	1001,16;1002,18
+10401	104	0	-387,-356	bj_sea03	Sail_Minimap_10401	10402	deco_anchor	Sail_Icon_Des4_1	34	1001,16;1002,18
+10402	104	0	-272,-305	bj_sea03	Sail_Minimap_10402	10403	frame_route	Sail_Icon_Des4_2	34	1001,16;1002,18
+10403	104	0	-145,-282	bj_sea03	Sail_Minimap_10403	10404	frame_route	Sail_Icon_Des4_3	34	1001,16;1002,18
+10404	104	0	-29,-319	bj_sea03	Sail_Minimap_10404	10405	frame_route	Sail_Icon_Des4_4	34	1001,16;1002,18
+10405	104	0	64,-400	bj_sea03	Sail_Minimap_10405	10501	frame_route	Sail_Icon_Des4_5	34	1001,16;1002,18
+10501	105	0	157,-468	bj_sea04	Sail_Minimap_10501	10502	deco_anchor	Sail_Icon_Des5_1	34	1001,16;1002,18
+10502	105	0	278,-503	bj_sea04	Sail_Minimap_10502	10503	frame_route	Sail_Icon_Des5_2	34	1001,16;1002,18
+10503	105	0	408,-517	bj_sea04	Sail_Minimap_10503	10504	frame_route	Sail_Icon_Des5_3	34	1001,16;1002,18
+10504	105	0	531,-516	bj_sea04	Sail_Minimap_10504	10505	frame_route	Sail_Icon_Des5_4	34	1001,16;1002,18
+10505	105	0	582,-417	bj_sea04	Sail_Minimap_10505	10601	frame_route	Sail_Icon_Des5_5	34	1001,16;1002,18
+10601	106	0	531,-336	bj_sea04	Sail_Minimap_10601	10602	deco_anchor	Sail_Icon_Des6_1	34	1001,16;1002,18
+10602	106	0	548,-236	bj_sea04	Sail_Minimap_10602	10603	frame_route	Sail_Icon_Des6_2	34	1001,16;1002,18
+10603	106	0	660,-175	bj_sea04	Sail_Minimap_10603	10604	frame_route	Sail_Icon_Des6_3	34	1001,16;1002,18
+10604	106	0	624,-69	bj_sea04	Sail_Minimap_10604	10605	frame_route	Sail_Icon_Des6_4	34	1001,16;1002,18
+10605	106	0	555,-21	bj_sea04	Sail_Minimap_10605	10701	frame_route	Sail_Icon_Des6_5	34	1001,16;1002,18
+10701	107	0	453,10	bj_sea05	Sail_Minimap_10701	10702	deco_anchor	Sail_Icon_Des7_1	34	1001,16;1002,18
+10702	107	0	380,62	bj_sea05	Sail_Minimap_10702	10703	frame_route	Sail_Icon_Des7_2	34	1001,16;1002,18
+10703	107	0	362,143	bj_sea05	Sail_Minimap_10703	10704	frame_route	Sail_Icon_Des7_3	34	1001,16;1002,18
+10704	107	0	372,233	bj_sea05	Sail_Minimap_10704	10705	frame_route	Sail_Icon_Des7_4	34	1001,16;1002,18
+10705	107	0	420,320	bj_sea05	Sail_Minimap_10705	10801	frame_route	Sail_Icon_Des7_5	34	1001,16;1002,18
+10801	108	0	513,338	bj_sea05	Sail_Minimap_10801	10802	deco_anchor	Sail_Icon_Des8_1	34	1001,16;1002,18
+10802	108	0	597,328	bj_sea05	Sail_Minimap_10802	10803	frame_route	Sail_Icon_Des8_2	34	1001,16;1002,18
+10803	108	0	684,305	bj_sea05	Sail_Minimap_10803	10804	frame_route	Sail_Icon_Des8_3	34	1001,16;1002,18
+10804	108	0	774,323	bj_sea05	Sail_Minimap_10804	10805	frame_route	Sail_Icon_Des8_4	34	1001,16;1002,18
+10805	108	0	838,374	bj_sea05	Sail_Minimap_10805	10806	frame_route	Sail_Icon_Des8_5	34	1001,16;1002,18
+10806	108	0	838,374	bj_sea05	Sail_Minimap_10806	10807			34	1001,16;1002,18
+10807	108	0	838,374	bj_sea05	Sail_Minimap_10807	10808			34	1001,16;1002,18
+10808	108	0	838,374	bj_sea05	Sail_Minimap_10808	10809			34	1001,16;1002,18
+10809	108	0	838,374	bj_sea05	Sail_Minimap_10809	10810			34	1001,16;1002,18
+10810	108	0	838,374	bj_sea05	Sail_Minimap_10810	10811			34	1001,16;1002,18
+10811	108	0	838,374	bj_sea05	Sail_Minimap_10811	10812			34	1001,16;1002,18
+10812	108	0	838,374	bj_sea05	Sail_Minimap_10812	10813			34	1001,16;1002,18
+10813	108	0	838,374	bj_sea05	Sail_Minimap_10813	10814			34	1001,16;1002,18
+10814	108	0	838,374	bj_sea05	Sail_Minimap_10814	10815			34	1001,16;1002,18
+10815	108	0	838,374	bj_sea05	Sail_Minimap_10815	10816			34	1001,16;1002,18
+10816	108	0	838,374	bj_sea05	Sail_Minimap_10816	10817			34	1001,16;1002,18
+10817	108	0	838,374	bj_sea05	Sail_Minimap_10817	10818			34	1001,16;1002,18
+10818	108	0	838,374	bj_sea05	Sail_Minimap_10818	10819			34	1001,16;1002,18
+10819	108	0	838,374	bj_sea05	Sail_Minimap_10819	10820			34	1001,16;1002,18
+10820	108	0	838,374	bj_sea05	Sail_Minimap_10820	10821			34	1001,16;1002,18
+10821	108	0	838,374	bj_sea05	Sail_Minimap_10821	10822			34	1001,16;1002,18
+10822	108	0	838,374	bj_sea05	Sail_Minimap_10822	10823			34	1001,16;1002,18
+10823	108	0	838,374	bj_sea05	Sail_Minimap_10823	10824			34	1001,16;1002,18
+10824	108	0	838,374	bj_sea05	Sail_Minimap_10824	10825			34	1001,16;1002,18
+10825	108	0	838,374	bj_sea05	Sail_Minimap_10825	10826			34	1001,16;1002,18
+10826	108	0	838,374	bj_sea05	Sail_Minimap_10826	10827			34	1001,16;1002,18
+10827	108	0	838,374	bj_sea05	Sail_Minimap_10827	10828			34	1001,16;1002,18
+10828	108	0	838,374	bj_sea05	Sail_Minimap_10828	10829			34	1001,16;1002,18
+10829	108	0	838,374	bj_sea05	Sail_Minimap_10829	10830			34	1001,16;1002,18
+10830	108	0	838,374	bj_sea05	Sail_Minimap_10830	10831			34	1001,16;1002,18
+10831	108	0	838,374	bj_sea05	Sail_Minimap_10831	10832			34	1001,16;1002,18
+10832	108	0	838,374	bj_sea05	Sail_Minimap_10832	10833			34	1001,16;1002,18
+10833	108	0	838,374	bj_sea05	Sail_Minimap_10833	0			34	1001,16;1002,18

@@ -1,0 +1,5 @@
+﻿副本类型	功能ID	调用参数	页签按钮名	玩法概要	限制等级	限制最小人数	是否可携带佣兵	奖励预览	限制时间	背景图	阶段奖励ID列表
+int	int	int	string	string	int	int	int	string	int	string	string
+SceneType	FuncId	GroupId	TabName	DescribeStr	RestrictLev	MinPartInNum	TakeSoldier	RewardShow	AstrictTime	BgPicShow	StageRewardIDs
+48	447	1180	TwelveStarsTabName001	TwelveStarsStr001	70	3	1	item10000000001,1;item8230000000009,1;item8230000000007,1;item8230000000008,1	1200	cubebeijingtu1	
+49	448	1181	TwelveStarsTabName002	TwelveStarsStr002	70	3	1	item230000000203,1;item230000000238,1;item230000000005,1;item10000000001,1;item8230000000010,1;item8230000000009,1;item8230000000007,1;item8230000000008,1	900	cubebeijingtu1	1,2,3,4,5,6,7,8,9,10,11,12

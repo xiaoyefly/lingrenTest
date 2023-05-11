@@ -1,0 +1,43 @@
+﻿套装ID	套装名称	关联组ID	部位	部位对应语言包
+int	string	string	string	string
+SuitId	SuitName	EquipPartId	EquipParts	EquipPartsLang
+10001	SoulStone_SuitName01		2,7,8	stonesuit_str1,stonesuit_str2,stonesuit_str3
+10002	SoulStone_SuitName02		1,9,10	stonesuit_str4,stonesuit_str5,stonesuit_str6
+10003	SoulStone_SuitName03		1,9,10	stonesuit_str7,stonesuit_str8,stonesuit_str9
+10004	SoulStone_SuitName04		3,4,5,6	stonesuit_str10,stonesuit_str11,stonesuit_str12,stonesuit_str13
+10005	SoulStone_SuitName05		3,4,5,6	stonesuit_str14,stonesuit_str15,stonesuit_str16,stonesuit_str17
+10006	SoulStone_SuitName06		3,4,5,6	stonesuit_str18,stonesuit_str19,stonesuit_str20,stonesuit_str21
+10007	SoulStone_SuitName07		2,7,8	stonesuit_str22,stonesuit_str23,stonesuit_str24
+10008	SoulStone_SuitName08		2,7,8	stonesuit_str25,stonesuit_str26,stonesuit_str27
+10009	SoulStone_SuitName09		1,9,10	stonesuit_str28,stonesuit_str29,stonesuit_str30
+10010	SoulStone_SuitName10		1,9,10	stonesuit_str31,stonesuit_str32,stonesuit_str33
+10011	SoulStone_SuitName11		1,9,10	stonesuit_str34,stonesuit_str35,stonesuit_str36
+10012	SoulStone_SuitName12		1,9,10	stonesuit_str37,stonesuit_str38,stonesuit_str39
+10013	SoulStone_SuitName13		3,4,5,6	stonesuit_str40,stonesuit_str41,stonesuit_str42,stonesuit_str43
+10014	SoulStone_SuitName14		3,4,5,6	stonesuit_str44,stonesuit_str45,stonesuit_str46,stonesuit_str47
+10015	SoulStone_SuitName15		3,4,5,6	stonesuit_str48,stonesuit_str49,stonesuit_str50,stonesuit_str51
+10016	SoulStone_SuitName16		3,4,5,6	stonesuit_str52,stonesuit_str53,stonesuit_str54,stonesuit_str55
+10017	SoulStone_SuitName17		3,4,5,6	stonesuit_str56,stonesuit_str57,stonesuit_str58,stonesuit_str59
+10018	SoulStone_SuitName18		3,4,5,6	stonesuit_str60,stonesuit_str61,stonesuit_str62,stonesuit_str63
+10019	SoulStone_SuitName19		2,7,8	stonesuit_str64,stonesuit_str65,stonesuit_str66
+10020	SoulStone_SuitName20		2,7,8	stonesuit_str67,stonesuit_str68,stonesuit_str69
+10021	SoulStone_SuitName21		2,7,8	stonesuit_str70,stonesuit_str71,stonesuit_str72
+10022	SoulStone_SuitName22		1,9,10	stonesuit_str221,stonesuit_str222,stonesuit_str223
+10023	SoulStone_SuitName23		3,4,5,6	stonesuit_str231,stonesuit_str232,stonesuit_str233,stonesuit_str234
+10024	SoulStone_SuitName24		2,7,8	stonesuit_str241,stonesuit_str242,stonesuit_str243
+10025	SoulStone_SuitName25		3,4,5,6	stonesuit_str251,stonesuit_str252,stonesuit_str253,stonesuit_str254
+10026	SoulStone_SuitName26	91,97,97	1,9,10	stonesuit_str255,stonesuit_str256,stonesuit_str257
+10027	SoulStone_SuitName27	92,98,98,100	3,4,5,6	stonesuit_str258,stonesuit_str259,stonesuit_str260,stonesuit_str261
+10028	SoulStone_SuitName28	93,99,99	2,7,8	stonesuit_str262,stonesuit_str263,stonesuit_str264
+10029	SoulStone_SuitName29		1,9,10	stonesuit_str265,stonesuit_str266,stonesuit_str267
+10030	SoulStone_SuitName30		1,9,10	stonesuit_str268,stonesuit_str269,stonesuit_str270
+10031	SoulStone_SuitName31		3,4,5,6	stonesuit_str271,stonesuit_str272,stonesuit_str273,stonesuit_str274
+10032	SoulStone_SuitName32		3,4,5,6	stonesuit_str275,stonesuit_str276,stonesuit_str277,stonesuit_str278
+10033	SoulStone_SuitName33		3,4,5,6	stonesuit_str279,stonesuit_str280,stonesuit_str281,stonesuit_str282
+10034	SoulStone_SuitName34		2,7,8	stonesuit_str283,stonesuit_str284
+10035	SoulStone_SuitName35		2,7,8	stonesuit_str285,stonesuit_str286
+10036	SoulStone_SuitName36		1,9,10	stonesuit_str287,stonesuit_str288,stonesuit_str289
+10037	SoulStone_SuitName37		3,4,5,6	stonesuit_str290,stonesuit_str291,stonesuit_str292,stonesuit_str293
+10038	SoulStone_SuitName38		2,7,8	stonesuit_str294,stonesuit_str295,stonesuit_str296
+10039	SoulStone_SuitName39		2,7,8	stonesuit_str297,stonesuit_str298,stonesuit_str299
+10040	SoulStone_SuitName40		3,4,5,6	stonesuit_str300,stonesuit_str301,stonesuit_str302,stonesuit_str303

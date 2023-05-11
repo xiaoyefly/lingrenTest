@@ -1,0 +1,13 @@
+﻿奖励id	页面名称	礼包类型	领取条件	奖励	页签文本	页签内容文本	奖励文本
+int	string	int	int	string	string	string	string
+Id	Page_Name	Package_Type	Conditon	Reward	Tip_Title	Tip_Text	Display_Text
+1	QQGameGiftPage	1	0	item1000,100000;item107999900001,5;item140000003048,1	dating_tip_title_new	dating_tip_text_new	dating_new_001
+2	QQGameGiftPage	2	0	item1000,10000;item105000000030,1	dating_tip_title_every	dating_tip_text_every	dating_every_001
+3	QQGameGetRwdPage	3	5	item1000,10000;item105000000030,1	dating_tip_title_levelup	dating_tip_text_levelup	dating_levelup_001
+4	QQGameGetRwdPage	3	10	item1000,12000;item105000000030,3			dating_levelup_002
+5	QQGameGetRwdPage	3	20	item1000,15000;item107999900001,10			dating_levelup_003
+6	QQGameGetRwdPage	3	30	item1000,20000;item107999900001,15			dating_levelup_004
+7	QQGameGetRwdPage	3	40	item1000,30000;item8106210200001,1;item107200041001,30			dating_levelup_005
+8	QQGameGetRwdPage	3	50	item1000,50000;item8119100000000,1;item107200041001,30			dating_levelup_006
+9	QQGameGetRwdPage	3	60	item1000,100000;item8119100000000,3;item170000120010,20			dating_levelup_007
+10	QQGameGetRwdPage	3	70	item1000,150000;item1014,30;item170000120010,25			dating_levelup_008

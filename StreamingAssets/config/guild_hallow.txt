@@ -1,0 +1,13 @@
+﻿圣器等级	升级经验	需求公会等级	UI用模型	对应模型	模型位置	模型朝向	模型场景	每日圣能点上限
+int	int	int	string	string	string	float	int	int
+Id	CostExp	NeedGuildLevel	UINpc	Model	Postion	Orientations	SceneId	SaintEnergy
+0	8000	1	npc_hallow001	npc_hallowg001	-6.24,-0.3,-16.11	315.000000	40	200000
+1	240000	2	npc_hallow001	npc_hallowg001	-6.24,-0.3,-16.11	315.000000	40	200000
+2	560000	3	npc_hallow002	npc_hallowg002	-6.24,-0.3,-16.11	315.000000	40	200000
+3	1120000	4	npc_hallow002	npc_hallowg002	-6.24,-0.3,-16.11	315.000000	40	200000
+4	1920000	5	npc_hallow003	npc_hallowg003	-6.24,-0.3,-16.11	315.000000	40	200000
+5	2880000	6	npc_hallow003	npc_hallowg003	-6.24,-0.3,-16.11	315.000000	40	200000
+6	4480000	7	npc_hallow004	npc_hallowg004	-6.24,-0.3,-16.11	315.000000	40	200000
+7	8320000	8	npc_hallow004	npc_hallowg004	-6.24,-0.3,-16.11	315.000000	40	200000
+8	15680000	9	npc_hallow005	npc_hallowg005	-6.24,-0.3,-16.11	315.000000	40	200000
+9	999999999	0	npc_hallow005	npc_hallowg005	-6.24,-0.3,-16.11	315.000000	40	200000

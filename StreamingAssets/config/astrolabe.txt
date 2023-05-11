@@ -1,0 +1,10 @@
+﻿纪元	纪元名称	纪元图	纪元标签图	纪元介绍	星核特效	星球特效	底部特效	接取任务	纪元奖励	开启功能
+int	string	string	string	string	int	int	int	int	string	string
+Id	Name	Picture	LabelPic	Des	CenterEffect	BallEffect	BottomEffect	TaskId	Reward	FuncId
+1	Astrolabe_Name01	astrolabe02	astrolabe_label02	Astrolabe_Des01	40000100	40000080	40000090	8010010	item1000,200000;item102010111001,10;item107999900001,10	111
+2	Astrolabe_Name02	astrolabe03	astrolabe_label03	Astrolabe_Des02	40000100	40000081	40000091	8020010	item1000,300000;item107200031001,10;item105000000029,1	127
+3	Astrolabe_Name03	astrolabe04	astrolabe_label04	Astrolabe_Des03	40000100	40000082	40000092	8030010	item1000,400000;item161000000001,2;item8100000000013,1	105;80;401
+4	Astrolabe_Name04	astrolabe05	astrolabe_label05	Astrolabe_Des04	40000100	40000083	40000093	8040010	item1000,500000;item8103010111017,10;item8103010111002,10	402
+5	Astrolabe_Name05	astrolabe06	astrolabe_label06	Astrolabe_Des05	40000100	40000084	40000094	8050010	item1000,600000;item107200051001,10;item107300000002,5	408
+6	Astrolabe_Name06	astrolabe07	astrolabe_label07	Astrolabe_Des06	40000100	40000084	40000094	8060010	item1000,700000;item103010131001,20;item8100000000013,1	408
+7	Astrolabe_Name07	astrolabe08	astrolabe_label08	Astrolabe_Des07	40000100	40000084	40000094	8070010	item1000,800000;item107999900001,15;item8100000000013,1	408

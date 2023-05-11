@@ -1,0 +1,7 @@
+﻿章节ID	章节名称	章节描述	章节图
+int	string	string	string
+ChapterId	ChapterName	ChapterDes	ChapterIcon
+1	ChapterName_1	ChapterDes_1	starchild_task01
+2	ChapterName_2	ChapterDes_2	starchild_task02
+3	ChapterName_3	ChapterDes_3	starchild_task03
+4	ChapterName_4	ChapterDes_4	starchild_task04

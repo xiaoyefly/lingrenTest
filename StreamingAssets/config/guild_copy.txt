@@ -1,0 +1,4 @@
+﻿副本ID	公会等级	公会圣器等级	开启资金
+int	int	int	int
+Id	GuildRank	GuildHallowsLevel	TradeUnionFunds
+1036	2	2	5000

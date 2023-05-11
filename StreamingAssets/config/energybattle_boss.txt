@@ -1,0 +1,5 @@
+﻿BOSS类型	单场景刷新数量	关卡挑战时间（秒）	MonsterId	界面BOSS短描述	助战奖励	挑战奖励展示
+int	int	int	string	string	string	string
+BossId	RefreshNum	FightTime	MonsterId	BossTips	AssistReward	ChallengeReward
+1	4	300	monster19110735	EnergyBossTips1	item171003000004,2	item171003000001,0;item171003000002,0;item171003000003,0
+2	48	300	monster19110736	EnergyBossTips2	item171003000004,1	item171003000001,0;item171003000002,0;item171003000004,0

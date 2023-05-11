@@ -1,0 +1,343 @@
+﻿ui模板id	活动类型	活动类型	排序	显示位置（funcid）	按钮页签底图	开启条件	领取完奖励UI面板是否消失	活动规则标题	活动规则内容	界面背景图	活动UI素材替换	活动icon	节日活动按钮页签UI	节日活动UI界面特效	标签时间显示	标签时间语言包	活动界面时间显示	活动界面时间语言包	展示中语言包	活动轮播引导图	活动轮播引导图下面的文字说明	跳转到某个界面	结束期是否展示
+int	int	string	int	int	string	int	bool	string	string	string	string	string	string	string	int	string	int	string	string	string	string	string	int
+Id	ActiveType	UiName	Order	Location	TableType	FuncId	IsDisappear	ActiveHelpTitle	ActiveHelpBody	BackGround	UIResource	ActiveIcon	ActiveTableType	ActiveUIEffect	MeanuTimeShow	MeanuTimeLanguage	MainTimeShow	MainTimeLanguage	ShowLanguage	GuidePic	GuideText	UILink	MeanuTimeFinish
+1	1	SignInRewardPage	13	201		202	0								0		0						0
+2	2	LoginRewardPage	15	201		203	1								0		0						0
+3	3	LevelRewardPage	14	201		204	1	UI_LevelReward_HelpTitle	UI_LevelReward_HelpBody						0		0						0
+4	4	WishActivityPage	12	201		205	0								0		0						0
+5	5		0	0		0	0								0		0						0
+6	6	AdventurerShopPage	6	201		210	0								0		0						0
+8	8	GrowFundPage	10	201		216	1	GrowFundPage_HelpTitle	GrowFundPage_HelpBody	bg_chengzhangjijin	bg_chengzhangjijin02;bg_chengzhangjijin01;frame_fuli01_03				0		0						0
+9	9	LuckySixPage	11	201		218	0								0		0						0
+11	10	MonthCardProPage	8	201		215	0								0		0						0
+12	11	MemberCardMenuPage	7	201		214	0								0		0						0
+13	12	BACommonActivityPage	103	226		219	0								0		0						0
+14	12	BACommonActivityPage	102	226		220	0								0		0						0
+15	12	BACommonActivityPage	101	226		221	0								0		0						0
+16	13	DirectBuyPage	100	226		222	0								0		0						0
+17	14	FourteenTargetsPage	109	226		227	1								0		0						0
+18	15	DungeonConquerActivityPage	5	201		228	1								0		0						0
+19	16	BACommonActivityPage	3	201		229	1	UI_KillStarAthletics_DescTitle	UI_KillStarAthletics_DescBody						0		0						0
+20	17	BACommonActivityPage	2	201		230	1	UI_BATower_DescTitle	UI_BATower_DescBody						0		0						0
+21	18	StarSkyTreasureActivityPage	105	226		233	0	UI_StarSky_HelpTitle	UI_StarSky_HelpBody	bg_kaifu02					0		0						0
+22	12	BACommonActivityPage	600	226		235	1								0		0						0
+23	19	MobilePhoneBindingActivityPage	1	201		0	0								0		0						0
+24	21	BAShopActivityPage	3	236		238	0	UI_ActiveShop_HelpTitle61	UI_ActiveShop_HelpBody61						0		0						0
+25	20		0	0		236	0					btn_61huodong			0		0						0
+26	22	FestivalActivityMainPage	5	236		237	0								0		0						0
+27	8	GrowFundPage	2	236		240	0	GrowFundPage_HelpTitle61	GrowFundPage_HelpBody61	bg_61_chengzhangjijin	bg_61_chengzhangjijin02;bg__61_chengzhangjijin01;btn_61_tongyong				0		0						0
+28	3	LevelRewardPage	4	236		239	0	UI_LevelReward_HelpTitle61	UI_LevelReward_HelpBody61						0		0						0
+29	13	DirectBuyPage	1	236		239	0								0		0						0
+30	23		0	0		241	1	UI_FreeBuy_HelpTitle	UI_FreeBuy_HelpBody						0		0						0
+31	20		1	0		242	0			texture_718		btn_zhongxiajie			0		0						0
+32	24	MidsummerMainPage	2	242		243	0								0		0						0
+33	3	LevelRewardPage	4	242		244	0	UI_LevelReward_HelpTitle718	UI_LevelReward_HelpBody718						0		0						0
+34	28	MidsummerLinkPage	202	226		248	0			bg_gingkofestival_4parts					0		0						0
+35	21	BAShopActivityPage	2	236		246	0	UI_ActiveShop_HelpTitle71	UI_ActiveShop_HelpBody71						0		0						0
+36	12	BACommonActivityPage	4	201		0	1								0		0						0
+37	22	FestivalActivityMainPage	3	236		245	0								0		0						0
+38	13	DirectBuyPage	1	201		201	0								0		0						0
+39	26	SummerFireworksPage	97	242		241	0	UI_FireWorks_HelpTitle	UI_FireWorks_HelpBody						0		0						0
+40	27		0	0		241									0		0						0
+41	12	BACommonActivityPage	49	226		249	0								0		0						0
+42	29	BAExchangeActivityPage	105	226		250	0								0		0						0
+43	30		1	0		253	0	UI_GrandCeremony_HelpTitle	UI_GrandCeremony_HelpBody						0		0						0
+44	12	BACommonActivityPage	151	226		254	0								0		0						0
+45	8	GrowFundPage	96	226		240	0	GrowFundPage_HelpTitle61	GrowFundPage_HelpBody61	bg_61_chengzhangjijin	bg_61_chengzhangjijin02;bg__61_chengzhangjijin01;btn_61_tongyong				0		0						0
+46	12	BACommonActivityPage	201	226		219	0								0		0						0
+47	31		0	0		255	0					btn_killstar			0		0						0
+48	12	BACommonActivityPage	4	226		219	0								0		0						0
+49	12	BACommonActivityPage	1	226		220	0								0		0						0
+50	12	BACommonActivityPage	2	226		221	0								0		0						0
+51	13	DirectBuyPage	3	226		222	0								0		0						0
+52	18	StarSkyTreasureActivityPage	5	226		233	0	UI_StarSky_HelpTitle	UI_StarSky_HelpBody	bg_kaifu02					0		0						0
+53	12	BACommonActivityPage	95	226		219	0								0		0						0
+54	12	BACommonActivityPage	94	226		221	0								0		0						0
+55	13	DirectBuyPage	93	226		222	0								0		0						0
+56	12	BACommonActivityPage	104	226		221	0								0		0						0
+57	24	MidsummerMainPage	99	226		243	0								0		0						0
+58	12	BACommonActivityPage	202	226		219	0								0		0						0
+59	30		0	0		253	0	UI_GrandCeremony_HelpTitle	UI_GrandCeremony_HelpBody						0		0						0
+60	9	LuckySixPage	99	226		218	0								0		0						0
+61	32	ForgingFestivalActivityPage	99	226		256	0	UI_ForgingFestival_HelpTitle	UI_ForgingFestival_HelpBody						0		0						0
+62	33	LuckyGiftActivityPage	143	254		249	0	Activity_LuckyGift_HelpTitle	Activity_LuckyGift_HelpDes						0		0						0
+63	3	LevelRewardPage	100	226		239	0	UI_LevelReward_HelpTitle131	UI_LevelReward_HelpBody131						0		0						0
+64	8	GrowFundPage	99	226		240	0	UI_LevelReward_HelpTitle910	UI_LevelReward_HelpBody910	bg_61_chengzhangjijin	bg_61_chengzhangjijin02;bg__61_chengzhangjijin01;btn_61_tongyong				0		0						0
+65	34	FishingFestivalPage	99	226		120	0	Activity_Fishactive_HelpTitle	Activity_Fishactive_HelpDes						0		0						0
+66	26	SummerFireworksPage	98	236		258	0	UI_Kongming_HelpTitle	UI_Kongming_HelpBody						0		0						0
+67	27		0	0		258									0		0						0
+68	35		0	0		236	0	UI_Masquerade_HelpTitle	UI_Masquerade_HelpBody						0		0						0
+69	20		0	0		236	0			texture_midautumn		btn_zhongqiu01			0		0						0
+70	3	LevelRewardPage	99	236		239	0	UI_LevelReward_HelpTitle913	UI_LevelReward_HelpBody913						0		0						0
+71	21	BAShopActivityPage	126	226		238	0	UI_ActiveShop_HelpTitle20200409	UI_ActiveShop_HelpBody20200409						0		0						0
+72	29	BAExchangeActivityPage	165	226		120	0								0		0						0
+73	12	BACommonActivityPage	166	226		120	0								0		0						0
+74	12	BACommonActivityPage	98	226		120	0								0		0						0
+75	13	DirectBuyPage	98	226		120	0								0		0						0
+76	20		0	0		242	0			bg_newyear_texture		btn_bleach			0		0						0
+77	8	GrowFundPage	3	242		242	0	GrowFundPage_HelpTitle1001	GrowFundPage_HelpBody1001	bg_guoqing_01_chengzhangjijin	bg_guoqing_01_chengzhangjijin02;bg__guoqing_01_chengzhangjijin;btn_guoqing_01_tongyong				0		0						0
+78	8	GrowFundPage	2	236		236	0	GrowFundPage_HelpTitle1031	GrowFundPage_HelpBody1031	bg_guoqing_chengzhangjijin	bg_guoqing_chengzhangjijin02;bg__guoqing_chengzhangjijin01;btn_guoqing_tongyong				0		0						0
+79	3	LevelRewardPage	120	236		236	0	UI_LevelReward_HelpTitle1128	UI_LevelReward_HelpBody910						0		0						0
+80	18	StarSkyTreasureActivityPage	52	242		233	0	UI_StarSky_HelpTitle1001	UI_StarSky_HelpBody	bg_gingkofestival_libra					0		0						0
+81	24	MidsummerMainPage	52	242		243	0								0		0						0
+82	26	SummerFireworksPage	48	242		251	0	UI_Autumn_HelpTitle	UI_Autumn_HelpBody						0		0						0
+83	27		0	0		252									0		0						0
+84	12	BACommonActivityPage	49	242		249	0								0		0						0
+85	9	LuckySixPage	97	242		218	0								0		0						0
+86	29	BAExchangeActivityPage	96	242		250	0								0		0						0
+87	13	DirectBuyPage	122	226		222	0								0		0						0
+88	12	BACommonActivityPage	99	236		219	0								0		0						0
+89	21	BAShopActivityPage	96	236		238	0	UI_ActiveShop_HelpTitle1016	UI_ActiveShop_HelpBody1016						0		0						0
+90	36	BAConsumeRebatePage	1	242		261	0	UI_ActiveShop_HelpTitle1105	UI_ActiveShop_HelpBody1105						0		0						0
+91	37	PriceCuttingLuckyPage	300	236		226	0	UI_lotteryHelpTitle	UI_lotteryHelpBody						0		0						0
+92	39	ExplorePlanPage	999	226		263	1	UI＿ExplorePlan＿HelpTitle	UI＿ExplorePlan＿HelpBody						0		0						0
+93	12	BACommonActivityPage	29	242		254	0								0		0						0
+94	20		0	0		236	0			seadayact_bg		btn_newyear			0		0						0
+95	3	LevelRewardPage	99	236		236	0	UI_LevelReward_HelpTitle1031	UI_LevelReward_HelpBody910						0		0						0
+96	12	BACommonActivityPage	98	236		254	0								0		0						0
+97	21	BAShopActivityPage	198	236		238	0	UI_ActiveShop_HelpTitle0220	UI_ActiveShop_HelpBody0220						0		0						0
+98	36	BAConsumeRebatePage	90	236		261	0	UI_ReturnReward_HelpTitle1105	UI_ReturnReward_HelpBody1105						0		0						0
+99	12	BACommonActivityPage	154	254		219	0								0		0						0
+100	12	BACommonActivityPage	118	236		249	0								0		0						0
+101	29	BAExchangeActivityPage	98	236		250	0								0		0						0
+102	12	BACommonActivityPage	115	254		254	0								0		0						0
+103	43	StarChildAwakeActivityPage	106	226		409	0								0		0						0
+104	24	MidsummerMainPage	248	236		243	0								0		0						0
+105	36	BAConsumeRebatePage	123	226		261	0	UI_ReturnReward_HelpTitle1228	UI_ReturnReward_HelpBody1228						0		0						0
+106	26	SummerFireworksPage	135	226		251	0	UI_FireWorks_HelpTitle	UI_FireWorks_HelpBody						0		0						0
+107	27		0	0		252									0		0						0
+108	9	LuckySixPage	116	236		218	0								0		0						0
+109	29	BAExchangeActivityPage	109	236		250	0								0		0						0
+110	13	DirectBuyPage	991	236		222	0								0		0						0
+111	36	BAConsumeRebatePage	249	236		261	0	UI_ReturnReward_HelpTitle0220	UI_ReturnReward_HelpBody0220						0		0						0
+112	20	ReturnRewardPage	0	0		265	0								0		0						0
+113	8	GrowFundPage	96	265		265	1	GrowFundPage_HelpTitle11003	GrowFundPage_HelpBody11003	bg_wanjiahuigui_jijin	bg_guoqing_chengzhangjijin02;bg__guoqing_chengzhangjijin01;btn_wjhg				0		0						0
+114	12	BACommonActivityPage	98	265		249	0								0		0						0
+115	12	BACommonActivityPage	97	265		235	0								0		0						0
+116	12	BACommonActivityPage	99	265		219	1								0		0						0
+117	45	ReturnRewardPage	95	265		219	0								0		0						0
+118	47	CompanionablyTaskGiftPage	1	201		264	1								0		0						0
+119	12	BACommonActivityPage	96	226		220	0								0		0						0
+120	41	PriceCuttingPage	309	236		226	0	UI_CuttingHelpTitle	UI_CuttingHelpBody						0		0						0
+121	42	PriceCuttingRankPage	308	236		226	0	UI_CuttingRankHelpTitle	UI_CuttingRankHelpBody						0		0						0
+122	40	PriceCuttingKoiBoxPage	96	242		226	0	UI_KoiBoxHelpTitle	UI_KoiBoxHelpBody	st_bargain04_bg					0		0						0
+123	38	PriceCuttingShopPage	95	242		226	0	UI_Autumn_HelpTitle	UI_Autumn_HelpBody	st_bargain05_bg					0		0						0
+124	44	AnniversaryActivityTaskPage	99	226		226	0	UI_Autumn_HelpTitle	UI_Autumn_HelpBody						0		0						0
+125	46	AnniversaryActivityPage	150	254		226	0	UI_MakeCakeHelpTitle	UI_MakeCakeHelpBody						0		0						0
+126	18	StarSkyTreasureActivityPage	330	254		236	0	UI_StarSky_HelpTitle0928	UI_StarSky_HelpBody0928	bg_gingkofestival_libra					0		0						0
+127	48	AnniversaryActivityHonoursPage	149	226		226	0	UI_Autumn_HelpTitle	UI_Autumn_HelpBody						0		0						0
+128	50	FlopCardActivityPage	127	226		266	0	ActiveHelpTitle_7901	ActiveHelpBody_7901						0		0						0
+129	3	LevelRewardPage	99	236		236	0	UI_LevelReward_HelpTitle1128	UI_LevelReward_HelpBody910						0		0						0
+130	51	NewYearActivityPage	350	236		236	0	UI_NewYearHelpTitle0430	UI_NewYearHelpBody0430						0		0						0
+131	52		0	0		226	0								0		0						0
+132	53	LinkLineActivityPage	156	226		236	0	UI_LinkLineActivity_HelpTitle	UI_LinkLineActivity_HelpBody						0		0			bg_baoxiangjiangli;bg_lianxianjiangli;bg_jiangli	Guide_Bingo_1;Guide_Bingo_2;Guide_Bingo_3		0
+133	29	BAExchangeActivityPage	116	226		236	0								0		0						0
+134	54	NewYearActivityRankPage	152	254		236	0	UI_NewYearRankHelpTitle0430	UI_NewYearRankHelpBody0430						0		0						0
+135	12	SevenDaysSignPanel	0	0		272	0			7daysaward_20newyear					0		0						0
+136	3	LevelRewardPage	147	226		236	0	UI_LevelReward_HelpTitle1031	UI_LevelReward_HelpBody910						0		0						0
+137	12	BACommonActivityPage	800	226		226	0								0		0						0
+138	12	BACommonActivityPage	349	236		249	0								0		0						0
+139	28	MidsummerLinkPage	351	226		226	0			bg_zhounian_guonei	hero101:item102020061026,1;item101020507367,1;item141000000705,1|hero102:item102020061026,1;item101020507367,1;item141000000705,1|hero103:item102020061026,1;item101020507367,1;item141000000705,1|hero104:item102020061026,1;item101020507367,1;item141000000705,1|hero105:item102020061026,1;item101020507367,1;item141000000705,1|hero106:item102020061026,1;item101020507367,1;item141000000705,1|hero107:item102020061026,1;item101020507367,1;item141000000705,1|hero108:item102020061026,1;item101020507367,1;item141000000705,1|				0		0						0
+140	8	GrowFundPage	240	226		240	0	GrowFundPage_HelpTitle4824	GrowFundPage_HelpBody4824	bg_61_chengzhangjijin	bg_61_chengzhangjijin02;bg__61_chengzhangjijin01;btn_61_tongyong				0		0						0
+141	8	GrowFundPage	239	226		240	0	GrowFundPage_HelpTitle4823	GrowFundPage_HelpBody4823	bg_chengzhangjijin	bg_chengzhangjijin02;bg_chengzhangjijin01;frame_fuli01_03				0		0						0
+142	21	BAShopActivityPage	155	226		238	0	UI_ActiveShop_HelpTitle0109	UI_ActiveShop_HelpBody0109						0		0						0
+143	12	BACommonActivityPage	998	226		219	0								0		0						0
+144	55	YinJiActivityPage	1	201		277	0								0		0						0
+145	56	BindAccountPage	1	201		276	1								0		0						0
+146	21	BAShopActivityPage	346	236		238	0	UI_ActiveShop_HelpTitle0430	UI_ActiveShop_HelpBody0430						0		0						0
+147	29	BAExchangeActivityPage	197	236		236	0								0		0						0
+148	57	MercenaryLotteryExtraPage	99	410		411	0								0		0						0
+150	21	BAShopActivityPage	121	226		238	0	UI_ActiveShop_HelpTitle20200213	UI_ActiveShop_HelpBody20200213						0		0						0
+151	58		121	0		283	0								0		0						0
+152	9	LuckySixProPage	200	236		218	0								0		0						0
+153	21	BAShopActivityPage	295	236		238	0	UI_ActiveShop_HelpTitle20200319	UI_ActiveShop_HelpBody20200319						0		0						0
+154	20	GashaponPage	0	0		410	0					bg_topjpn			0		0						0
+155	12	BACommonActivityPage	298	226		284	0								0		0						0
+156	29	BAExchangeActivityPage	296	226		284	0								0		0						0
+157	43	StarChildAwakeActivityPage	297	226		284	0								0		0						0
+158	60	LightGameActivityPage	127	226		287	0	ActiveHelpTitle_9201	ActiveHelpBody_9201						0		0						0
+159	59	DiggingTreasureActivityMainPanel	0	0		291	0	ActiveHelpTitle_13005	ActiveHelpBody_13005						0		0						0
+160	13	DirectBuyPage	137	242		222	0								0		0						0
+161	21	BAShopActivityPage	130	226		238	0	UI_ActiveShop_HelpTitle20200507	UI_ActiveShop_HelpBody20200507						0		0						0
+162	21	BAShopActivityPage	131	226		238	0	UI_ActiveShop_HelpTitle20200506	UI_ActiveShop_HelpBody20200506						0		0						0
+163	61	BADrawShopPage	130	226		293	0	UI_BADrawShopPage9401	UI_BADrawShopHelpBody9401						0		1						0
+164	62	MercenaryLotteryActivityPage	999	226		415	0								0		0						0
+165	64	OneTouchDrawingActivityPage	132	226		416	0	ActiveHelpTitle_9601	ActiveHelpBody_9601						0		0						0
+166	63	BattleShopPage	997	226		294	0	UI_BattleShopPage_HelpTitle	UI_BattleShopPage_HelpBody						0		0						0
+167	65	RichManLinkPage	999	226		417	0	ActiveHelpTitle_14001	ActiveHelpBody_14001	richman_00_bg_activ					0		0						0
+168	3	LevelRewardPage	119	226		226	0	UI_LevelReward_HelpTitle0709	UI_LevelReward_HelpBody0709						0		0						0
+169	8	GrowFundPage	153	226		240	0	GrowFundPage_HelpTitle4821	GrowFundPage_HelpBody4821	bg_61_chengzhangjijin	bg_61_chengzhangjijin02;bg__61_chengzhangjijin01;btn_61_tongyong				0		0						0
+170	13	DirectBuyPage	249	236		222	0								0		0						0
+171	66	BannerActivityPage	9999	226		0	0								0		0						0
+172	18	StarSkyTreasureActivityPage	999	226		233	0	UI_StarSky_HelpTitle_1	UI_StarSky_HelpBody_1	bg_kaifu_jp					0		0						0
+173	12	BACommonActivityPage	120	226		226	1								0		0						0
+174	29	BAExchangeActivityPage	114	226		249	0								0		0						0
+175	12	BACommonActivityPage	115	226		249	0								0		0						0
+176	63	BattleShopPage	996	236		294	0	UI_BattleShopPage_HelpTitle	UI_BattleShopPage_HelpBody						0		0						0
+177	63	BattleShopPage	999	236		294	0	UI_BattleShopPage_HelpTitle01	UI_BattleShopPage_HelpBody01						0		0						0
+178	62	MercenaryLotteryActivityPage	599	226		415	0								0		0						0
+179	29	BAExchangeActivityPage	203	236		226	0								0		0						0
+180	21	BAShopActivityPage	202	236		238	0	UI_ActiveShop_HelpTitle20200716	UI_ActiveShop_HelpBody20200716						0		0						0
+181	12	BACommonActivityPage	121	236		236	0								0		0						0
+182	12	BACommonActivityPage	120	236		219	0								0		0						0
+183	70	ContinualRechargeActivityPage	9999	226		226	0	ContinuousPayment_Title	ContinuousPayment_Des		SkinId:0				0		0						0
+184	16	KillStarAthleticsPage	107	226		229	1	UI_KillStarAthletics_DescTitle	UI_KillStarAthletics_DescBody						0		0						0
+185	12	BACommonActivityPage	120	236		236	0								0		0				w		0
+186	71	CookiesActivityPage	246	226		425	0	ActiveHelpTitle_9602	ActiveHelpBody_9602						0		0						0
+187	70	ContinualRechargeActivityPage	245	226		226	0	ContinuousPayment_Title	ContinuousPayment_Des		SkinId:1				0		0						0
+188	29	BAExchangeActivityPage	297	236		226	0								0		0						0
+189	29	BAExchangeActivityPage	296	236		226	0								0		0						0
+190	13	DirectBuyPage	133	236		222	0								0		0						0
+191	12	BACommonActivityPage	999	226		219	0								0		0						0
+192	12	BACommonActivityPage	249	226		249	0								0		0						0
+193	12	BACommonActivityPage	988	226		236	1								0		0						0
+194	12	BACommonActivityPage	199	226		219	0								0		0						0
+195	29	BAExchangeActivityPage	198	226		226	0								0		0						0
+196	73	CarnivalWeekLotteryPage	152	421		421	0	ActiveHelpTitle_8401	ActiveHelpBody_8401						0		0						0
+197	8	GrowFundPage	10	201		216	1	GrowFundPage_HelpTitle4814	GrowFundPage_HelpBody4814	bg_chengzhangjijin	bg_chengzhangjijin02;bg_chengzhangjijin01;frame_fuli01_03				0		0						0
+198	8	GrowFundPage	10	201		216	1	GrowFundPage_HelpTitle4815	GrowFundPage_HelpBody4815	bg_chengzhangjijin	bg_chengzhangjijin02;bg_chengzhangjijin01;frame_fuli01_03				0		0						0
+199	74	CarnivalWeekPanel	153	421		421	0	ActiveHelpTitle_8403	ActiveHelpBody_8403						0		0						0
+200	75	CarnivalWeekBalloonBattlePage	155	421		421	0	ActiveHelpTitle_8405	ActiveHelpBody_8405						0		0						0
+201	12	CarnivalWeekGiftPage	154	421		421	0	ActiveHelpTitle_8407	ActiveHelpBody_8407						0		0						0
+202	12	BACommonActivityPage	151	421		421	0	ActiveHelpTitle_8409	ActiveHelpBody_8409						0		0						0
+203	21	BAShopActivityPage	150	421		421	0	ActiveHelpTitle_8410	ActiveHelpBody_8410						0		0						0
+204	20		0	0		421	0								0		0						0
+205	63	BattleShopPage	250	236		294	0	UI_BattleShopPage_HelpTitle04	UI_BattleShopPage_HelpBody04						0		0						0
+206	61	BADrawShopPage	132	226		226	0	UI_BADrawShopPage9402	UI_BADrawShopHelpBody9402						0		0						0
+207	53	LinkLineActivityPage	200	226		226	0	UI_LinkLineActivity_HelpTitle	UI_LinkLineActivity_HelpBody						0		0			bg_baoxiangjiangli;bg_lianxianjiangli;bg_jiangli	Guide_Bingo_1;Guide_Bingo_2;Guide_Bingo_3		0
+208	12	BACommonActivityPage	248	226		226	0								0		0						0
+209	29	BAExchangeActivityPage	100	236		233	0								0		0						0
+210	21	BAShopActivityPage	200	226		238	0	UI_ActiveShop_HelpTitle1020	UI_ActiveShop_HelpBody1020						0		0						0
+211	63	BattleShopPage	150	226		294	0	UI_BattleShopPage_HelpTitle03	UI_BattleShopPage_HelpBody03						0		0						0
+212	21	BAShopActivityPage	301	236		226	0	UI_ActiveShop_HelpTitle20201124	UI_ActiveShop_HelpBody20201124						0		0						0
+213	12	BACommonActivityPage	200	226		226	0								0		0						0
+214	63	BattleShopPage	219	236		294	0	UI_BattleShopPage_HelpTitle04	UI_BattleShopPage_HelpBody04						0		0						0
+215	63	BattleShopPage	210	226		294	0	UI_BattleShopPage_HelpTitle12	UI_BattleShopPage_HelpBody12						0		0						0
+216	63	BattleShopPage	799	226		294	0	UI_BattleShopPage_HelpTitle15	UI_BattleShopPage_HelpBody15						0		0						0
+217	63	BattleShopPage	119	236		294	0	UI_BattleShopPage_HelpTitle20	UI_BattleShopPage_HelpBody20						0		0						0
+218	24	MidsummerMainPage	250	236		243	0								0		0						0
+219	63	BattleShopPage	119	236		294	0	UI_BattleShopPage_HelpTitle21	UI_BattleShopPage_HelpBody21						0		0						0
+220	63	BattleShopPage	119	236		294	0	UI_BattleShopPage_HelpTitle22	UI_BattleShopPage_HelpBody22						0		0						0
+221	9	LuckySixProPage	300	242		226	0								0		0						0
+222	13	DirectBuyPage	299	242		222	0								0		0						0
+223	21	BAShopActivityPage	298	242		238	0	UI_ActiveShop_HelpTitle0220	UI_ActiveShop_HelpBody0220						0		0						0
+224	29	BAExchangeActivityPage	297	242		236	0								0		0						0
+225	13	DirectBuyPage	299	236		222	0								0		0						0
+226	13	DirectBuyPage	248	236		222	0								0		0						0
+227	29	BAExchangeActivityPage	197	226		226	0								0		0						0
+228	13	DirectBuyPage	118	242		222	0								0		0						0
+229	12	BACommonActivityPage	195	226		226	0	ActiveHelpTitle_8409	ActiveHelpBody_8409						0		0						0
+230	77	HotPkLuckyDrawPage	203	236		236		ActiveHelpTitle_8413	ActiveHelpBody_8413						0		0						0
+231	78	HotPkVotePage	202	236		236		ActiveHelpTitle_8414	ActiveHelpBody_8414						0		0						0
+232	79	HotPkRankPage	158	236		236		ActiveHelpTitle_8415	ActiveHelpBody_8415						0		0						0
+233	21	BAShopActivityPage	328	254		238	0	UI_ActiveShop_HelpTitle210315	UI_ActiveShop_HelpBody210315						0		0						0
+234	29	BAExchangeActivityPage	329	254		236	0								0		0						0
+235	12	BACommonActivityPage	244	236		226	0								0		0						0
+236	12	BACommonActivityPage	120	236		226	1								0		0						0
+237	63	BattleShopPage	121	226		294	0	UI_BattleShopPage_HelpTitle09	UI_BattleShopPage_HelpBody09						0		0						0
+238	24	MidsummerMainPage	220	236		243	0								0		0						0
+239	36	BAConsumeRebatePage	219	236		261	0	UI_ReturnReward_HelpTitle0220	UI_ReturnReward_HelpBody0220						0		0						0
+240	13	DirectBuyPage	218	236		222	0								0		0						0
+241	9	LuckySixProPage	999	236		226	0								0		0						0
+242	13	DirectBuyPage	196	236		222	0								0		0						0
+243	21	BAShopActivityPage	197	236		238	0	UI_ActiveShop_HelpTitle0220	UI_ActiveShop_HelpBody0220						0		0						0
+244	29	BAExchangeActivityPage	198	236		236	0								0		0						0
+245	29	BAExchangeActivityPage	201	236		226	0								0		0						0
+246	29	BAExchangeActivityPage	200	236		226	0								0		0						0
+247	21	BAShopActivityPage	199	236		238	0	UI_ActiveShop_HelpTitle20210429	UI_ActiveShop_HelpBody20210429						0		0						0
+248	13	DirectBuyPage	201	236		222	0								0		0						0
+249	13	DirectBuyPage	118	226		222	0								0		0						0
+252	37	PriceCuttingLuckyPage	310	236		226	0	UI_lotteryHelpTitle	UI_lotteryHelpBody						0		0						0
+253	29	BAExchangeActivityPage	297	236		226	0								0		0						0
+254	29	BAExchangeActivityPage	296	236		226	0								0		0						0
+255	21	BAShopActivityPage	295	236		238	0	UI_ActiveShop_HelpTitle20210624	UI_ActiveShop_HelpBody20210624						0		0						0
+256	12	BACommonActivityPage	294	236		226	1								0		0						0
+257	13	DirectBuyPage	293	236		222	0								0		0						0
+258	63	BattleShopPage	310	236		294	0	UI_BattleShopPage_HelpTitle11	UI_BattleShopPage_HelpBody11						0		0						0
+259	12	BACommonActivityPage	204	236		226	1								0		0						0
+260	29	BAExchangeActivityPage	308	236		236	0								0		0						0
+261	21	BAShopActivityPage	307	236		238	0	UI_ActiveShop_HelpTitle20200716	UI_ActiveShop_HelpBody20200716						0		0						0
+263	29	BAExchangeActivityPage	347	236		236	0								0		0						0
+265	29	BAExchangeActivityPage	149	0		226	0								0		0						0
+266	12	BACommonActivityPage	195	226		226	0	ActiveHelpTitle_8409	ActiveHelpBody_8409						0		0						0
+268	12	BACommonActivityPage	270	226		226	0								0		0						0
+269	29	BAExchangeActivityPage	269	226		226	0								0		0						0
+272	90	MergeServerChaseLevelPage	120	473		473	0								0		0						0
+273	21	BAShopActivityPage	97	265		235	0	UI_BAShopActivityPage_HelpTtile1	UI_BAShopActivityPage_HelpBody1						0		0						0
+274	63	BattleShopPage	300	254		294	0	UI_BattleShopPage_HelpTitle23	UI_BattleShopPage_HelpBody23						0		0						0
+275	12	BACommonActivityPage	991	236		219	0								0		0						0
+276	82	BAOptionalCommodityPage	992	226		202	0	BAOptionalCommodityPageTitle_22021	BAOptionalCommodityPageDES_22022						0		0						0
+277	12	BACommonActivityPage	350	226		226	0								0		0						0
+278	12	BACommonActivityPage	349	226		226	0								0		0						0
+279	36	BAConsumeRebatePage	248	226		261	0	UI_ReturnReward_HelpTitle20210809	UI_ReturnReward_HelpBody20210809						0		0						0
+280	65	RichManLinkPage	990	226		417	0	ActiveHelpTitle_14004	ActiveHelpBody_14004	richman_00_bg_activ					0		0						0
+281	12	BACommonActivityPage	115	226		417	0								0		0						0
+282	12	BACommonActivityPage	151	226		226	0	ActiveHelpTitle_8409	ActiveHelpBody_8409						0		0						0
+283	70	ContinualRechargeActivityPage	100	226		417	0	ContinuousPayment_Title	ContinuousPayment_Des		SkinId:0				0		0						0
+284	21	BAShopActivityPage	150	226		417	0	ActiveHelpTitle_8487	ActiveHelpBody_8487						0		0						0
+285	63	BattleShopPage	946	226		294	0	UI_BattleShopPage_HelpTitle1	UI_BattleShopPage_HelpBody0731						0		0						0
+286	12	BACommonActivityPage	945	226		226	0								0		0						0
+287	12	BACommonActivityPage	950	226		226	0								0		0						0
+288	12	BACommonActivityPage	949	226		421	0	ActiveHelpTitle_8409	ActiveHelpBody_8409						0		0						0
+289	12	BACommonActivityPage	947	226		242	0								0		0						0
+290	70	ContinualRechargeActivityPage	98	236		226	0	ContinuousPayment_Title	ContinuousPayment_Des		SkinId:1				0		0						0
+291	18	StarSkyTreasureActivityPage	998	226		236	0	UI_StarSky_HelpTitle	UI_StarSky_HelpBody	bg_gingkofestival_libra					0		0						0
+292	29	BAExchangeActivityPage	99	254		236	0								0		0						0
+293	12	BACommonActivityPage	299	254		226	0								0		0						0
+294	29	BAExchangeActivityPage	311	236		226	0								0		0						0
+295	12	BACommonActivityPage	96	254		226	0								0		0						0
+296	93	StarBlessingPage	96	236		480	0	UI_StarBlessing_HelpTitle	UI_StarBlessing_HelpBody						0		0						0
+297	94	BAMonsterSiegePage	349	226		226	0				item102020061026,1;item101020507367,1;item141000000705,1				0		0						0
+298	95	BAMonsterSiegeRankPage	348	226		226	0								0		0						0
+299	12	DirectBuyPage	1001	226		236	0								0		0						0
+300	12	DirectBuyPage	301	236		222	0								0		0						0
+301	29	BAExchangeActivityPage	200	236		226	0								0		0						0
+302	12	DirectBuyPage	196	236		222	0								0		0						0
+303	12	BACommonActivityPage	349	226		226	0								0		0						0
+304	96	DirectBuyPage	1001	226		236	0								0		0						0
+305	97		1001	226		236	0								0		0						0
+306	96	DirectBuyPage	343	236		222	0								0		0						0
+307	101	HotelCompetePage	400	226		226	0	UI_HotelCompetePage_HelpTitle	UI_HotelCompetePage_HelpBody						0		0						0
+308	102	HotelCompeteRankPage	398	226		226	0	UI_HotelCompeteRankPage_HelpTitle	UI_HotelCompeteRankPage_HelpBody						0		0						0
+309	100	MergeAreaChaseLevelPage	120	488		488	0								0		0						0
+311	12	BACommonActivityPage	399	226		226	0	UI_BACommonActivityPage_HelpTitle	UI_BACommonActivityPage_HelpBody						0		0						0
+312	21	BAShopActivityPage	397	226		226	0	UI_BAShopActivityPage_HelpTitle	UI_BAShopActivityPage_HelpBody2						0		0						0
+313	28	BAAdLinkUiPage	9	201		491	1			texture_activity01	LinkUI:MallPanel;0;2;item90000000129;1				0		0						0
+314	103	WishingTreePage	13	201		489	0								0		0						0
+202	12	BACommonActivityPage	7	201		495	0	ActiveHelpTitle_84151	ActiveHelpBody_84151						0		0						0
+203	21	BAShopActivityPage	7	201		495	0	ActiveHelpTitle_84152	ActiveHelpBody_84152						0		0						0
+315	109	ThemeActivityPanel	999	515		515	0								0		0						0
+10001	18	StarSkyTreasureActivityPage	205	226		233	0	UI_StarSky_HelpTitle_gf01	UI_StarSky_HelpBody__gf01	bg_kaifu02					0		0						0
+10002	24	MidsummerMainPage	207	226		243	0								0		0						0
+10003	36	BAConsumeRebatePage	206	226		261	0	UI_ReturnReward_HelpTitle_gf01	UI_ReturnReward_HelpBody_gf01						0		0						0
+10004	70	ContinualRechargeActivityPage	201	226		226	0	ContinuousPayment_Title	ContinuousPayment_Des		SkinId:0				0		0						0
+10005	61	BADrawShopPage	200	226		226	0	UI_BADrawShopPage9401	UI_BADrawShopHelpBody9401						1		1						0
+10006	18	StarSkyTreasureActivityPage	205	226		233	0	UI_StarSky_HelpTitle_gf02	UI_StarSky_HelpBody__gf02	bg_kaifu02					0		0						0
+10007	24	MidsummerMainPage	207	226		243	0								0		0						0
+10008	36	BAConsumeRebatePage	206	226		261	0	UI_ReturnReward_HelpTitle_gf02	UI_ReturnReward_HelpBody_gf02						0		0						0
+10009	70	ContinualRechargeActivityPage	201	226		226	0	ContinuousPayment_Title01	ContinuousPayment_Des01		SkinId:0				0		0						0
+10010	63	BattleShopPage	205	236		294	0	UI_BattleShopPage_HelpTitle1	UI_BattleShopPage_HelpBody0731						0		0						0
+10011	12	BACommonActivityPage	200	226		226	0								0		0						0
+10012	91		200	472		472	0								0		0						0
+57	49	BAFestivalShortcutPage	999	201		201	0								0		0						0
+10013	63	BattleShopPage	205	236		294	0	UI_BattleShopPage_HelpTitle50	UI_BattleShopPage_HelpBody9483						0		0						0
+10014	12	BACommonActivityPage	600	236		235	0								0		0						0
+10017	63	BattleShopPage	300	236		294	0	UI_BattleShopPage_HelpTitle1	UI_BattleShopPage_HelpBody10017						0		0						0
+10018	12	BACommonActivityPage	299	236		226	1								0		0						0
+10015	63	BattleShopPage	986	226		294	0	UI_BattleShopPage_HelpTitle9491	UI_BattleShopPage_HelpBody9491						0		0						0
+10016	21	BAShopActivityPage	197	226		238	0	UI_ActiveShop_HelpTitle23065	UI_ActiveShop_HelpBody23065						0		0						0
+10019	63	BattleShopPage	989	226		294	0	UI_BattleShopPage_HelpTitle1	UI_BattleShopPage_HelpBody02						0		0						0
+10020	12	BACommonActivityPage	298	254		226	0	ActiveHelpTitle_8409	ActiveHelpBody_8409						0		0						0
+10021	24	MidsummerMainPage	399	226		243	0								0		0						0
+10022	12	BACommonActivityPage	400	226		226	0								0		0						0
+10023	105	BAExperienceElevatePage	999	201		201	1								0		0						0
+10030	13	BAImpactLevelGiftPage	299	226		226	1								0		0						0
+10031	106	CrystalRebatePage	400	201		201	1								0		0						0
+10024	107	RankActivityPage	999	510		510	0	ActiveHelpTitle_rank	ActiveHelpBody_rank						0		0						0
+10025	21	BAShopActivityPage	499	201		201	0	UI_ActiveShop_HelpTitle10025	UI_ActiveShop_HelpBody10025						0		0						0
+10032	108	DigTreasurePage	500	201		201	1	ActiveHelpTitle_10032	ActiveHelpBody_10032						0		0						0
+10026	21	BAShopActivityPage	499	201		201	0	UI_ActiveShop_HelpTitle10026	UI_ActiveShop_HelpBody10026						0		0						0
+10027	12	BACommonActivityPage	498	201		201	0	ActiveHelpTitle_10027	ActiveHelpBody_10027						0		0						0
+10028	21	BAShopActivityPage	600	226		226	0	UI_ActiveShop_HelpTitle0129	UI_ActiveShop_HelpBody0129						0		0						0
+10029	111	ReturnTaskPage	98	265		265	0								0		0						0
+316	32	ForgingFestivalActivityPage	100	201	218	201		UI_ForgingFestivalIntegral_HelpTitle	UI_ForgingFestivalIntegral_HelpBody						0		0						0

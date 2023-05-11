@@ -1,0 +1,75 @@
+﻿个性ID	个性名字	个性图标	个性品质	属性效果	提升玩具饲养属性	提升玩具出战属性	属性效果描述	提升玩具效果描述	战力类型	战力计算
+int	string	string	int	string	string	string	string	string	int	int
+Id	Name	Icon	Rare	PlayerProp	FeedProp	FightProp	PlayerPropDes	FeedFightPropDes	CPType	CPValue
+10101	pet_personality_name_10101	pettalent_900001	5	11,200;12,200;13,200			Pet_Personality_PlayerPorpDes_10101_01;Pet_Personality_PlayerPorpDes_10101_02;Pet_Personality_PlayerPorpDes_10101_03		2	800
+10201	pet_personality_name_10201	pettalent_900002	5	153,300	12,4000	12,4000	Pet_Personality_PlayerPorpDes_10201_01	Pet_Personality_FeedFightDes_10201	2	800
+10301	pet_personality_name_10301	pettalent_900003	5	51,200;34,200	11,2000	11,2000	Pet_Personality_PlayerPorpDes_10301_01;Pet_Personality_PlayerPorpDes_10301_02	Pet_Personality_FeedFightDes_10301	2	800
+10401	pet_personality_name_10401	pettalent_900004	5	131,300;30,200	11,2000	11,2000	Pet_Personality_PlayerPorpDes_10401_01;Pet_Personality_PlayerPorpDes_10401_02	Pet_Personality_FeedFightDes_10401	2	800
+10501	pet_personality_name_10501	talent_100018	5	52,200;33,200	13,4000	13,4000	Pet_Personality_PlayerPorpDes_10501_01;Pet_Personality_PlayerPorpDes_10501_02	Pet_Personality_FeedFightDes_10501	2	800
+10601	pet_personality_name_10601	talent_1041803	5	31,200;206,200	11,2000	11,2000	Pet_Personality_PlayerPorpDes_10601_01;Pet_Personality_PlayerPorpDes_10601_02	Pet_Personality_FeedFightDes_10601	2	800
+12001	pet_personality_name_12001	talent_102104	5	11,200;13,200	12,4000	12,4000	Pet_Personality_PlayerPorpDes_12001_01;Pet_Personality_PlayerPorpDes_12001_02	Pet_Personality_FeedFightDes_12001	2	800
+10701	pet_personality_name_10701	pettalent_900005	5	32,300;3,200;13,-100			Pet_Personality_PlayerPorpDes_10701_01;Pet_Personality_PlayerPorpDes_10701_02;Pet_Personality_PlayerPorpDes_10701_03		2	650
+10702	pet_personality_name_10702	pettalent_900005	4	32,275;3,180;13,-150			Pet_Personality_PlayerPorpDes_10702_01;Pet_Personality_PlayerPorpDes_10702_02;Pet_Personality_PlayerPorpDes_10702_03		2	500
+10703	pet_personality_name_10703	pettalent_900005	3	32,200;3,120;13,-100			Pet_Personality_PlayerPorpDes_10703_01;Pet_Personality_PlayerPorpDes_10703_02;Pet_Personality_PlayerPorpDes_10703_03		2	350
+10704	pet_personality_name_10704	pettalent_900005	2	23,200;3,90;4,-70			Pet_Personality_PlayerPorpDes_10704_01;Pet_Personality_PlayerPorpDes_10704_02;Pet_Personality_PlayerPorpDes_10704_03		2	200
+10705	pet_personality_name_10705	pettalent_900005	1	23,150;3,55;4,-60			Pet_Personality_PlayerPorpDes_10705_01;Pet_Personality_PlayerPorpDes_10705_02;Pet_Personality_PlayerPorpDes_10705_03		2	100
+10801	pet_personality_name_10801	pettalent_900006	5	31,300;1,1800;32,-100			Pet_Personality_PlayerPorpDes_10801_01;Pet_Personality_PlayerPorpDes_10801_02;Pet_Personality_PlayerPorpDes_10801_03		2	650
+10802	pet_personality_name_10802	pettalent_900006	4	31,275;1,1500;32,-150			Pet_Personality_PlayerPorpDes_10802_01;Pet_Personality_PlayerPorpDes_10802_02;Pet_Personality_PlayerPorpDes_10802_03		2	500
+10803	pet_personality_name_10803	pettalent_900006	3	31,200;1,1000;32,-100			Pet_Personality_PlayerPorpDes_10803_01;Pet_Personality_PlayerPorpDes_10803_02;Pet_Personality_PlayerPorpDes_10803_03		2	350
+10804	pet_personality_name_10804	pettalent_900006	2	22,200;1,650;23,-150			Pet_Personality_PlayerPorpDes_10804_01;Pet_Personality_PlayerPorpDes_10804_02;Pet_Personality_PlayerPorpDes_10804_03		2	200
+10805	pet_personality_name_10805	pettalent_900006	1	22,150;1,325;23,-125			Pet_Personality_PlayerPorpDes_10805_01;Pet_Personality_PlayerPorpDes_10805_02;Pet_Personality_PlayerPorpDes_10805_03		2	100
+10901	pet_personality_name_10901	pettalent_900007	5	30,300;4,180;35,-100			Pet_Personality_PlayerPorpDes_10901_01;Pet_Personality_PlayerPorpDes_10901_02;Pet_Personality_PlayerPorpDes_10901_03		2	650
+10902	pet_personality_name_10902	pettalent_900007	4	30,275;4,150;35,-150			Pet_Personality_PlayerPorpDes_10902_01;Pet_Personality_PlayerPorpDes_10902_02;Pet_Personality_PlayerPorpDes_10902_03		2	500
+10903	pet_personality_name_10903	pettalent_900007	3	30,200;4,100;35,-100			Pet_Personality_PlayerPorpDes_10903_01;Pet_Personality_PlayerPorpDes_10903_02;Pet_Personality_PlayerPorpDes_10903_03		2	350
+10904	pet_personality_name_10904	pettalent_900007	2	21,200;4,65;26,-150			Pet_Personality_PlayerPorpDes_10904_01;Pet_Personality_PlayerPorpDes_10904_02;Pet_Personality_PlayerPorpDes_10904_03		2	200
+10905	pet_personality_name_10905	pettalent_900007	1	21,150;4,32;26,-125			Pet_Personality_PlayerPorpDes_10905_01;Pet_Personality_PlayerPorpDes_10905_02;Pet_Personality_PlayerPorpDes_10905_03		2	100
+11001	pet_personality_name_11001	pettalent_900008	5	35,300;4,180;31,-100			Pet_Personality_PlayerPorpDes_11001_01;Pet_Personality_PlayerPorpDes_11001_02;Pet_Personality_PlayerPorpDes_11001_03		2	650
+11002	pet_personality_name_11002	pettalent_900008	4	35,275;4,150;31,-150			Pet_Personality_PlayerPorpDes_11002_01;Pet_Personality_PlayerPorpDes_11002_02;Pet_Personality_PlayerPorpDes_11002_03		2	500
+11003	pet_personality_name_11003	pettalent_900008	3	35,200;4,100;31,-100			Pet_Personality_PlayerPorpDes_11003_01;Pet_Personality_PlayerPorpDes_11003_02;Pet_Personality_PlayerPorpDes_11003_03		2	350
+11004	pet_personality_name_11004	pettalent_900008	2	26,200;4,65;22,-150			Pet_Personality_PlayerPorpDes_11004_01;Pet_Personality_PlayerPorpDes_11004_02;Pet_Personality_PlayerPorpDes_11004_03		2	200
+11005	pet_personality_name_11005	pettalent_900008	1	26,150;4,32;22,-125			Pet_Personality_PlayerPorpDes_11005_01;Pet_Personality_PlayerPorpDes_11005_02;Pet_Personality_PlayerPorpDes_11005_03		2	100
+11101	pet_personality_name_11101	pettalent_900009	5	33,300;3,180;35,-100			Pet_Personality_PlayerPorpDes_11101_01;Pet_Personality_PlayerPorpDes_11101_02;Pet_Personality_PlayerPorpDes_11101_03		2	650
+11102	pet_personality_name_11102	pettalent_900009	4	33,275;3,150;35,-150			Pet_Personality_PlayerPorpDes_11102_01;Pet_Personality_PlayerPorpDes_11102_02;Pet_Personality_PlayerPorpDes_11102_03		2	500
+11103	pet_personality_name_11103	pettalent_900009	3	33,200;3,100;35,-100			Pet_Personality_PlayerPorpDes_11103_01;Pet_Personality_PlayerPorpDes_11103_02;Pet_Personality_PlayerPorpDes_11103_03		2	350
+11104	pet_personality_name_11104	pettalent_900009	2	24,200;3,65;26,-150			Pet_Personality_PlayerPorpDes_11104_01;Pet_Personality_PlayerPorpDes_11104_02;Pet_Personality_PlayerPorpDes_11104_03		2	200
+11105	pet_personality_name_11105	pettalent_900009	1	24,150;3,32;26,-125			Pet_Personality_PlayerPorpDes_11105_01;Pet_Personality_PlayerPorpDes_11105_02;Pet_Personality_PlayerPorpDes_11105_03		2	100
+11201	pet_personality_name_11201	pettalent_900010	5	34,300;1,1800;30,-100			Pet_Personality_PlayerPorpDes_11201_01;Pet_Personality_PlayerPorpDes_11201_02;Pet_Personality_PlayerPorpDes_11201_03		2	650
+11202	pet_personality_name_11202	pettalent_900010	4	34,275;1,1500;30,-150			Pet_Personality_PlayerPorpDes_11202_01;Pet_Personality_PlayerPorpDes_11202_02;Pet_Personality_PlayerPorpDes_11202_03		2	500
+11203	pet_personality_name_11203	pettalent_900010	3	34,200;1,1000;30,-100			Pet_Personality_PlayerPorpDes_11203_01;Pet_Personality_PlayerPorpDes_11203_02;Pet_Personality_PlayerPorpDes_11203_03		2	350
+11204	pet_personality_name_11204	pettalent_900010	2	25,200;1,650;21,-150			Pet_Personality_PlayerPorpDes_11204_01;Pet_Personality_PlayerPorpDes_11204_02;Pet_Personality_PlayerPorpDes_11204_03		2	200
+11205	pet_personality_name_11205	pettalent_900010	1	25,150;1,325;21,-125			Pet_Personality_PlayerPorpDes_11205_01;Pet_Personality_PlayerPorpDes_11205_02;Pet_Personality_PlayerPorpDes_11205_03		2	100
+11301	pet_personality_name_11301	pettalent_900014	5	30,300;3,180;34,-100			Pet_Personality_PlayerPorpDes_11301_01;Pet_Personality_PlayerPorpDes_11301_02;Pet_Personality_PlayerPorpDes_11301_03		2	650
+11302	pet_personality_name_11302	pettalent_900014	4	30,275;3,150;34,-150			Pet_Personality_PlayerPorpDes_11302_01;Pet_Personality_PlayerPorpDes_11302_02;Pet_Personality_PlayerPorpDes_11302_03		2	500
+11303	pet_personality_name_11303	pettalent_900014	3	30,200;3,100;34,-100			Pet_Personality_PlayerPorpDes_11303_01;Pet_Personality_PlayerPorpDes_11303_02;Pet_Personality_PlayerPorpDes_11303_03		2	350
+11304	pet_personality_name_11304	pettalent_900014	2	21,200;3,65;25,-150			Pet_Personality_PlayerPorpDes_11304_01;Pet_Personality_PlayerPorpDes_11304_02;Pet_Personality_PlayerPorpDes_11304_03		2	200
+11305	pet_personality_name_11305	pettalent_900014	1	21,150;3,32;25,-125			Pet_Personality_PlayerPorpDes_11305_01;Pet_Personality_PlayerPorpDes_11305_02;Pet_Personality_PlayerPorpDes_11305_03		2	100
+11401	pet_personality_name_11401	pettalent_900013	5	12,200;1,2000;52,-150			Pet_Personality_PlayerPorpDes_11401_01;Pet_Personality_PlayerPorpDes_11401_02;Pet_Personality_PlayerPorpDes_11401_03		2	650
+11402	pet_personality_name_11402	pettalent_900013	4	12,150;1,1700;52,-150			Pet_Personality_PlayerPorpDes_11402_01;Pet_Personality_PlayerPorpDes_11402_02;Pet_Personality_PlayerPorpDes_11402_03		2	500
+11403	pet_personality_name_11403	pettalent_900013	3	12,100;1,1200;52,-100			Pet_Personality_PlayerPorpDes_11403_01;Pet_Personality_PlayerPorpDes_11403_02;Pet_Personality_PlayerPorpDes_11403_03		2	350
+11404	pet_personality_name_11404	pettalent_900013	2	3,80;1,400;52,-100			Pet_Personality_PlayerPorpDes_11404_01;Pet_Personality_PlayerPorpDes_11404_02;Pet_Personality_PlayerPorpDes_11404_03		2	200
+11405	pet_personality_name_11405	pettalent_900013	1	3,60;1,100;52,-75			Pet_Personality_PlayerPorpDes_11405_01;Pet_Personality_PlayerPorpDes_11405_02;Pet_Personality_PlayerPorpDes_11405_03		2	100
+11501	pet_personality_name_11501	pettalent_900012	5	11,200;4,180;34,-100			Pet_Personality_PlayerPorpDes_11501_01;Pet_Personality_PlayerPorpDes_11501_02;Pet_Personality_PlayerPorpDes_11501_03		2	650
+11502	pet_personality_name_11502	pettalent_900012	4	11,150;4,170;34,-150			Pet_Personality_PlayerPorpDes_11502_01;Pet_Personality_PlayerPorpDes_11502_02;Pet_Personality_PlayerPorpDes_11502_03		2	500
+11503	pet_personality_name_11503	pettalent_900012	3	11,100;4,120;34,-100			Pet_Personality_PlayerPorpDes_11503_01;Pet_Personality_PlayerPorpDes_11503_02;Pet_Personality_PlayerPorpDes_11503_03		2	350
+11504	pet_personality_name_11504	pettalent_900012	2	1,600;4,56;25,-120			Pet_Personality_PlayerPorpDes_11504_01;Pet_Personality_PlayerPorpDes_11504_02;Pet_Personality_PlayerPorpDes_11504_03		2	200
+11505	pet_personality_name_11505	pettalent_900012	1	1,400;4,30;25,-100			Pet_Personality_PlayerPorpDes_11505_01;Pet_Personality_PlayerPorpDes_11505_02;Pet_Personality_PlayerPorpDes_11505_03		2	100
+11601	pet_personality_name_11601	pettalent_900015	5	31,300;3,200;11,-100			Pet_Personality_PlayerPorpDes_11601_01;Pet_Personality_PlayerPorpDes_11601_02;Pet_Personality_PlayerPorpDes_11601_03		2	650
+11602	pet_personality_name_11602	pettalent_900015	4	31,275;3,180;11,-150			Pet_Personality_PlayerPorpDes_11602_01;Pet_Personality_PlayerPorpDes_11602_02;Pet_Personality_PlayerPorpDes_11602_03		2	500
+11603	pet_personality_name_11603	pettalent_900015	3	31,200;3,120;11,-100			Pet_Personality_PlayerPorpDes_11603_01;Pet_Personality_PlayerPorpDes_11603_02;Pet_Personality_PlayerPorpDes_11603_03		2	350
+11604	pet_personality_name_11604	pettalent_900015	2	22,200;3,90;1,-700			Pet_Personality_PlayerPorpDes_11604_01;Pet_Personality_PlayerPorpDes_11604_02;Pet_Personality_PlayerPorpDes_11604_03		2	200
+11605	pet_personality_name_11605	pettalent_900015	1	22,150;3,55;1,-600			Pet_Personality_PlayerPorpDes_11605_01;Pet_Personality_PlayerPorpDes_11605_02;Pet_Personality_PlayerPorpDes_11605_03		2	100
+11701	pet_personality_name_11701	talent_100015	5	33,300;1,2000;12,-100			Pet_Personality_PlayerPorpDes_11701_01;Pet_Personality_PlayerPorpDes_11701_02;Pet_Personality_PlayerPorpDes_11701_03		2	650
+11702	pet_personality_name_11702	talent_100015	4	33,275;1,1800;12,-150			Pet_Personality_PlayerPorpDes_11702_01;Pet_Personality_PlayerPorpDes_11702_02;Pet_Personality_PlayerPorpDes_11702_03		2	500
+11703	pet_personality_name_11703	talent_100015	3	33,200;1,1200;12,-100			Pet_Personality_PlayerPorpDes_11703_01;Pet_Personality_PlayerPorpDes_11703_02;Pet_Personality_PlayerPorpDes_11703_03		2	350
+11704	pet_personality_name_11704	talent_100015	2	24,200;1,900;3,-70			Pet_Personality_PlayerPorpDes_11704_01;Pet_Personality_PlayerPorpDes_11704_02;Pet_Personality_PlayerPorpDes_11704_03		2	200
+11705	pet_personality_name_11705	talent_100015	1	24,150;1,550;3,-60			Pet_Personality_PlayerPorpDes_11705_01;Pet_Personality_PlayerPorpDes_11705_02;Pet_Personality_PlayerPorpDes_11705_03		2	100
+11801	pet_personality_name_11801	pettalent_900011	5	154,300;1,1800;51,-100			Pet_Personality_PlayerPorpDes_11801_01;Pet_Personality_PlayerPorpDes_11801_02;Pet_Personality_PlayerPorpDes_11801_03		2	650
+11802	pet_personality_name_11802	pettalent_900011	4	154,275;1,1500;51,-150			Pet_Personality_PlayerPorpDes_11802_01;Pet_Personality_PlayerPorpDes_11802_02;Pet_Personality_PlayerPorpDes_11802_03		2	500
+11803	pet_personality_name_11803	pettalent_900011	3	154,200;1,1000;51,-100			Pet_Personality_PlayerPorpDes_11803_01;Pet_Personality_PlayerPorpDes_11803_02;Pet_Personality_PlayerPorpDes_11803_03		2	350
+11804	pet_personality_name_11804	pettalent_900011	2	154,120;1,720;51,-100			Pet_Personality_PlayerPorpDes_11804_01;Pet_Personality_PlayerPorpDes_11804_02;Pet_Personality_PlayerPorpDes_11804_03		2	200
+11805	pet_personality_name_11805	pettalent_900011	1	154,80;1,380;51,-75			Pet_Personality_PlayerPorpDes_11805_01;Pet_Personality_PlayerPorpDes_11805_02;Pet_Personality_PlayerPorpDes_11805_03		2	100
+11901	pet_personality_name_11901	talent_100007	5	51,300;3,180;33,-100			Pet_Personality_PlayerPorpDes_11901_01;Pet_Personality_PlayerPorpDes_11901_02;Pet_Personality_PlayerPorpDes_11901_03		2	650
+11902	pet_personality_name_11902	talent_100007	4	51,275;3,150;33,-150			Pet_Personality_PlayerPorpDes_11902_01;Pet_Personality_PlayerPorpDes_11902_02;Pet_Personality_PlayerPorpDes_11902_03		2	500
+11903	pet_personality_name_11903	talent_100007	3	51,200;3,100;33,-100			Pet_Personality_PlayerPorpDes_11903_01;Pet_Personality_PlayerPorpDes_11903_02;Pet_Personality_PlayerPorpDes_11903_03		2	350
+11904	pet_personality_name_11904	talent_100007	2	3,116;24,-120			Pet_Personality_PlayerPorpDes_11904_01;Pet_Personality_PlayerPorpDes_11904_02		2	200
+11905	pet_personality_name_11905	talent_100007	1	3,70;24,-100			Pet_Personality_PlayerPorpDes_11905_01;Pet_Personality_PlayerPorpDes_11905_02		2	100

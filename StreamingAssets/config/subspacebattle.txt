@@ -1,0 +1,5 @@
+﻿活动ID	名称语言表	活动说明标题	活动说明内容	每日挑战开始时间	每日挑战结束时间	活动最小进入活人数	是否允许带佣兵	玩法货币ID	BOSSid	活动开始时间	活动结束时间	背景图片ID	商店ID	显示时间方式
+int	string	string	string	string	string	int	int	string	string	string	string	string	string	int
+ActiveID	ActiveName	ActiveHelpTitle	ActiveHelpBody	EnterTime	FinishTime	PlayerMin	IsSoldier	CurrencyID	BossID	StartDate	EndDate	PictureID	ShopID	TimeShowType
+1001	boss_activity_1001	UI_SubspacebattleHelpTitle	UI_SubspacebattleHelpBody	6,0,0	23,59,59	1	1	item100900002001	1002,1003	2021-02-05-05:00:00	2021-02-18-23:59:59	bg_ciyuanzhizhan	121,122	3
+1002	boss_activity_1001	UI_SubspacebattleHelpTitle	UI_SubspacebattleHelpBody	6,0,0	23,59,59	1	1	item100900002001	2001,2002	2021-05-1-05:00:00	2021-05-30-23:59:59	bg_ciyuanzhizhan	121,122	3

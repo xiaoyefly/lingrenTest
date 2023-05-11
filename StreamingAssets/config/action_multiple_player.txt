@@ -1,0 +1,4 @@
+﻿流水	队长动作集	队长动作ID	队员动作集	队员动作ID	总人数
+int	int	int	int	int	int
+Id	CapActionSet	CapActionId	MemActionSet	MemActionId	MaxMember
+1	26	1	1	618	2

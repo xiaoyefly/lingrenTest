@@ -1,0 +1,8 @@
+﻿怪物血条属性类型	对应icon
+int	string
+WithinIconType	AttributeIcon
+1	eledamage_02
+2	eledamage_01
+3	eledamage_04
+4	eledamage_03
+5	eledamage_05

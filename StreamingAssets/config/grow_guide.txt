@@ -1,0 +1,145 @@
+﻿流水	显示类型	分页	分页文本	分类	分类文本	标签	标签文本	标签描述	星数	开放时间	子标签	子标签	子标签描述	图标	等级	推荐评分	评分类型	链接命令	链接参数	功能	排列权重	主界面红点不显示等级（废弃参数）	变强红点不显示等级	子标签红点不显示等级	子项红点不显示等级	红点序号	红点描述	按钮样式
+int	int	int	string	int	string	int	string	string	int	string	int	string	string	string	string	string	int	string	string	int	int	int	int	int	int	int	string	int
+ID	PageType	PageId	PageText	MenuId	MenuText	TabId	TabText	TabDes	Star	Time	SubTabId	SubTabText	SubTabDes	Icon	Level	Score	ScoreType	Link	LinkParm	FuncId	Rate	MainPanelRedNoShowLevel	GrowPageRedNoShowLevel	GrowTabRedNoShowLevel	GrowSubTabRedNoShowLevel	RedId	RedPointDes	SubTabBtnStyle
+1	1	1	PageText_01	1	MenuText_01	1	TabText_01	TabDes_01	5		0			retroactiveicon01	1,10		0			87	0	0	0	0	0	0		0
+2	1	1	PageText_01	2	MenuText_02	1	TabText_01	TabDes_01	5		0			retroactiveicon01	11,20		0			87	0	0	0	0	0	0		0
+3	1	1	PageText_01	2	MenuText_02	2	TabText_04	TabDes_04	5	ActivityTime7	0			item_119000000003	11,20		0			6	0	0	0	0	0	0		0
+4	1	1	PageText_01	2	MenuText_02	3	TabText_49	TabDes_49	4		0			money_honour	11,20		0			13	0	0	0	0	0	0		0
+5	1	1	PageText_01	2	MenuText_02	4	TabText_51	TabDes_51	3		0			item_160030400995	11,20		0			145	0	0	0	0	0	0		0
+6	1	1	PageText_01	3	MenuText_03	1	TabText_04	TabDes_04	5	ActivityTime7	0			item_119000000003	21,30		0			6	0	0	0	0	0	0		0
+7	1	1	PageText_01	3	MenuText_03	2	TabText_07	TabDes_07	5	ActivityTime5	0			item_101050101004	21,30		0			30	0	0	0	0	0	0		0
+8	1	1	PageText_01	3	MenuText_03	3	TabText_09	TabDes_09	5	ActivityTime51	0			guildtask1	21,30		0			51	0	0	0	0	0	0		0
+9	1	1	PageText_01	3	MenuText_03	4	TabText_03	TabDes_03	4	ActivityTime57	0			item_103010311001	21,30		0			208	0	0	0	0	0	0		0
+10	1	1	PageText_01	3	MenuText_03	5	TabText_47	TabDes_47	3	ActivityTime111	0			equip_130000002108	21,30		0			111	0	0	0	0	0	0		0
+11	1	1	PageText_01	3	MenuText_03	6	TabText_49	TabDes_49	3		0			money_honour	21,30		0			13	0	0	0	0	0	0		0
+12	1	1	PageText_01	3	MenuText_03	7	TabText_51	TabDes_51	3		0			item_160030400995	21,30		0			145	0	0	0	0	0	0		0
+13	1	1	PageText_01	3	MenuText_03	8	TabText_01	TabDes_01	4		0			retroactiveicon01	21,30		0			87	0	0	0	0	0	0		0
+14	1	1	PageText_01	3	MenuText_03	9	TabText_02	TabDes_02	4		0			item_119000000001	21,30		0			87	0	0	0	0	0	0		0
+15	1	1	PageText_01	4	MenuText_04	1	TabText_04	TabDes_04	5	ActivityTime7	0			item_119000000003	31,40		0			6	0	0	0	0	0	0		0
+16	1	1	PageText_01	4	MenuText_04	2	TabText_07	TabDes_07	5	ActivityTime5	0			item_101050101004	31,40		0			30	0	0	0	0	0	0		0
+17	1	1	PageText_01	4	MenuText_04	3	TabText_09	TabDes_09	5	ActivityTime51	0			guildtask1	31,40		0			51	0	0	0	0	0	0		0
+18	1	1	PageText_01	4	MenuText_04	4	TabText_03	TabDes_03	4	ActivityTime57	0			item_103010311001	31,40		0			208	0	0	0	0	0	0		0
+19	1	1	PageText_01	4	MenuText_04	5	TabText_10	TabDes_10	3	ActivityTime67	0			guildtask2	31,40		0			67	0	0	0	0	0	0		0
+20	1	1	PageText_01	4	MenuText_04	7	TabText_47	TabDes_47	3	ActivityTime111	0			equip_130000002108	31,40		0			111	0	0	0	0	0	0		0
+21	1	1	PageText_01	4	MenuText_04	8	TabText_49	TabDes_49	3		0			money_honour	31,40		0			13	0	0	0	0	0	0		0
+22	1	1	PageText_01	4	MenuText_04	9	TabText_50	TabDes_50	3		0			money_secret	31,40		0			33	0	0	0	0	0	0		0
+23	1	1	PageText_01	4	MenuText_04	10	TabText_51	TabDes_51	2		0			item_160030400995	31,40		0			145	0	0	0	0	0	0		0
+24	1	1	PageText_01	4	MenuText_04	11	TabText_48	TabDes_48	2		0			item_108100102202	31,40		0			22	0	0	0	0	0	0		0
+25	1	1	PageText_01	4	MenuText_04	12	TabText_01	TabDes_01	4		0			retroactiveicon01	31,40		0			87	0	0	0	0	0	0		0
+26	1	1	PageText_01	4	MenuText_04	13	TabText_02	TabDes_02	4		0			item_119000000001	31,40		0			87	0	0	0	0	0	0		0
+27	2	2	PageText_02	0		1	TabText_16	TabDes_16	0		0			item_90000000002	1,19;20,29;30,34;35,39;40,49;50,59;60,100	335;3002;3891;6840;7519;11757;14265	1			1800	1000	0	0	0	0	0		0
+28	2	2	PageText_02	0		2	TabText_17	TabDes_17	0		0			item_103010121007	1,19;20,29;30,34;35,39;40,44;45,49;50,54;55,59;60,100	93;294;502;2066;3545;5821;9937;11255;14904	2			12	900	0	0	0	0	0		0
+29	2	2	PageText_02	0		3	TabText_18	TabDes_18	0		0			item_103010111020	1,39;40,44;45,49;50,54;55,59;60,100	412;1113;3202;4798;6262;7747	3			39	800	0	0	0	0	0		0
+30	2	2	PageText_02	0		4	TabText_19	TabDes_19	0		0			item_107200053001	1,19;20,29;30,39;40,49;50,59;60,100	280;1200;1800;5200;10500;13500	4			40	700	0	0	0	0	0		0
+31	2	2	PageText_02	0		5	TabText_20	TabDes_20	0		0			item_108100102208	1,39;40,49;50,59;60,100	900;1650;4950;6500	5			32	600	0	0	0	0	0		0
+32	2	2	PageText_02	0		6	TabText_21	TabDes_21	0		0			item_106030101034	1,39;40,49;50,59;60,100	160;960;2400;5600	6			66	500	0	0	0	0	0		0
+33	2	2	PageText_02	0		7	TabText_22	TabDes_22	0		0			g701_portrait05	1,29;30,39;40,49;50,59;60,100	644;831;4320;7679;12394	7			37	400	0	0	0	0	0		0
+34	2	2	PageText_02	0		8	TabText_23	TabDes_23	0		0			item_90000000008	1,10;11,20;21,30;31,40;41,50;51,100	500;1800;3800;4300;4800;5300	8			5	300	0	0	0	0	0		0
+35	2	2	PageText_02	0		9	TabText_24	TabDes_24	0		0			item_90000000009	1,40;41,50;51,100	1620;4898;8610	9			38	200	0	0	0	0	0		0
+36	2	2	PageText_02	0		10	TabText_25	TabDes_25	0		0			item_160000320207	1,40;41,50;51,100	288;2250;6523	10			115	100	0	0	0	0	3802		0
+37	2	2	PageText_02	0		11	TabText_41	TabDes_41	0		0			heroroad_title10	1,29;30,39;40,49;50,59;60,100	25;375;825;1350;2025	11			112	90	0	0	0	0	0		0
+38	2	2	PageText_02	0		12	TabText_42	TabDes_42	0		0			titleicon3	1,30;31,40;41,50;51,59;60,100	54;108;162;216;271	12			116	70	0	0	0	0	0		0
+39	2	2	PageText_02	0		13	TabText_43	TabDes_43	0		0			n018_portrait01	1,30;31,40;41,49;50,59;60,100	37;292;731;1315;2923	13			61	60	0	0	0	0	0		0
+40	2	2	PageText_02	0		14	TabText_44	TabDes_44	0		0			item_100	1,10;11,20;21,30;31,40;41,50;51,100	736;1485;2234;2983;3732;4481	14			6	1001	0	0	0	0	0		0
+41	2	2	PageText_02	0		15	TabText_45	TabDes_45	0		0			equip_130000001206	1,34;35,40;41,50;51,59;60,100	51;462;1053;1824;2775	15			126	1	0	0	0	0	0		0
+42	2	2	PageText_02	0		16	TabText_52	TabDes_52	0		0			item_103015110413	1,50;51,55;56,100	499;1196;5280	16			146	50	0	0	0	0	0		0
+43	2	2	PageText_02	0		17	TabText_53	TabDes_53	0		0			item_100500000001	1,40;41,45;46,50;51,55;56,100	636;1012;1590;1922;2742	17			155	40	0	0	0	0	0		0
+44	2	2	PageText_02	0		18	TabText_54	TabDes_54	0		0			item_102020040002	1,49;50,59;60,69;70,100	1500;3000;5000;8000	18			161	80	0	0	0	0	0		0
+45	2	2	PageText_02	0		19	TabText_55	TabDes_55	0		0			item_2004	1,39;40,49;50,59;60,69;70,100	150;500;1500;2500;3000	20			166	75	0	0	0	0	0		0
+46	2	2	PageText_02	0		20	TabText_56	TabDes_56	0		0			n054_portrait01	1,59;60,69;70,100	450;1500;5000	19			169	650	0	0	0	0	0		0
+47	2	2	PageText_02	0		21	TabText_57	TabDes_57	0		0			item_171000102114	1,65;66,70;71,100	700;1500;3000	21			175	30	0	0	0	0	0		0
+48	2	2	PageText_02	0		22	TabText_58	TabDes_58	0		0			item_103010139003	1,50;51,60;61,70;71,100	200;500;800;1500	22			124	750	0	0	0	0	0		0
+49	2	2	PageText_02	0		23	TabText_59	TabDes_59	0		0			item_102020060004	1,74;75,79;80,100	6600;15000;35000	23			194	20	0	0	0	0	0		0
+50	2	2	PageText_02	0		27	TabText_60	TabDes_60	0		0			equip_310040541997	75,79;80,84;85,89;90,100	2000;4000;5700;10800	27			427	550	0	0	0	0	0		0
+51	2	2	PageText_02	0		29	TabText_61	TabDes_61	0		0			item_173000005007	55,60;61,65;66,70;71,80;81,90,91,100	2000;4000;5700;10800	29			433	35	0	0	0	0	0		0
+52	2	2	PageText_02	0		28	TabText_62	TabDes_62	0		0			money_allsouls	78,79;80,84;85,90	4000;7000;9000	28			436	19	0	0	0	0	0		0
+53	2	2	PageText_02	0		30	TabText_63	TabDes_63	0		0			item_107999900013			30			444	37	0	0	0	0	0		0
+54	2	2	PageText_02	0		31	TabText_64	TabDes_64	0		0			soulequip_10011			31	LinkUI	BagPanel;OpenSoulEquip	325	37	0	0	0	0	0		0
+55	2	2	PageText_02	0		32	TabText_65	TabDes_65	0		0			item_17909000000003			32	LinkUI	SkillPanel;3;OpenCollectPage	466	38	0	0	0	0	0		0
+56	2	2	PageText_02	0		33	TabText_66	TabDes_66	0		0			e5001_portrait01			33	LinkUI	EnvoyMainPanel	476	18	0	0	0	0	0		0
+57	2	2	PageText_02	0		35	TabText_67	TabDes_67	0		0			stu002_portrait01			35	LinkUI	ApprenticeMainPanel	499	18	0	0	0	0	0		0
+58	2	2	PageText_02	0		36	TabText_68	TabDes_68	0		0			ys3001_portrait01			36	LinkUI	ElementalSpiritMainPanel	520	18	0	0	0	0	0		0
+59	3	3	PageText_03	1	MenuText_07	1	TabText_26	TabDes_26	0		2	SubTabText_02	SubTabDes_02	equip_304001100001			0			26	0	0	0	0	0	0		0
+60	3	3	PageText_03	1	MenuText_07	2	TabText_27	TabDes_27	0		1	SubTabText_03	SubTabDes_03	equip_304050523001			0			1	0	0	0	0	0	0		0
+61	3	3	PageText_03	1	MenuText_07	3	TabText_29	TabDes_29	0		1	SubTabText_07	SubTabDes_07	equip_304030111001			0			65	0	0	0	0	0	0		0
+62	3	3	PageText_03	2	MenuText_08	1	TabText_28	TabDes_28	0		1	SubTabText_04	SubTabDes_04	item_103010111010			0			12	0	0	0	0	0	0		0
+63	3	3	PageText_03	2	MenuText_08	1	TabText_28	TabDes_28	0		2	SubTabText_05	SubTabDes_05	item_103010111010			0			39	0	0	0	0	0	0		0
+64	3	3	PageText_03	2	MenuText_08	1	TabText_28	TabDes_28	0		3	SubTabText_06	SubTabDes_06	item_103010111010			0			40	0	0	0	0	0	0		0
+65	3	3	PageText_03	2	MenuText_08	1	TabText_28	TabDes_28	0		4	SubTabText_22	SubTabDes_22	item_103010111010			0			32	0	0	0	0	0	0		0
+66	3	3	PageText_03	2	MenuText_08	1	TabText_28	TabDes_28	0		5	SubTabText_23	SubTabDes_23	item_103010111010			0			124	0	0	0	0	0	0		0
+67	3	3	PageText_03	2	MenuText_08	1	TabText_28	TabDes_28	0		5	SubTabText_25	SubTabDes_25	equip_310040541997			0			427	0	0	0	0	0	0		0
+68	3	3	PageText_03	2	MenuText_08	2	TabText_30	TabDes_30	0		1	SubTabText_08	SubTabDes_08	item_10000000000			0			5	0	0	0	0	0	0		0
+69	3	3	PageText_03	2	MenuText_08	2	TabText_30	TabDes_30	0		2	SubTabText_09	SubTabDes_09	item_10000000000			0			38	0	0	0	0	0	0		0
+70	3	3	PageText_03	2	MenuText_08	2	TabText_30	TabDes_30	0		3	SubTabText_10	SubTabDes_10	item_10000000000			0			38	0	0	0	0	0	0		0
+71	3	3	PageText_03	2	MenuText_08	3	TabText_34	TabDes_34	0		1	SubTabText_14	SubTabDes_14	p014_portrait01			0			37	0	0	0	0	0	0		0
+72	3	3	PageText_03	2	MenuText_08	3	TabText_34	TabDes_34	0		2	SubTabText_15	SubTabDes_15	p014_portrait01			0			37	0	0	0	0	0	0		0
+73	3	3	PageText_03	3	MenuText_09	1	TabText_31	TabDes_31	0		1	SubTabText_11	SubTabDes_11	money_silvercoin			0			6	0	0	0	0	0	0		0
+74	3	3	PageText_03	3	MenuText_09	2	TabText_32	TabDes_32	0		1	SubTabText_12	SubTabDes_12	money_coin			0	LinkUI	ExchangeMoneyPanel;1	0	0	0	0	0	0	0		0
+75	3	3	PageText_03	3	MenuText_09	3	TabText_33	TabDes_33	0		1	SubTabText_13	SubTabDes_13	money_gem01			0	LinkUI	MallPanel;2	0	0	0	0	0	0	0		0
+76	3	3	PageText_03	4	MenuText_10	1	TabText_35	TabDes_35	0		1	SubTabText_16	SubTabDes_16	item_103010121004			0	LinkUI	TradingPanel;0;1;1;1	0	0	0	0	0	0	0		0
+77	3	3	PageText_03	4	MenuText_10	2	TabText_36	TabDes_36	0		1	SubTabText_17	SubTabDes_17	item_103010111017			0			0	0	0	0	0	0	0		0
+78	3	3	PageText_03	4	MenuText_10	3	TabText_37	TabDes_37	0		1	SubTabText_18	SubTabDes_18	item_107200053001			0			145	0	0	0	0	0	0		0
+79	3	3	PageText_03	4	MenuText_10	4	TabText_38	TabDes_38	0		1	SubTabText_19	SubTabDes_19	bg_blueprint			0			6	0	0	0	0	0	0		0
+80	3	3	PageText_03	4	MenuText_10	5	TabText_39	TabDes_39	0		1	SubTabText_20	SubTabDes_20	item_103015110100			0			6	0	0	0	0	0	0		0
+81	3	3	PageText_03	4	MenuText_10	5	TabText_39	TabDes_39	0		2	SubTabText_24	SubTabDes_24	item_103015110100			0			22	0	0	0	0	0	0		0
+82	3	3	PageText_03	4	MenuText_10	6	TabText_40	TabDes_40	0		1	SubTabText_21	SubTabDes_21	item_160000320207			0			50	0	0	0	0	0	0		0
+83	4	4	PageText_04	9	Grow_Title9	0	Grow_Title9_Subtitle0	Grow_Title9_Subtitle1_Tips	5		0						0			0	0	0	0	0	0	0		1
+84	4	4	PageText_04	1	Grow_Title1	1	Grow_Title1_Subtitle0	Grow_Title1_Subtitle1_Tips	5		0			item_90000000008			0			5	0	50	50	50	50	501	Grow_Title1_Subtitle1_RedTips	0
+85	4	4	PageText_04	1	Grow_Title1	2	Grow_Title1_Subtitle1	Grow_Title1_Subtitle2_Tips	5		0			item_90000000009			0			38	0	50	50	50	50	3800	Grow_Title1_Subtitle2_RedTips	0
+86	4	4	PageText_04	1	Grow_Title1	3	Grow_Title1_Subtitle2	Grow_Title1_Subtitle3_Tips	5		0			item_90000000010			0			38	0	50	50	0	0	3816	Grow_Title1_Subtitle3_RedTips	0
+87	4	4	PageText_04	1	Grow_Title1	4	Grow_Title1_Subtitle3	Grow_Title1_Subtitle4_Tips	4		0			guildtask1			0			66	0	40	40	60	60	5011	Grow_Title1_Subtitle4_RedTips	0
+88	4	4	PageText_04	1	Grow_Title1	5	Grow_Title1_Subtitle4	Grow_Title1_Subtitle5_Tips	4		0			item_106030101162			0			112	0	0	0	0	0	11200	Grow_Title1_Subtitle5_RedTips	0
+89	4	4	PageText_04	1	Grow_Title1	6	Grow_Title1_Subtitle5	Grow_Title1_Subtitle6_Tips	4		0			item_102010020001			0	LinkUI	AdventureBookPanel;1	0	0	1	1	0	0	6102	Grow_Title1_Subtitle6_RedTips	0
+90	4	4	PageText_04	1	Grow_Title1	7	Grow_Title1_Subtitle6	Grow_Title1_Subtitle7_Tips	3		0			item_106210100006			0	LinkUI	AdventureBookPanel;3	0	0	1	1	0	0	6104	Grow_Title1_Subtitle7_RedTips	0
+91	4	4	PageText_04	1	Grow_Title1	8	Grow_Title1_Subtitle7	Grow_Title1_Subtitle8_Tips	3		0			item_119100000008			0	LinkUI	AdventureBookPanel;5	0	0	1	1	0	0	6106	Grow_Title1_Subtitle8_RedTips	0
+92	4	4	PageText_04	1	Grow_Title1	9	Grow_Title1_Subtitle8	Grow_Title1_Subtitle9_Tips	3		0			titleicon4			0			116	0	0	0	0	0	11600	Grow_Title1_Subtitle9_RedTips	0
+93	4	4	PageText_04	1	Grow_Title1	10	Grow_Title1_Subtitle9	Grow_Title1_Subtitle10_Tips	3		0			item_100100000003			0	LinkUI	AstrolabePanel;ShowStagePanel	0	0	0	0	0	0	12601	Grow_Title1_Subtitle10_RedTips	0
+94	4	4	PageText_04	1	Grow_Title1	11	Grow_Title1_Subtitle10	Grow_Title1_Subtitle11_Tips	3		0			item_100500000101			0			155	0	0	0	0	0	15500	Grow_Title1_Subtitle11_RedTips	0
+95	4	4	PageText_04	1	Grow_Title1	12	Grow_Title1_Subtitle11	Grow_Title1_Subtitle12_Tips	4		0			item_102020040002			0	LinkUI	PeakednessCardPanel	161	0	0	0	0	0	16101	Grow_Title1_Subtitle12_RedTips	0
+96	4	4	PageText_04	1	Grow_Title1	13	Grow_Title1_Subtitle12	Grow_Title1_Subtitle13_Tips	4		0			item_2004			0			166	0	0	0	0	0	16600	Grow_Title1_Subtitle13_RedTips	0
+97	4	4	PageText_04	1	Grow_Title1	14	Grow_Title1_Subtitle13	Grow_Title1_Subtitle14_Tips	5		0			item_171000102105			0	LinkUI	GuildBadgePanel;1	175	0	0	0	0	0	0	Grow_Title1_Subtitle14_RedTips	0
+98	4	4	PageText_04	1	Grow_Title1	15	Grow_Title1_Subtitle14	Grow_Title1_Subtitle15_Tips	5		0			soulequip_10011			0	LinkUI	BagPanel;OpenSoulEquip	325	0	0	0	0	0	0	Grow_Title1_Subtitle15_RedTips	0
+99	4	4	PageText_04	1	Grow_Title1	16	Grow_Title1_Subtitle16	Grow_Title1_Subtitle16_Tips	5		0			item_17909000000003			0	LinkUI	SkillPanel;3;OpenCollectPage	466	0	0	0	0	0	0	Grow_Title1_Subtitle16_RedTips	0
+100	4	4	PageText_04	2	Grow_Title2	1	Grow_Title2_Subtitle0	Grow_Title2_Subtitle1_Tips	0		0			item_103010121007			0			12	0	0	0	0	0	1201	Grow_Title2_Subtitle1_RedTips	0
+101	4	4	PageText_04	2	Grow_Title2	2	Grow_Title2_Subtitle1	Grow_Title2_Subtitle2_Tips	0		0			equip_304050523001			0			65	0	1	1	0	0	1205	Grow_Title2_Subtitle2_RedTips	0
+102	4	4	PageText_04	2	Grow_Title2	3	Grow_Title2_Subtitle2	Grow_Title2_Subtitle3_Tips	0		0			equip_302020221001			0			65	0	1	1	0	0	1207	Grow_Title2_Subtitle3_RedTips	0
+103	4	4	PageText_04	2	Grow_Title2	4	Grow_Title2_Subtitle3	Grow_Title2_Subtitle4_Tips	0		0			equip_310035531998			0			65	0	1	1	0	0	1206	Grow_Title2_Subtitle4_RedTips	0
+104	4	4	PageText_04	2	Grow_Title2	5	Grow_Title2_Subtitle4	Grow_Title2_Subtitle5_Tips	0		0			item_103010111005			0			39	0	0	0	0	0	1203	Grow_Title2_Subtitle5_RedTips	0
+105	4	4	PageText_04	2	Grow_Title2	6	Grow_Title2_Subtitle5	Grow_Title2_Subtitle6_Tips	0		0			item_1009			0			124	0	0	0	0	0	1204	Grow_Title2_Subtitle6_RedTips	0
+106	4	4	PageText_04	2	Grow_Title2	7	Grow_Title2_Subtitle6	Grow_Title2_Subtitle7_Tips	0		0			item_103015110413			0			146	0	0	0	0	0	1209	Grow_Title2_Subtitle7_RedTips	0
+107	4	4	PageText_04	3	Grow_Title3	1	Grow_Title3_Subtitle0	Grow_Title3_Subtitle1_Tips	0		0			bg_stone_compose5			0			40	0	0	0	0	0	4000	Grow_Title3_Subtitle1_RedTips	0
+108	4	4	PageText_04	3	Grow_Title3	2	Grow_Title3_Subtitle1	Grow_Title3_Subtitle2_Tips	0		0			item_107999900003			0			40	0	30	30	0	0	4010	Grow_Title3_Subtitle2_RedTips	0
+109	4	4	PageText_04	3	Grow_Title3	3	Grow_Title3_Subtitle2	Grow_Title3_Subtitle3_Tips	0		0			bg_stone_att4			0	LinkUI	BagPanel;OpenSoulStone;GrowUp;1	0	0	0	0	0	0	0	Grow_Title3_Subtitle3_RedTips	0
+110	4	4	PageText_04	3	Grow_Title3	4	Grow_Title3_Subtitle3	Grow_Title3_Subtitle4_Tips	0		0			bg_stone_def3			0	LinkUI	BagPanel;OpenSoulStone;GrowUp;2	0	0	0	0	0	0	0	Grow_Title3_Subtitle4_RedTips	0
+111	4	4	PageText_04	3	Grow_Title3	5	Grow_Title3_Subtitle4	Grow_Title3_Subtitle5_Tips	0		0			bg_stone_ass5			0	LinkUI	BagPanel;OpenSoulStone;GrowUp;3	0	0	0	0	0	0	0	Grow_Title3_Subtitle5_RedTips	0
+112	4	4	PageText_04	4	Grow_Title4	1	Grow_Title4_Subtitle0	Grow_Title4_Subtitle1_Tips	0		0			p014_portrait01			0	LinkUI	PetFightEquipPanel	0	0	0	0	0	0	3711	Grow_Title4_Subtitle1_RedTips	0
+113	4	4	PageText_04	4	Grow_Title4	2	Grow_Title4_Subtitle1	Grow_Title4_Subtitle2_Tips	0		0			m024_portrait01			0	LinkUI	PetFightEquipPanel	0	0	0	0	0	0	3711	Grow_Title4_Subtitle2_RedTips	0
+114	4	4	PageText_04	4	Grow_Title4	3	Grow_Title4_Subtitle2	Grow_Title4_Subtitle3_Tips	0		0			item_101040101031			0			37	0	30	30	0	0	3750	Grow_Title4_Subtitle3_RedTips	0
+115	4	4	PageText_04	4	Grow_Title4	4	Grow_Title4_Subtitle3	Grow_Title4_Subtitle4_Tips	0		0			item_1011			0			37	0	0	0	0	0	3760	Grow_Title4_Subtitle4_RedTips	0
+116	4	4	PageText_04	4	Grow_Title4	5	Grow_Title4_Subtitle4	Grow_Title4_Subtitle5_Tips	0		0			p005_portrait01			0			84	0	50	50	0	0	8401	Grow_Title4_Subtitle5_RedTips	0
+117	4	4	PageText_04	4	Grow_Title4	6	Grow_Title4_Subtitle5	Grow_Title4_Subtitle6_Tips	0		0			p013_portrait01			0			84	0	50	50	0	0	8402	Grow_Title4_Subtitle6_RedTips	0
+118	4	4	PageText_04	5	Grow_Title5	1	Grow_Title5_Subtitle0	Grow_Title5_Subtitle1_Tips	0		0			item_103010131003			0			1	0	0	0	0	0	0	Grow_Title5_Subtitle1_RedTips	0
+119	4	4	PageText_04	5	Grow_Title5	2	Grow_Title5_Subtitle1	Grow_Title5_Subtitle2_Tips	0		0			item_106030101174			0			32	0	60	60	60	60	0	Grow_Title5_Subtitle2_RedTips	0
+120	4	4	PageText_04	5	Grow_Title5	3	Grow_Title5_Subtitle2	Grow_Title5_Subtitle3_Tips	0		0			item_103010121009			0			96	0	60	60	60	60	0	Grow_Title5_Subtitle3_RedTips	0
+121	4	4	PageText_04	5	Grow_Title5	4	Grow_Title5_Subtitle3	Grow_Title5_Subtitle4_Tips	0		0			item_103015110405			0			97	0	0	0	0	0	0	Grow_Title5_Subtitle4_RedTips	0
+122	4	4	PageText_04	6	Grow_Title6	1	Grow_Title6_Subtitle0	Grow_Title6_Subtitle1_Tips	0		0			item_160000320207			0			38	0	0	0	0	0	3803	Grow_Title6_Subtitle1_RedTips	0
+123	4	4	PageText_04	6	Grow_Title6	2	Grow_Title6_Subtitle1	Grow_Title6_Subtitle2_Tips	0		0			item_143000000001			0			38	0	1	1	0	0	3802	Grow_Title6_Subtitle2_RedTips	0
+124	4	4	PageText_04	7	Grow_Title7	1	Grow_Title7_Subtitle0	Grow_Title7_Subtitle1_Tips	0		0			n056_portrait01			0			169	0	0	1	1	1	16910	Grow_Title7_Subtitle1_RedTips	0
+125	4	4	PageText_04	7	Grow_Title7	2	Grow_Title7_Subtitle1	Grow_Title7_Subtitle2_Tips	0		0			n018_portrait01			0			279	0	0	0	0	0	16911	Grow_Title7_Subtitle2_RedTips	0
+126	4	4	PageText_04	7	Grow_Title7	3	Grow_Title7_Subtitle2	Grow_Title7_Subtitle3_Tips	0		0			JobPotrait_sp04			0			174	0	0	0	0	0	16912	Grow_Title7_Subtitle3_RedTips	0
+127	4	4	PageText_04	8	Grow_Title8	1	Grow_Title8_Subtitle0	Grow_Title8_Subtitle1_Tips	0		0			item_102020060004			0	LinkUI	StarChildPanel;1	194	0	0	0	0	0	19401	Grow_Title8_Subtitle1_RedTips	0
+128	4	4	PageText_04	8	Grow_Title8	2	Grow_Title8_Subtitle1	Grow_Title8_Subtitle2_Tips	0		0			item_230000000001			0	LinkUI	StarChildPanel;2	194	0	0	0	0	0	19402	Grow_Title8_Subtitle2_RedTips	0
+129	4	4	PageText_04	11	Grow_Title10	1	Grow_Title10_Subtitle0	Grow_Title10_Subtitle1_Tips	0		0			item_19300000000003			0	LinkUI	EnvoyMainPanel;0;1	476	0	0	0	0	0	0	Grow_Title10_Subtitle1_RedTips	0
+130	4	4	PageText_04	11	Grow_Title10	2	Grow_Title10_Subtitle1	Grow_Title10_Subtitle2_Tips	0		0			crystal_bg1_5			0	LinkUI	EnvoyMainPanel;0;2	476	0	0	0	0	0	0	Grow_Title10_Subtitle2_RedTips	0
+131	4	4	PageText_04	11	Grow_Title10	3	Grow_Title10_Subtitle2	Grow_Title10_Subtitle3_Tips	0		0			envoyequip_5001			0	LinkUI	EnvoyMainPanel;1	476	0	0	0	0	0	0	Grow_Title10_Subtitle3_RedTips	0
+132	4	4	PageText_04	11	Grow_Title10	4	Grow_Title10_Subtitle3	Grow_Title10_Subtitle4_Tips	0		0			item_skill_122001			0	LinkUI	EnvoyMainPanel;2	476	0	0	0	0	0	0	Grow_Title10_Subtitle4_RedTips	0
+133	4	4	PageText_04	12	Grow_Title12	1	Grow_Title12_Subtitle1	Grow_Title12_Subtitle1_Tips	0		0			stu003_portrait01			0	ClickNpc	41;npc_apprentice	0	0	0	0	0	0	0	Grow_Title12_Subtitle1_RedTips	0
+134	4	4	PageText_04	12	Grow_Title12	2	Grow_Title12_Subtitle2	Grow_Title12_Subtitle2_Tips	0		0			stu006_portrait01			0	LinkUI	ApprenticeMainPanel	499	0	0	0	0	0	0	Grow_Title12_Subtitle2_RedTips	0
+135	4	4	PageText_04	12	Grow_Title12	3	Grow_Title12_Subtitle3	Grow_Title12_Subtitle3_Tips	0		0			stu001_portrait01			0	LinkUI	ApprenticeMainPanel	499	0	0	0	0	0	0	Grow_Title12_Subtitle3_RedTips	0
+136	4	4	PageText_04	1	Grow_Title1	17	Grow_Title1_Subtitle17	Grow_Title1_Subtitle17_Tips	5		0			ach7_divinestone			0	LinkUI	BagPanel;openDivineStone	493	0	0	0	0	0	0	Grow_Title1_Subtitle17_RedTips	0
+137	5	5	PageText_05	0		0			0		0						0			0	0	0	0	0	0	0		0
+138	4	4	PageText_04	13	Grow_Title13	1	Grow_Title13_Subtitle1	Grow_Title13_Subtitle1_Tips	0		0			item_127000065105			0	LinkUI	ElementalSpiritMainPanel;0;1	0	0	0	0	0	0	0	Grow_Title13_Subtitle1_RedTips	0
+139	4	4	PageText_04	13	Grow_Title13	2	Grow_Title13_Subtitle2	Grow_Title13_Subtitle2_Tips	0		0			item_127000065116			0	LinkUI	ElementalSpiritMainPanel;0;2	0	0	0	0	0	0	0	Grow_Title13_Subtitle2_RedTips	0
+140	4	4	PageText_04	13	Grow_Title13	3	Grow_Title13_Subtitle3	Grow_Title13_Subtitle3_Tips	0		0			item_127000065119			0	LinkUI	ElementalSpiritMainPanel;2	0	0	0	0	0	0	0	Grow_Title13_Subtitle3_RedTips	0
+141	4	4	PageText_04	13	Grow_Title13	4	Grow_Title13_Subtitle4	Grow_Title13_Subtitle4_Tips	0		0			item_127000065125			0	LinkUI	ElementalSpiritMainPanel;2	0	0	0	0	0	0	0	Grow_Title13_Subtitle4_RedTips	0
+142	4	4	PageText_04	13	Grow_Title13	5	Grow_Title13_Subtitle5	Grow_Title13_Subtitle5_Tips	0		0			item_127000065110			0	LinkUI	ElementalSpiritMainPanel;3	0	0	0	0	0	0	0	Grow_Title13_Subtitle5_RedTips	0

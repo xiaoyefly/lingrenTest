@@ -1,0 +1,7 @@
+﻿流水	积分赛场景	排位赛场景
+int	int	int
+Id	ScoreSceneID	RankSceneID
+1	1511	1515
+2	1512	1516
+3	1513	1517
+4	1514	1518

@@ -1,0 +1,659 @@
+﻿流水	功能ID	功能名	功能icon,小icon	任务条件	等级条件	公会等级	星盘纪元条件	公会圣器条件	特殊条件	区域	排或列	组	归属组	组内排序	是否生效	功能图片	大Icon	链接命令	链接参数	是否要飘icon	获取途径文字标识	是否要常驻提示	提示功能描述	是否精准链接	功能未开启特殊提示	活动预告的时间	主界面ue特效	提审模式功能是否屏蔽	对应活动ID	定制SDK开启功能
+string	int	string	string	string	int	int	int	int	bool	int	int	int	int	int	bool	string	string	string	string	bool	string	int	string	int	string	int	int	int	int	string
+Id	FuncID	Script	Icon	TaskId	Level	GuildLevel	AstrolabeLevel	GuildHallowLv	SpecialOpen	FunctionType	Region	GroupId	BelongGroup	Order	IsOpen	Picture	BigIcon	Link	LinkParm	FlyIcon	GainWayDes	UnlockHint	FuncDes	AccurateLink	UnopenSpecTips	ActivityHintTime	EffectId	IsReviewClose	ActivityID	IsSdkOnlyOpen
+1	1	UI_FuncName_1	btn_duanzao		31	0	0	0	0	3	2	0	0	3	1			OpenForing	ForgingPreviewPanel	1		1	UIFuncDes_1	0		0	0	0	0	
+2	2	UI_FuncName_2	btn_huodong		35	0	0	0	0	0	0	0	0	0	1					0		1	UIFuncDes_1	0		0	0	0	0	
+3	3	UI_FuncName_3	btn_worldboss		20	0	0	0	0	0	0	0	0	0	1	devillord_panelbg001	icon_worldboss	RunToPos	4;19.2,-39.9	0		0		0		0	0	0	0	
+4	4	UI_FuncName_4	btn_juese30		4	0	0	0	0	0	0	0	0	0	1		btn_juese30	LinkUI	BagPanel;OpenRole	0		0		0		0	0	0	0	
+5	5	UI_FuncName_5	btn_jineng30	11100060,0	6	0	0	0	0	3	1	0	0	1	1		btn_jineng30	LinkUI	SkillPanel	1		0	UIFuncDes_5	0	Msg_FuncNotOpenTips_5	0	0	0	0	
+6	6	UI_FuncName_6	btn_event	10100200,1	1	0	0	0	0	1	1	0	0	1	1			LinkUI	AdventurePanel	1		0	UIFuncDes_6	0		0	0	0	0	
+7	7	UI_FuncName_7	btn_beibao		1	0	0	0	0	2	2	0	0	1	1		btn_beibao	LinkUI	BagPanel	0		0		0		0	0	0	0	
+8	8	UI_FuncName_8	btn_award		15	0	0	0	0	0	0	0	0	0	1			LinkUI	GrowUpPanel;5	1		1	UIFuncDes_8	0		0	0	0	0	
+9	9	UI_FuncName_9			10	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+10	10	UI_FuncName_10	btn_auto0		5	0	0	0	0	0	0	0	0	0	1					1		1	UIFuncDes_10	0		0	0	0	0	
+11	11	UI_FuncName_11			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+12	12	UI_FuncName_12	btn_qianghua30	10200030,2	1	0	0	0	0	3	1	0	0	2	1		btn_qianghua30	LinkUI	StrengthenPanel	1		0	UIFuncDes_12	0	MSG_StrengthenPanel_NotOpen	0	0	0	0	
+13	13	UI_FuncName_13	btn_arena	10100180,1	18	0	0	0	0	0	0	0	0	0	1	arena_panelbg001		LinkUI	ArenaPanel	0		0		0		0	0	0	0	
+14	14	UI_FuncName_14	btn_multi		32	0	0	0	0	0	0	0	0	0	1	bg_multiduel	btn_multi	ClickNpc	2;npc_multi	0	UI_GainWay_Des1	0	UIFuncDes_14	0		0	0	0	0	
+15	15	UI_FuncName_15	btn_multi		40	0	0	0	0	0	0	0	0	0	1		btn_multi			0		0		0		0	0	0	0	
+16	16	UI_FuncName_16	btn_beibao		1	0	0	0	0	2	3	0	0	2	1			LinkUI	TemporaryPanel	0		0		0		0	0	0	0	
+17	17	UI_FuncName_17	btn_paihangbang		26	0	0	0	0	3	3	0	0	1	1			LinkUI	RankPanel	1		1	UIFuncDes_17	0		0	0	0	0	
+18	18	UI_FuncName_18	btn_shezhi		1	0	0	0	0	3	1	0	0	5	1			LinkUI	SettingPanel	0		0		0		0	0	0	0	
+19	19	UI_FuncName_19	icon_daily		25	0	0	0	0	0	0	0	0	0	1	seektreasure__panelbg001				0		0		0		0	0	0	0	
+20	20	UI_FuncName_20			4	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3	0	UI_GainWay_Des1	0		0		0	0	0	0	
+21	21	UI_FuncName_21	btn_jiaoyi		10	0	0	0	0	1	1	0	0	2	1			LinkUI	TradingPanel	0		0	UIFuncDes_21	0		0	0	0	0	
+22	22	UI_FuncName_22			29	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2	0		0		0		0	0	0	0	
+23	23	UI_FuncName_23	btn_worldtask	10200035,1	16	0	0	0	0	0	0	0	0	0	1	worldtask_panelbg001				1		0	UIFuncDes_23	0		0	0	0	0	
+24	24	UI_FuncName_24	btn_gonggao		10	0	0	0	0	3	3	0	0	4	1			LinkUI	GameNoticePanel	0		0		0		0	0	1	0	
+25	25	UI_FuncName_25	btn_dungeon	10200070,1	20	0	0	0	0	4	0	0	0	0	1	bg_zuduifuben		LinkUI	DungeonInfoPanel;Normal	1	UI_GainWay_Des1	1	UIFuncDes_25	0	MSG_NotOpenTips1	0	0	0	0	
+26	26	UI_FuncName_26	btn_dungeon		40	0	0	0	0	0	0	0	0	0	1	bg_tuanduifuben		LinkUI	DungeonInfoPanel;Team	0	UI_GainWay_Des1	1	UIFuncDes_26	0		0	0	0	0	
+27	27	UI_FuncName_27	btn_dungeon		50	0	0	0	0	0	0	0	0	0	1	bg_tiaozhanfuben		LinkUI	DungeonInfoPanel;Challenge	0	UI_GainWay_Des1	1	UIFuncDes_27	0		0	0	0	0	
+28	28	UI_FuncName_28	btn_dungeon		76	0	0	0	0	0	0	0	0	0	1	bg_envoyfuben		LinkUI	DungeonInfoPanel;Envoy	0	UI_GainWay_Des1	1	UIFuncDes_28	0		0	0	0	0	
+29	30	UI_FuncName_30	btn_crack	10200070,0	20	0	0	0	0	0	2	0	0	0	1	crack_panelbg001		ClickNpc	2;npc_crack	0	UI_GainWay_Des1	0	UIFuncDes_30	0	MSG_Crack_NotOpenTips	0	0	0	0	
+30	32	UI_FuncName_32	icon_dz_magic		31	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_forging_002	0		0	UIFuncDes_32	0		0	0	0	0	
+31	33	UI_FuncName_33	btn_secret		33	0	0	0	0	0	0	0	0	0	1	icon_teamsecret		ClickNpc	2;npc_10046	0	UI_GainWay_Des1	1	UIFuncDes_33	0		0	0	0	0	
+32	34	UI_FuncName_34	btn_secret		40	0	0	0	0	0	0	0	0	0	1	icon_unlimitedsecret	btn_secret	LinkUI	SecretUnLimitTowerPanel	0	UI_GainWay_Des1	0	UIFuncDes_34	0	MSG_SeasonNotOpenTips	0	0	0	0	
+33	35	UI_FuncName_35			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ResolveItemsPanel	0	UI_GainWay_Des6	0		0		0	0	0	0	
+34	36	UI_FuncName_36			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+35	37	UI_FuncName_37	btn_qicheng		-1	0	0	0	1	3	1	0	0	3	1		btn_qicheng	LinkUI	PetPanel	1		0		0		0	0	0	0	
+36	38	UI_FuncName_38	btn_jineng30	10200100,0	1	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;1	0		0	UIFuncDes_38	0	Msg_FuncNotOpenTips_38	0	0	0	0	
+37	39	UI_FuncName_39	btn_qianghua30		40	0	0	0	0	0	0	0	0	0	1			LinkUI	StrengthenPanel;1	0		0	UIFuncDes_39	0		0	0	0	0	
+38	40	UI_FuncName_40	btn_qianghua30	10000030,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	BagPanel;OpenSoulStone	0		0	UIFuncDes_40	0		0	0	0	0	
+39	41	UI_FuncName_41			10	0	0	0	0	0	0	0	0	0	1			LinkUI	SocialPanel	0		0		0		0	0	0	0	
+40	42	UI_FuncName_42			30	0	0	0	0	0	0	0	0	0	1			LinkUI		0		0		0		0	0	0	0	
+41	43	UI_FuncName_43	btn_shizhuang30		10	0	0	0	0	3	2	0	0	1	1		btn_shizhuang30	LinkUI	FashionPanel	0		1	UIFuncDes_43	0		0	0	0	0	
+42	44	UI_FuncName_44	btn_qicheng		10	0	0	0	0	0	0	0	0	0	1		btn_qicheng	LinkUI	FashionDyeingPanel	0		0		0		0	0	0	0	
+43	45	UI_FuncName_45			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel	0	UI_GainWay_Des5	0		0		0	0	0	0	
+44	46	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1	0	UI_GainWay_Des5	0		0		0	0	0	0	
+45	47	UI_FuncName_47	btn_mall	11100160,1	1	0	0	0	0	1	1	0	0	3	1			LinkUI	MallPanel	0	UI_GainWay_Des5	0		0	Msg_FuncNotOpenTips_110	0	0	0	0	
+46	48	UI_FuncName_48		11100180,5	1	0	0	0	0	0	0	0	0	0	1			LinkUI		0		0		0		0	0	0	0	
+47	49				1	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;1	0		0		0		0	0	0	0	
+48	50	UI_FuncName_50	btn_gonghui	10100180,6	-1	0	0	0	0	3	2	0	0	2	1			GuildLinkUI		1		0	UIFuncDes_50	0	Msg_FuncNotOpenTips_50	0	0	0	0	
+49	51	UI_FuncName_51	btn_guildtask		27	0	0	0	0	0	0	0	0	0	1	bg_gonghuirenwu		ClickNpc	40;npc_10080	0		1	UIFuncDes_51	0		0	0	0	0	
+50	52	UI_FuncName_52			10	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+51	53				10	0	0	0	0	0	0	0	0	0	1			LinkUI	GuildRedPacketPanel	0		0		0		0	0	0	0	
+52	54	UI_FuncName_54			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3;301	0		0		1		0	0	0	0	
+53	55	UI_FuncName_55	btn_huodong		10	0	0	0	0	2	4	0	0	3	1			LinkUI	TimeLimitActivityPanel	0		0		0		0	10093	0	0	
+54	56	UI_FuncName_56	btn_kaoshi		10	0	0	0	0	0	0	0	0	0	1	bg_xueyuankaoshi	btn_kaoshi	LinkUI	AnswerPanel	0		0	UIFuncDes_56	0		0	0	0	0	
+55	57	UI_FuncName_57	btn_shengyan		18	0	0	0	0	0	0	0	0	0	1	bg_gonghuishengyan	huodong_shengyan	GuildScene		0		0		0		0	0	0	0	
+56	58				18	0	0	0	0	0	0	0	0	0	1			GuildScene		0		0		0		0	0	0	0	
+57	59				18	0	0	0	0	0	0	0	0	0	1			GuildScene		0		0		0		0	0	0	0	
+58	60				18	0	0	0	0	0	0	0	0	0	1			GuildScene		0		0		0		0	0	0	0	
+59	67	UI_FuncName_67	btn_juanxian		32	0	0	0	0	0	0	0	0	0	1	bg_gonghuijuanxian		ClickNpc	40;npc_10117	0		1	UIFuncDes_67	0		0	0	0	0	
+60	68	UI_FuncName_68			32	0	0	0	0	0	0	0	0	0	1	bg_gonghuizizhu		LinkUI	GuildSeekHelpPanel	0		0		0		0	0	0	0	
+61	61	UI_FuncName_61	btn_tujian		21	0	0	0	0	3	2	0	0	4	1			LinkUI	AdventureBookPanel	0		1	UIFuncDes_61	0	Msg_FuncNotOpenTips_61	0	0	0	0	
+62	62	UI_FuncName_62			1	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3;401	0		0		1		0	0	0	0	
+63	63	UI_FuncName_63			4	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+64	64	UI_FuncName_64		11100200,0	1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+65	65	UI_FuncName_65			28	0	0	0	0	0	0	0	0	0	1			LinkUI	StrengthenPanel;2	0		0		0		0	0	0	0	
+66	66	UI_FuncName_66			27	0	0	0	0	0	0	0	0	0	1			LinkUI	GuildTrainPanel	0		0		0		0	0	0	0	
+67	69	UI_FuncName_69	btn_npc_present		21	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+68	70				1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	1	0	
+69	71				100	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+70	72	UI_FuncName_72			1	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3;101	0	UI_GainWay_Des5	0		1		0	0	0	0	
+71	73	UI_FuncName_73			10	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+72	74	UI_FuncName_74	btn_guildboss		18	0	0	0	0	0	0	0	0	0	1	bg_gonghuiboss	huodong_gonghuiboss	LinkUI	GuildBossPanel	0		0		0		0	0	0	0	
+73	75	UI_FuncName_75			18	0	0	0	0	0	0	0	0	0	1			LinkUI	GuildBossTreasurePanel	0		0		0		0	0	0	0	
+74	76	UI_FuncName_76			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;2;1	0	UI_GainWay_Des1	0		1		0	0	0	0	
+75	77	UI_FuncName_77			25	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+76	78	UI_FuncName_78			18	0	0	0	0	0	0	0	0	0	1			ClickNpc	40;npc_100801	0		0		0		0	0	0	0	
+77	79	UI_FuncName_79			18	0	0	0	0	0	0	0	0	0	1			ClickNpc	40;npc_100801	0		0		0		0	0	0	0	
+78	80	UI_FuncName_80	btn_goldtask		42	0	3	0	0	0	0	0	0	0	1	bg_qiyu		ClickNpc	2;npc_10205	0	UI_GainWay_Des1	1	UIFuncDes_80	0		0	0	0	0	
+79	81				10	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_10138	0		0		0		0	0	0	0	
+80	82	UI_FuncName_82			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ReportPanel	0		0		0		0	0	0	0	
+81	83	UI_FuncName_83			9	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3;701	0	UI_GainWay_Des5	0		1		0	0	0	0	
+82	84	UI_FuncName_84			9	0	0	0	0	0	0	0	0	0	1			LinkUI	PetSummonPanel	0		0		0		0	0	0	0	
+83	85	UI_FuncName_85	chengzhanganniu		10	0	0	0	0	0	0	0	0	0	1			LinkUI	GrowUpPanel	0		0		0		0	0	0	0	
+84	86	UI_FuncName_86	btn_event		18	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+85	87	UI_FuncName_87	btn_dungeon		1	0	0	0	0	0	0	0	0	0	1			LinkUI	TaskDescriptPanel	0		0		0		0	0	0	0	
+86	88				28	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_10046	0	UI_GainWay_Des1	0		0		0	0	0	0	
+87	89		btn_qicheng		1	0	0	0	1	0	0	0	0	0	1		btn_qicheng	LinkUI	PetPanel;0	0		0		0	Msg_FuncNotOpenTips_89	0	0	0	0	
+88	90		btn_qicheng	10100177,0	1	0	0	0	0	0	0	0	0	0	1		btn_qicheng	LinkUI	PetPanel;1	1		0		0	Msg_FuncNotOpenTips_90	0	0	0	0	
+89	91	UI_FuncName_91	btn_qicheng		30	0	0	0	0	0	0	0	0	0	1		btn_qicheng	LinkUI	PetPanel;2	0		0		0		0	0	0	0	
+90	92		btn_qicheng		1	0	0	0	0	0	0	0	0	0	1		btn_qicheng	LinkUI	PetPanel;3	0		0		0		0	0	0	0	
+91	93	UI_FuncName_93			25	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+92	95	UI_FuncName_95	icon_worldboss_map		10	0	0	0	0	0	0	0	0	0	1	bg_shengdianyuanzheng	icon_worldboss			0		0		0		0	0	0	0	
+93	96	UI_FuncName_96			30	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_forging_002	0		0		0		0	0	0	0	
+94	97	UI_FuncName_97			42	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_forging_002	0		0		0		0	0	0	0	
+95	98	UI_FuncName_98			26	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+96	99	UI_FuncName_99			26	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+97	101	UI_FuncName_101			1	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_19000	0	UI_GainWay_Des1	0		1		0	0	0	0	
+98	102	UI_FuncName_102			1	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_10040	0	UI_GainWay_Des1	0		1		0	0	0	0	
+99	103	UI_FuncName_103			1	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_10039	0	UI_GainWay_Des1	0		1		0	0	0	0	
+100	104				38	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+101	105	UI_FuncName_105	btn_ciyuankongjian		39	0	3	0	0	1	2	0	0	2	1	bg_ciyuankongjian	btn_ciyuankongjian	LinkUI	SubSpacePanel	0		1	UIFuncDes_105	0		600	0	0	0	
+102	106	UI_FuncName_106	btn_battlefield		35	0	0	0	0	0	0	0	0	0	1	bg_zhanchang	btn_battlefield	LinkUI	CrossServerBattlefieldPanel	0	UI_GainWay_Des1	0		0		0	0	0	0	
+103	107				1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+104	108	UI_FuncName_108			1	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_108	0	0	0	0	
+105	109	UI_FuncName_109	btn_trial		40	0	0	0	0	0	0	0	0	0	1	bg_trial		ClickNpc	2;npc_trial	0		0	UIFuncDes_109	0		0	0	0	0	
+106	110	UI_FuncName_110		11100160,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	MallPanel;2	0		0		0	Msg_FuncNotOpenTips_110	0	0	0	0	
+107	111	UI_FuncName_111	btn_killstar		30	0	1	0	0	0	0	0	0	0	1	bg_killstar	btn_killstar	LinkUI	KillStarPanel	0	UI_GainWay_Des1	1	UIFuncDes_111	0		0	0	0	0	
+108	112	UI_FuncName_112	btn_heroroad	10100180,0	1	0	0	0	0	1	2	0	0	3	1			LinkUI	HeroRoadPanel	1		0	UIFuncDes_112	0	Msg_FuncNotOpenTips_112	0	0	0	0	
+109	418	UI_FuncName_418	btn_epic		30	0	0	0	0	1	2	0	0	3	1	bg_epic	btn_epic	LinkUI	SingleHeroEpicPanel	1		0		0		0	0	0	0	
+110	114	UI_FuncName_114			4	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+111	115	UI_FuncName_115			33	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;1	0		0		0		0	0	0	0	
+112	116	UI_FuncName_116	btn_title	11100200,0	10	0	0	0	0	0	0	0	0	0	1			LinkUI	TitlePanel	0		0		0		0	0	0	0	
+113	117	UI_FuncName_117	btn_qianghua30	10000030,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	BagPanel;OpenSoulStone	0		0	UIFuncDes_40	0		0	0	0	0	
+114	118	UI_FuncName_118	btn_killstar		26	0	0	0	0	0	0	0	0	0	1	seektreasure__panelbg001	btn_juese30			0		0	UIFuncDes_118	0		0	0	0	0	
+115	119	UI_FuncName_119	btn_killstar		26	0	0	0	0	0	0	0	0	0	1	seektreasure__panelbg001	btn_juese30			0		0	UIFuncDes_119	0		0	0	0	0	
+116	120	UI_FuncName_120	btn_ciyuankongjian		29	0	0	0	0	0	0	0	0	0	1	bg_fishingactivity		LinkUI	WorldMapPanel;OpenedFishingScene	0	UI_GainWay_Des11	1	UIFuncDes_120	0		0	0	0	0	
+117	121	UI_FuncName_121			1	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3;201	0	UI_GainWay_Des5	0		1		0	0	0	0	
+118	122	UI_FuncName_122	btn_ruins		38	0	0	0	0	0	0	0	0	0	1	bg_ruins	btn_ruins	ClickNpc	2;npc_guildwar_entrance	0		1	UIFuncDes_122	0		0	0	0	0	
+119	123	UI_FuncName_123	btn_fengmo		28	0	1	0	0	0	0	0	0	0	0	bg_baotu		LinkUI	AdventurePanel	0		1	UIFuncDes_123	0	Msg_FuncNotOpenTips_123	0	0	0	0	
+120	124	UI_FuncName_124	bg_forgingfestival		35	0	0	0	0	0	0	0	0	0	1			LinkUI	StrengthenPanel;5	0		0		0		0	0	0	0	
+121	125	UI_FuncName_125	btn_qicheng		34	0	2	0	0	0	0	0	0	0	1	bg_molinghuodong01		LinkUI	AdventurePanel	0		1	UIFuncDes_125	0	Msg_FuncNotOpenTips_125	0	0	0	0	
+122	126	UI_FuncName_126	btn_worldtask	10100160,0	1	0	0	0	0	0	0	0	0	0	1			LinkUI	AstrolabePanel;true	0		0		0		0	0	0	0	
+123	127	UI_FuncName_127	btn_worldtask		29	0	2	0	0	0	0	0	0	0	1	bg_xingzuoyunshi01		LinkUI	ConstellationFatePanel	0		0		0		0	0	0	0	
+124	128	UI_FuncName_128			1	0	0	0	0	0	0	0	0	0	0					0		0		0		0	0	0	0	
+125	129	UI_FuncName_129			5	0	0	0	0	0	0	0	0	0	1			LinkUI	RuneBatchResolvePanel	0		0		0		0	0	0	0	
+126	130	UI_FuncName_130			30	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;903	0		0		0		0	0	0	0	
+127	131	UI_FuncName_131			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ItemComposePanel;1	0	UI_GainWay_Des12	0		0		0	0	0	0	
+128	132	UI_FuncName_132			20	0	0	0	0	0	0	0	0	0	1			LinkUI	ConchSoundPanel	0		0		0	Msg_FuncNotOpenTips_132	0	0	0	0	
+129	133	UI_FuncName_133			1	0	0	0	0	0	0	0	0	0	1			LinkUI	BagPanel;OpenSoulStone	0		0		0		0	0	0	0	
+130	134	UI_FuncName_134			29	0	0	0	0	0	0	0	0	0	1			ClickNpc	1;npc_100821	0		0		0		0	0	0	0	
+131	135				15	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+132	136	UI_FuncName_136	btn_kaoshi		32	0	0	0	0	0	0	0	0	0	1	bg_xueyuankaoshi	btn_kaoshi	LinkUI	AnswerFirstTestPanel	0		0		0		0	0	0	0	
+133	137	UI_FuncName_137			40	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+134	138	UI_FuncName_138	btn_homeland		30	0	0	0	0	3	2	0	0	5	1			HomelandScene		0		0		0		0	0	0	0	
+135	139	UI_FuncName_139	btn_homeland_shop	640060,0	30	0	0	0	0	5	1	0	0	1	1			LinkUI	TradingPanel;3;905	0		0		1		0	0	0	0	
+136	140	UI_FuncName_140	btn_barn		30	0	0	0	0	5	1	0	0	2	1			LinkUI	HomelandStorePanel	0		0		0		0	0	0	0	
+137	141	UI_FuncName_141	btn_kaoshi		32	0	0	0	0	0	0	0	0	0	1	bg_xueyuankaoshi	btn_kaoshi	ClickNpc	2;npc_examination	0		0		0		0	0	0	0	
+138	142	UI_FuncName_142			1	0	0	0	0	0	0	0	0	0	1					0		0	UIFuncDes_142	0		0	0	1	0	
+139	143	UI_FuncName_143			1	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3;901	0	UI_GainWay_Des5	0		1		0	0	0	0	
+140	144	UI_FuncName_144			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;2;3	0	UI_GainWay_Des1	0		1		0	0	0	0	
+141	145	UI_FuncName_145	btn_soulstar	10100180,1	18	0	0	0	0	0	0	0	0	0	1	bg_xinghunmofang01	btn_juese30	ClickNpc	2;npc_soulstar	0	UI_GainWay_Des1	1	UIFuncDes_145	0		0	0	0	0	
+142	146	UI_FuncName_146			48	0	0	0	0	0	0	0	0	0	1			LinkUI	StrengthenPanel;3	0		0		0		0	0	0	0	
+143	147	UI_FuncName_147			48	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+144	148	UI_FuncName_148	btn_killstar		42	0	0	0	0	0	0	0	0	0	1			LinkUI	ReduceTaskPanel	0		0		0		0	0	0	0	
+145	149	UI_FuncName_149			30	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+146	150	UI_FuncName_150			30	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3;904	0	UI_GainWay_Des5	0		1		0	0	0	0	
+147	151	UI_FuncName_151	btn_fixdteam		28	0	0	0	0	0	0	0	0	0	1		btn_fixdteam	LinkUI	FixedTeamPanel	0		0		0		0	0	0	0	
+148	152	UI_FuncName_152	btn_soulmate		29	0	0	0	0	0	0	0	0	0	1		btn_marriage	ClickMarriageBtn	1	0		0		0		0	0	0	0	
+149	153	UI_FuncName_153			10	0	0	0	0	0	0	0	0	0	1			LinkUI	SpecialItemComposePanel;1	0		0		1		0	0	0	0	
+150	154	UI_FuncName_154	btn_arrange		30	0	0	0	0	5	1	0	0	4	1			LinkUI	HomelandEditViewPanel	0		0		0		0	0	0	0	
+151	155	UI_FuncName_155	btn_stroll		38	0	0	0	0	0	0	0	0	0	1			LinkUI	StrollEffectTabPanel	0		0		0		0	0	0	0	
+152	156	UI_FuncName_156			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;906	0		0		1		0	0	0	0	
+153	157	UI_FuncName_157	btn_center	640180,0	30	0	0	0	0	5	1	0	0	3	1			LinkUI	HomelandOrderPanel	0		0		0		0	0	0	0	
+154	158	UI_FuncName_158	btn_guildleague		40	0	0	0	0	0	0	0	0	0	1	bg_guildleague	btn_guildleague	LinkUI	GuildPanel;4	0		0		0		0	0	0	0	
+155	159	UI_FuncName_159	btn_kingtower		40	0	0	0	0	0	0	0	0	0	1	bg_kingtower	btn_kingtower	LinkUI	KingTowerPanel	0		0		0		0	0	0	0	
+156	160	UI_FuncName_160	btn_szellpeak		40	0	0	0	0	0	0	0	0	0	1	bg_szellpeak	btn_szellpeak	LinkUI	AdventurePanel;3	0		0		0		0	0	0	0	
+157	161	UI_FuncName_161	btn_szellpeak_book		40	0	0	0	0	3	3	0	0	2	1		btn_szellpeak_book	LinkUI	PeakednessCardPanel	0		0		0		0	0	0	0	
+158	162	UI_FuncName_162	btn_guildarea		36	0	0	0	0	1	2	0	0	1	1	bg_guildarea	btn_guildarea	LinkUI	GuildPKBossPanel	0		0		0		0	0	0	0	
+159	163	UI_FuncName_163			1	0	0	0	0	0	0	0	0	0	1			ClickNpc	40;npc_10513	0		0		0		0	0	0	0	
+160	164	UI_FuncName_164			40	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3;908	0		0		1		0	0	0	0	
+161	165	UI_FuncName_165			40	0	0	0	0	0	0	0	0	0	1			LinkUI	PeakednessCardComposePanel	0		0		0		0	0	0	0	
+162	166	UI_FuncName_166	icon_holystone		50	0	0	0	0	0	0	0	0	0	1		icon_holystone	LinkUI	BagPanel;OpenHallow	0		0		0		0	0	0	0	
+163	167	UI_FuncName_167			50	3	0	0	0	0	0	0	0	0	1			LinkUI	GuildPanel;5	0		0		0		0	0	0	0	
+164	168	UI_FuncName_168			31	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;909	0		0		1		0	0	0	0	
+165	169	UI_FuncName_169	icon_mercenary	10100230,0	14	0	0	0	0	3	1	0	0	4	1			LinkUI	MercenaryPanel	0		0		0		0	0	0	0	
+166	170	UI_FuncName_170		10100230,0	14	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_170	0	0	0	0	
+167	171	UI_FuncName_171		10100230,0	18	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_171	0	0	0	0	
+168	172	UI_FuncName_172		10100230,0	30	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_172	0	0	0	0	
+169	173	UI_FuncName_173		10100230,0	40	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_173	0	0	0	0	
+170	174	UI_FuncName_174		10100230,0	15	0	0	0	0	0	0	0	0	0	1			LinkUI	MercenaryPanel;3	0		0		0	Msg_FuncNotOpenTips_174	0	0	0	0	
+171	175	UI_FuncName_175	icon_badge		60	0	0	0	0	0	0	0	0	0	1			LinkUI	GuildBadgePanel;1	0		0		0		0	0	0	0	
+172	176	UI_FuncName_176			29	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+173	177	UI_FuncName_177	btn_badge		60	0	0	1	0	0	0	0	0	0	1			LinkUI	GuildBadgePanel;0	0		0		0		0	0	0	0	
+174	178	UI_FuncName_178	sf_xinren		29	0	0	0	0	1	2	0	0	8	1		btn_szellpeak	ClickNpc	4;npc_weddingentrance	0		0		0		0	41100028	0	0	
+175	179	UI_FuncName_179			52	0	0	0	0	0	0	0	0	0	1			LinkUI	StrengthenPanel;4	0		0		0		0	0	0	0	
+176	180	UI_FuncName_180			70	0	0	0	0	0	0	0	0	0	1			LinkUI	StrengthenPanel;4	0		0		0		0	0	0	0	
+177	181	UI_FuncName_181			1	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_181	0	0	0	0	
+178	182	UI_FuncName_182			1	0	0	0	0	0	0	0	0	0	1	icon_getback_groupbox				0		0		0		0	0	0	0	
+179	183	UI_FuncName_183	icon_startrace_team	10100230,1	14	0	0	0	0	0	0	0	0	0	1	icon_startrace_activity	icon_startrace_team	LinkUI	StarTracePanel	0		0		0	Msg_FuncNotOpenTips_183	0	0	0	0	
+180	184	UI_FuncName_184	btn_soulmate		38	0	0	0	0	0	0	0	0	0	1	bg_steptask	btn_soulmate	ClickNpc	2;npc_10515	0		0		0		0	0	0	0	
+181	185	UI_FuncName_185	btn_snowfight		31	0	0	0	0	0	0	0	0	0	1	bg_snowfight	btn_snowfight			0		0		0		0	0	0	0	
+182	186	UI_FuncName_186	btn_snowfight		31	0	0	0	0	0	0	0	0	0	1	bg_snowfight	btn_snowfight			0		0		0		0	0	0	0	
+183	187	UI_FuncName_187	btn_snowfight		31	0	0	0	0	0	0	0	0	0	1	bg_snowfight	btn_snowfight			0		0		0		0	0	0	0	
+184	188	UI_FuncName_188	btn_recharge	2018804,0	60	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_188	0	0	0	0	
+185	189	UI_FuncName_189			56	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+186	190	UI_FuncName_190			60	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+187	191	UI_FuncName_191			10	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+188	192	UI_FuncName_192			62	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+189	193	UI_FuncName_193			62	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+190	194	UI_FuncName_194	icon_starchild	590010,1	70	0	0	0	0	3	3	0	0	2	1			LinkUI	StarChildPanel;0	1		0		0		0	0	0	0	
+191	195	UI_FuncName_195			70	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+192	196	UI_FuncName_196			10	0	0	0	0	0	0	0	0	0	0			LinkUI	TradingPanel;3;913;0	0		0		1		0	0	0	0	
+193	201	UI_FuncName_201	btn_fuli		16	0	0	0	0	1	1	0	0	4	1			LinkUI	WelfareActivityPanel	0		1	UIFuncDes_201	0		0	0	0	0	
+194	202	UI_FuncName_202			12	0	0	0	0	0	0	0	0	0	1			LinkUI	WelfareActivityPanel;1;1	0	UI_GainWay_Des1	0		0		0	0	0	0	
+195	203	UI_FuncName_203			9	0	0	0	0	0	0	0	0	0	1			LinkUI	WelfareActivityPanel;102;2	0	UI_GainWay_Des1	0		0		0	0	0	0	
+196	204	UI_FuncName_204			9	0	0	0	0	0	0	0	0	0	1			LinkUI	WelfareActivityPanel;205;3	0	UI_GainWay_Des1	0		0		0	0	0	0	
+197	205				9	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+198	206				99	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+199	207				60	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+200	208				1	0	0	0	0	0	0	0	0	0	1			LinkUI	AdventurePanel;2	0		0		1		0	0	0	0	
+201	209	UI_FuncName_209	btn_juanxian		35	0	0	0	0	0	0	0	0	0	1			LinkUI	MysteriousShopPanel	0		0		0		0	0	0	0	
+202	210			11100160,1	1	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_110	0	0	0	0	
+203	211	UI_FuncName_211		11100160,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	MallPanel;1	0		0		1	Msg_FuncNotOpenTips_110	0	0	0	0	
+204	212	UI_FuncName_211		11100160,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	MallPanel;1	0		0		1	Msg_FuncNotOpenTips_110	0	0	0	0	
+205	213	UI_FuncName_213	btn_recharge	11100160,1	1	0	0	0	0	1	1	0	0	5	1			OpenFirstRecharge		1		0		0	Msg_FuncNotOpenTips_110	0	10146	1	0	
+206	214			11100160,1	1	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_110	0	0	1	0	
+207	215			11100160,1	1	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_110	0	0	1	0	
+208	216			11100160,1	1	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_110	0	0	1	0	
+209	217				20	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+210	218	UI_FuncName_218	btn_huodong	11100160,1	22	0	0	0	0	0	0	0	0	0	1					0		0	UIFuncDes_218	0		0	0	0	0	
+211	219	UI_FuncName_219		11100160,1	1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+212	220			11100160,1	1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+213	221			11100160,1	1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+214	222			11100160,1	1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+215	223			10200120,3	1	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_110	0	0	0	0	
+216	224			10200120,3	1	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_110	0	0	0	0	
+217	225			10300210,4	1	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_110	0	0	0	0	
+218	226	UI_FuncName_226	btn_jingciahuodong	11100160,1	16	0	0	0	0	1	2	0	0	4	1			LinkUI	OpenServerActivityPanel	1		1	UIFuncDes_201	0		0	41100023	1	0	
+219	227	UI_FuncName_227			16	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+220	228	UI_FuncName_228			20	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+221	229	UI_FuncName_229			28	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+222	230	UI_FuncName_230			31	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+223	231	UI_FuncName_231	btn_fengmo		42	0	0	0	0	0	0	0	0	0	1	bg_devilsoul	btn_fengmo	LinkUI	DisasterInvadePanel	0		0		0		0	0	0	0	
+224	233	UI_FuncName_233		11100160,1	1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+225	234	UI_FuncName_234	btn_rechargegift	11100160,1	1	0	0	0	0	1	1	0	0	5	1			LinkUI	MallPanel;2;1	0		0		0		0	0	0	0	
+226	235	UI_FuncName_235		11100160,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	WelfareActivityPanel;2310;12	0	UI_GainWay_Des1	0		0		0	0	0	0	
+227	236	UI_FuncName_236	btn_spring2020	11100160,1	1	0	0	0	0	1	2	0	0	9	1			LinkUI	FestivalActivityPanel;4511;236	0		0	UIFuncDes_237	0		0	41100023	0	0	
+228	237				25	0	0	0		0	0	0	0	0	1							0		0		0	0	0	0	
+229	238			11100160,1	1	0	0	0		0	0	0	0	0	1							0		0		0	0	0	0	
+230	239				25	0	0	0		0	0	0	0	0	1							0		0		0	0	0	0	
+231	240				35	0	0	0		0	0	0	0	0	1							0		0		0	0	0	0	
+232	241	UI_FuncName_241	btn_freebuy	11100160,1	1	0	0	0	0	1	1	0	0	5	1			LinkUI	ZeroBuyPanel	1		0		0		0	0	1	0	
+233	242	UI_FuncName_238	btn_goldenautumn	11100160,1	1	0	0	0	0	1	2	0	0	9	1			LinkUI	FestivalActivityPanel;4512;242	0		0	UIFuncDes_238	0		0	0	0	0	
+234	243	UI_FuncName_242		11100160,1	1	0	0	0		0	0	0	0	0	1							0		0		0	0	0	0	
+235	244	UI_FuncName_244		11100160,1	1	0	0	0		0	0	0	0	0	1							0		0		0	0	0	0	
+236	245			11100160,1	1	0	0	0		0	0	0	0	0	1							0		0		0	0	0	0	
+237	246			11100160,1	1	0	0	0		0	0	0	0	0	1							0		0		0	0	0	0	
+238	247			11100160,1	1	0	0	0		0	0	0	0	0	1							0		0		0	0	0	0	
+239	248			11100160,1	1	0	0	0		0	0	0	0	0	1			LinkUI	OpenServerActivityPanel;6106;248			0		0		0	0	0	0	
+240	249			11100160,1	1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+241	250			11100160,1	1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+242	251	UI_FuncName_251			25	0	0	0	0	0	0	0	1000	0	1			LinkUI	MidsummerActivityPanel;5202;26	0	UI_GainWay_Des1	0		0		0	0	0	5222	
+243	252	UI_FuncName_252			25	0	0	0	0	0	0	0	1000	0	1					0		0		0		0	0	0	5315	
+244	253	UI_FuncName_253	btn_grandceremony		18	0	0	0	0	1	2	0	1000	5	1	grandceremony_panelbg001		LinkUI	CelebrationActivityPanel	0		0		0		0	0	0	0	
+245	254	UI_FuncName_254	traran_system4		1	0	0	0	0	1	2	0	0	8	1	texture_fuli		LinkUI	BusinessActivityPanel;254	0		0		0		0	41100023	0	0	
+246	255	UI_FuncName_255			25	0	0	0	0	1	2	0	0	4	1			LinkUI	StarBattlePassPanel	0		0		0		0	10207	0	0	
+247	256	UI_FuncName_256			31	0	0	0	0	0	0	0	0	0	1					0	UI_GainWay_Des1	0		0		0	0	0	0	
+248	257				1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+249	258				25	0	0	0	0	0	0	0	0	0	1			LinkUI	MidsummerActivityPanel;5202;26	0	UI_GainWay_Des1	0		0		0	0	0	0	
+250	259	UI_FuncName_259	btn_danceactive		25	0	0	0	0	1	2	0	1000	8	1	texture_fuli		LinkUI	BAMasqueradePanel	0		0		0		0	41100022	0	0	
+251	260				29	0	0	0	0	0	0	0	0	0	1					0	UI_GainWay_Des11	0	UIFuncDes_120	0		0	0	0	0	
+252	261	UI_FuncName_261		11100160,1	1	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+253	262	UI_FuncName_235	btn_guildarea		25	0	0	0	0	0	0	0	0	0	1			LinkUI	WelfareActivityPanel;2310;12	0	UI_GainWay_Des1	0		0		0	0	0	0	
+254	263	UI_FuncName_263		11100160,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	WelfareActivityPanel;6902;39	0		0		0		0	0	0	0	
+255	264	UI_FuncName_264			1	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_110	0	0	0	0	
+256	265	UI_FuncName_265	btn_playerback		50	0	0	0	0	1	2	0	1000	8	1		btn_playerback_1	LinkUI	BusinessActivityPanel;265	0		0	UIFuncDes_265	0		0	0	0	0	
+257	266	UI_FuncName_266			25	0	0	0	0	0	0	0	0	0	1			LinkUI	OpenServerActivityPanel;7902;50	0		0		0	Msg_FuncNotOpenTips_266	0	0	0	0	
+258	267				25	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+259	268				25	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+260	269				25	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+261	270				25	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+262	271				25	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+263	272	UI_FuncName_272	btn_newyear		25	0	0	0	0	1	2	0	0	8	1			LinkUI	SevenDaysSignPanel;9105	0		0		0	Msg_FuncNotOpenTips_272	0	0	0	0	
+264	273	UI_FuncName_273			25	0	0	0	0	0	0	0	0	0	1			LinkUI	OpenServerActivityPanel;5212;12	0		0		0	Msg_FuncNotOpenTips_273	0	0	0	0	
+265	274	UI_FuncName_274			25	0	0	0	0	0	0	0	0	0	1			LinkUI	OpenServerActivityPanel;7803;48	0		0		0	Msg_FuncNotOpenTips_274	0	0	0	0	
+266	275	UI_FuncName_275			25	0	0	0	0	0	0	0	0	0	1			LinkUI	OpenServerActivityPanel;2835;12	0		0		0	Msg_FuncNotOpenTips_275	0	0	0	0	
+267	276	UI_FuncName_276			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+268	277	UI_FuncName_277			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+269	278	UI_FuncName_278	icon_killstar_activity		60	0	0	0	0	0	0	0	0	0	1	icon_herokillstar_act	icon_killstar_activity	LinkUI	KillStarPanel;2	0		0		0		0	0	0	0	
+270	279	UI_FuncName_279		10100230,0	14	0	0	0	0	0	0	0	0	0	1			LinkUI	MercenaryPanel;2	0		0		0		0	0	0	0	
+271	280	UI_FuncName_280		10100230,0	14	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+272	281	UI_FuncName_281			20	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+273	282	UI_FuncName_282	icon_zhounian		200	0	0	0	0	0	0	0	0	2	1			OpenURL	https://sr.xinghegame.com/oneyear/#/	0		0		0		0	0	0	0	
+274	283				25	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+275	284				30	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+276	285	UI_FuncName_285			40	0	0	0	0	0	0	0	0	0	1					0		0		0	Msg_FuncNotOpenTips_285	0	0	0	0	
+277	286	UI_FuncName_286	push_face	11100160,1	1	0	0	0	0	1	2	0	0	10	1			OpenPushGiftPanel				0		0		0	41100023	0	0	
+278	287	UI_FuncName_287			25	0	0	0	0	0	0	0	0	0	1			LinkUI	OpenServerActivityPanel;9201;60	0		0		0	Msg_FuncNotOpenTips_287	0	0	0	0	
+279	288	UI_FuncName_288	btn_contract		50	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+280	289	UI_FuncName_289	btn_contract		50	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+281	290	UI_FuncName_290	btn_contract		50	0	0	0	0	1	2	0	0	3	1			LinkUI	MauDungeonActivityPanel	0		0		0	Msg_FuncNotOpenTips_1907	0	0	0	10012	
+282	291	UI_FuncName_291	btn_dungeon		25	0	0	0	0	1	2	0	0	4	1			LinkUI	DiggingTreasureActivityMainPanel			0		0		0	41100023	0	0	
+283	292	UI_FuncName_292			1	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+284	293	UI_FuncName_293			25	0	0	0	0	0	0	0	0	0	1			LinkUI	OpenServerActivityPanel;2835;12	0		0		0	Msg_FuncNotOpenTips_275	0	0	0	0	
+285	301				1	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_10033	0		0	UIFuncDes_301	0		0	0	0	0	
+286	302				1	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_10036	0		0	UIFuncDes_302	0		0	0	0	0	
+287	303				1	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_10035	0		0	UIFuncDes_303	0		0	0	0	0	
+288	304				1	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_10032	0		0	UIFuncDes_304	0		0	0	0	0	
+289	305				1	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_10034	0		0	UIFuncDes_305	0		0	0	0	0	
+290	306				1	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_10037	0		0	UIFuncDes_306	0		0	0	0	0	
+291	311	UI_FuncName_311			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;6	0	UI_GainWay_Des5	0		1		0	0	0	0	
+292	312	UI_FuncName_312			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;7	0	UI_GainWay_Des5	0		1		0	0	0	0	
+293	313	UI_FuncName_313			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;8	0	UI_GainWay_Des5	0		1		0	0	0	0	
+294	314	UI_FuncName_314			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;9	0	UI_GainWay_Des5	0		1		0	0	0	0	
+295	315	UI_FuncName_315			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;10	0	UI_GainWay_Des5	0		1		0	0	0	0	
+296	316	UI_FuncName_316			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;11	0	UI_GainWay_Des5	0		1		0	0	0	0	
+297	390	UI_FuncName_390	btn_choiceness_activity		16	0	0	0	0	1	2	1000	0	3	1					0		1		0		0	0	0	0	
+298	391	UI_FuncName_391			10	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+299	392	UI_FuncName_392	btn_qicheng		40	0	0	0	0	0	0	0	0	0	1		btn_qicheng	LinkUI		0		0		0		0	0	0	0	
+300	394	UI_FuncName_394	btn_gonggao		16	0	0	0	0	0	0	0	0	0	1			OpenURL	https://uask-v3.youzu.com/route	0		0		0		0	0	1	0	
+301	395	UI_FuncName_395	btn_heraldrybuild	-1	11	0	0	0		1	1	0	0	4	1			LinkUI	WelfareActivityPanel	0		0		0		0	0	0	0	
+302	401	UI_FuncName_401	btn_multi		1	0	3	0	0	0	0	0	0	0	0	icon_unlimitedsecret				0		0		0		0	0	0	0	
+303	402	UI_FuncName_402	btn_paihangbang		1	0	4	0	0	0	0	0	0	0	0	bg_xueyuankaoshi				0		0		0		0	0	0	0	
+304	403	UI_FuncName_403	btn_crack		1	0	5	0	0	0	0	0	0	0	0	crack_panelbg001				0		0		0		0	0	0	0	
+305	404	UI_FuncName_404	btn_jineng30		6	0	0	0	0	0	0	0	0	0	1					0		1	UIFuncDes_404	0		0	0	0	0	
+306	405	UI_FuncName_405	btn_jineng30		12	0	0	0	0	0	0	0	0	0	1					0		1	UIFuncDes_405	0		0	0	0	0	
+307	406	UI_FuncName_406	btn_award		1	0	6	0	0	0	0	0	0	0	0	arena_panelbg001				0		0		0		0	0	0	0	
+308	407	UI_FuncName_407	btn_jineng30		25	0	0	0	0	0	0	0	0	0	1					0		1	UIFuncDes_407	0		0	0	0	0	
+309	408	UI_FuncName_408	btn_battlefield		1	0	7	0	0	0	0	0	0	0	0	worldtask_panelbg001				0		0		0		0	0	0	0	
+310	409	UI_FuncName_409			25	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+311	410	UI_FuncName_410	btn_gashapon	10100230,0	1	0	0	0	0	1	2	0	0	5	0			LinkUI	BusinessActivityPanel;410	0		0	UIFuncDes_410	0	Msg_FuncNotOpenTips_110	0	0	0	0	
+312	411	UI_FuncName_411		10100230,0	1	0	0	0	0	0	0	0	0	0	0					0		0		0		0	0	0	0	
+313	412	UI_FuncName_412			1	0	0	0	0	0	0	0	0	0	1			LinkUI	MallPanel;1;1	0	UI_GainWay_Des1	0		0		0	0	0	0	
+314	413	UI_FuncName_413			1	0	0	0	0	0	0	0	0	0	1			LinkUI	MallPanel;1;2	0	UI_GainWay_Des1	0		0		0	0	0	0	
+315	414	UI_FuncName_414	koreaforum		1	0	0	0	0	3	3	0	0	1	0							0		0		0	0	0	0	
+316	415	UI_FuncName_233		10100230,0	1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+317	416	UI_FuncName_416			1	0	0	0	0	0	0	0	0	0	1			LinkUI	OpenServerActivityPanel;9604;64	0		0		0	Msg_FuncNotOpenTips_416	0	0	0	0	
+318	419	UI_FuncName_419	icon_hanghai		16	0	0	0	0	0	0	0	0	0	1			OpenURL	https://sr.xinghegame.com/oneyear/#/turntable	0		0		0		0	0	0	0	
+319	1000	UI_FuncName_1000			20	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;3;2	0	UI_GainWay_Des1	0		0		0	0	0	0	
+320	1001	UI_FuncName_1001			30	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;2;2	0	UI_GainWay_Des1	0		0		0	0	0	0	
+321	1002	UI_FuncName_1002			36	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;1;2	0	UI_GainWay_Des1	0		0		0	0	0	0	
+322	1003	UI_FuncName_1003			45	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;4;2	0	UI_GainWay_Des1	0		0		0	0	0	0	
+323	1004	UI_FuncName_1004			55	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;5;2	0	UI_GainWay_Des1	0		0		0	0	0	0	
+324	1005	UI_FuncName_1005			65	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;6;2	0	UI_GainWay_Des1	0		0		0	0	0	0	
+325	1006	UI_FuncName_1006			81	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;7;2	0	UI_GainWay_Des1	0		0		0	0	0	0	
+326	1050	UI_FuncName_1050			20	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;3;3	0	UI_GainWay_Des1	0		0		0	0	0	0	
+327	1051	UI_FuncName_1051			30	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;2;3	0	UI_GainWay_Des1	0		0		0	0	0	0	
+328	1052	UI_FuncName_1052			36	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;1;3	0	UI_GainWay_Des1	0		0		0	0	0	0	
+329	1053	UI_FuncName_1053			45	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;4;3	0	UI_GainWay_Des1	0		0		0	0	0	0	
+330	1054	UI_FuncName_1054			55	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;5;3	0	UI_GainWay_Des1	0		0		0	0	0	0	
+331	1055	UI_FuncName_1055			65	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;6;3	0	UI_GainWay_Des1	0		0		0	0	0	0	
+332	1056	UI_FuncName_1056			81	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;7;3	0	UI_GainWay_Des1	0		0		0	0	0	0	
+333	1100	UI_FuncName_1100	btn_arena		40	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;100	0	UI_GainWay_Des1	0		0		0	0	0	0	
+334	1101	UI_FuncName_1101	btn_arena		50	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;101	0	UI_GainWay_Des1	0		0		0	0	0	0	
+335	1102	UI_FuncName_1102	btn_arena		60	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;102	0	UI_GainWay_Des1	0		0		0	0	0	0	
+336	1103	UI_FuncName_1103	btn_arena		70	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;103	0	UI_GainWay_Des1	0		0		0	0	0	0	
+337	1104	UI_FuncName_1104	btn_arena		75	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;104	0	UI_GainWay_Des1	0		0		0	0	0	0	
+338	1150	UI_FuncName_1150	btn_arena		20	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;3	0	UI_GainWay_Des1	0		0		0	0	0	0	
+339	1151	UI_FuncName_1151	btn_arena		30	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;2	0	UI_GainWay_Des1	0		0		0	0	0	0	
+340	1152	UI_FuncName_1152	btn_arena		36	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;1	0	UI_GainWay_Des1	0		0		0	0	0	0	
+341	1153	UI_FuncName_1153	btn_arena		45	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;4	0	UI_GainWay_Des1	0		0		0	0	0	0	
+342	1154	UI_FuncName_1154	btn_arena		55	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;5	0	UI_GainWay_Des1	0		0		0	0	0	0	
+343	1155	UI_FuncName_1155	btn_arena		65	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;6	0	UI_GainWay_Des1	0		0		0	0	0	0	
+344	1180	UI_FuncName_1180			18	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;3;2	0	UI_GainWay_Des1	0		0		0	0	0	0	
+345	1181	UI_FuncName_1181			24	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;3;3	0	UI_GainWay_Des1	0		0		0	0	0	0	
+346	1182	UI_FuncName_1182			40	0	0	0	0	0	0	0	0	0	1			LinkUI	DungeonInfoPanel;100	0	UI_GainWay_Des1	0		0		0	0	0	0	
+347	1200	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2	0	UI_GainWay_Des2	0		1		0	0	0	0	
+348	1201	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;2;1	0	UI_GainWay_Des7	0		1		0	0	0	0	
+349	1202	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;2;2	0	UI_GainWay_Des7	0		1		0	0	0	0	
+350	1203	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;2;4	0	UI_GainWay_Des7	0		1		0	0	0	0	
+351	1204	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;2;6	0	UI_GainWay_Des7	0		1		0	0	0	0	
+352	1211	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;3;1	0	UI_GainWay_Des3	0		1		0	0	0	0	
+353	1212	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;3;2	0	UI_GainWay_Des3	0		1		0	0	0	0	
+354	1213	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;3;4	0	UI_GainWay_Des3	0		1		0	0	0	0	
+355	1214	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;3;6	0	UI_GainWay_Des3	0		1		0	0	0	0	
+356	1221	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;1;1	0	UI_GainWay_Des2	0		1		0	0	0	0	
+357	1222	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;1;2	0	UI_GainWay_Des2	0		1		0	0	0	0	
+358	1223	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;1;4	0	UI_GainWay_Des2	0		1		0	0	0	0	
+359	1224	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;1;6	0	UI_GainWay_Des2	0		1		0	0	0	0	
+360	1231	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;4;1	0	UI_GainWay_Des8	0		1		0	0	0	0	
+361	1232	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;4;2	0	UI_GainWay_Des8	0		1		0	0	0	0	
+362	1233	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;4;4	0	UI_GainWay_Des8	0		1		0	0	0	0	
+363	1234	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2;4;6	0	UI_GainWay_Des8	0		1		0	0	0	0	
+364	1241	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2	0	UI_GainWay_Des7	0		1		0	0	0	0	
+365	1242	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2	0	UI_GainWay_Des3	0		1		0	0	0	0	
+366	1243	UI_FuncName_1201			20	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;2	0	UI_GainWay_Des8	0		1		0	0	0	0	
+367	1400	UI_FuncName_1401			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;0;1	0	UI_GainWay_Des5	0		1		0	0	0	0	
+368	1431	UI_FuncName_1401			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;0;1;4;1	0	UI_GainWay_Des5	0		1		0	0	0	0	
+369	1432	UI_FuncName_1401			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;0;1;4;2	0	UI_GainWay_Des5	0		1		0	0	0	0	
+370	1433	UI_FuncName_1401			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;0;1;4;3	0	UI_GainWay_Des5	0		1		0	0	0	0	
+371	1434	UI_FuncName_1401			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;0;1;5;1	0	UI_GainWay_Des5	0		1		0	0	0	0	
+372	1435	UI_FuncName_1401			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;0;1;6;1	0	UI_GainWay_Des5	0		1		0	0	0	0	
+373	1436	UI_FuncName_1401			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;0;1;1;3	0	UI_GainWay_Des5	0		1		0	0	0	0	
+374	1451	UI_FuncName_112		10100180,0	1	0	0	0	0	0	0	0	0	0	1			LinkUI	HeroRoadPanel	0	UI_GainWay_Des10	0		0	Msg_FuncNotOpenTips_112	0	0	0	0	
+375	1452	UI_FuncName_1452			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;911	0	UI_GainWay_Des5	0		1		0	0	0	0	
+376	1453	UI_FuncName_1453		10100230,0	1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+377	1454	UI_FuncName_46			1	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;6;12	0	UI_GainWay_Des5	0		1		0	0	0	0	
+378	1455	UI_FuncName_1455			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+379	1456	UI_FuncName_1456			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+380	1457	UI_FuncName_1457			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+381	1458	UI_FuncName_1458			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+382	1459	UI_FuncName_1459			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+383	1501	UI_FuncName_1501		11100160,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	MallPanel;0;0	0	UI_GainWay_Des5	0		1	Msg_FuncNotOpenTips_110	0	0	0	0	
+384	1502	UI_FuncName_1502		11100160,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	MallPanel;0;3	0	UI_GainWay_Des5	0		1	Msg_FuncNotOpenTips_110	0	0	0	0	
+385	1503	UI_FuncName_1503		11100160,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	MallPanel;0;2	0	UI_GainWay_Des5	0		1	Msg_FuncNotOpenTips_110	0	0	0	0	
+386	1504	UI_FuncName_1504		11100160,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	MallPanel;0;1	0	UI_GainWay_Des5	0		1	Msg_FuncNotOpenTips_110	0	0	0	0	
+387	1505	UI_FuncName_1505		11100160,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	MallPanel;0;4	0	UI_GainWay_Des5	0		1	Msg_FuncNotOpenTips_110	0	0	0	0	
+388	1506	UI_FuncName_1506	finshing_bar_anger5		30	0	0	0	0	0	0	0	0	0	1		finshing_bar_anger5	LinkUI		0		0		0		0	0	0	16204	
+389	1507	UI_FuncName_1507	btn_rechargegift		30	0	0	0	0	0	0	0	0	0	1		btn_rechargegift	LinkUI	FishingCompetitionTreasurePanel	0		0		0		0	0	0	16204	
+390	1508	UI_FuncName_1508	btn_fengmo		30	0	0	0	0	0	0	0	0	0	1		btn_fengmo	LinkUI	FishingCompetitionDevilPanel	0		0		0		0	0	0	24016	
+391	2001	UI_FuncName_2001			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+392	2002	UI_FuncName_2002			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+393	2003	UI_FuncName_2003			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+394	2004	UI_FuncName_2004			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+395	2005	UI_FuncName_2005			15	0	0	0	0	0	0	0	0	0	1			LinkUI	AdventurePanel	0		0		0		0	0	0	0	
+396	2006	UI_FuncName_2006			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+397	2007	UI_FuncName_2007			23	0	0	0	0	0	0	0	0	0	1			LinkUI	AdventureBookPanel;1	0		0		0		0	0	0	0	
+398	2008	UI_FuncName_2008			1	0	0	0	0	0	0	0	0	0	1					0		0		1		0	0	0	0	
+399	2009	UI_FuncName_2009			1	0	0	0	0	0	0	0	0	0	1			RunToPos	2;-51.8,-75.8	0	UI_GainWay_Des5	0		1		0	0	0	0	
+400	2010	UI_FuncName_2010		11100160,1	1	0	0	0	0	0	0	0	0	0	1			OpenFirstRecharge		0	UI_GainWay_Des5	0		1	Msg_FuncNotOpenTips_2010	0	0	0	0	
+401	2011	UI_FuncName_2011			1	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_digtreasure	0	UI_GainWay_Des1	0		1		0	0	0	0	
+402	2012	UI_FuncName_2012			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+403	2013	UI_FuncName_2013			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;902	0	UI_GainWay_Des5	0		1		0	0	0	0	
+404	2014	UI_FuncName_2014			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+405	2015	UI_FuncName_2015			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;902	0	UI_GainWay_Des5	0		1		0	0	0	0	
+406	2016	UI_FuncName_2016			1	0	0	0	0	0	0	0	0	0	1			RunToPos	1;-20.0,34.8	0	UI_GainWay_Des1	0		1		0	0	0	0	
+407	2017	UI_FuncName_2017			29	0	0	0	0	0	0	0	0	0	1			LinkUI	ExchangeShopPanel;1	0	UI_GainWay_Des1	0		1		0	0	0	0	
+408	2018	UI_FuncName_2018			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+409	2019	UI_FuncName_2019			25	0	0	0	0	0	0	0	0	0	1			LinkUI	FestivalActivityPanel;4602;21	0	UI_GainWay_Des1	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+410	2020	UI_FuncName_2020			25	0	0	0	0	0	0	0	0	0	1			LinkUI	FestivalActivityPanel;4602;21	0	UI_GainWay_Des1	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+411	2021	UI_FuncName_2021			25	0	0	0	0	0	0	0	0	0	1			LinkUI	FestivalActivityPanel;4702;22	0	UI_GainWay_Des1	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+412	2022	UI_FuncName_2022			25	0	0	0	0	0	0	0	0	0	1			LinkUI	FestivalActivityPanel;4903;3	0	UI_GainWay_Des1	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+413	2023	UI_FuncName_2023			25	0	0	0	0	0	0	0	0	0	1			LinkUI	FestivalActivityPanel;4602;21	0	UI_GainWay_Des1	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+414	2024	UI_FuncName_2024			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+415	2025	UI_FuncName_106			35	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+416	2026	UI_FuncName_2026			25	0	0	0	0	0	0	0	0	0	1			LinkUI	FestivalActivityPanel;4703;22	0	UI_GainWay_Des1	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+417	2027	UI_FuncName_2027			25	0	0	0	0	0	0	0	0	0	1			LinkUI	FestivalActivityPanel;4603;21	0	UI_GainWay_Des1	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+418	2028	UI_FuncName_2028			25	0	0	0	0	0	0	0	0	0	1			LinkUI	FestivalActivityPanel;4703;22	0	UI_GainWay_Des1	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+419	2029	UI_FuncName_2029			25	0	0	0	0	0	0	0	0	0	1			LinkUI	FestivalActivityPanel;4603;21	0	UI_GainWay_Des1	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+420	2030	UI_FuncName_2030			25	0	0	0	0	0	0	0	0	0	1			LinkUI	MidsummerActivityPanel;4904;3	0	UI_GainWay_Des1	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+421	2031	UI_FuncName_2031			25	0	0	0	0	0	0	0	0	0	1			LinkUI	MidsummerActivityPanel;6101;28	0	UI_GainWay_Des1	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+422	2032	UI_FuncName_2032			25	0	0	0	0	0	0	0	0	0	1			LinkUI	MidsummerActivityPanel;6001;24	0	UI_GainWay_Des1	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+423	2033	UI_FuncName_2033			25	0	0	0	0	0	0	0	0	0	1			LinkUI	QuickBuyPanel;item91000001100;1	0	UI_GainWay_Des1	0		0	Msg_FuncNotOpenTips_2019	0	0	0	0	
+424	2034	UI_FuncName_2034			25	0	0	0	0	0	0	0	0	0	1			LinkUI	FestivalActivityPanel;6319;9	0	UI_GainWay_Des1	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+425	2035	UI_FuncName_2035			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+426	2036	UI_FuncName_2036			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+427	2037	UI_FuncName_2037			1	0	0	0	0	0	0	0	0	0	1			LinkUI	FestivalActivityPanel;2491;13	0	UI_GainWay_Des1	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+428	2038	UI_FuncName_2038			1	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3;917	0	UI_GainWay_Des5	0		1		0	0	0	0	
+429	2039	UI_FuncName_4000		11100160,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	MallPanel;0;2	0	UI_GainWay_Des5	0		0		0	0	0	0	
+430	2040	UI_FuncName_2040			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;926	0	UI_GainWay_Des5	0		1		0	0	0	0	
+431	2041	UI_FuncName_2041			78	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;928	0	UI_GainWay_Des5	0		1		0	0	0	0	
+432	2042	UI_FuncName_2042			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;927	0	UI_GainWay_Des5	0		1		0	0	0	0	
+433	2043	UI_FuncName_2043			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;916	0	UI_GainWay_Des5	0		1		0	0	0	0	
+434	2044	UI_CrossServerCampPanel_ShopButton			67	0	0	0	0	0	0	0	0	0	1			LinkUI	CrossServerCampTabPanel;0	0	UI_GainWay_Des5	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+435	2045	UI_FuncName_2045			1	0	0	0	0	0	0	0	0	0	1			LinkUI	SeaContendRankPanel;102	0	UI_GainWay_Des5	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+436	2046	UI_FuncName_2046			1	0	0	0	0	0	0	0	0	0	1			LinkUI	AbyssWarActLinkAllPanel;3;0;0	0	UI_GainWay_Des5	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+437	2047	UI_FuncName_2047			25	0	0	0	0	0	0	0	0	0	1			LinkUI	FestivalActivityPanel;8024;51	0	UI_GainWay_Des5	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+438	1700	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0	0	UI_GainWay_Des5	0		1		0	0	0	0	
+439	1701	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;2;2	0	UI_GainWay_Des5	0		1		0	0	0	0	
+440	1702	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;8;0	0	UI_GainWay_Des5	0		1		0	0	0	0	
+441	1703	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;8;4	0	UI_GainWay_Des5	0		1		0	0	0	0	
+442	1704	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;8;6	0	UI_GainWay_Des5	0		1		0	0	0	0	
+443	1705	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;8;8	0	UI_GainWay_Des5	0		1		0	0	0	0	
+444	1706	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;8;9	0	UI_GainWay_Des5	0		1		0	0	0	0	
+445	1707	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;8;0	0	UI_GainWay_Des5	0		1		0	0	0	0	
+446	1708	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;10;0	0	UI_GainWay_Des5	0		1		0	0	0	0	
+447	1709	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;10;0	0	UI_GainWay_Des5	0		1		0	0	0	0	
+448	1710	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;10;0	0	UI_GainWay_Des5	0		1		0	0	0	0	
+449	1711	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;[UnidentifyEquipID]	0	UI_GainWay_Des5	0		0		0	0	0	0	
+450	1712	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;[UnidentifyEquipID]	0	UI_GainWay_Des5	0		0		0	0	0	0	
+451	1713	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;[UnidentifyEquipID]	0	UI_GainWay_Des5	0		0		0	0	0	0	
+452	1714	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;[UnidentifyEquipID]	0	UI_GainWay_Des5	0		0		0	0	0	0	
+453	1715	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;[UnidentifyEquipID]	0	UI_GainWay_Des5	0		0		0	0	0	0	
+454	1716	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;[UnidentifyEquipID]	0	UI_GainWay_Des5	0		0		0	0	0	0	
+455	1717	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;2;1	0	UI_GainWay_Des5	0		1		0	0	0	0	
+456	1718	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;2;9	0	UI_GainWay_Des5	0		1		0	0	0	0	
+457	1721	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;2;9	0	UI_GainWay_Des5	0		1		0	0	0	0	
+458	1722	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;2;3	0	UI_GainWay_Des5	0		1		0	0	0	0	
+459	1723	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;2;4	0	UI_GainWay_Des5	0		1		0	0	0	0	
+460	1724	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;2;6	0	UI_GainWay_Des5	0		1		0	0	0	0	
+461	1725	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;2;7	0	UI_GainWay_Des5	0		1		0	0	0	0	
+462	1726	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;2;5	0	UI_GainWay_Des5	0		1		0	0	0	0	
+463	1730	UI_FuncName_46			10	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;1;0;[UnidentifyEquipID]	0	UI_GainWay_Des5	0		0		0	0	0	0	
+464	1731	UI_FuncName_1731			30	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+465	1800	UI_FuncName_61			23	0	0	0	0	0	0	0	0	0	1			LinkUI	AdventureBookPanel;4	0		0		1		0	0	0	0	
+466	1801	UI_FuncName_1801			1	0	0	0	0	0	0	0	0	0	1			LinkUI	BagPanel;OpenStore	0	UI_GainWay_Des9	0		1		0	0	0	0	
+467	1810	UI_FuncName_1810			1	0	0	0	0	0	0	0	0	0	1					0		0		1		0	0	0	0	
+468	1820	UI_FuncName_1820			15	0	0	0	0	0	0	0	0	0	1			LinkUI	PetSummonPanel	0		0		1		0	0	0	0	
+469	1830	UI_FuncName_1830			10	0	0	0	0	0	0	0	0	0	1			LinkUI	FriendGiftPanel	0		0		0		0	0	0	0	
+470	3000	UI_FuncName_3000			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+471	1600	UI_FuncName_1600			20	0	0	0	0	0	0	0	0	0	1			RunToPos	1;-20.0,34.8	0	UI_GainWay_Des1	0		1		0	0	0	0	
+472	1601	UI_FuncName_1601			20	0	0	0	0	0	0	0	0	0	1			RunToPos	1;7.4,48.0	0	UI_GainWay_Des1	0		1		0	0	0	0	
+473	1602	UI_FuncName_1602			20	0	0	0	0	0	0	0	0	0	1			RunToPos	1;2.7,-69.7	0	UI_GainWay_Des1	0		1		0	0	0	0	
+474	1603	UI_FuncName_1603			20	0	0	0	0	0	0	0	0	0	1			RunToPos	3;-9.4,-4.8	0	UI_GainWay_Des1	0		1		0	0	0	0	
+475	1604	UI_FuncName_1604			20	0	0	0	0	0	0	0	0	0	1			RunToPos	3;34.7,-8.7	0	UI_GainWay_Des1	0		1		0	0	0	0	
+476	1605	UI_FuncName_1605			20	0	0	0	0	0	0	0	0	0	1			RunToPos	4;-6.1,20.1	0	UI_GainWay_Des1	0		1		0	0	0	0	
+477	1606	UI_FuncName_1606			20	0	0	0	0	0	0	0	0	0	1			OpenMsgBox	Msg_Guide_IslandFishingGround;Com_GotoBtn;Com_Cancel;2009	0	UI_GainWay_Des1	0		1		0	0	0	0	
+478	1607	UI_FuncName_1607			20	0	0	0	0	0	0	0	0	0	1			RunToPos	4;-54.1,2.7	0	UI_GainWay_Des1	0		1		0	0	0	0	
+479	1608	UI_FuncName_1608			20	0	0	0	0	0	0	0	0	0	1			OpenMsgBox	Msg_Guide_FishingGear;Com_SeekBtn;Com_Cancel;1609	0	UI_GainWay_Des1	0		1		0	0	0	0	
+480	1609	UI_FuncName_87	btn_dungeon		1	0	0	0	0	0	0	0	0	0	1			LinkUI	TaskDescriptPanel;1	0		0		0		0	0	0	0	
+481	1610	UI_FuncName_1610			1	0	0	0	0	0	0	0	0	0	1			OpenMsgBox	Msg_Guide_WorldLevel40;Com_SeekBtn;Com_Cancel;1609	0	UI_GainWay_Des1	0		1		0	0	0	0	
+482	1802	UI_FuncName_61			23	0	0	0	0	0	0	0	0	0	1			LinkUI	AdventureBookPanel;5	0		0		1		0	0	0	0	
+483	1803	UI_FuncName_1803			1	0	0	0	0	0	0	0	0	0	1			LinkUI	MallPanel;0;3	0	UI_GainWay_Des5	0		1		0	0	0	0	
+484	1804	UI_FuncName_1804			1	0	0	0	0	0	0	0	0	0	1			LinkUI	MallPanel;0;3	0	UI_GainWay_Des5	0		1		0	0	0	0	
+485	1805	UI_FuncName_1805			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+486	1806	UI_FuncName_1806			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+487	1807	UI_FuncName_1807			1	0	0	0	0	0	0	0	0	0	1	icon_getback_worldtask				0		0		0		0	0	0	0	
+488	1808	UI_FuncName_1808			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;912;item100430000005	0	UI_GainWay_Des5	0		0		0	0	0	0	
+489	1809	UI_FuncName_1808			1	0	0	0	0	0	0	0	0	0	1			LinkUI	ShopPanel;912;item100430000006	0	UI_GainWay_Des5	0		0		0	0	0	0	
+490	1816	UI_FuncName_1816			1	0	0	0	0	0	0	0	0	0	1			LinkUI	MallPanel;0;0;item100400000201	0	UI_GainWay_Des1	0		1		0	0	0	0	
+491	3001	UI_FuncName_3			20	0	0	0	0	0	0	0	0	0	1			LinkUI	AdventurePanel;3	0	UI_GainWay_Des1	0		1		0	0	0	0	
+492	4001				30	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+493	4002				40	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+494	4003				50	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+495	4004	UI_FuncName_4004			1	0	0	0	0	0	0	0	0	0	1			LinkUI	CarnivalWeekWindowPanel;8462;21	0	UI_GainWay_Des1	0		1		0	0	0	0	
+496	4005	UI_FuncName_4005			1	0	0	0	0	0	0	0	0	0	1			LinkUI	CarnivalWeekWindowPanel;8460;74	0	UI_GainWay_Des1	0		1		0	0	0	0	
+497	4006	UI_FuncName_4006			25	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;1			0		0		0	0	0	0	
+498	1840	UI_FuncName_1840			60	0	0	0	0	0	0	0	0	0	1			LinkUI	GuildBadgePanel;1	0		0		0		0	0	0	0	
+499	1850	UI_FuncName_1850			60	0	0	0	0	0	0	0	0	0	1			LinkUI	GuildBadgePanel;1	0		0		0		0	0	0	0	
+500	1860	UI_FuncName_1860			56	0	0	0	0	0	0	0	0	0	1			LinkUI	PetPanel	0		0		0		0	0	0	0	
+501	1861				1	0	0	0	0	0	0	0	0	0	1			LinkUI	GrowUpPanel;1	0		0		0		0	0	0	0	
+502	1901	UI_FuncName_1901			25	0	0	0	0	0	0	0	0	0	1			LinkUI	FestivalActivityPanel;2491;13	0	UI_GainWay_Des5	0		1	Msg_FuncNotOpenTips_2019	0	0	0	0	
+503	1902	UI_FuncName_1902			25	0	0	0	0	0	0	0	0	0	1			LinkUI	QuickBuyPanel;item91000001067;1	0	UI_GainWay_Des5	0		0	Msg_FuncNotOpenTips_2019	0	0	0	0	
+504	1903	UI_FuncName_1903			1	0	0	0		0	0	0	0	0	1			LinkUI	BusinessActivityPanel;254;4915;3			0		0	Msg_FuncNotOpenTips_1903	0	0	0	4915	
+505	1904	UI_FuncName_1904			1	0	0	0	0	0	0	0	0	0	1			LinkUI	BusinessActivityPanel;254;6503;33	0		0		0	Msg_FuncNotOpenTips_1904	0	0	0	6503	
+506	1905	UI_FuncName_273			25	0	0	0	0	0	0	0	0	0	1			LinkUI	BusinessActivityPanel;254;5409;12	0		0		0	Msg_FuncNotOpenTips_1905	0	0	0	5409	
+507	1906	UI_FuncName_275			25	0	0	0	0	0	0	0	0	0	1			LinkUI	BusinessActivityPanel;254;2849;12	0		0		0	Msg_FuncNotOpenTips_1906	0	0	0	2849	
+508	1907	UI_FuncName_1902			1	0	0	0	0	0	0	0	0	0	1			LinkUI	QuickBuyPanel;item91000001551;1	0	UI_GainWay_Des5	0		0	Msg_FuncNotOpenTips_2019	0	0	0	0	
+509	1908	UI_FuncName_254			1	0	0	0	0	0	0	0	0	0	1			LinkUI	BusinessActivityPanel;254;9447;63	0		0		0		0	0	0	0	
+510	1909	UI_FuncName_254			1	0	0	0	0	0	0	0	0	0	1			LinkUI	OpenServerActivityPanel;19100;63	0		0		0		0	0	0	0	
+511	1910	UI_FuncName_254			1	0	0	0	0	0	0	0	0	0	1			LinkUI	OpenServerActivityPanel;7612;101	0		0		0		0	0	0	0	
+512	1911	UI_FuncName_254			1	0	0	0	0	0	0	0	0	0	1			LinkUI	BusinessActivityPanel;254;9448;63	0		0		0		0	0	0	0	
+513	294	UI_FuncName_294		11100160,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	OpenServerActivityPanel;2835;12	0		0		0	Msg_FuncNotOpenTips_275	0	0	0	0	
+514	417	UI_FuncName_417			1	0	0	0	0	0	0	0	0	0	1			LinkUI		0		0		0		0	0	0	0	
+515	197	UI_FuncName_197	icon_starlightbattle		50	0	0	0	0	0	0	0	0	0	1	icon_starlightbattle	btn_star1v1	LinkUI		0		0		0		0	0	0	0	
+516	198	UI_FuncName_198	btn_dahanghai		25	0	0	0	0	1	2	0	0	8	1	bg_sail	btn_dahanghai	OpenSailWorld		0		0		0		0	41100022	0	16007	
+517	199	UI_FuncName_199			1	0	0	0	0	0	0	0	0	0	1			LinkUI	BagPanel;OpenSoulStone	0		0		0		0	0	0	0	
+518	4111	UI_FuncName_111	btn_killstar		1	0	0	0	0	0	0	0	0	0	1	bg_killstar	btn_killstar	LinkUI	KillStarPanel	0	UI_GainWay_Des1	1	UIFuncDes_111	0		0	0	0	0	
+519	450				30	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+520	420	UI_FuncName_420	btn_subspacebattle_activity		30	0	0	0	0	1	2	0	1000	7	1	bg_sail	btn_subspacebattle_activity	LinkUI	SubSpaceBattlePanel	0		0		0	Msg_FuncNotOpenTips_1907	0	0	0	0	
+521	200	UI_FuncName_200	icon_starlightbattle		50	0	0	0	0	0	0	0	0	0	1	icon_starlightbattle	btn_star1v1	LinkUI		0		0		0		0	0	0	0	
+522	295	UI_FuncName_295	btn_mazepve		65	0	0	0	0	0	0	0	0	0	1	icon_mazepve	btn_mazepve	LinkUI	MazePVEChallengePanel	0		0		0		0	0	0	0	
+523	296	UI_FuncName_296	btn_huntpvp		65	0	0	0	0	1	2	0	0	1	1	icon_huntpvp	btn_huntpvp	LinkUI	HuntPVPChallengePanel	0		0		0		0	0	0	0	
+524	297	UI_FuncName_297	btn_ciyuankongjian	650010,1	40	0	0	0	0	0	0	0	0	0	1	bg_xinghunmofang01	btn_juese30			1		0		0		0	0	0	0	
+525	298	UI_FuncName_298	icon_starlightbattle	640130,3	30	0	0	0	0	0	0	0	0	0	1	bg_xinghunmofang01	btn_juese30			0		0		0		0	0	0	0	
+526	421	UI_FuncName_421	btn_week_of_carnival		25	0	0	0	0	1	2	0	0	11	1			LinkUI	CarnivalWeekWindowPanel	1		0		0	Msg_FuncNotOpenTips_1908	0	41100023	0	0	
+527	299	UI_FuncName_299	btn_homeland_visit	640010,0	30	0	0	0	0	5	2	0	0	7	1	btn_homeland_log	btn_juese30	LinkUI	HomelandCannonPanel	1		0		0		0	0	0	0	
+528	424	UI_FuncName_424			65	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+529	422	UI_FuncName_422	icon_starlightbattle		65	0	0	0	0	0	0	0	0	0	1			LinkUI	PeakednessEpicPanel	0		0		0	MSG_Func_CommonNotOpen	0	0	0	0	
+530	423	UI_FuncName_423	btn_fishactive		30	0	0	0	0	1	2	0	1000	6	1	bg_fishingcompetition	btn_fishingcompetition	LinkUI	FishingCompetitionPanel	0		0		0		0	41100023	0	24018	
+531	300	UI_FuncName_300	btn_homeland_log	640200,0	30	0	0	0	0	5	2	0	0	6	1	btn_homeland_log	btn_juese30	LinkUI	HomelandGuestBookPanel	1		0		0		0	0	0	0	
+532	317	UI_FuncName_317		640210,0	30	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+533	425	UI_FuncName_425			1	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+534	318	UI_FuncName_318		640130,3	30	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+535	319	UI_FuncName_319			30	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+536	320	UI_FuncName_320			40	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+537	321	UI_FuncName_321			30	0	0	0	0	0	0	0	0	0	1			LinkUI	MultiItemComposePanel;HLDecorateItem			0		1		0	0	0	0	
+538	322	UI_FuncName_322			30	0	0	0	0	0	0	0	0	0	1			QuickBuyHLObjItem				0		1		0	0	0	0	
+539	323	UI_FuncName_323	btn_homeland_admin		30	0	0	0	0	5	2	0	0	5	1			LinkUI	HomelandAdminPanel			0		0		0	0	0	0	
+540	324	UI_FuncName_324	btn_holybattle		999	0	0	0	0	0	0	0	0	0	0	icon_holybattle	btn_holybattle	ClickNpc	2;npc_holybattle	0		0		0		0	0	0	0	
+541	325	UI_FuncName_325		820030,3	67	0	0	0	0	0	0	0	0	0	1			LinkUI	BagPanel;OpenSoulEquip			0		0		0	0	0	0	
+542	326	UI_FuncName_326		820030,3	67	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+543	327	UI_FuncName_327		820030,3	67	0	0	0	0	0	0	0	0	0	0							0		0		0	0	0	0	
+544	328	UI_FuncName_328		820030,3	67	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+545	331	UI_FuncName_331	icon_starpray_make		55	0	0	0	0	0	0	0	0	0	1	icon_starpray_make		ClickNpc	2;npc_soulstar	0		0		0		0	0	0	0	
+546	332	UI_FuncName_332	icon_starpray_make		55	0	0	0	0	0	0	0	0	0	1	icon_starpray_make		ClickNpc	2;npc_soulstar	0		0		0		0	0	0	0	
+547	333	UI_FuncName_333			30	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+548	334	UI_FuncName_334			50	0	0	0	0	0	0	0	0	0	1				MercenaryPanel;1			0		0		0	0	0	0	
+549	335	UI_FuncName_335			30	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+550	426	UI_FuncName_426			1	0	0	0	0	0	0	0	0	0	1			ClickNpc	2;npc_soulstar	0		0		0		0	0	0	0	
+551	427	UI_FuncName_427	btn_huodong		75	0	0	0	0	0	0	0	0	0	1			LinkUI	StrengthenPanel;7;7	0		0		0		0	0	0	0	
+552	428	UI_FuncName_428	btn_wechatshop		16	0	0	0	0	0	0	0	1000	0	1			OpenURL	https://sr.xinghegame.com/shop	0		0		0		0	0	0	0	
+553	429	UI_FuncName_429	icon_lostspace_title		55	0	0	0	0	0	0	0	0	0	1	icon_lostspace	icon_lostspace_title	LinkUI	BadlandPanel	0		0		0		0	0	0	0	
+554	430	UI_FuncName_430	icon_lostspace_title		55	0	0	0	0	0	0	0	0	0	1	icon_lostspace	icon_lostspace_title			0		0		0		0	0	0	0	
+555	431	UI_FuncName_431	icon_lostspace_title		55	0	0	0	0	0	0	0	0	0	1	icon_lostspace	icon_lostspace_title			0		0		0		0	0	0	0	
+556	432	UI_FuncName_432	icon_saintrelic		55	0	0	0	0	3	3	0	0	2	1	icon_saintrelic	icon_saintrelic	LinkUI	SaintRelicEntrancePanel	1		0		0		0	0	0	0	
+557	433	UI_FuncName_433	icon_saintrelic		55	0	0	0	0	0	0	0	0	0	1	icon_saintrelic	icon_saintrelic	LinkUI	SaintRelicMainPage	0		0		0		0	0	0	0	
+558	434	UI_FuncName_434	icon_saintrelic		55	0	0	0	0	0	0	0	0	0	1	icon_saintrelic	icon_saintrelic	LinkUI	SaintRelicLotteryPanel;101	0		0		0		0	0	0	0	
+559	436	UI_FuncName_436	btn_mazepve		78	0	0	0	0	0	0	0	0	0	1	icon_mazepve	btn_mazepve	LinkUI	StrengthenPanel;8	0		0		0		0	0	0	0	
+560	437	UI_FuncName_437	btn_mazepve		70	0	0	0	0	0	0	0	0	0	1	icon_mazepve	btn_mazepve			0		0		0		0	0	0	0	
+561	438	UI_FuncName_438			62	0	0	0	0	0	0	0	0	0	1			LinkUI	GuildBadgeStrengthenPanel	0		0		0		0	0	0	0	
+562	439	UI_FuncName_439			64	0	0	0	0	0	0	0	0	0	1			LinkUI	GuildBadgeStrengthenPanel	1		0		0		0	0	0	0	
+563	440	UI_FuncName_440			66	0	0	0	0	0	0	0	0	0	1			LinkUI	GuildBadgeStrengthenPanel	2		0		0		0	0	0	0	
+564	441	UI_FuncName_441			68	0	0	0	0	0	0	0	0	0	1			LinkUI	GuildBadgeStrengthenPanel	3		0		0		0	0	0	0	
+565	442	UI_FuncName_442	icon_lanzuantequan	11100160,1	1	0	0	0	0	1	2	0	1000	1	1		icon_lanzuantequan	LinkUI	QQGameBlueAwardPanel			0		0		0	41100023	0	0	10005
+566	443	UI_FuncName_443	icon_qq_penguin	11100160,1	1	0	0	0	0	1	2	0	1000	1	1		icon_qq_penguin	LinkUI	QQGameLobbyAwardPanel			0		0		0	41100023	0	0	10005
+567	444	UI_FuncName_444	btn_molten		80	0	0	0	0	0	0	0	0	0	1			LinkUI	StrengthenPanel;9			0		0		0	0	0	0	
+568	445	UI_FuncName_445	btn_huodong		63	0	0	0	0	0	0	0	0	0	1			LinkUI				0		0		0	0	0	0	
+569	446	UI_FuncName_446	icon_twelvestars_title		70	0	0	0	0	0	0	0	0	0	1	icon_twelve_stars	icon_twelvestars_title	LinkUI	TwelveStarsPanel	0		0		0		0	0	0	0	
+570	447	UI_FuncName_447	icon_twelvestars_title		70	0	0	0	0	0	0	0	0	0	1		icon_twelvestars_title					0		0		0	0	0	0	
+571	448	UI_FuncName_448	icon_twelvestars_title		70	0	0	0	0	0	0	0	0	0	1		icon_twelvestars_title					0		0		0	0	0	0	
+572	449	UI_FuncName_449	btn_kingtower		40	0	0	0	0	0	0	0	0	0	1	bg_kingtower	btn_kingtower	LinkUI	KingTowerStrongestTeamPanel	0		0		0		0	0	0	0	
+573	451	UI_FuncName_451	btn_beibao		1	0	0	0	1	2	3	0	0	2	1			LinkUI	CrossServerBagPanel	0		0		0		0	0	0	0	
+574	452	UI_FuncName_452	icon_expeditionbattlepassIcon		67	0	0	0	0	3	3	0	0	2	1			LinkUI	CrossServerCampJoinPanel	0		0		0		0	0	0	0	
+575	453	UI_FuncName_453			67	0	0	0	0	0	0	0	0	0	1	icon_key_point	btn_star1v1	CrossSceneClickNpc	23;npc_keypoint			0		0		0	0	0	0	
+576	454				67	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+577	455	UI_FuncName_455	icon_energybattle		50	0	0	0	0	1	2	0	0	11	1			LinkUI	CrossServerBossFirstFightPanel			0		0		0	0	0	26002	
+578	456	UI_FuncName_456			67	0	0	0	1	0	0	0	0	0		icon_leader_scramble		LinkUI	CrossServerCampApplyPanel			0		0		0	0	0	0	
+579	457	UI_FuncName_457			67	0	0	0	1	0	0	0	0	0		icon_leader_vote		LinkUI	CrossServerCampVotePanel			0		0		0	0	0	0	
+580	458	UI_FuncName_458	icon_stardoor		67	0	0	0	0	0	0	0	0	0	1	icon_stardoor_title		CrossSceneClickNpc	23;npc_104801			0		0		0	0	0	0	
+581	459	UI_FuncName_459	icon_strongestteam_festival		40	0	0	0	0	1	2	0	0	11	1			LinkUI	KingTowerStrongestTeamChampionCarnivalPanel			0		0		0	0	0	0	
+582	460	UI_FuncName_460			67	0	0	0	0	0	0	0	0	0	1			LinkUI	CrossServerCampJoinPanel;1			0		0		0	0	0	0	
+583	461	UI_FuncName_295	btn_mazepve		65	0	0	0	0	0	0	0	0	0	1	icon_mazepve	btn_mazepve	LinkUI	MazePVEChallengePanel	0		0		0		0	0	0	0	
+584	462	UI_FuncName_462	icon_starlightbattle		67	0	0	0	0	0	0	0	0	0	1	icon_key_point	btn_star1v1	CrossSceneClickNpc	23;npc_keypoint	0		0		0		0	0	0	0	
+585	463			590010,1	70	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+586	464	UI_FuncName_464	icon_saintrelic		55	0	0	0	0	0	0	0	0	0	1	icon_saintrelic	icon_saintrelic	LinkUI	SaintRelicResolvePanel	0		0		0		0	0	0	0	
+587	465	UI_FuncName_465	icon_monthpve		30	0	0	0	0	1	1	0	0	5	1	icon_monthpve	icon_monthpve	LinkUI	MonthPveCloneActMainPanel			0		0		0	0	0	24025	
+588	466	UI_FuncName_466			65	0	0	0	0	0	0	0	0	0	1			LinkUI	SkillPanel;3;OpenCollectPage			0		0		0	0	0	0	
+589	467	UI_FuncName_467	con_join_nezha_01		25	0	0	0	0	1	2	0	0	12	1	icon_join	icon_join	LinkUI	SeaContendMainPanel			0		0		0	41100022	0	25105	
+590	468	UI_FuncName_468	btn_kingtower		40	0	0	0	0	1	2	0	1000	13	1			LinkUI	KingTowerStrongestTeamPanel			0		0		0	0	0	23101	
+591	469	UI_FuncName_469	btn_starlightcompetition		35	0	0	0	0	1	2	0	0	11	1		btn_starlightcompetition	LinkUI	CrossServerStarSparkleMainPanel			0		0		0	0	0	47008	
+592	470	UI_FuncName_470	btn_abyssguanqia		40	0	0	0	0	1	2	0	0	12	1	icon_join	icon_join	LinkUI	AbyssWarMainPanel			0		0		0	41100023	0	25204	
+593	471	UI_FuncName_213	btn_recharge	11100160,1	1	0	0	0	0	1	1	0	0	5	0			LinkUI	OpenServerActForNewPanel	1		0		0	Msg_FuncNotOpenTips_110	0	10146	1	0	
+594	472	UI_FuncName_472	btn_newplayerlevel	10100220,3	20	0	0	0	0	1	2	0	1000	5	1		btn_newplayerlevle_1	LinkUI	OpenServerChaseLevelPanel			0		0		0	41100023	1	20012	
+595	473	UI_FuncName_473	btn_mergelevel	10100220,3	1	0	0	0	0	1	2	0	1000	5	1	texture_kaifu	btn_mergelevel_1	LinkUI	BusinessActivityPanel;473			0		0		0	41100023	0	10004	
+596	474	UI_FuncName_474	btn_constellation		200	0	0	0	0	0	0	0	1000	0	1			OpenURL	https://sr.xinghegame.com/constellation/	0		0		0		0	0	0	0	
+597	475	UI_FuncName_475	btn_bigrrebate		1	0	0	0	0	1	2	0	1000	5	1			OpenURL	https://sr.xinghegame.com/constellation/	0		0		0		0	0	0	0	
+598	476	UI_FuncName_476	btn_envoy		76	0	0	0	0	3	3	0	0	2	1		btn_envoy	LinkUI	EnvoyMainPanel	1		0		0		0	0	0	0	
+599	477	UI_FuncName_477			1	0	0	0	0	0	0	0	0	0	1			LinkUI	WelfareActivityPanel;25202;49	0		0		0		0	0	0	25202	
+600	478	UI_FuncName_478			1	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3;933	0	UI_GainWay_Des5	0		1		0	0	0	0	
+601	479	UI_FuncName_479			1	0	0	0	0	0	0	0	0	0	1			LinkUI	FuncOpenListPanel;476	0	UI_GainWay_Des1	0		0		0	0	0	0	
+602	480	UI_FuncName_480			1	0	0	0	0	0	0	0	0	0	1			LinkUI		0		0		0		0	0	0	0	
+603	481	UI_FuncName_481			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+604	482	UI_FuncName_482	icon_monstersiege		25	0	0	0	0	0	0	0	0	0	1		icon_monstersiege			0		0		0		0	0	0	190333	
+605	483	UI_FuncName_483	icon_cash		25	0	0	0	0	0	0	0	1000	10	1			LinkUI	http://sr.xinghegame.com/shuangdan/?xyid={0}&role_id={1}&channel={2}&activity_id=20017&activity_type=97	0		0		0		0	0	0	20017	
+606	484	UI_FuncName_484	btn_duelmian		60	0	0	0	0	0	0	0	0	0	1	bg_duel	btn_duelmian	LinkUI	PeakednessArenaMainPanel	0		0		0		0	0	0	0	
+607	485	UI_FuncName_485			76	0	0	0	0	0	0	0	0	0	1			LinkUI	EnvoyMainPanel;4	0		0		0		0	0	0	0	
+608	486	UI_FuncName_486			60	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3;1101	0	UI_GainWay_Des5	0		1		0	0	0	0	
+609	487	UI_FuncName_487	icon_traran		30	0	0	0	0	1	2	0	0	12	1		icon_traran	LinkUI	TraranEnterPanel	0		0		0		0	41100023	0	1909	
+610	488	UI_FuncName_488	btn_mergelevel	10100220,3	1	0	0	0	0	1	2	0	1000	5	1	texture_kaifu	btn_mergelevel_1	LinkUI	BusinessActivityPanel;488			0		0		0	41100023	0	10005	
+611	489	UI_FuncName_489			1	0	0	0	0	0	0	0	0	0	1							0		0		0	0	0	0	
+612	490	UI_FuncName_490			1	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+613	491	UI_FuncName_491			20	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+614	492	UI_FuncName_492			1	0	0	0	0	0	0	0	0	0	1			LinkUI	StrengthenBlessStoneComposePanel;1	0	UI_GainWay_Des12	0		0		0	0	0	0	
+615	493	UI_FuncName_493	ach7_divinestone02		60	0	0	0	0	0	0	0	0	0	1		ach7_divinestone02	LinkUI	BagPanel;openDivineStone	0		0		0		0	0	0	0	
+616	494	UI_FuncName_494	icon_fairycastle		60	0	0	0	0	0	0	0	0	0	1	icon_fairy_castle	icon_fairycastle	LinkUI	ElvesCastleMainPanel	0		0		0		0	0	0	0	
+617	495	UI_FuncName_495			20	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+618	496	UI_FuncName_496			60	0	0	0	0	0	0	0	0	0	1			LinkUI	DivineStoneExchangePanel			0		0		0	0	0	0	
+619	497	UI_FuncName_497	icon_cash		25	0	0	0	0	0	0	0	1000	10	1			LinkUI	http://sr.xinghegame.com/shuangdan/?xyid={0}&role_id={1}&channel={2}&activity_id=20016&activity_type=97	0		0		0		0	0	0	20016	
+620	498	UI_FuncName_498	ach7_divinestone02		60	0	0	0	0	0	0	0	0	0	1		ach7_divinestone02			0		0		0		0	0	0	0	
+621	499	UI_FuncName_499	btn_apprentice		62	0	0	0	0	3	3	0	0	2	1		btn_apprentice	LinkUI	ApprenticeMainPanel	1		0		0		0	0	0	0	
+622	500	UI_FuncName_500	btn_travel		62	0	0	0	0	0	0	0	0	0	1		btn_travel	LinkUI	ApprenticeTravelMapPanel	0	UI_GainWay_Des1	0		0		0	0	0	0	
+623	501	UI_FuncName_501			0	0	0	0	0	0	0	0	0	0	1			LinkUI	ApprenticeTravelMapPanel;1001	0		0		0		0	0	0	0	
+624	502	UI_FuncName_502			0	0	0	0	0	0	0	0	0	0	1			LinkUI	ApprenticeTravelMapPanel;1002	0		0		0		0	0	0	0	
+625	503	UI_FuncName_503			0	0	0	0	0	0	0	0	0	0	1			LinkUI	ApprenticeTravelMapPanel;1003	0		0		0		0	0	0	0	
+626	504	UI_FuncName_504			0	0	0	0	0	0	0	0	0	0	1			LinkUI	ApprenticeTravelMapPanel;1004	0		0		0		0	0	0	0	
+627	505	UI_FuncName_505			0	0	0	0	0	0	0	0	0	0	1			LinkUI	ApprenticeTravelMapPanel;1005	0		0		0		0	0	0	0	
+628	506	UI_FuncName_506			0	0	0	0	0	0	0	0	0	0	1			LinkUI	ApprenticeTravelMapPanel;1006	0		0		0		0	0	0	0	
+629	507	UI_FuncName_507			0	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3;1018	0		0		1		0	0	0	0	
+630	508	UI_FuncName_508			0	0	0	0	0	0	0	0	0	0	1			ClickNpc	41;npc_apprentice	0	UI_GainWay_Des1	0		0		0	0	0	0	
+631	509	UI_FuncName_509			40	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+632	510	UI_FuncName_510	btn_mergelevel		0	0	0	0	0	1	2	0	0	0	1			LinkUI	BusinessActivityPanel;510	0		0		0		0	41100023	0	0	
+633	511	UI_FuncName_1401			60	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;0;1;6;2	0	UI_GainWay_Des5	0		1		0	0	0	0	
+634	512	UI_FuncName_512			0	0	0	0	0	0	0	0	0	0	1			LinkUI	OpenServerActivityPanel;1941;13	0	UI_GainWay_Des5	0		1		0	0	0	0	
+635	513	UI_FuncName_513	icon_zhounian		20	0	0	0	0	1	2	0	0	8	1			LinkUI	BusinessActivityPanel;513	0		0		0		0	41100023	0	0	
+636	514	UI_FuncName_514	icon_energybattle		35	0	0	0	0	0	0	0	0	0	1		icon_energybattle	LinkUI	DigTreasureTaskPointPanel	0		0		0		0	0	0	1963	
+637	515	UI_FuncName_515	icon_zhounian		50	0	0	0	0	1	0	0	0	0	1			LinkUI	ThemeActivityPanel	0		0		0		0	0	0	2104	
+638	1611	UI_FuncName_1611			20	0	0	0	0	0	0	0	0	0	1			RunToPos	5;14.6,-17.2	0	UI_GainWay_Des1	0		1		0	0	0	0	
+639	1612	UI_FuncName_1612			20	0	0	0	0	0	0	0	0	0	1			RunToPos	5;-2.1,37.7	0	UI_GainWay_Des1	0		1		0	0	0	0	
+640	1613	UI_FuncName_1613			20	0	0	0	0	0	0	0	0	0	1			RunToPos	9;1.3,-26	0	UI_GainWay_Des1	0		1		0	0	0	0	
+641	1614	UI_FuncName_1614			20	0	0	0	0	0	0	0	0	0	1			RunToPos	9;-18.8,-15.8	0	UI_GainWay_Des1	0		1		0	0	0	0	
+642	1615	UI_FuncName_1615			20	0	0	0	0	0	0	0	0	0	1			RunToPos	18;-21.5,99	0	UI_GainWay_Des1	0		1		0	0	0	0	
+643	1616	UI_FuncName_1616			20	0	0	0	0	0	0	0	0	0	1			RunToPos	18;37,23.4	0	UI_GainWay_Des1	0		1		0	0	0	0	
+644	1617	UI_FuncName_1617			20	0	0	0	0	0	0	0	0	0	1			RunToPos	18;66.8,33.8	0	UI_GainWay_Des1	0		1		0	0	0	0	
+645	516	UI_FuncName_516	btn_guardtemple		50	0	0	0	0	1	2	0	0	2	1		icon_join	LinkUI	GuardTempleMainPanel	0		0		0		0	41100023	0	24020	
+646	517	UI_FuncName_294		11100160,1	1	0	0	0	0	0	0	0	0	0	1			LinkUI	FestivalActivityPanel;9547;63	0		0		0	Msg_FuncNotOpenTips_275	0	0	0	0	
+647	518	UI_FuncName_204			9	0	0	0	0	0	0	0	0	0	1			LinkUI	WelfareActivityPanel;206;3	0	UI_GainWay_Des1	0		0		0	0	0	0	
+648	519	UI_FuncName_514	facebook_icon76		11	0	0	0	0	1	2	0	0	14	1		facebook_icon76	OpenURL	https://www.facebook.com/cepheus01	0		0		0		0	0	1	0	
+649	520	UI_FuncName_520	btn_elemental		85	0	0	0	0	3	3	0	0	3	1		btn_elemental	LinkUI	ElementalSpiritMainPanel	0		0		0		0	0	0	0	
+650	521	UI_FuncName_521	btn_elemental		85	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+651	522	UI_FuncName_522	btn_elemental		85	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+652	523	UI_FuncName_523	btn_elemental		85	0	0	0	0	0	0	0	0	0	1					0		0		0		0	0	0	0	
+653	524	UI_FuncName_524	btn_elementtrial		50	0	0	0	0	1	2	0	0	2	1		icon_join	LinkUI	ElementalSpiritActiveMainPanel	0		0		0		0	41100023	0	22048	
+654	525	UI_FuncName_525			1	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3;935	0	UI_GainWay_Des5	0		1		0	0	0	0	
+655	526	UI_FuncName_526	btn_soulstar		85	0	0	0	0	0	0	0	0	0	1	btn_cubeyuansu				0		0		0		0	0	0	0	
+656	527	UI_FuncName_527			85	0	0	0	0	0	0	0	0	0	1			LinkUI	TradingPanel;3;936	0	UI_GainWay_Des5	0		1		0	0	0	0	

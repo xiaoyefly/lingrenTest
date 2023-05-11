@@ -1,0 +1,6 @@
+﻿宝箱ID	活动ID	解锁时间	奖励掉落ID	宝箱打开图标	宝箱关闭图标
+string	int	int	int	string	string
+ChestItemID	ActiveID	UnlockTime	ChestBonusID	OpenIcon	CloseIcon
+item91000001736	14006	60	17605	icon_treasurebox02_1	icon_treasurebox02_0
+item91000001737	14006	180	17607	icon_treasurebox03_1	icon_treasurebox03_0
+item91000001738	14006	210	17609	icon_treasurebox04_1	icon_treasurebox04_0

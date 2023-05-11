@@ -1,0 +1,9 @@
+﻿圣石等级差	狂怒率加成	狂怒伤害加成
+int	int	int
+RankDifference	RageAddition	RageDamageAddition
+1	100	500
+2	150	1000
+4	200	1500
+6	300	2000
+8	400	2500
+10	500	3000

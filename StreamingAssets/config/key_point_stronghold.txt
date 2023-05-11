@@ -1,0 +1,6 @@
+﻿据点NPCid	据点ICON	据点语言包	据点寻路坐标	据点特效id
+string	string	string	string	int
+PointId	PointIcon	PointName	PointCoordinate	PointEff
+keypoint_npc_001	stronghold_icon_1	strongholdname1	-59.55,0.2,60.35	5910007
+keypoint_npc_002	stronghold_icon_2	strongholdname2	0, 0, 0	5910008
+keypoint_npc_003	stronghold_icon_3	strongholdname3	59.84,0.1,-60.63	5910009

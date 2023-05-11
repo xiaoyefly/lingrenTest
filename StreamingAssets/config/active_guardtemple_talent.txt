@@ -1,0 +1,30 @@
+﻿天赋ID	天赋主类型	天赋替换	最大等级	前置天赋	Buff索引	解锁消耗	天赋图标	天赋名	天赋描述
+int	int	int	int	string	int	string	string	string	string
+Id	talentType	talentGroup	Maxlevel	LockId	BuffId	UnlockSpend	TalentIcon	TalentName	TalentName2
+101	1	11	3		1018	item1057,10;item1057,15;item1057,20	skill_40501_1	grandtemple_talentname_01	buffdes_skill40501_buff_01
+102	1	21	1	101	1019	item1057,15	skill_40501_2	grandtemple_talentname_02	buffdes_skill40501_buff_02
+103	1	31	1	101	1020	item1057,15	skill_40501_3	grandtemple_talentname_03	buffdes_skill40501_buff_03
+104	1	41	1	101	1021	item1057,15	skill_40501_4	grandtemple_talentname_04	buffdes_skill40501_buff_04
+105	1	51	3	102,103,104	1022	item1057,15;item1057,20;item1057,25	skill_40501_5	grandtemple_talentname_05	buffdes_skill40501_buff_05
+106	1	22	1	105	1023	item1057,20	skill_40501_6	grandtemple_talentname_06	buffdes_skill40501_buff_06
+107	1	32	1	105	1024	item1057,20	skill_40501_7	grandtemple_talentname_07	buffdes_skill40501_buff_07
+108	1	42	1	105	1025	item1057,20	skill_40501_8	grandtemple_talentname_08	buffdes_skill40501_buff_08
+109	1	61	3	105,106,107	1026	item1057,20;item1057,25;item1057,30	skill_40501_9	grandtemple_talentname_09	buffdes_skill40501_buff_09
+201	2	11	3		1027	item1057,10;item1057,15;item1057,20	skill_40501_10	grandtemple_talentname_10	buffdes_skill40501_buff_10
+202	2	21	1	201	1028	item1057,15	skill_40501_11	grandtemple_talentname_11	buffdes_skill40501_buff_11
+203	2	31	1	201	1029	item1057,15	skill_40501_12	grandtemple_talentname_12	buffdes_skill40501_buff_12
+204	2	41	1	201	1030	item1057,15	skill_40501_13	grandtemple_talentname_13	buffdes_skill40501_buff_13
+205	2	51	3	202,203,204	1031	item1057,15;item1057,20;item1057,25	skill_40501_14	grandtemple_talentname_14	buffdes_skill40501_buff_14
+206	2	22	1	205	1032	item1057,20	skill_40501_15	grandtemple_talentname_15	buffdes_skill40501_buff_15
+207	2	32	1	205	1033	item1057,20	skill_40501_16	grandtemple_talentname_16	buffdes_skill40501_buff_16
+208	2	42	1	205	1034	item1057,20	skill_40501_17	grandtemple_talentname_17	buffdes_skill40501_buff_17
+209	2	61	3	205,206,207	1035	item1057,20;item1057,25;item1057,30	skill_40501_18	grandtemple_talentname_18	buffdes_skill40501_buff_18
+301	3	11	3		1036	item1057,15;item1057,20;item1057,25	skill_40501_19	grandtemple_talentname_19	buffdes_skill40501_buff_19
+302	3	21	1	301	1037	item1057,20	skill_40501_20	grandtemple_talentname_20	buffdes_skill40501_buff_20
+303	3	31	1	301	1038	item1057,20	skill_40501_21	grandtemple_talentname_21	buffdes_skill40501_buff_21
+304	3	41	1	301	1039	item1057,20	skill_40501_22	grandtemple_talentname_22	buffdes_skill40501_buff_22
+305	3	51	3	302,303,304	1040	item1057,20;item1057,25;item1057,30	skill_40501_23	grandtemple_talentname_23	buffdes_skill40501_buff_23
+306	3	22	1	305	1041	item1057,25	skill_40501_24	grandtemple_talentname_24	buffdes_skill40501_buff_24
+307	3	32	1	305	1042	item1057,25	skill_40501_25	grandtemple_talentname_25	buffdes_skill40501_buff_25
+308	3	42	1	305	1043	item1057,25	skill_40501_26	grandtemple_talentname_26	buffdes_skill40501_buff_26
+309	3	61	3	305,306,307	1044	item1057,25;item1057,30;item1057,35	skill_40501_27	grandtemple_talentname_27	buffdes_skill40501_buff_27

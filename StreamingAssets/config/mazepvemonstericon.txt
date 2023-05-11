@@ -1,0 +1,11 @@
+﻿流水	小地图显示用NPC
+int	string
+Id	MonsterNpcIcon
+1	npc_subspace1
+2	npc_subspace2
+3	npc_subspace3
+4	npc_subspace4
+5	npc_subspace5
+6	npc_subspace6
+7	npc_subspace7
+8	npc_subspace8

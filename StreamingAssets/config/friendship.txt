@@ -1,0 +1,8 @@
+﻿好友度	关系称谓
+int	string
+FriendshipDegree	FriendshipCallName
+1	FriendshipCallName_1
+10	FriendshipCallName_2
+100	FriendshipCallName_3
+500	FriendshipCallName_4
+1000	FriendshipCallName_5

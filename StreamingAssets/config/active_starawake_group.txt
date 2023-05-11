@@ -1,0 +1,6 @@
+﻿流水	活动id	分组id	分组名字	分组说明	分组图	任务解锁提示	分组开启天数条件	分组开启任务条件	分组任务名	分组奖励
+int	int	int	string	string	string	string	int	int	string	string
+Id	ActiveId	Group	GroupName	GroupDesc	GroupPicture	LockRemind	DayLimit	TaskLimit	GroupTaskName	GroupReward
+1	7511	1	StarAwakeName750301	StarAwake_Desc_750301	starring_card10	UI_StarAwake_lockremind_00	0	0	StarAwake_Name_750301	item91000001270,30
+2	7511	2	StarAwakeName750302	StarAwake_Desc_750302	starring_card11	UI_StarAwake_lockremind_01	0	1	StarAwake_Name_750302	item91000001270,120
+3	7511	3	StarAwakeName750303	StarAwake_Desc_750303	starring_card12	UI_StarAwake_lockremind_02	0	2	StarAwake_Name_750303	item91000001270,180

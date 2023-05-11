@@ -1,0 +1,198 @@
+﻿事件ID	事件类型	事件掉落库ID	事件参数	事件icon	是否可跳过	多选一参数
+int	int	int	string	string	int	string
+EventId	EventType	DropBox	EventParam	BaseIcon	IsSkip	ChooseParam
+110	1	26208	talk01,100;talk02,100	fairycastle_shop	1	
+120	1	26209	talk01,100;talk02,100	fairycastle_shop	1	
+130	1	26209	talk01,100;talk02,100	fairycastle_shop	1	
+140	1	26211	talk01,100;talk02,100	fairycastle_shop	1	
+150	1	26211	talk01,100;talk02,100	fairycastle_shop	1	
+210	2	0	5000;1200;1201	fairycastle_bonus	1	
+220	2	0	5500;1200;1202	fairycastle_bonus	1	
+230	2	0	6000;1200;1202	fairycastle_bonus	1	
+240	2	0	7000;1200;1203	fairycastle_bonus	1	
+250	2	0	8000;1200;1203	fairycastle_bonus	1	
+310	3	0	10001,3	fairycastle_skill	0	
+320	3	0	10002,3	fairycastle_skill	0	
+330	3	0	10003,3	fairycastle_skill	0	
+340	3	0	10004,3	fairycastle_skill	0	
+350	3	0	10005,3	fairycastle_skill	0	
+410	4	0	1001	fairycastle_choose	0	
+420	4	0	1002	fairycastle_choose	0	
+430	4	0	1003	fairycastle_choose	0	
+440	4	0	1004	fairycastle_choose	0	
+450	4	0	1005	fairycastle_choose	0	
+510	5	0	1101	fairycastle_trade	0	
+520	5	0	1102	fairycastle_trade	0	
+530	5	0	1102	fairycastle_trade	0	
+540	5	0	1103	fairycastle_trade	0	
+550	5	0	1103	fairycastle_trade	0	
+610	6	26306	1441	fairycastle_battle1	0	12001,3
+611	6	26306	1442	fairycastle_battle1	0	12001,3
+612	6	26306	1443	fairycastle_battle1	0	12001,3
+613	6	26306	1444	fairycastle_battle1	0	12001,3
+614	6	26307	1453	fairycastle_battle1	0	12002,3
+615	6	26307	1454	fairycastle_battle1	0	12002,3
+616	6	26307	1455	fairycastle_battle1	0	12002,3
+617	6	26307	1456	fairycastle_battle1	0	12002,3
+618	6	26308	1464	fairycastle_battle1	0	12003,3
+619	6	26308	1465	fairycastle_battle1	0	12003,3
+620	6	26308	1466	fairycastle_battle1	0	12003,3
+621	6	26308	1467	fairycastle_battle1	0	12003,3
+622	6	26309	1478	fairycastle_battle1	0	12004,3
+623	6	26309	1479	fairycastle_battle1	0	12004,3
+624	6	26309	1480	fairycastle_battle1	0	12004,3
+625	6	26309	1481	fairycastle_battle1	0	12004,3
+626	6	26310	1877	fairycastle_battle1	0	12005,3
+627	6	26310	1878	fairycastle_battle1	0	12005,3
+628	6	26310	1879	fairycastle_battle1	0	12005,3
+629	6	26306	1441	fairycastle_battle1	0	12001,3
+630	6	26306	1442	fairycastle_battle1	0	12001,3
+631	6	26306	1443	fairycastle_battle1	0	12001,3
+632	6	26306	1444	fairycastle_battle1	0	12001,3
+633	6	26307	1453	fairycastle_battle1	0	12002,3
+634	6	26307	1454	fairycastle_battle1	0	12002,3
+635	6	26307	1455	fairycastle_battle1	0	12002,3
+636	6	26307	1456	fairycastle_battle1	0	12002,3
+637	6	26308	1464	fairycastle_battle1	0	12003,3
+638	6	26308	1465	fairycastle_battle1	0	12003,3
+639	6	26308	1466	fairycastle_battle1	0	12003,3
+640	6	26308	1467	fairycastle_battle1	0	12003,3
+641	6	26309	1478	fairycastle_battle1	0	12004,3
+642	6	26309	1479	fairycastle_battle1	0	12004,3
+643	6	26309	1480	fairycastle_battle1	0	12004,3
+644	6	26309	1481	fairycastle_battle1	0	12004,3
+645	6	26310	1880	fairycastle_battle1	0	12005,3
+646	6	26310	1881	fairycastle_battle1	0	12005,3
+647	6	26310	1882	fairycastle_battle1	0	12005,3
+648	6	26306	1441	fairycastle_battle1	0	12001,3
+649	6	26306	1442	fairycastle_battle1	0	12001,3
+650	6	26306	1443	fairycastle_battle1	0	12001,3
+651	6	26306	1444	fairycastle_battle1	0	12001,3
+652	6	26307	1453	fairycastle_battle1	0	12002,3
+653	6	26307	1454	fairycastle_battle1	0	12002,3
+654	6	26307	1455	fairycastle_battle1	0	12002,3
+655	6	26307	1456	fairycastle_battle1	0	12002,3
+656	6	26308	1468	fairycastle_battle1	0	12003,3
+657	6	26308	1469	fairycastle_battle1	0	12003,3
+658	6	26308	1470	fairycastle_battle1	0	12003,3
+659	6	26308	1471	fairycastle_battle1	0	12003,3
+660	6	26309	1478	fairycastle_battle1	0	12004,3
+661	6	26309	1479	fairycastle_battle1	0	12004,3
+662	6	26309	1480	fairycastle_battle1	0	12004,3
+663	6	26309	1481	fairycastle_battle1	0	12004,3
+664	6	26310	1883	fairycastle_battle1	0	12005,3
+665	6	26310	1884	fairycastle_battle1	0	12005,3
+666	6	26306	1445	fairycastle_battle1	0	12001,3
+667	6	26306	1446	fairycastle_battle1	0	12001,3
+668	6	26306	1447	fairycastle_battle1	0	12001,3
+669	6	26306	1448	fairycastle_battle1	0	12001,3
+670	6	26307	1457	fairycastle_battle1	0	12002,3
+671	6	26307	1458	fairycastle_battle1	0	12002,3
+672	6	26307	1459	fairycastle_battle1	0	12002,3
+673	6	26307	1460	fairycastle_battle1	0	12002,3
+674	6	26308	1472	fairycastle_battle1	0	12003,3
+675	6	26308	1473	fairycastle_battle1	0	12003,3
+676	6	26308	1474	fairycastle_battle1	0	12003,3
+677	6	26309	1482	fairycastle_battle1	0	12004,3
+678	6	26309	1483	fairycastle_battle1	0	12004,3
+679	6	26309	1484	fairycastle_battle1	0	12004,3
+680	6	26310	1885	fairycastle_battle1	0	12005,3
+681	6	26310	1886	fairycastle_battle1	0	12005,3
+682	6	26306	1449	fairycastle_battle1	0	12001,3
+683	6	26306	1450	fairycastle_battle1	0	12001,3
+684	6	26306	1451	fairycastle_battle1	0	12001,3
+685	6	26306	1452	fairycastle_battle1	0	12001,3
+686	6	26307	1461	fairycastle_battle1	0	12002,3
+687	6	26307	1462	fairycastle_battle1	0	12002,3
+688	6	26307	1463	fairycastle_battle1	0	12002,3
+689	6	26308	1475	fairycastle_battle1	0	12003,3
+690	6	26308	1476	fairycastle_battle1	0	12003,3
+691	6	26308	1477	fairycastle_battle1	0	12003,3
+692	6	26309	1485	fairycastle_battle1	0	12004,3
+693	6	26309	1486	fairycastle_battle1	0	12004,3
+694	6	26309	1876	fairycastle_battle1	0	12004,3
+695	6	26310	1887	fairycastle_battle1	0	12005,3
+696	6	26310	1888	fairycastle_battle1	0	12005,3
+580	6	26311	1420	fairycastle_battle1	0	12001,3
+581	6	26311	1420	fairycastle_battle1	0	12001,3
+582	6	26311	1422	fairycastle_battle1	0	12001,3
+583	6	26312	1420	fairycastle_battle1	0	12002,3
+584	6	26312	1421	fairycastle_battle1	0	12002,3
+585	6	26312	1422	fairycastle_battle1	0	12002,3
+586	6	26313	1420	fairycastle_battle1	0	12003,3
+587	6	26313	1421	fairycastle_battle1	0	12003,3
+588	6	26313	1422	fairycastle_battle1	0	12003,3
+589	6	26314	1420	fairycastle_battle1	0	12004,3
+590	6	26314	1421	fairycastle_battle1	0	12004,3
+591	6	26314	1422	fairycastle_battle1	0	12004,3
+592	6	26315	1420	fairycastle_battle1	0	12005,3
+593	6	26315	1421	fairycastle_battle1	0	12005,3
+594	6	26315	1422	fairycastle_battle1	0	12005,3
+710	7	26316	1423	fairycastle_battle2	0	12011,3
+711	7	26316	1424	fairycastle_battle2	0	12011,3
+712	7	26316	1425	fairycastle_battle2	0	12011,3
+713	7	26317	1426	fairycastle_battle2	0	12012,3
+714	7	26317	1427	fairycastle_battle2	0	12012,3
+715	7	26317	1428	fairycastle_battle2	0	12012,3
+716	7	26318	1429	fairycastle_battle2	0	12013,3
+717	7	26318	1430	fairycastle_battle2	0	12013,3
+718	7	26318	1431	fairycastle_battle2	0	12013,3
+719	7	26319	1432	fairycastle_battle2	0	12014,3
+720	7	26319	1433	fairycastle_battle2	0	12014,3
+721	7	26319	1434	fairycastle_battle2	0	12014,3
+722	7	26320	1435	fairycastle_battle2	0	12015,3
+723	7	26320	1436	fairycastle_battle2	0	12015,3
+724	7	26320	1437	fairycastle_battle2	0	12015,3
+725	7	26321	1438	fairycastle_battle2	0	12011,3
+726	7	26321	1439	fairycastle_battle2	0	12011,3
+727	7	26321	1440	fairycastle_battle2	0	12011,3
+728	7	26322	1438	fairycastle_battle2	0	12012,3
+729	7	26322	1439	fairycastle_battle2	0	12012,3
+730	7	26322	1440	fairycastle_battle2	0	12012,3
+731	7	26323	1438	fairycastle_battle2	0	12013,3
+732	7	26323	1439	fairycastle_battle2	0	12013,3
+733	7	26323	1440	fairycastle_battle2	0	12013,3
+734	7	26324	1438	fairycastle_battle2	0	12014,3
+735	7	26324	1439	fairycastle_battle2	0	12014,3
+736	7	26324	1440	fairycastle_battle2	0	12014,3
+737	7	26325	1438	fairycastle_battle2	0	12015,3
+738	7	26325	1439	fairycastle_battle2	0	12015,3
+739	7	26325	1440	fairycastle_battle2	0	12015,3
+810	8	26501	1392	fairycastle_battle3	0	
+820	8	26502	1393	fairycastle_battle3	0	
+830	8	26503	1394	fairycastle_battle3	0	
+840	8	26504	1395	fairycastle_battle3	0	
+850	8	26505	1396	fairycastle_battle3	0	
+910	9	0		traran_event9	1	
+1000	10	0		fairycastle_step	1	
+1001	6	0	1372	fairycastle_battle1	0	12002,3
+1002	6	0	1373	fairycastle_battle1	0	12002,3
+1003	6	0	1374	fairycastle_battle1	0	12002,3
+1004	6	0	1375	fairycastle_battle1	0	12002,3
+1005	6	0	1376	fairycastle_battle1	0	12002,3
+1006	6	0	1377	fairycastle_battle1	0	12002,3
+1007	6	0	1378	fairycastle_battle1	0	12002,3
+1008	6	0	1379	fairycastle_battle1	0	12002,3
+1009	6	0	1380	fairycastle_battle1	0	12002,3
+1010	6	0	1382	fairycastle_battle1	0	12002,3
+1011	6	0	1383	fairycastle_battle1	0	12002,3
+1012	6	0	1387	fairycastle_battle1	0	12002,3
+1013	6	0	1388	fairycastle_battle1	0	12002,3
+1014	6	0	1389	fairycastle_battle1	0	12002,3
+1015	7	26321	1356	fairycastle_battle2	0	12002,3
+1016	7	26322	1357	fairycastle_battle2	0	12002,3
+1017	7	26323	1358	fairycastle_battle2	0	12002,3
+1018	7	26321	1359	fairycastle_battle2	0	12002,3
+1019	7	26322	1360	fairycastle_battle2	0	12002,3
+1020	7	26323	1361	fairycastle_battle2	0	12002,3
+1021	7	26321	1362	fairycastle_battle2	0	12002,3
+1022	7	26322	1363	fairycastle_battle2	0	12002,3
+1023	7	26323	1364	fairycastle_battle2	0	12002,3
+1024	7	26321	1365	fairycastle_battle2	0	12002,3
+1025	7	26322	1366	fairycastle_battle2	0	12002,3
+1026	7	26323	1367	fairycastle_battle2	0	12002,3
+1027	7	26324	1368	fairycastle_battle2	0	12002,3
+1028	7	26325	1369	fairycastle_battle2	0	12002,3
+1029	7	26324	1370	fairycastle_battle2	0	12002,3
+1030	7	26325	1371	fairycastle_battle2	0	12002,3
+1031	6	26311	1377	fairycastle_battle1	0	12002,3

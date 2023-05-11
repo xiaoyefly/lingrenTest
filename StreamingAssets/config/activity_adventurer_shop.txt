@@ -1,0 +1,6 @@
+﻿流水id	活动id	商品类型	商品礼包名字	商品库	排序	领取条件	增加积分	领取条件语言包	返利百分比
+int	int	int	string	int	int	int	int	string	int
+Id	ActiveId	ProductType	Name	DropId	Order	Condition	Point	ConditionKey	Rabate
+1	501	1	ItemName_102000020220	1000	1	50	10	UI_Adventurer_Shop_BuyLimitDesc1	0
+2	501	2	ItemName_102000020221	1001	2	5001	30		460
+3	501	3	ItemName_102000020222	1002	3	5002	80	UI_Adventurer_Shop_BuyLimitDesc2	500

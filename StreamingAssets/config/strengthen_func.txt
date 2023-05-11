@@ -1,0 +1,13 @@
+﻿标签栏序号	功能ID	标签栏名称	功能未开启是否显示标签	标签排序	标签内帮助标题	标签内帮助内容	红点枚举ID
+int	int	string	int	int	string	string	int
+FuncIndex	FuncID	TabName	TabIsShow	TabSort	TabTitle	TabHelpBody	RedPointType
+0	12	Stn_Bls_Name	1	0	Bless_HelpTitle	Bless_HelpBody	1201
+1	39	Stn_Ref_Name	1	1	Refine_HelpTitle	Refine_HelpBody	1203
+2	65	Stn_Cmp_Name	1	2	Compose_HelpTitle	Compose_HelpBody	1202
+3	146	Stn_EquipLvUp_Name	1	3	EquipLvUp_HelpTitle	EquipLvUp_HelpBody	1209
+4	285	Stn_StarForge_Name	1	4	StarForge_HelpTitle	StarForge_HelpBody	28500
+5	124	Stn_Quench_Name	1	5	Quench_HelpTitle	Quench_HelpBody	1204
+6	188	Stn_ShineWeapon_Name	1	6	ShineWeapon_HelpTitle	ShineWeapon_HelpBody	18800
+7	427	Stn_EquipEngrave_Name	0	7	EquipEngrave_HelpTitle	EquipEngrave_HelpBody	1210
+8	436	Stn_EquipSoulMedal_Name	0	8	EquipSoulMedal_HelpTitle	EquipSoulMedal_HelpBody	1211
+9	444	Stn_EquipFuse_Name	0	9	EquipFuse_HelpTitle	EquipFuse_HelpBody	1212

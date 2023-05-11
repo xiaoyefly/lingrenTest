@@ -1,0 +1,9 @@
+﻿流水ID	举报标识	举报原因	显示顺序	是否需要举报描述
+int	int	string	int	int
+Id	ComplainType	Complain	ComplainSort	ComplainReason
+1	0	Zone_ComplainStr001	1	0
+2	1	Zone_ComplainStr002	2	0
+3	2	Zone_ComplainStr003	3	0
+4	3	Zone_ComplainStr004	4	0
+5	4	Zone_ComplainStr005	5	0
+6	5	Zone_ComplainStr006	6	1

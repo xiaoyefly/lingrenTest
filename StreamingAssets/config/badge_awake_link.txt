@@ -1,0 +1,7 @@
+﻿命纹共鸣ID	需要同名数	共鸣名称	共鸣图标	共鸣品质	连线特效ID	共鸣属性	纹章基础属性加成	纹章基础属性加成提供战力	纹章洗练属性加成	纹章洗练属性加成提供战力
+int	int	string	string	int	int	string	int	int	int	int
+Id	NeedSameNameNum	Name	Icon	Rare	Effect	Prop	BadgeBaseProp	BadgeBasePropRank	BadgeRandomProp	BadgeRandomPropRank
+1001	2	badage_awake_linkname_1001	badage_awake_icon01	3	11028	3,30;4,30;1,300	0	0	0	0
+1002	3	badage_awake_linkname_1002	badage_awake_icon02	3	11028	3,100;4,100;1,1000	0	0	0	0
+2001	2	badage_awake_linkname_2001	badage_awake_icon03	4	11030		0	0	500	450
+2002	3	badage_awake_linkname_2002	badage_awake_icon04	4	11030		0	0	1000	900

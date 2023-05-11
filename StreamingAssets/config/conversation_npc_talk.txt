@@ -1,0 +1,341 @@
+﻿流水ID	对话ID	显示类型	对话内容	左边对象类	左边对象ID	左边对象朝向	右边对象类	右边对象ID	右边对象朝向	字体大小	配音id	播放方式
+int	string	int	string	string	string	float	string	string	float	int	int	int
+Id	TalkID	ShowType	Content	LeftScript	LeftConfigID	LeftAvatarOrient	RightScript	RightConfigID	RightAvatarOrient	FontSize	AudioId	AudioPlayMode
+1	dialog1000	0	Forging_Op_MagicLib	npc	npc_10001	180.000000	hero		180.000000	0	0	0
+2	dialog1000	1	Forging_Op_PreviewHint	npc	npc_10002	180.000000	hero		180.000000	0	0	0
+3	dialog1000	0	Forging_Op_LevelHint1	npc	npc_10003	180.000000	hero		180.000000	0	0	0
+4	dialog1000	1	Forging_Op_LevelHint2	npc	npc_10004	180.000000	hero		180.000000	0	0	0
+5	dialog2000	1	task_submit_600040_001	npc	npc_10035	155.000000	hero		155.000000	0	0	0
+6	dialog2000	0	task_submit_600040_002	npc	npc_10035	155.000000	hero		155.000000	0	4000	1
+7	dialog2000	1	task_submit_600040_003	npc	npc_10035	155.000000	hero		155.000000	0	4001	2
+8	dialog2000	0	task_submit_600040_004	npc	npc_10035	155.000000	hero		155.000000	0	0	0
+9	dialog2000	1	task_submit_600040_005	npc	npc_10035	155.000000	hero		155.000000	0	0	0
+10	dialog2000	1	task_submit_600040_013	npc	npc_10035	155.000000	npc	npc_10030	155.000000	0	0	0
+11	dialog2001	1	task_submit_600040_006	npc	npc_10035	155.000000	npc	npc_10030	155.000000	0	0	0
+12	dialog2001	0	task_submit_600040_007	npc	npc_10035	155.000000	npc	npc_10030	155.000000	0	0	0
+13	dialog2001	1	task_submit_600040_008	npc	npc_10035	155.000000	npc	npc_10030	155.000000	0	0	0
+14	dialog2001	0	task_submit_600040_009	npc	npc_10035	155.000000	npc	npc_10030	155.000000	0	0	0
+15	dialog2001	1	task_submit_600040_010	npc	npc_10035	155.000000	npc	npc_10030	155.000000	0	0	0
+16	dialog2002	1	task_submit_600040_011	npc	npc_10035	155.000000	hero		155.000000	0	0	0
+17	dialog2002	0	task_submit_600040_012	npc	npc_10035	155.000000	hero		155.000000	0	0	0
+18	dialog2003	0	task_submit_600056_002	npc	npc_10043	155.000000	hero		155.000000	0	0	0
+19	dialog2003	1	task_submit_600056_003	npc	npc_10043	155.000000	hero		155.000000	0	0	0
+20	dialog2003	0	task_submit_600056_004	npc	npc_10043	155.000000	hero		155.000000	0	0	0
+21	dialog2003	1	task_submit_600056_005	npc	npc_10043	155.000000	hero		155.000000	0	0	0
+28	dialog2004	0	task_submit_600023_002	npc	npc_10041	155.000000	hero		155.000000	0	0	0
+29	dialog2004	1	task_submit_600023_003	npc	npc_10041	155.000000	hero		155.000000	0	0	0
+30	dialog2004	0	task_submit_600023_004	npc	npc_10041	155.000000	hero		155.000000	0	0	0
+31	dialog2004	0	task_submit_600023_005	npc	npc_10041	155.000000	hero		155.000000	0	0	0
+32	dialog2004	1	task_submit_600023_006	npc	npc_10041	155.000000	hero		155.000000	0	0	0
+33	dialog2004	1	task_submit_600023_007	npc	npc_10041	155.000000	hero		155.000000	0	0	0
+34	dialog2005	1	task_submit_600029_001	npc	npc_forging_001	155.000000	hero		155.000000	0	0	0
+35	dialog2005	0	task_submit_600029_002	npc	npc_forging_001	155.000000	hero		155.000000	0	0	0
+36	dialog2005	1	task_submit_600029_003	npc	npc_forging_001	155.000000	hero		155.000000	0	0	0
+37	dialog2006	0	task_submit_600029_004	npc	npc_forging_001	155.000000	hero		155.000000	0	0	0
+38	dialog2006	1	task_submit_600029_005	npc	npc_forging_001	155.000000	hero		155.000000	0	0	0
+39	dialog2006	1	task_submit_600029_006	npc	npc_forging_001	155.000000	hero		155.000000	0	0	0
+40	dialog2007	1	task_submit_600031_001	npc	npc_10036	155.000000	hero		155.000000	0	0	0
+41	dialog2007	0	task_submit_600031_002	npc	npc_10036	155.000000	hero		155.000000	0	0	0
+42	dialog2007	1	task_submit_600031_003	npc	npc_10036	155.000000	hero		155.000000	0	0	0
+43	dialog2008	1	task_submit_600031_004	npc	npc_10036	155.000000	hero		155.000000	0	0	0
+44	dialog2008	0	task_submit_600031_005	npc	npc_10036	155.000000	hero		155.000000	0	0	0
+45	dialog2008	1	task_submit_600031_006	npc	npc_10036	155.000000	hero		155.000000	0	0	0
+46	diago90001	0	createhero_001	hero	hero101	155.000000	hero	hero102	155.000000	0	0	0
+47	diago90002	1	createhero_002	hero	hero101	155.000000	hero	hero102	155.000000	0	0	0
+48	diago90003	0	createhero_003	npc	npc_10042	155.000000	hero		155.000000	0	0	0
+49	diago90004	0	createhero_004	npc	npc_10042	155.000000	hero		155.000000	0	0	0
+50	diago90005	0	createhero_005	npc	npc_10042	155.000000	hero		155.000000	0	0	0
+51	diago4001	0	createhero_001	hero	hero101	155.000000	hero	hero102	155.000000	0	0	0
+52	diago4001	1	createhero_002	hero	hero101	155.000000	hero	hero102	155.000000	0	0	0
+53	diago4001	0	createhero_003	funcNpc	npc_10042	155.000000	hero		155.000000	0	0	0
+54	diago4001	0	createhero_004	funcNpc	npc_10042	155.000000	hero		155.000000	0	0	0
+55	diago4001	0	createhero_005	funcNpc	npc_10042	155.000000	hero		155.000000	0	0	0
+56	abyss_story011	0	abyss_story_011001	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+57	abyss_story011	1	abyss_story_011002	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+58	abyss_story011	0	abyss_story_011003	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+59	abyss_story011	1	abyss_story_011004	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+60	abyss_story011	0	abyss_story_011005	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+61	abyss_story012	0	abyss_story_012001	funcNpc	npc_abyss001	155.000000	hero		155.000000	0	0	0
+62	abyss_story012	1	abyss_story_012002	funcNpc	npc_abyss001	155.000000	hero		155.000000	0	0	0
+63	abyss_story012	0	abyss_story_012003	funcNpc	npc_abyss001	155.000000	hero		155.000000	0	0	0
+64	abyss_story012	1	abyss_story_012004	funcNpc	npc_abyss001	155.000000	hero		155.000000	0	0	0
+65	abyss_story012	0	abyss_story_012005	funcNpc	npc_abyss001	155.000000	hero		155.000000	0	0	0
+66	abyss_story012	1	abyss_story_012006	funcNpc	npc_abyss001	155.000000	hero		155.000000	0	0	0
+67	abyss_story012	0	abyss_story_012007	funcNpc	npc_abyss001	155.000000	hero		155.000000	0	0	0
+68	abyss_story012	1	abyss_story_012008	funcNpc	npc_abyss001	155.000000	hero		155.000000	0	0	0
+69	abyss_story012	0	abyss_story_012009	funcNpc	npc_abyss001	155.000000	hero		155.000000	0	0	0
+70	abyss_story012	0	abyss_story_012010	funcNpc	npc_abyss001	155.000000	hero		155.000000	0	0	0
+71	abyss_story012	1	abyss_story_012011	funcNpc	npc_abyss001	155.000000	hero		155.000000	0	0	0
+72	abyss_story021	0	abyss_story_021001	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+73	abyss_story021	1	abyss_story_021002	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+74	abyss_story021	0	abyss_story_021003	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+75	abyss_story021	1	abyss_story_021004	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+76	abyss_story022	0	abyss_story_022001	funcNpc	npc_abyss002	155.000000	hero		155.000000	0	0	0
+77	abyss_story022	1	abyss_story_022002	funcNpc	npc_abyss002	155.000000	hero		155.000000	0	0	0
+78	abyss_story022	0	abyss_story_022003	funcNpc	npc_abyss002	155.000000	hero		155.000000	0	0	0
+79	abyss_story022	1	abyss_story_022004	funcNpc	npc_abyss002	155.000000	hero		155.000000	0	0	0
+80	abyss_story022	0	abyss_story_022005	funcNpc	npc_abyss002	155.000000	hero		155.000000	0	0	0
+81	abyss_story022	1	abyss_story_022006	funcNpc	npc_abyss002	155.000000	hero		155.000000	0	0	0
+82	abyss_story022	0	abyss_story_022007	funcNpc	npc_abyss002	155.000000	hero		155.000000	0	0	0
+83	abyss_story022	0	abyss_story_022008	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+84	abyss_story022	1	abyss_story_022009	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+85	abyss_story031	0	abyss_story_031001	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+86	abyss_story031	1	abyss_story_031002	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+87	abyss_story031	0	abyss_story_031003	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+88	abyss_story031	1	abyss_story_031004	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+89	abyss_story031	0	abyss_story_031005	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+90	abyss_story031	1	abyss_story_031006	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+91	abyss_story032	0	abyss_story_032001	funcNpc	npc_abyss003	155.000000	hero		155.000000	0	0	0
+92	abyss_story032	1	abyss_story_032002	funcNpc	npc_abyss003	155.000000	hero		155.000000	0	0	0
+93	abyss_story032	0	abyss_story_032003	funcNpc	npc_abyss003	155.000000	hero		155.000000	0	0	0
+94	abyss_story032	0	abyss_story_032004	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+95	abyss_story032	1	abyss_story_032005	funcNpc	npc_abyss003	155.000000	hero		155.000000	0	0	0
+96	abyss_story032	0	abyss_story_032006	funcNpc	npc_abyss003	155.000000	hero		155.000000	0	0	0
+97	abyss_story032	1	abyss_story_032007	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+98	abyss_story032	0	abyss_story_032008	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+99	abyss_story032	1	abyss_story_032009	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+100	abyss_story041	0	abyss_story_041001	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+101	abyss_story041	1	abyss_story_041002	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+102	abyss_story041	0	abyss_story_041003	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+103	abyss_story041	1	abyss_story_041004	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+104	abyss_story041	0	abyss_story_041005	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+105	abyss_story041	1	abyss_story_041006	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+106	abyss_story041	0	abyss_story_041007	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+107	abyss_story042	0	abyss_story_042001	funcNpc	npc_abyss004	155.000000	hero		155.000000	0	0	0
+108	abyss_story042	1	abyss_story_042002	funcNpc	npc_abyss004	155.000000	hero		155.000000	0	0	0
+109	abyss_story042	0	abyss_story_042003	funcNpc	npc_abyss004	155.000000	hero		155.000000	0	0	0
+110	abyss_story042	0	abyss_story_042004	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+111	abyss_story042	1	abyss_story_042005	funcNpc	npc_abyss004	155.000000	hero		155.000000	0	0	0
+112	abyss_story042	0	abyss_story_042006	funcNpc	npc_abyss004	155.000000	hero		155.000000	0	0	0
+113	abyss_story042	1	abyss_story_042007	funcNpc	npc_abyss004	155.000000	hero		155.000000	0	0	0
+114	abyss_story042	0	abyss_story_042008	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+115	abyss_story042	1	abyss_story_042009	funcNpc	npc_abyss004	155.000000	hero		155.000000	0	0	0
+116	abyss_story051	0	abyss_story_051001	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+117	abyss_story051	1	abyss_story_051002	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+118	abyss_story051	0	abyss_story_051003	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+119	abyss_story051	1	abyss_story_051004	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+120	abyss_story051	0	abyss_story_051005	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+121	abyss_story051	1	abyss_story_051006	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+122	abyss_story052	0	abyss_story_052001	funcNpc	npc_abyss005	155.000000	hero		155.000000	0	0	0
+123	abyss_story052	1	abyss_story_052002	funcNpc	npc_abyss005	155.000000	hero		155.000000	0	0	0
+124	abyss_story052	0	abyss_story_052003	funcNpc	npc_abyss005	155.000000	hero		155.000000	0	0	0
+125	abyss_story052	1	abyss_story_052004	funcNpc	npc_abyss005	155.000000	hero		155.000000	0	0	0
+126	abyss_story052	0	abyss_story_052005	funcNpc	npc_abyss005	155.000000	hero		155.000000	0	0	0
+127	abyss_story052	1	abyss_story_052006	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+128	abyss_story052	0	abyss_story_052007	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+129	abyss_story052	1	abyss_story_052008	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+130	abyss_story061	0	abyss_story_061001	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+131	abyss_story061	1	abyss_story_061002	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+132	abyss_story061	0	abyss_story_061003	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+133	abyss_story061	1	abyss_story_061004	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+134	abyss_story061	0	abyss_story_061005	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+135	abyss_story062	0	abyss_story_062001	funcNpc	npc_abyss006	155.000000	hero		155.000000	0	0	0
+136	abyss_story062	1	abyss_story_062002	funcNpc	npc_abyss006	155.000000	hero		155.000000	0	0	0
+137	abyss_story062	0	abyss_story_062003	funcNpc	npc_abyss006	155.000000	hero		155.000000	0	0	0
+138	abyss_story062	0	abyss_story_062004	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+139	abyss_story062	1	abyss_story_062005	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+140	abyss_story071	0	abyss_story_071001	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+141	abyss_story071	1	abyss_story_071002	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+142	abyss_story071	0	abyss_story_071003	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+143	abyss_story071	1	abyss_story_071004	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+144	abyss_story071	0	abyss_story_071005	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+145	abyss_story071	1	abyss_story_071006	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+146	abyss_story072	0	abyss_story_072001	funcNpc	npc_abyss007	155.000000	hero		155.000000	0	0	0
+147	abyss_story072	1	abyss_story_072002	funcNpc	npc_abyss007	155.000000	hero		155.000000	0	0	0
+148	abyss_story072	0	abyss_story_072003	funcNpc	npc_abyss007	155.000000	hero		155.000000	0	0	0
+149	abyss_story072	1	abyss_story_072004	funcNpc	npc_abyss007	155.000000	hero		155.000000	0	0	0
+150	abyss_story072	0	abyss_story_072005	funcNpc	npc_abyss007	155.000000	hero		155.000000	0	0	0
+151	abyss_story072	1	abyss_story_072006	funcNpc	npc_abyss007	155.000000	hero		155.000000	0	0	0
+152	abyss_story072	0	abyss_story_072007	funcNpc	npc_abyss007	155.000000	hero		155.000000	0	0	0
+153	abyss_story072	0	abyss_story_072008	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+154	abyss_story072	0	abyss_story_072009	funcNpc	npc_abyss007	155.000000	hero		155.000000	0	0	0
+155	abyss_story072	1	abyss_story_072010	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+156	abyss_story072	0	abyss_story_072011	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+157	abyss_story111	0	abyss_story_011101	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+158	abyss_story111	1	abyss_story_011102	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+159	abyss_story111	0	abyss_story_011103	funcNpc	npc_huluwa009	155.000000	hero		155.000000	0	0	0
+160	abyss_story111	0	abyss_story_011104	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+161	abyss_story111	0	abyss_story_011105	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+162	abyss_story111	1	abyss_story_011106	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+163	abyss_story111	0	abyss_story_011107	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+164	abyss_story111	0	abyss_story_011108	funcNpc	npc_huluwa009	155.000000	hero		155.000000	0	0	0
+165	abyss_story111	1	abyss_story_011109	funcNpc	npc_huluwa009	155.000000	hero		155.000000	0	0	0
+166	abyss_story112	0	abyss_story_012101	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+167	abyss_story112	1	abyss_story_012102	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+168	abyss_story112	0	abyss_story_012103	funcNpc	npc_huluwa009	155.000000	hero		155.000000	0	0	0
+169	abyss_story112	0	abyss_story_012104	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+170	abyss_story112	1	abyss_story_012105	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+171	abyss_story112	0	abyss_story_012106	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+172	abyss_story121	0	abyss_story_021101	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+173	abyss_story121	1	abyss_story_021102	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+174	abyss_story121	0	abyss_story_021103	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+175	abyss_story121	1	abyss_story_021104	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+176	abyss_story121	0	abyss_story_021105	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+177	abyss_story121	1	abyss_story_021106	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+178	abyss_story122	0	abyss_story_022101	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+179	abyss_story122	0	abyss_story_022102	funcNpc	npc_huluwa006	155.000000	hero		155.000000	0	0	0
+180	abyss_story122	0	abyss_story_022103	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+181	abyss_story122	0	abyss_story_022104	funcNpc	npc_huluwa006	155.000000	hero		155.000000	0	0	0
+182	abyss_story122	0	abyss_story_022105	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+183	abyss_story122	0	abyss_story_022106	funcNpc	npc_huluwa006	155.000000	hero		155.000000	0	0	0
+184	abyss_story122	1	abyss_story_022107	funcNpc	npc_huluwa006	155.000000	hero		155.000000	0	0	0
+185	abyss_story122	0	abyss_story_022108	funcNpc	npc_huluwa006	155.000000	hero		155.000000	0	0	0
+186	abyss_story131	0	abyss_story_031101	funcNpc	npc_huluwa006	155.000000	hero		155.000000	0	0	0
+187	abyss_story131	0	abyss_story_031102	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+188	abyss_story131	0	abyss_story_031103	funcNpc	npc_huluwa006	155.000000	hero		155.000000	0	0	0
+189	abyss_story131	0	abyss_story_031104	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+190	abyss_story131	1	abyss_story_031105	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+191	abyss_story131	0	abyss_story_031106	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+192	abyss_story131	1	abyss_story_031107	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+193	abyss_story131	0	abyss_story_031108	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+194	abyss_story131	0	abyss_story_031109	funcNpc	npc_huluwa006	155.000000	hero		155.000000	0	0	0
+195	abyss_story132	0	abyss_story_032101	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+196	abyss_story132	0	abyss_story_032102	funcNpc	npc_huluwa005	155.000000	hero		155.000000	0	0	0
+197	abyss_story132	0	abyss_story_032103	funcNpc	npc_huluwa006	155.000000	hero		155.000000	0	0	0
+198	abyss_story132	0	abyss_story_032104	funcNpc	npc_huluwa005	155.000000	hero		155.000000	0	0	0
+199	abyss_story132	0	abyss_story_032105	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+200	abyss_story132	0	abyss_story_032106	funcNpc	npc_huluwa005	155.000000	hero		155.000000	0	0	0
+201	abyss_story141	0	abyss_story_041101	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+202	abyss_story141	0	abyss_story_041102	funcNpc	npc_huluwa005	155.000000	hero		155.000000	0	0	0
+203	abyss_story141	1	abyss_story_041103	funcNpc	npc_huluwa005	155.000000	hero		155.000000	0	0	0
+204	abyss_story141	0	abyss_story_041104	funcNpc	npc_huluwa009	155.000000	hero		155.000000	0	0	0
+205	abyss_story141	0	abyss_story_041105	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+206	abyss_story141	0	abyss_story_041106	funcNpc	npc_huluwa009	155.000000	hero		155.000000	0	0	0
+207	abyss_story141	0	abyss_story_041107	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+208	abyss_story141	1	abyss_story_041108	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+209	abyss_story141	0	abyss_story_041109	funcNpc	npc_huluwa006	155.000000	hero		155.000000	0	0	0
+210	abyss_story142	0	abyss_story_042101	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+211	abyss_story142	0	abyss_story_042102	funcNpc	npc_huluwa004	155.000000	hero		155.000000	0	0	0
+212	abyss_story142	1	abyss_story_042103	funcNpc	npc_huluwa004	155.000000	hero		155.000000	0	0	0
+213	abyss_story142	0	abyss_story_042104	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+214	abyss_story142	0	abyss_story_042105	funcNpc	npc_huluwa004	155.000000	hero		155.000000	0	0	0
+215	abyss_story142	0	abyss_story_042106	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+216	abyss_story142	0	abyss_story_042107	funcNpc	npc_huluwa004	155.000000	hero		155.000000	0	0	0
+217	abyss_story151	0	abyss_story_051101	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+218	abyss_story151	0	abyss_story_051102	funcNpc	npc_huluwa004	155.000000	hero		155.000000	0	0	0
+219	abyss_story151	0	abyss_story_051103	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+220	abyss_story151	0	abyss_story_051104	funcNpc	npc_huluwa005	155.000000	hero		155.000000	0	0	0
+221	abyss_story151	0	abyss_story_051105	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+222	abyss_story151	0	abyss_story_051106	funcNpc	npc_huluwa004	155.000000	hero		155.000000	0	0	0
+223	abyss_story151	0	abyss_story_051107	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+224	abyss_story151	0	abyss_story_051108	funcNpc	npc_huluwa006	155.000000	hero		155.000000	0	0	0
+225	abyss_story152	0	abyss_story_052101	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+226	abyss_story152	0	abyss_story_052102	funcNpc	npc_huluwa012	155.000000	hero		155.000000	0	0	0
+227	abyss_story152	0	abyss_story_052103	funcNpc	npc_huluwa006	155.000000	hero		155.000000	0	0	0
+228	abyss_story152	0	abyss_story_052104	funcNpc	npc_huluwa003	155.000000	hero		155.000000	0	0	0
+229	abyss_story152	0	abyss_story_052105	funcNpc	npc_huluwa012	155.000000	hero		155.000000	0	0	0
+230	abyss_story152	1	abyss_story_052106	funcNpc	npc_huluwa012	155.000000	hero		155.000000	0	0	0
+231	abyss_story152	0	abyss_story_052107	funcNpc	npc_huluwa012	155.000000	hero		155.000000	0	0	0
+232	abyss_story152	1	abyss_story_052108	funcNpc	npc_huluwa012	155.000000	hero		155.000000	0	0	0
+233	abyss_story152	0	abyss_story_052109	funcNpc	npc_huluwa012	155.000000	hero		155.000000	0	0	0
+234	abyss_story152	0	abyss_story_052110	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+235	abyss_story161	0	abyss_story_061101	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+236	abyss_story161	0	abyss_story_061102	funcNpc	npc_huluwa003	155.000000	hero		155.000000	0	0	0
+237	abyss_story161	0	abyss_story_061103	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+238	abyss_story161	0	abyss_story_061104	funcNpc	npc_huluwa009	155.000000	hero		155.000000	0	0	0
+239	abyss_story161	0	abyss_story_061105	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+240	abyss_story162	0	abyss_story_062101	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+241	abyss_story162	0	abyss_story_062102	funcNpc	npc_huluwa001	155.000000	hero		155.000000	0	0	0
+242	abyss_story162	0	abyss_story_062103	funcNpc	npc_huluwa003	155.000000	hero		155.000000	0	0	0
+243	abyss_story162	0	abyss_story_062104	funcNpc	npc_huluwa001	155.000000	hero		155.000000	0	0	0
+244	abyss_story162	0	abyss_story_062105	funcNpc	npc_huluwa007	155.000000	hero		155.000000	0	0	0
+245	abyss_story162	0	abyss_story_062106	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+246	abyss_story162	0	abyss_story_062107	funcNpc	npc_huluwa007	155.000000	hero		155.000000	0	0	0
+247	abyss_story162	0	abyss_story_062108	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+248	abyss_story162	0	abyss_story_062109	funcNpc	npc_huluwa007	155.000000	hero		155.000000	0	0	0
+249	abyss_story171	1	abyss_story_071101	funcNpc	npc_huluwa007	155.000000	hero		155.000000	0	0	0
+250	abyss_story171	0	abyss_story_071102	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+251	abyss_story171	0	abyss_story_071103	funcNpc	npc_huluwa001	155.000000	hero		155.000000	0	0	0
+252	abyss_story171	1	abyss_story_071104	funcNpc	npc_huluwa001	155.000000	hero		155.000000	0	0	0
+253	abyss_story171	0	abyss_story_071105	funcNpc	npc_018_zuoqi2	155.000000	hero		155.000000	0	0	0
+254	abyss_story171	0	abyss_story_071106	funcNpc	npc_huluwa010	155.000000	hero		155.000000	0	0	0
+255	abyss_story171	0	abyss_story_071107	funcNpc	npc_abyss007	155.000000	hero		155.000000	0	0	0
+256	abyss_story172	1	abyss_story_072101	funcNpc	npc_abyss007	155.000000	hero		155.000000	0	0	0
+257	abyss_story172	0	abyss_story_072102	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+258	abyss_story172	0	abyss_story_072103	funcNpc	npc_huluwa008	155.000000	hero		155.000000	0	0	0
+259	abyss_story172	0	abyss_story_072104	funcNpc	npc_huluwa001	155.000000	hero		155.000000	0	0	0
+260	abyss_story172	0	abyss_story_072105	funcNpc	npc_huluwa008	155.000000	hero		155.000000	0	0	0
+261	abyss_story172	1	abyss_story_072106	funcNpc	npc_huluwa008	155.000000	hero		155.000000	0	0	0
+262	abyss_story172	0	abyss_story_072107	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+263	abyss_story172	1	abyss_story_072108	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+264	abyss_story172	0	abyss_story_072109	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+265	abyss_story172	1	abyss_story_072110	funcNpc	npc_huluwa002	155.000000	hero		155.000000	0	0	0
+266	guard_story101	1	guard_story_00001	funcNpc		155.000000	hero		155.000000	0	0	0
+267	guard_story101	0	guard_story_00002	funcNpc	npc_guard_02	155.000000	hero		155.000000	0	0	0
+268	guard_story101	0	guard_story_00003	funcNpc	npc_guard_01	155.000000	hero		155.000000	0	0	0
+269	guard_story102	0	guard_story_00004	funcNpc	npc_guard_02	155.000000	hero		155.000000	0	0	0
+270	guard_story102	0	guard_story_00005	funcNpc	npc_guard_01	155.000000	hero		155.000000	0	0	0
+271	guard_story103	1	guard_story_00006	funcNpc		155.000000	hero		155.000000	0	0	0
+272	guard_story103	0	guard_story_00007	funcNpc	npc_guard_01	155.000000	hero		155.000000	0	0	0
+273	guard_story103	0	guard_story_00008	funcNpc	npc_guard_01	155.000000	hero		155.000000	0	0	0
+274	guard_story104	0	guard_story_00009	funcNpc	npc_guard_01	155.000000	hero		155.000000	0	0	0
+275	guard_story104	1	guard_story_00010	funcNpc		155.000000	hero		155.000000	0	0	0
+277	guard_story105	0	guard_story_00011	funcNpc	npc_guard_05	155.000000	hero		155.000000	0	0	0
+278	guard_story105	0	guard_story_00012	funcNpc	npc_guard_05	155.000000	hero		155.000000	0	0	0
+279	guard_story106	0	guard_story_00013	funcNpc	npc_guard_05	155.000000	hero		155.000000	0	0	0
+280	guard_story106	1	guard_story_00014	funcNpc		155.000000	hero		155.000000	0	0	0
+281	guard_story107	0	guard_story_00015	funcNpc	npc_guard_05	155.000000	hero		155.000000	0	0	0
+282	guard_story107	1	guard_story_00016	funcNpc		155.000000	hero		155.000000	0	0	0
+283	guard_story108	0	guard_story_00017	funcNpc	npc_guard_05	155.000000	hero		155.000000	0	0	0
+284	guard_story108	1	guard_story_00018	funcNpc		155.000000	hero		155.000000	0	0	0
+285	guard_story109	1	guard_story_00019	funcNpc		155.000000	hero		155.000000	0	0	0
+286	guard_story109	0	guard_story_00020	funcNpc	npc_104206	155.000000	hero		155.000000	0	0	0
+287	guard_story110	0	guard_story_00021	funcNpc	npc_104206	155.000000	hero		155.000000	0	0	0
+288	guard_story110	0	guard_story_00022	funcNpc	npc_104206	155.000000	hero		155.000000	0	0	0
+289	guard_story110	1	guard_story_00023	funcNpc		155.000000	hero		155.000000	0	0	0
+290	guard_story111	0	guard_story_00024	funcNpc	npc_guard_03	155.000000	hero		155.000000	0	0	0
+291	guard_story111	1	guard_story_00025	funcNpc		155.000000	hero		155.000000	0	0	0
+292	guard_story112	0	guard_story_00026	funcNpc	npc_guard_03	155.000000	hero		155.000000	0	0	0
+293	guard_story112	1	guard_story_00027	funcNpc		155.000000	hero		155.000000	0	0	0
+294	guard_story113	1	guard_story_00028	funcNpc		155.000000	hero		155.000000	0	0	0
+295	guard_story113	0	guard_story_00029	funcNpc	npc_guard_04	155.000000	hero		155.000000	0	0	0
+296	guard_story113	1	guard_story_00030	funcNpc		155.000000	hero		155.000000	0	0	0
+297	guard_story114	0	guard_story_00031	funcNpc	npc_guard_04	155.000000	hero		155.000000	0	0	0
+298	guard_story114	1	guard_story_00032	funcNpc		155.000000	hero		155.000000	0	0	0
+299	guard_story115	0	guard_story_00033	funcNpc	npc_104206	155.000000	hero		155.000000	0	0	0
+300	guard_story115	0	guard_story_00034	funcNpc	npc_104206	155.000000	hero		155.000000	0	0	0
+301	guard_story116	0	guard_story_00035	funcNpc	npc_104206	155.000000	hero		155.000000	0	0	0
+302	guard_story116	1	guard_story_00036	funcNpc		155.000000	hero		155.000000	0	0	0
+303	guard_story117	1	guard_story_00037	funcNpc		155.000000	hero		155.000000	0	0	0
+304	guard_story117	1	guard_story_00038	funcNpc		155.000000	hero		155.000000	0	0	0
+305	guard_story117	0	guard_story_00039	funcNpc	npc_guard_01	155.000000	hero		155.000000	0	0	0
+306	guard_story118	0	guard_story_00040	funcNpc	npc_guard_02	155.000000	hero		155.000000	0	0	0
+307	guard_story118	0	guard_story_00041	funcNpc	npc_guard_01	155.000000	hero		155.000000	0	0	0
+308	guard_story119	0	guard_story_00042	funcNpc	npc_guard_01	155.000000	hero		155.000000	0	0	0
+309	guard_story119	1	guard_story_00043	funcNpc		155.000000	hero		155.000000	0	0	0
+310	guard_story119	0	guard_story_00044	funcNpc	npc_guard_01	155.000000	hero		155.000000	0	0	0
+311	guard_story120	1	guard_story_00045	funcNpc		155.000000	hero		155.000000	0	0	0
+312	guard_story120	0	guard_story_00046	funcNpc	npc_guard_01	155.000000	hero		155.000000	0	0	0
+313	guard_story120	1	guard_story_00047	funcNpc		155.000000	hero		155.000000	0	0	0
+314	guard_story121	1	guard_story_00048	funcNpc		155.000000	hero		155.000000	0	0	0
+315	guard_story121	0	guard_story_00049	funcNpc	npc_guard_06	155.000000	hero		155.000000	0	0	0
+316	guard_story121	1	guard_story_00050	funcNpc		155.000000	hero		155.000000	0	0	0
+317	guard_story122	1	guard_story_00051	funcNpc		155.000000	hero		155.000000	0	0	0
+318	guard_story122	0	guard_story_00052	funcNpc	npc_guard_06	155.000000	hero		155.000000	0	0	0
+319	guard_story122	1	guard_story_00053	funcNpc		155.000000	hero		155.000000	0	0	0
+320	guard_story122	1	guard_story_00054	funcNpc		155.000000	hero		155.000000	0	0	0
+321	guard_story123	0	guard_story_00055	funcNpc	npc_guard_07	155.000000	hero		155.000000	0	0	0
+322	guard_story123	1	guard_story_00056	funcNpc		155.000000	hero		155.000000	0	0	0
+323	guard_story123	0	guard_story_00057	funcNpc	npc_guard_07	155.000000	hero		155.000000	0	0	0
+324	guard_story124	0	guard_story_00058	funcNpc	npc_guard_07	155.000000	hero		155.000000	0	0	0
+325	guard_story124	1	guard_story_00059	funcNpc		155.000000	hero		155.000000	0	0	0
+326	guard_story124	0	guard_story_00060	funcNpc	npc_guard_07	155.000000	hero		155.000000	0	0	0
+327	guard_story125	1	guard_story_00061	funcNpc		155.000000	hero		155.000000	0	0	0
+328	guard_story125	0	guard_story_00062	funcNpc	npc_104206	155.000000	hero		155.000000	0	0	0
+329	guard_story125	0	guard_story_00063	funcNpc	npc_104206	155.000000	hero		155.000000	0	0	0
+330	guard_story126	0	guard_story_00064	funcNpc	npc_104206	155.000000	hero		155.000000	0	0	0
+331	guard_story126	1	guard_story_00065	funcNpc		155.000000	hero		155.000000	0	0	0
+332	guard_story127	0	guard_story_00066	funcNpc	npc_guard_03	155.000000	hero		155.000000	0	0	0
+333	guard_story127	1	guard_story_00067	funcNpc		155.000000	hero		155.000000	0	0	0
+334	guard_story128	0	guard_story_00068	funcNpc	npc_guard_03	155.000000	hero		155.000000	0	0	0
+335	guard_story128	1	guard_story_00069	funcNpc		155.000000	hero		155.000000	0	0	0
+336	guard_story129	1	guard_story_00070	funcNpc		155.000000	hero		155.000000	0	0	0
+337	guard_story129	0	guard_story_00071	funcNpc	npc_guard_04	155.000000	hero		155.000000	0	0	0
+338	guard_story129	1	guard_story_00072	funcNpc		155.000000	hero		155.000000	0	0	0
+339	guard_story130	0	guard_story_00073	funcNpc	npc_guard_04	155.000000	hero		155.000000	0	0	0
+340	guard_story130	1	guard_story_00074	funcNpc		155.000000	hero		155.000000	0	0	0
+341	guard_story131	1	guard_story_00075	funcNpc		155.000000	hero		155.000000	0	0	0
+342	guard_story131	0	guard_story_00076	funcNpc	npc_guard_08	155.000000	hero		155.000000	0	0	0
+343	guard_story131	1	guard_story_00077	funcNpc		155.000000	hero		155.000000	0	0	0
+344	guard_story132	0	guard_story_00078	funcNpc	npc_guard_08	155.000000	hero		155.000000	0	0	0
+345	guard_story132	1	guard_story_00079	funcNpc		155.000000	hero		155.000000	0	0	0

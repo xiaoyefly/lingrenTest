@@ -1,0 +1,9 @@
+﻿目标属性编号	值基数	属性转换阈值	源属性id	关联属性id	超出部分转换万分比
+int	int	int	int	int	int
+TargetId	PropBaseValue	PropPeak	OriginId	AssociateId	TransferRatio
+51	10000	35000	21	30	667
+52	10000	25000	22	31	667
+28	10000	35000	23	32	334
+36	10000	35000	25	34	334
+48	10000	25000	24	33	334
+184	10000	25000	26	35	334

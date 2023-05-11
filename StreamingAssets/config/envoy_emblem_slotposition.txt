@@ -1,0 +1,11 @@
+﻿位置	解锁人物等级	闪星数	战纹类型	槽位icon	槽位阶数
+int	int	int	int	string	int
+SlotId	Level	StarNum	Type	SlotIcon	Step
+1	80	0	1	icon_black01	1
+2	80	0	2	icon_black02	1
+3	80	0	3	icon_black05	1
+4	80	0	4	icon_black03	1
+5	80	0	5	icon_black04	1
+6	80	15	6	icon_black07	2
+7	80	25	6	icon_black07	2
+8	81	40	7	icon_black06	3

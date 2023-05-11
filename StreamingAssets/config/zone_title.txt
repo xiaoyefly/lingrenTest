@@ -1,0 +1,7 @@
+﻿流水ID	标签被点赞数	标签颜色	标签大小
+int	int	string	int
+ID	TitlePoint	TitleColor	TitleSize
+1	1	0,0,0	5
+2	5	127,255,0	10
+3	10	0,191,255	12
+4	25	255,0,255	15

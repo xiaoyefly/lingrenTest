@@ -1,0 +1,5 @@
+﻿功能ID	链接面板（无队伍）	是否关闭面板（无队伍）	链接类型（有队伍）	链接面板（有队伍）	活动开启冒泡	活动预告冒泡	活动预告的提前时间	预告icon
+int	string	bool	string	string	string	string	int	string
+FuncID	LinkParm	ClosePanel	LinkTeam	LinkParmTeam	ActivityNotice	ActivityNoticeAnnounce	ActivityNoticeAheadTime	NoticeIcon
+331	LightMakerPanel	1	LinkUI	LightMakerPanel	pre_notice1	ActivityNoticeAnnounce331	600	praystar_noticeicon
+332	LightMakerPanel	1	LinkUI	LightMakerPanel	pre_notice2	ActivityNoticeAnnounce331	600	praystar_noticeicon

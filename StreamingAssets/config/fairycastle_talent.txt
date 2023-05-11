@@ -1,0 +1,36 @@
+﻿流水	坐标	阶段	天赋类型	最大等级	升级所需前置天赋等级	升级消耗	天赋名字	天赋描述	天赋描述参数	升级条件	专精天赋图标	属性效果库库ID	功能
+int	int	int	int	int	int	string	string	string	string	string	string	string	int
+Id	Index	Zone	Type	MaxLevel	NeedPreTalentLevel	LevelupConsume	TalentName	TalentDes	TalentParam	TalentCon	TalentIcon	PropId	FuncId
+1	1	1	1	3	0	10,20,30	fairytalent_name1	fairytalent_desc1	5;7.5;10	fairytalent_limit1	talent_100014	1,2,3	0
+2	2	1	1	3	0	10,20,30	fairytalent_name2	fairytalent_desc2	3;4.5;6	fairytalent_limit2	fairycastle_talent11	4,5,6	0
+3	3	1	1	3	0	10,20,30	fairytalent_name3	fairytalent_desc3	5;7.5;10	fairytalent_limit3	talent_100008	7,8,9	0
+4	4	1	2	1	6	40	fairytalent_name4	fairytalent_desc4		fairytalent_limit4	fairycastle_talent01	10	0
+5	5	1	2	1	6	40	fairytalent_name5	fairytalent_desc5		fairytalent_limit5	fairycastle_talent02	11	0
+6	6	1	2	1	6	40	fairytalent_name6	fairytalent_desc6		fairytalent_limit6	fairycastle_talent03	12	0
+7	1	2	1	1	0	60	fairytalent_name7	fairytalent_desc7		fairytalent_limit7	fairycastle_talent04	13	194
+8	2	2	1	1	0	60	fairytalent_name8	fairytalent_desc8		fairytalent_limit8	fairycastle_talent05	16	476
+9	3	2	1	1	0	60	fairytalent_name9	fairytalent_desc9		fairytalent_limit9	fairycastle_talent06	19	0
+10	4	2	2	1	1	100	fairytalent_name10	fairytalent_desc10		fairytalent_limit10	fairycastle_talent07	22	0
+11	5	2	2	1	1	100	fairytalent_name11	fairytalent_desc11		fairytalent_limit11	talent_100009	23	0
+12	6	2	2	1	1	100	fairytalent_name12	fairytalent_desc12		fairytalent_limit12	fairycastle_talent08	24	0
+13	1	3	1	3	0	100,110,120	fairytalent_name13	fairytalent_desc13	6;9;12	fairytalent_limit13	talent_100017	25,26,27	0
+14	2	3	1	3	0	100,110,120	fairytalent_name14	fairytalent_desc14	6;9;12	fairytalent_limit14	talent_100003	28,29,30	0
+15	3	3	1	3	0	100,110,120	fairytalent_name15	fairytalent_desc15	6;9;12	fairytalent_limit15	talent_1012801	31,32,33	0
+16	4	3	2	1	6	130	fairytalent_name16	fairytalent_desc16		fairytalent_limit16	fairycastle_talent09	34	0
+17	5	3	2	1	6	130	fairytalent_name17	fairytalent_desc17		fairytalent_limit17	talent_100004	35	0
+18	6	3	2	1	6	130	fairytalent_name18	fairytalent_desc18		fairytalent_limit18	talent_100012	36	0
+19	1	4	1	3	0	130,140,150	fairytalent_name19	fairytalent_desc19	3,6;4,8;5,10	fairytalent_limit19	talent_1011038	37,38,39	0
+20	2	4	1	3	0	130,140,150	fairytalent_name20	fairytalent_desc20	3,6;4,8;5,10	fairytalent_limit20	talent_1011038	40,41,42	0
+21	3	4	1	3	0	130,140,150	fairytalent_name21	fairytalent_desc21	10;12;15	fairytalent_limit21	talent_100008	43,44,45	0
+22	4	4	2	1	6	160	fairytalent_name22	fairytalent_desc22		fairytalent_limit22	fairycastle_talent10	46	0
+23	5	4	2	1	6	160	fairytalent_name23	fairytalent_desc23		fairytalent_limit23	fairycastle_talent11	47	0
+24	6	4	2	1	6	160	fairytalent_name24	fairytalent_desc24		fairytalent_limit24	fairycastle_talent12	48	0
+25	1	5	1	3	0	160,170,180	fairytalent_name25	fairytalent_desc25	5;7.5;10	fairytalent_limit25	talent_11010710	49,50,51	0
+26	2	5	1	3	0	160,170,180	fairytalent_name26	fairytalent_desc26	3,6;4,8;5,10	fairytalent_limit26	talent_100019	52,53,54	0
+27	3	5	1	3	0	160,170,180	fairytalent_name27	fairytalent_desc27	3,6;4,8;5,10	fairytalent_limit27	talent_100005	55,56,57	0
+28	4	5	2	1	6	200	fairytalent_name28	fairytalent_desc28		fairytalent_limit28	fairycastle_talent13	58	0
+29	5	5	2	1	6	200	fairytalent_name29	fairytalent_desc29		fairytalent_limit29	talent_1011035	59	0
+30	6	5	2	1	6	200	fairytalent_name30	fairytalent_desc30		fairytalent_limit30	talent_1051801	60	0
+31	1	6	1	3	0	200,220,240	fairytalent_name31	fairytalent_desc31	1;3;5	fairytalent_limit31	talent_100020	61,62,63	0
+32	2	6	1	3	0	200,220,240	fairytalent_name32	fairytalent_desc32	5;7.5;10	fairytalent_limit32	talent_100013	64,65,66	0
+33	3	6	1	3	0	200,220,240	fairytalent_name33	fairytalent_desc33	30;50;70	fairytalent_limit33	talent_100006	67,68,69	0

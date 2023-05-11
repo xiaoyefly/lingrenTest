@@ -1,0 +1,9 @@
+﻿流水ID	星点图ID	解锁条件	解锁参数	任务ID	中央星点图	玩法提示	阶段星点图	阶段星座图	目标星座坐标	连线绑点坐标	星座名称	星座介绍	星座介绍	星点图重合特效	提示连线特效	提示连线特效时间
+int	int	int	int	int	int	string	int	int	string	string	string	string	string	int	string	int
+ID	StarID	UnlockWay	UnlockPar	TaskID	AimPoint	GmaeNotice	PointPic	BackPic	Coordinates	LineCoordinates	StarName	StarShortIntroduce	StarIntroduce	OverlapEffect	RemindEffect	RemindEffectTime
+1	1001	1	1	10000001	40000244	game_notice1	40000244	40000256	1,0,0	0.14,-0.04,0	Praystar_Constellation_Name_01	Constellation_ShortDes_01	Constellation_Des_01	40000250	10331	5
+2	1002	1	1	10000002	40000239	game_notice2	40000239	40000251	1,1,0	0.29,0.18,0	Praystar_Constellation_Name_02	Constellation_ShortDes_02	Constellation_Des_02	40000245	10331	5
+3	1003	1	1	10000003	40000242	game_notice3	40000242	40000254	-1,-1,0	0.02,0.53,0	Praystar_Constellation_Name_03	Constellation_ShortDes_03	Constellation_Des_03	40000248	10331	5
+4	1004	1	1	10000004	40000241	game_notice4	40000241	40000253	-1,0,0	-0.25,-0.26,0	Praystar_Constellation_Name_04	Constellation_ShortDes_04	Constellation_Des_04	40000247	10331	5
+5	1005	1	1	10000005	40000240	game_notice5	40000240	40000252	-1,1,0	0.04,0,0	Praystar_Constellation_Name_05	Constellation_ShortDes_05	Constellation_Des_05	40000246	10331	5
+6	1006	1	1	10000006	40000243	game_notice6	40000243	40000255	1,-1,0	0.08,0.41,0	Praystar_Constellation_Name_06	Constellation_ShortDes_06	Constellation_Des_06	40000249	10331	5

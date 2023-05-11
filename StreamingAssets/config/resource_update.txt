@@ -1,0 +1,4 @@
+﻿序号	奖励
+int	string
+Id	Reward
+1	item1014,100;item1000,100000;item8119000000000,1;item8103010121003,2

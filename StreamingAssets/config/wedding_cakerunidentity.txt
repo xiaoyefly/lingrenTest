@@ -1,0 +1,7 @@
+﻿身份id	身份名字	身份说明	身份图标
+int	string	string	string
+Id	Name	Desc	Icon
+1	CakeRunName01	CakeRunDesc01	sf_putongren
+2	CakeRunName02	CakeRunDesc02	sf_daogaoren
+3	CakeRunName03	CakeRunDesc03	sf_xinren
+4	CakeRunName02	CakeRunDesc02	sf_daogaoren

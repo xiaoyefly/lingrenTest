@@ -1,0 +1,18 @@
+﻿流水	分类名字	归属大标签	排行榜类型	指定道具标签
+int	string	int	int	string
+Id	RankName	Label	RankType	PointTag
+1	Activity_Name_1932	1	4	
+2	Activity_Name_1935	2	6	
+3	Activity_Name_1936	3	1	
+4	Activity_Name_1933	4	2	
+5	Activity_Name_1937	5	3	
+11	Activity_Name_1934	6	5	
+12	Hero_JobShortName2	6	5	
+13	Hero_JobShortName3	6	5	
+14	Hero_JobShortName4	6	5	
+15	Hero_JobShortName5	6	5	
+16	Hero_JobShortName6	6	5	
+20	Activity_Name_1938	7	7	
+21	Activity_Name_1939	8	8	
+22	ActiveTitle_1942	9	9	Activity_rank_tag_22
+23	ActiveTitle_19433	10	10	Activity_rank_tag_23

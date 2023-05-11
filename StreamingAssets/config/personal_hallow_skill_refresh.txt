@@ -1,0 +1,4 @@
+﻿技能重置次数	重置花费
+int	string
+Id	CostNum
+1	2,500

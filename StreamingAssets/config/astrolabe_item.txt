@@ -1,0 +1,6 @@
+﻿流水	道具	道具描述
+int	string	string
+Id	ItemId	Des
+1	item100100000001	Astrolabe_ItemDes_01
+2	item100100000002	Astrolabe_ItemDes_02
+3	item100100000003	Astrolabe_ItemDes_03

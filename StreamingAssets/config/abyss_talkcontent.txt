@@ -1,0 +1,5 @@
+﻿对话泡时间
+int
+BubbleTime
+0
+0

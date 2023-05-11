@@ -1,0 +1,9 @@
+﻿神石盘ID	单行最大孔数	解锁等级	需要的历史镶嵌孔位数	可镶嵌上限
+int	int	int	int	int
+PlateId	NumMax	Level	HoleNum	HoleLimit
+101	5	60	0	12
+201	7	70	12	24
+301	7	80	28	24
+401	9	90	48	48
+501	9	100	84	48
+601	9	110	132	48
