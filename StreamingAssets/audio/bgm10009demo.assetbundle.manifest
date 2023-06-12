@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1938776794
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a72a2eb9a50b2e9e7a988a234cc9e3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/bgm10009demo.mp3
+Dependencies: []

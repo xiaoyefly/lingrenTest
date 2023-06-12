@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 134616170
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81cc99c80095a62f36815762a29848a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/lrgames_bgm_guildarena_master.mp3
+Dependencies: []

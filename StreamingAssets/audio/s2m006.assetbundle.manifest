@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3438360660
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c30a736541c7dc359baef97db3c97204
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/s2m006.wav
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1692571738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe33ae83d4eb9c950023740e218b3f32
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/bgm_landing_loop.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 860679440
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6c6fdb974022232aeff29e11049a2e0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/bgm_elementthunder.wav
+Dependencies: []

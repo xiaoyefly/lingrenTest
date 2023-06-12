@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 177881727
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2a24eba787ab309181be3a39e77dd7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/lrgames_bgm_city_galaxy_master.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1768452036
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcd1d1a0815138c3e50f3e2d78eb2481
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/s0m006.wav
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2736070079
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f3f25cc884231c4ce9ea4678d6f87cac
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/bgm_starrysky.wav
+Dependencies: []

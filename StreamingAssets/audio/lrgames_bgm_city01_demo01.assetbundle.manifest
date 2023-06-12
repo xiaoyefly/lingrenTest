@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 806459115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3931f0ae58ff6c2baf9dea906f3746f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/lrgames_bgm_city01_demo01.mp3
+Dependencies: []

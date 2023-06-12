@@ -1,9 +1,10 @@
 {
-"companyName": "com.psygame",
-"productName": "UnityWebsocket",
+"companyName": "DefaultCompany",
+"productName": "fmod2018webgl",
 "dataUrl": "webgl.data.unityweb",
 "wasmCodeUrl": "webgl.wasm.code.unityweb",
 "wasmFrameworkUrl": "webgl.wasm.framework.unityweb",
+"wasmSymbolsUrl": "webgl.wasm.symbols.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},

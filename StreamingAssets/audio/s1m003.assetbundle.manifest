@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2757806376
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd65aa10e029dd7326666adf148e3f10
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/s1m003.wav
+Dependencies: []

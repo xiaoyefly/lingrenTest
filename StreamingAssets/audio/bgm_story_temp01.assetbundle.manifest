@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3554001250
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b37a3c4b44197a62d1a6b40f75178e7b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/bgm_story_temp01.mp3
+Dependencies: []

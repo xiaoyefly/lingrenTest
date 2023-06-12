@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1481456621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 709decd715f21d1d18d9b3bd2320a91a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/bgm_elementsoil.wav
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 612074925
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67a815e1f458f7a7de9aaac09474057f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/victory_a.wav
+Dependencies: []

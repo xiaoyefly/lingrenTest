@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1959879889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a973ccf64e3667b613e22d78ddc9bbd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Audio/bgm_elementwater.wav
+Dependencies: []

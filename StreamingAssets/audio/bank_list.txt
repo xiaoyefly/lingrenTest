@@ -1,0 +1,33 @@
+Task10.bank
+Animation2.bank
+Guide.bank
+Npc.bank
+SOUND.bank
+Task1.bank
+Novice1.bank
+Skill.bank
+Animation3.bank
+Task11.bank
+Show.bank
+Task7.bank
+Attack.bank
+Slime.bank
+UI.bank
+UISec.bank
+Npc1.bank
+Task6.bank
+Master Bank.bank
+Task5.bank
+Task9.bank
+UIExtra.bank
+Guide1.bank
+Task8.bank
+Soldier.bank
+Task4.bank
+Task3.bank
+Master Bank.strings.bank
+Role.bank
+Task2.bank
+Novice.bank
+Animation1.bank
+BossSkill.bank
